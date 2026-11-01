@@ -1,0 +1,22 @@
+{
+  "name": "stelscope",
+  "version": "0.1.0",
+  "description": "스텔라이브 공식 MUSIC 카탈로그 수집 파이프라인 (비공식 팬 프로젝트)",
+  "scripts": {
+    "collect": "node --experimental-strip-types --no-warnings src/collect.ts",
+    "collect:full": "node --experimental-strip-types --no-warnings src/collect.ts --full",
+    "validate": "node --experimental-strip-types --no-warnings src/validate.ts",
+    "youtube": "node --experimental-strip-types --no-warnings --env-file-if-exists=.env src/youtube.ts",
+    "all": "npm run collect && npm run youtube && npm run search && npm run build && npm run validate",
+    "search": "node --experimental-strip-types --no-warnings src/search.ts",
+    "build": "node --experimental-strip-types --no-warnings src/build.ts"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0"
+  },
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.6"
+  }
+}

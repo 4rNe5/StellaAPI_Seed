@@ -1,0 +1,78 @@
+name: collect
+
+on:
+  schedule:
+    # KST 07:47 / 15:47 / 23:47 (정각은 GitHub 스케줄 지연이 커서 피함)
+    - cron: '47 22,6,14 * * *'
+  workflow_dispatch:
+    inputs:
+      search_all:
+        description: '검색 노출 전체 재점검 (stale 무시)'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    env:
+      TZ: Asia/Seoul
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: 공식 MUSIC 수집
+        run: npm run collect
+
+      - name: YouTube·치지직
+        id: youtube
+        continue-on-error: true
+        env:
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}
+        run: npm run youtube
+
+      - name: 검색 노출
+        id: search
+        continue-on-error: true
+        # 스케줄 간격(8h)보다 짧게 잡아야 매 실행마다 전 곡이 대상이 됨
+        run: npm run search -- --budget=1500 --stale=${{ inputs.search_all && '0' || '7' }}
+
+      - name: 병합
+        run: npm run build
+
+      - name: 검증 리포트
+        run: |
+          npm run --silent validate > validate.txt 2>&1 || true
+          { echo '```'; cat validate.txt; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: 데이터 커밋
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data
+          if git diff --cached --quiet; then
+            echo '변경 없음'
+          else
+            git commit -m "data: $(date '+%Y-%m-%d %H:%M') KST"
+            git push
+          fi
+
+      # 데이터는 커밋하되, 중간 단계 실패는 실행 결과를 실패로 표시해 알림을 받음
+      - name: 실패 단계 확인
+        if: steps.youtube.outcome == 'failure' || steps.search.outcome == 'failure'
+        run: |
+          echo "youtube=${{ steps.youtube.outcome }} search=${{ steps.search.outcome }}"
+          exit 1

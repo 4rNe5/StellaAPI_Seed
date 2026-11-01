@@ -1,0 +1,153 @@
+[
+  {
+    "slug": "kanna",
+    "nameKo": "아이리 칸나",
+    "nameEn": "Airi Kanna",
+    "nameJa": "藍璃かんな",
+    "unit": "MYSTIC",
+    "generation": 1,
+    "birthday": "",
+    "debut": "2023-01",
+    "graduated": "2024-12"
+  },
+  {
+    "slug": "yuni",
+    "nameKo": "아야츠노 유니",
+    "nameEn": "Ayatsuno Yuni",
+    "nameJa": "純角ユニ",
+    "unit": "EVERYS",
+    "generation": 1,
+    "birthday": "05-21",
+    "debut": "2023-01"
+  },
+  {
+    "slug": "huya",
+    "nameKo": "사키하네 후야",
+    "nameEn": "Sakihane Huya",
+    "nameJa": "咲羽風夜",
+    "unit": "EVERYS",
+    "generation": 1,
+    "birthday": "07-07",
+    "debut": "2025-09"
+  },
+  {
+    "slug": "hina",
+    "nameKo": "시라유키 히나",
+    "nameEn": "Shirayuki Hina",
+    "nameJa": "白雪ひな",
+    "unit": "UNIVERSE",
+    "generation": 2,
+    "birthday": "01-05",
+    "debut": "2023-06"
+  },
+  {
+    "slug": "mashiro",
+    "nameKo": "네네코 마시로",
+    "nameEn": "Neneko Mashiro",
+    "nameJa": "ねねこましろ",
+    "unit": "UNIVERSE",
+    "generation": 2,
+    "birthday": "02-22",
+    "debut": "2023-06"
+  },
+  {
+    "slug": "lize",
+    "nameKo": "아카네 리제",
+    "nameEn": "Akane Lize",
+    "nameJa": "朱音リゼ",
+    "unit": "UNIVERSE",
+    "generation": 2,
+    "birthday": "10-01",
+    "debut": "2023-06"
+  },
+  {
+    "slug": "tabi",
+    "nameKo": "아라하시 타비",
+    "nameEn": "Arahashi Tabi",
+    "nameJa": "荒波子タビ",
+    "unit": "UNIVERSE",
+    "generation": 2,
+    "birthday": "09-07",
+    "debut": "2023-06"
+  },
+  {
+    "slug": "shibuki",
+    "nameKo": "텐코 시부키",
+    "nameEn": "Tenko Shibuki",
+    "nameJa": "天狐紫吹",
+    "unit": "CLICHE",
+    "generation": 3,
+    "birthday": "03-21",
+    "debut": "2024-05-18"
+  },
+  {
+    "slug": "rin",
+    "nameKo": "아오쿠모 린",
+    "nameEn": "Aokumo Rin",
+    "nameJa": "青雲凛",
+    "unit": "CLICHE",
+    "generation": 3,
+    "birthday": "05-03",
+    "debut": "2024-05-18"
+  },
+  {
+    "slug": "nana",
+    "nameKo": "하나코 나나",
+    "nameEn": "Hanako Nana",
+    "nameJa": "花子ナナ",
+    "unit": "CLICHE",
+    "generation": 3,
+    "birthday": "08-07",
+    "debut": "2024-05-18"
+  },
+  {
+    "slug": "riko",
+    "nameKo": "유즈하 리코",
+    "nameEn": "Yuzuha Riko",
+    "nameJa": "柚葉莉子",
+    "unit": "CLICHE",
+    "generation": 3,
+    "birthday": "04-13",
+    "debut": "2024-05-18"
+  },
+  {
+    "slug": "toa",
+    "nameKo": "시즈키 토아",
+    "nameEn": "Shizuki Toa",
+    "nameJa": "紫月トア",
+    "unit": "ABYSS",
+    "generation": 4,
+    "birthday": "11-22",
+    "debut": "2026-10-17"
+  },
+  {
+    "slug": "rang",
+    "nameKo": "코가네 랑",
+    "nameEn": "Cogane Rang",
+    "nameJa": "琥金朗",
+    "unit": "ABYSS",
+    "generation": 4,
+    "birthday": "08-22",
+    "debut": "2026-10-17"
+  },
+  {
+    "slug": "hiyori",
+    "nameKo": "하나요 히요리",
+    "nameEn": "Hanayo Hiyori",
+    "nameJa": "花音妃世璃",
+    "unit": "ABYSS",
+    "generation": 4,
+    "birthday": "03-31",
+    "debut": "2026-10-18"
+  },
+  {
+    "slug": "mary",
+    "nameKo": "토키노 메리",
+    "nameEn": "Tokino Mary",
+    "nameJa": "常乃メリ",
+    "unit": "ABYSS",
+    "generation": 4,
+    "birthday": "06-13",
+    "debut": "2026-10-18"
+  }
+]
