@@ -11,6 +11,7 @@
  *   --shard=i/n          대상 목록을 n개로 나눠 i번째(0부터)만 점검 (GitHub Actions 매트릭스용)
  *   --out=경로           기본 data/search.json (샤드는 별도 파일에 쓰고 merge-search.ts로 병합)
  *   --history=N          곡별 보관 이력 수 (기본 180)
+ *   --source=KR|US       측정 위치 표기 (결과·이력에 기록)
  *   --only=게시물id      한 곡만 강제 점검
  * 검색어: queries.ts(수동) > fan-queries.ts(팬 표기) > 자동. 검색어가 바뀐 곡은 이력 초기화 후 우선 재점검
  * 판정: 기본 검색어 → 없으면 "{검색어} cover" 재검색
@@ -31,6 +32,7 @@ const STABLE_RUNS = Number(args.get('stable-runs') ?? 3);
 const DELAY = Number(args.get('delay') ?? 1500);
 const CONCURRENCY = Number(args.get('concurrency') ?? 2);
 const ENGINE = (args.get('engine') ?? 'innertube') as 'innertube' | 'html';
+const SOURCE = args.get('source') ?? 'local'; // 측정 위치 표기: KR(맥북·한국 IP) / US(GitHub 러너) / local
 const ONLY = args.get('only');
 const [SHARD_I, SHARD_N] = (args.get('shard') ?? '0/1').split('/').map(Number);
 const HISTORY_MAX = Number(args.get('history') ?? 180); // 4시간 주기 기준 30일
@@ -47,7 +49,7 @@ const SHORT: Record<string, string> = {
 const UNIT_KO: Record<Unit, string> = { MYSTIC: '미스틱', EVERYS: '에버리스', UNIVERSE: '유니버스', CLICHE: '클리셰', ABYSS: '어비스' };
 
 export type SearchStatus = 'visible' | 'cover_only' | 'suspected' | 'hidden' | 'error';
-type Hist = [string, number | null, number | null]; // [checkedAt, rank, fallbackRank]
+type Hist = [string, number | null, number | null, string?]; // [checkedAt, rank, fallbackRank, source]
 export interface SearchEntry {
   query: string;
   rank: number | null; // 기본 검색 첫 페이지 내 순위 (1-base)
@@ -56,6 +58,7 @@ export interface SearchEntry {
   status: SearchStatus;
   resultCount: number;
   noResults: boolean; // 기본 검색어 자체가 "검색결과 없음" (검색어 단위 차단)
+  source?: string; // 측정 위치 (KR / US / local)
   checkedAt: string;
   history: Hist[]; // 최근 60회
 }
@@ -181,7 +184,7 @@ async function main() {
     .sort((a, b) => order[a.tier] - order[b.tier] || b.age - a.age || a.t.id - b.t.id)
     .filter((_, i) => i % SHARD_N === SHARD_I);
   due.forEach((d) => tiers[d.tier]++);
-  console.log(`점검 대상 ${due.length}곡 (우선 ${tiers.priority} · 일반 ${tiers.normal} · 안정 ${tiers.stable}) · 샤드 ${SHARD_I + 1}/${SHARD_N} · ${ENGINE} · 동시 ${CONCURRENCY} · budget ${BUDGET_MS / 1000}s`);
+  console.log(`점검 대상 ${due.length}곡 (우선 ${tiers.priority} · 일반 ${tiers.normal} · 안정 ${tiers.stable}) · 샤드 ${SHARD_I + 1}/${SHARD_N} · ${SOURCE} · ${ENGINE} · 동시 ${CONCURRENCY} · budget ${BUDGET_MS / 1000}s`);
 
   const start = Date.now();
   let done = 0, errors = 0, stop = false, cursor = 0;
@@ -205,7 +208,7 @@ async function main() {
           fallbackRank = (await searchIds(fallbackQuery)).ids.indexOf(t.youtubeId) + 1 || null;
         }
         const checkedAt = new Date().toISOString();
-        const cur: Hist = [checkedAt, rank, fallbackRank];
+        const cur: Hist = [checkedAt, rank, fallbackRank, SOURCE];
         const sameQuery = prev?.query === query;
         const prevHistory = sameQuery ? prev!.history : []; // 검색어가 바뀌면 이력 초기화
         const prevRaw = prevHistory.at(-1);
@@ -214,7 +217,7 @@ async function main() {
         const status: SearchStatus = raw === 'hidden' ? (prevRaw && rawOf(prevRaw) === 'hidden' ? 'hidden' : 'suspected') : raw;
         entry = {
           query, rank, fallbackQuery, fallbackRank, status,
-          resultCount: ids.length, noResults, checkedAt,
+          resultCount: ids.length, noResults, source: SOURCE, checkedAt,
           history: [...prevHistory, cur].slice(-HISTORY_MAX),
         };
         errors = 0;

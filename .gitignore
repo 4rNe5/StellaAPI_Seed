@@ -7,3 +7,5 @@ data/youtube/videos.json
 data/search-shards/
 # Vercel 빌드 산출물
 public/
+# 맥북 보조 측정 로컬 상태·로그
+.kr/

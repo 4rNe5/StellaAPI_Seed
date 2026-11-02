@@ -38,6 +38,10 @@ jobs:
       - name: 공식 MUSIC 수집
         run: npm run collect
 
+      # 맥북(한국 IP) 측정 결과가 있으면 먼저 병합 → 한국 측정이 최신인 곡은 아래 search 샤드(미국 IP)에서 자동으로 건너뜀
+      - name: 한국 IP 측정 결과 병합
+        run: npm run merge-search -- data/search-kr.json
+
       - name: YouTube·치지직
         id: youtube
         continue-on-error: true
@@ -73,6 +77,7 @@ jobs:
         run: >-
           npm run search --
           --shard=${{ matrix.shard }}/${{ env.SHARDS }}
+          --source=US
           --out=data/search-shards/shard-${{ matrix.shard }}.json
           --budget=1500
           --stale=${{ inputs.search_all && '0' || '3' }}

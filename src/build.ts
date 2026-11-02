@@ -29,7 +29,7 @@ const songs = tracks.map((t) => {
       ? {
           // 영상 자체가 삭제·비공개면 검색 노출 판정은 의미 없음
           status: v && !v.available ? 'unavailable' : s.status,
-          rank: s.rank, fallbackRank: s.fallbackRank, noResults: s.noResults ?? false, query: s.query, checkedAt: s.checkedAt,
+          rank: s.rank, fallbackRank: s.fallbackRank, noResults: s.noResults ?? false, query: s.query, source: s.source ?? null, checkedAt: s.checkedAt,
         }
       : null, // search 단계 미실행 또는 메들리
   };

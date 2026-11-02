@@ -89,7 +89,18 @@ Node ≥ 22.6 (TS를 `--experimental-strip-types`로 직접 실행, 빌드 없�
 - 거짓 `hidden`(자동 검색어가 실제 검색 습관과 다른 경우)은 `src/queries.ts`에 검색어 수동 지정.
 - YouTube 웹/내부 API 자동 접근이라 YouTube 약관상 허용되지 않는 방식이며, 구조 변경·차단 시 깨질 수 있음.
 
-## 병합 (`npm run build`) → `data/songs.json`
+## 맥북 보조 측정 (한국 IP)
+GitHub 러너(미국 IP)는 한국에서 검색할 때와 결과가 일부 달라서, 맥북이 켜져 있으면 한국 IP로 먼저 측정해 반영한다.
+- 흐름: 맥북 launchd가 KST 03:17 / 07:17 / … (Actions 30분 전) `scripts/kr-run.sh` 실행 → `git pull` → `search --source=KR` → `data/search-kr.json` 업로드(GitHub API)
+  → Actions `prepare`가 `search-kr.json`을 병합 → 한국 측정이 3시간 이내인 곡은 미국 샤드에서 건너뜀 → 맥북이 꺼져 있으면 미국 IP 결과로 대체
+- 결과의 `source`(`KR` / `US`)로 측정 위치 확인 가능
+- 설치 (맥북, 1회):
+  1. `git clone https://github.com/4rNe5/StellaAPI_Seed && cd StellaAPI_Seed && npm ci`
+  2. GitHub → Settings → Developer settings → Fine-grained tokens: 저장소 `StellaAPI_Seed`만, **Contents: Read and write** → `.env`에 `KR_GITHUB_TOKEN=...`
+  3. `bash scripts/install-kr-agent.sh` → 시험 실행 `launchctl kickstart gui/$(id -u)/com.4rne5.stellaapi.kr` → 로그 `.kr/agent.log`
+  - 해제: `bash scripts/install-kr-agent.sh --uninstall`
+
+ → `data/songs.json`
 공식 곡(`tracks.json`) + `availability`(가용성) + `search`(검색 노출). **조회수·채널·치지직 통계는 넣지 않음** — `youtube/`, `chzzk.json`, `stats/`에서 별도 관리.
 
 ## 알려진 데이터 특이점 (2026-11-01, 298건 기준)
