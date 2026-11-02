@@ -9,7 +9,8 @@
     "youtube": "node --experimental-strip-types --no-warnings --env-file-if-exists=.env src/youtube.ts",
     "all": "npm run collect && npm run youtube && npm run search && npm run build && npm run validate",
     "search": "node --experimental-strip-types --no-warnings src/search.ts",
-    "build": "node --experimental-strip-types --no-warnings src/build.ts"
+    "build": "node --experimental-strip-types --no-warnings src/build.ts",
+    "merge-search": "node --experimental-strip-types --no-warnings src/merge-search.ts"
   },
   "dependencies": {
     "cheerio": "^1.2.0"

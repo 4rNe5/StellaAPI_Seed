@@ -65,13 +65,27 @@ Node ≥ 22.6 (TS를 `--experimental-strip-types`로 직접 실행, 빌드 없�
 곡 후보 판정(`songCandidate`): 공식 목록 포함, 또는 [라이브 아카이브 아님 + 1~12분 + 제목에 Cover/커버/歌ってみた/Original/MV/『』 등]. 휴리스틱이라 candidates는 검수 필요.
 
 ## 검색 노출 단계 (`npm run search`)
-로그아웃 상태(시크릿 모드 상당) YouTube 웹 검색 첫 페이지에 곡이 뜨는지 점검 → `data/search.json`.
+로그아웃 상태(시크릿 모드 상당) YouTube 검색 첫 페이지에 곡이 뜨는지 점검 → `data/search.json`.
 - 검색어: `{멤버 약칭} {곡명}` (유닛곡은 유닛명, 구두점 제거). 없으면 `{검색어} cover`로 재검색.
-- `status`: `visible`(기본 검색에 노출) · `cover_only`(cover 붙여야 노출) · `hidden`(둘 다 없음) · `error`
+- 호출: YouTube 웹이 내부적으로 쓰는 검색 API(InnerTube, 응답 약 0.44MB) → 실패 시 검색어 단위로 HTML 결과 페이지(약 1.3MB) 예비. `--engine=html`로 고정 가능.
+- `status`:
+  | 값 | 의미 |
+  |---|---|
+  | `visible` | 기본 검색어로 첫 페이지 노출 |
+  | `cover_only` | `cover`를 붙여야 노출 |
+  | `suspected` | 이번에 둘 다 없음 (1회) — 검색 결과 노이즈일 수 있어 다음 실행에서 우선 재점검 |
+  | `hidden` | **2회 연속** 둘 다 없음 (확정) |
+  | `error` | 점검 실패 — 다음 실행에서 재점검 |
 - `noResults: true` = 기본 검색어 자체가 "검색결과 없음" 화면 (검색어 단위 차단)
-- 옵션: `--budget=초`(기본 160, 넘으면 끊고 다음 실행에서 이어서) `--stale=시간`(기본 8, 이보다 오래된 곡 + error 곡) `--delay=ms`(기본 1500) `--concurrency=N`(기본 2, 높이면 YouTube 일시 제한) `--only=게시물id`
+- 점검 주기 (등급):
+  | 등급 | 조건 | 주기 |
+  |---|---|---|
+  | 우선 | 미점검 · `error` · `suspected` | 매 실행 |
+  | 일반 | 그 외, 또는 공식 게시 30일 이내 신곡 | `--stale` (기본 8h, CI 7h) |
+  | 안정 | 최근 `--stable-runs`(3)회 연속 1위 | `--stable-stale` (기본 24h, CI 23h) |
+- 옵션: `--budget=초`(기본 160, 넘으면 끊고 다음 실행에서 이어서) `--delay=ms`(기본 1500) `--concurrency=N`(기본 2, 같은 IP에서 높이면 YouTube 일시 제한) `--shard=i/n` `--out=경로` `--only=게시물id`
 - 거짓 `hidden`(자동 검색어가 실제 검색 습관과 다른 경우)은 `src/queries.ts`에 검색어 수동 지정.
-- YouTube 웹 페이지 파싱 방식이라 YouTube 약관상 자동 접근에 해당하며, 페이지 구조 변경·차단 시 깨질 수 있음.
+- YouTube 웹/내부 API 자동 접근이라 YouTube 약관상 허용되지 않는 방식이며, 구조 변경·차단 시 깨질 수 있음.
 
 ## 병합 (`npm run build`) → `data/songs.json`
 공식 곡(`tracks.json`) + `availability`(가용성) + `search`(검색 노출). **조회수·채널·치지직 통계는 넣지 않음** — `youtube/`, `chzzk.json`, `stats/`에서 별도 관리.
@@ -88,10 +102,14 @@ Node ≥ 22.6 (TS를 `--experimental-strip-types`로 직접 실행, 빌드 없�
 - 신규 멤버 데뷔 시 `src/members.ts`의 `MEMBERS`, `UNIT_MEMBERS` 갱신.
 
 ## 자동 실행 (GitHub Actions, `.github/workflows/collect.yml`)
-- 일정: KST 07:47 / 15:47 / 23:47 (하루 3회) + 수동 실행(Actions 탭 → collect → Run workflow, `search_all`로 전체 재점검)
-- 순서: collect → youtube → search → build → validate → `data/` 변경분 커밋
-- youtube·search 단계가 실패해도 나머지 데이터는 커밋하고, 실행 결과만 실패로 표시(메일 알림)
-- 검증 리포트는 각 실행의 Summary에 표시
+- 일정: KST 07:47 / 15:47 / 23:47 (하루 3회) + 수동 실행(Actions 탭 → collect → Run workflow, `search_all`로 점검 주기 무시하고 전체 재점검)
+- 구조:
+  | 잡 | 내용 |
+  |---|---|
+  | `prepare` | collect → youtube → `data/`를 아티팩트로 전달 |
+  | `search` ×3 | 검색 노출을 3개 샤드로 나눠 **서로 다른 러너(IP)에서 동시 실행** (YouTube 제한이 IP 단위) |
+  | `finalize` | 샤드 병합(`merge-search`) → build → validate(Summary 표시) → `data/` 커밋 |
+- youtube·search 일부가 실패해도 나머지 데이터는 커밋하고, 실행 결과만 실패로 표시(메일 알림)
 - 필요한 시크릿: `YT_API_KEY` (Settings → Secrets and variables → Actions)
-- 사용량 추정: 1회 약 12분(검색 점검이 대부분) × 하루 3회 ≈ 월 1,100분. 비공개 저장소 무료 한도 월 2,000분(Free 플랜) 안쪽
-- 러너는 데이터센터 IP라 YouTube 검색 스크래핑이 차단될 수 있음 → search 단계 실패 시 맥북에서 `npm run search` 후 `data/search.json` 커밋
+- 샤드 수 변경: `matrix.shard` 배열과 `env.SHARDS`를 같이 수정
+- 맥북 등 로컬 단독 실행은 기존처럼 `npm run search` (샤드 없이 `data/search.json`에 직접 기록)

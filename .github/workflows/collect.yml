@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     inputs:
       search_all:
-        description: '검색 노출 전체 재점검 (stale 무시)'
+        description: '검색 노출 전체 재점검 (점검 주기 무시)'
         type: boolean
         default: false
 
@@ -18,20 +18,21 @@ concurrency:
   group: collect
   cancel-in-progress: false
 
+env:
+  TZ: Asia/Seoul
+  SHARDS: 3
+
 jobs:
-  collect:
+  # 1) 공식 MUSIC + YouTube·치지직 → 결과를 아티팩트로 넘김
+  prepare:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
-    env:
-      TZ: Asia/Seoul
+    timeout-minutes: 15
+    outputs:
+      youtube: ${{ steps.youtube.outcome }}
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-node@v4
-        with:
-          node-version: 22
-          cache: npm
-
+        with: { node-version: 22, cache: npm }
       - run: npm ci
 
       - name: 공식 MUSIC 수집
@@ -44,11 +45,69 @@ jobs:
           YT_API_KEY: ${{ secrets.YT_API_KEY }}
         run: npm run youtube
 
-      - name: 검색 노출
-        id: search
+      - uses: actions/upload-artifact@v4
+        with:
+          name: prepared
+          path: data/
+          retention-days: 1
+
+  # 2) 검색 노출: 샤드별로 다른 러너(=다른 IP)에서 동시 실행 — YouTube 제한이 IP 단위라 처리량이 샤드 수만큼 늘어남
+  search:
+    needs: prepare
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2] # 바꾸면 env.SHARDS도 같이 수정
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm }
+      - run: npm ci
+      - uses: actions/download-artifact@v4
+        with: { name: prepared, path: data }
+
+      - name: 검색 노출 (샤드 ${{ matrix.shard }})
+        # 스케줄 간격(8h)보다 짧게 잡아야 매 실행 대상에 들어옴. 안정 곡은 23h(=하루 1회)
+        run: >-
+          npm run search --
+          --shard=${{ matrix.shard }}/${{ env.SHARDS }}
+          --out=data/search-shards/shard-${{ matrix.shard }}.json
+          --budget=1500
+          --stale=${{ inputs.search_all && '0' || '7' }}
+          --stable-stale=${{ inputs.search_all && '0' || '23' }}
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: search-shard-${{ matrix.shard }}
+          path: data/search-shards/shard-${{ matrix.shard }}.json
+          if-no-files-found: warn
+          retention-days: 1
+
+  # 3) 병합 → songs.json → 검증 → 커밋 (검색 일부 샤드가 실패해도 나머지는 반영)
+  finalize:
+    needs: [prepare, search]
+    if: always() && needs.prepare.result == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm }
+      - run: npm ci
+      - uses: actions/download-artifact@v4
+        with: { name: prepared, path: data }
+      - uses: actions/download-artifact@v4
         continue-on-error: true
-        # 스케줄 간격(8h)보다 짧게 잡아야 매 실행마다 전 곡이 대상이 됨
-        run: npm run search -- --budget=1500 --stale=${{ inputs.search_all && '0' || '7' }}
+        with:
+          pattern: search-shard-*
+          path: data/search-shards
+          merge-multiple: true
+
+      - name: 검색 결과 병합
+        run: npm run merge-search
 
       - name: 병합
         run: npm run build
@@ -67,12 +126,13 @@ jobs:
             echo '변경 없음'
           else
             git commit -m "data: $(date '+%Y-%m-%d %H:%M') KST"
+            git pull --rebase --autostash
             git push
           fi
 
       # 데이터는 커밋하되, 중간 단계 실패는 실행 결과를 실패로 표시해 알림을 받음
       - name: 실패 단계 확인
-        if: steps.youtube.outcome == 'failure' || steps.search.outcome == 'failure'
+        if: needs.prepare.outputs.youtube == 'failure' || needs.search.result != 'success'
         run: |
-          echo "youtube=${{ steps.youtube.outcome }} search=${{ steps.search.outcome }}"
+          echo "youtube=${{ needs.prepare.outputs.youtube }} search=${{ needs.search.result }}"
           exit 1

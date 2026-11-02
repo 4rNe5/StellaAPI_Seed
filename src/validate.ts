@@ -63,7 +63,8 @@ if (existsSync(songsPath)) {
   if (se.length) {
     console.log(`\n[검색 노출] 점검 ${se.length}/${songs.length}`);
     const q = (s: any) => `${show(s)} → "${s.search.query}"`;
-    check('검색 미노출 (cover 붙여도 없음)', se.filter((s) => s.search.status === 'hidden'), q);
+    check('검색 미노출 확정 (2회 연속, cover 붙여도 없음)', se.filter((s) => s.search.status === 'hidden'), q);
+    check('미노출 의심 (1회, 다음 실행 재확인)', se.filter((s) => s.search.status === 'suspected'), q);
     check('cover 붙여야 노출', se.filter((s) => s.search.status === 'cover_only'), q);
     check('점검 오류', se.filter((s) => s.search.status === 'error'), q);
   }

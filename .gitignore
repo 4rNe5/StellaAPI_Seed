@@ -3,3 +3,5 @@ node_modules/
 *.tmp
 # 매 실행 전체 재생성 (3.9MB, 커밋 시 저장소 비대)
 data/youtube/videos.json
+# Actions 샤드 중간 결과
+data/search-shards/
