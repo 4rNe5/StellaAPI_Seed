@@ -31,12 +31,12 @@
       "privacy": "public"
     },
     "search": {
-      "status": "cover_only",
+      "status": "hidden",
       "rank": null,
-      "fallbackRank": 3,
+      "fallbackRank": null,
       "noResults": false,
-      "query": "메리 도쿄 테디베어",
-      "checkedAt": "2026-11-02T14:00:50.551Z"
+      "query": "메리 도쿄테디베어",
+      "checkedAt": "2026-11-02T14:38:14.960Z"
     }
   },
   {
@@ -75,8 +75,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "히요리 유령이 되고 싶어",
-      "checkedAt": "2026-11-02T14:00:46.831Z"
+      "query": "히요리 유령이되고싶어",
+      "checkedAt": "2026-11-02T14:33:00.027Z"
     }
   },
   {
@@ -116,7 +116,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "랑 호랑풍류가",
-      "checkedAt": "2026-11-02T14:00:59.046Z"
+      "checkedAt": "2026-11-02T14:38:41.570Z"
     }
   },
   {
@@ -156,7 +156,7 @@
       "fallbackRank": 1,
       "noResults": true,
       "query": "토아 제육감",
-      "checkedAt": "2026-11-02T14:00:50.241Z"
+      "checkedAt": "2026-11-02T14:38:34.873Z"
     }
   },
   {
@@ -195,8 +195,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "린 아 프리오리",
-      "checkedAt": "2026-11-02T14:00:46.950Z"
+      "query": "린 아프리오리",
+      "checkedAt": "2026-11-02T14:33:00.260Z"
     }
   },
   {
@@ -233,8 +233,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "히나 Loop in June",
-      "checkedAt": "2026-11-02T14:00:52.599Z"
+      "query": "히나 loop in june",
+      "checkedAt": "2026-11-02T14:33:06.306Z"
     }
   },
   {
@@ -274,7 +274,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "유니 오버라이드",
-      "checkedAt": "2026-11-02T14:01:01.820Z"
+      "checkedAt": "2026-11-02T14:38:43.812Z"
     }
   },
   {
@@ -314,7 +314,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "린 불가행력",
-      "checkedAt": "2026-11-02T14:00:49.689Z"
+      "checkedAt": "2026-11-02T14:39:42.895Z"
     }
   },
   {
@@ -355,7 +355,7 @@
       "fallbackRank": 1,
       "noResults": true,
       "query": "히나 리코 소녀레이",
-      "checkedAt": "2026-11-02T14:01:05.930Z"
+      "checkedAt": "2026-11-02T14:38:49.358Z"
     }
   },
   {
@@ -394,8 +394,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리제 심월과 달의 노래",
-      "checkedAt": "2026-11-02T14:00:53.513Z"
+      "query": "리제 심월과달의노래",
+      "checkedAt": "2026-11-02T14:33:09.191Z"
     }
   },
   {
@@ -434,8 +434,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리코 아이와 나의 바다",
-      "checkedAt": "2026-11-02T14:00:49.531Z"
+      "query": "리코 아이와나의바다",
+      "checkedAt": "2026-11-02T14:33:02.857Z"
     }
   },
   {
@@ -476,7 +476,7 @@
       "fallbackRank": null,
       "noResults": true,
       "query": "나나 후야 오츠카레summer",
-      "checkedAt": "2026-11-02T14:00:56.573Z"
+      "checkedAt": "2026-11-02T14:38:39.215Z"
     }
   },
   {
@@ -516,7 +516,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "타비 물떼새",
-      "checkedAt": "2026-11-02T14:01:05.139Z"
+      "checkedAt": "2026-11-02T14:39:51.808Z"
     }
   },
   {
@@ -555,8 +555,8 @@
       "rank": null,
       "fallbackRank": null,
       "noResults": false,
-      "query": "시부키 mosi mosi",
-      "checkedAt": "2026-11-02T14:01:09.588Z"
+      "query": "시부키 모시모시",
+      "checkedAt": "2026-11-02T14:38:20.192Z"
     }
   },
   {
@@ -596,7 +596,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "리코 라일락",
-      "checkedAt": "2026-11-02T14:00:51.980Z"
+      "checkedAt": "2026-11-02T14:39:43.152Z"
     }
   },
   {
@@ -635,8 +635,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "히나 아틀란티스 소녀",
-      "checkedAt": "2026-11-02T14:00:52.697Z"
+      "query": "히나 아틀란티스소녀",
+      "checkedAt": "2026-11-02T14:33:08.076Z"
     }
   },
   {
@@ -676,7 +676,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "마시로 구르는 바위 네게 아침이 내린다",
-      "checkedAt": "2026-11-02T14:01:01.158Z"
+      "checkedAt": "2026-11-02T14:38:44.621Z"
     }
   },
   {
@@ -715,8 +715,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "타비 High Hopes",
-      "checkedAt": "2026-11-02T14:00:55.999Z"
+      "query": "타비 high hopes",
+      "checkedAt": "2026-11-02T14:33:11.767Z"
     }
   },
   {
@@ -755,8 +755,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "후야 푸른 산호초",
-      "checkedAt": "2026-11-02T14:01:08.225Z"
+      "query": "후야 푸른산호초",
+      "checkedAt": "2026-11-02T14:33:29.566Z"
     }
   },
   {
@@ -796,8 +796,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "마시로 시부키 네 기꺼이",
-      "checkedAt": "2026-11-02T14:00:58.429Z"
+      "query": "마시로 시부키 네기꺼이",
+      "checkedAt": "2026-11-02T14:33:14.404Z"
     }
   },
   {
@@ -832,12 +832,12 @@
       "privacy": "public"
     },
     "search": {
-      "status": "cover_only",
+      "status": "hidden",
       "rank": null,
-      "fallbackRank": 1,
+      "fallbackRank": null,
       "noResults": false,
-      "query": "나나 논브레스 오블리주",
-      "checkedAt": "2026-11-02T14:00:56.746Z"
+      "query": "나나 논블레스오브리주",
+      "checkedAt": "2026-11-02T14:38:15.272Z"
     }
   },
   {
@@ -877,7 +877,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "린 소녀레이",
-      "checkedAt": "2026-11-02T14:01:10.579Z"
+      "checkedAt": "2026-11-02T14:39:54.666Z"
     }
   },
   {
@@ -916,8 +916,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리제 미랫빛 라이더",
-      "checkedAt": "2026-11-02T14:00:59.362Z"
+      "query": "리제 미랫빛라이더",
+      "checkedAt": "2026-11-02T14:33:17.311Z"
     }
   },
   {
@@ -957,7 +957,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "나나 희극",
-      "checkedAt": "2026-11-02T14:00:57.786Z"
+      "checkedAt": "2026-11-02T14:38:40.103Z"
     }
   },
   {
@@ -998,7 +998,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "린 리코 우리 쓰레기 분리수거단",
-      "checkedAt": "2026-11-02T14:01:12.745Z"
+      "checkedAt": "2026-11-02T14:39:55.217Z"
     }
   },
   {
@@ -1035,8 +1035,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "린 Maid My Way",
-      "checkedAt": "2026-11-02T14:01:01.598Z"
+      "query": "린 maid my way",
+      "checkedAt": "2026-11-02T14:33:19.786Z"
     }
   },
   {
@@ -1073,8 +1073,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "나나 Hush Trap",
-      "checkedAt": "2026-11-02T14:00:59.596Z"
+      "query": "나나 hush trap",
+      "checkedAt": "2026-11-02T14:33:17.549Z"
     }
   },
   {
@@ -1112,7 +1112,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "시부키 베리베리스트로베리",
-      "checkedAt": "2026-11-02T14:01:14.041Z"
+      "checkedAt": "2026-11-02T14:39:58.270Z"
     }
   },
   {
@@ -1150,7 +1150,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "리코 악당주의보",
-      "checkedAt": "2026-11-02T14:01:02.342Z"
+      "checkedAt": "2026-11-02T14:39:45.979Z"
     }
   },
   {
@@ -1190,7 +1190,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "리코 서머타임레코드",
-      "checkedAt": "2026-11-02T14:01:00.931Z"
+      "checkedAt": "2026-11-02T14:39:45.818Z"
     }
   },
   {
@@ -1229,8 +1229,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "후야 Booo",
-      "checkedAt": "2026-11-02T14:01:16.010Z"
+      "query": "후야 booo",
+      "checkedAt": "2026-11-02T14:33:46.345Z"
     }
   },
   {
@@ -1270,7 +1270,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "리제 청록",
-      "checkedAt": "2026-11-02T14:01:03.854Z"
+      "checkedAt": "2026-11-02T14:39:49.121Z"
     }
   },
   {
@@ -1340,8 +1340,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "시부키 친애하는 소년이여",
-      "checkedAt": "2026-11-02T14:01:02.346Z"
+      "query": "시부키 친애하는소년이여",
+      "checkedAt": "2026-11-02T14:33:20.606Z"
     }
   },
   {
@@ -1381,7 +1381,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "린 물떼새",
-      "checkedAt": "2026-11-02T14:01:17.324Z"
+      "checkedAt": "2026-11-02T14:39:58.274Z"
     }
   },
   {
@@ -1421,8 +1421,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "나나 Loveit",
-      "checkedAt": "2026-11-02T14:01:04.553Z"
+      "query": "나나 Loveit?",
+      "checkedAt": "2026-11-02T14:33:23.242Z"
     }
   },
   {
@@ -1461,8 +1461,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "타비 밤새도록 널 생각해",
-      "checkedAt": "2026-11-02T14:01:04.850Z"
+      "query": "타비 밤새도록널생각해",
+      "checkedAt": "2026-11-02T14:33:23.293Z"
     }
   },
   {
@@ -1501,8 +1501,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "타비 행운을 빌어 줘 A journey",
-      "checkedAt": "2026-11-02T14:01:07.391Z"
+      "query": "타비 행운을빌어줘",
+      "checkedAt": "2026-11-02T14:33:26.299Z"
     }
   },
   {
@@ -1541,8 +1541,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리제 무대에 서서",
-      "checkedAt": "2026-11-02T14:01:18.285Z"
+      "query": "리제 무대에서서",
+      "checkedAt": "2026-11-02T14:33:51.442Z"
     }
   },
   {
@@ -1585,7 +1585,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "유니버스 마음악보",
-      "checkedAt": "2026-11-02T14:01:05.121Z"
+      "checkedAt": "2026-11-02T14:39:49.399Z"
     }
   },
   {
@@ -1624,8 +1624,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "히나 내일 또 보자",
-      "checkedAt": "2026-11-02T14:01:08.117Z"
+      "query": "히나 내일또보자",
+      "checkedAt": "2026-11-02T14:33:28.904Z"
     }
   },
   {
@@ -1664,8 +1664,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "마시로 망상 아스파탐",
-      "checkedAt": "2026-11-02T14:01:20.366Z"
+      "query": "마시로 망상아스파탐",
+      "checkedAt": "2026-11-02T14:33:54.297Z"
     }
   },
   {
@@ -1708,7 +1708,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "클리셰 유성우",
-      "checkedAt": "2026-11-02T14:01:07.191Z"
+      "checkedAt": "2026-11-02T14:39:51.995Z"
     }
   },
   {
@@ -1749,8 +1749,8 @@
       "rank": null,
       "fallbackRank": 1,
       "noResults": true,
-      "query": "리코 마시로 악마가 아닌걸",
-      "checkedAt": "2026-11-02T14:01:11.988Z"
+      "query": "리코 마시로 악마가아닌걸",
+      "checkedAt": "2026-11-02T14:33:40.893Z"
     }
   },
   {
@@ -1790,7 +1790,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "히나 춘수",
-      "checkedAt": "2026-11-02T14:01:21.084Z"
+      "checkedAt": "2026-11-02T14:40:04.744Z"
     }
   },
   {
@@ -1830,7 +1830,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "나나 drivers license",
-      "checkedAt": "2026-11-02T14:01:25.354Z"
+      "checkedAt": "2026-11-02T14:38:50.203Z"
     }
   },
   {
@@ -1869,8 +1869,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리제 Hollowness",
-      "checkedAt": "2026-11-02T14:01:08.089Z"
+      "query": "리제 hollowness",
+      "checkedAt": "2026-11-02T14:33:26.491Z"
     }
   },
   {
@@ -1905,12 +1905,12 @@
       "privacy": "public"
     },
     "search": {
-      "status": "hidden",
-      "rank": null,
+      "status": "visible",
+      "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "유니 오네가이 달링",
-      "checkedAt": "2026-11-02T14:01:11.230Z"
+      "query": "유니 오네가이달링",
+      "checkedAt": "2026-11-02T14:33:35.351Z"
     }
   },
   {
@@ -1949,8 +1949,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "시부키 나에게 꽃다발",
-      "checkedAt": "2026-11-02T14:01:11.580Z"
+      "query": "시부키 나에게꽃다발",
+      "checkedAt": "2026-11-02T14:33:37.754Z"
     }
   },
   {
@@ -1985,12 +1985,12 @@
       "privacy": "public"
     },
     "search": {
-      "status": "hidden",
-      "rank": null,
+      "status": "visible",
+      "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "나나 Deja vu",
-      "checkedAt": "2026-11-02T14:01:16.245Z"
+      "query": "나나 deja vu",
+      "checkedAt": "2026-11-02T14:33:46.973Z"
     }
   },
   {
@@ -2059,7 +2059,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "린 댄스홀",
-      "checkedAt": "2026-11-02T14:01:24.412Z"
+      "checkedAt": "2026-11-02T14:40:07.571Z"
     }
   },
   {
@@ -2098,8 +2098,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "후야 Melt CPK Remix",
-      "checkedAt": "2026-11-02T14:01:10.379Z"
+      "query": "후야 멜트",
+      "checkedAt": "2026-11-02T14:33:32.516Z"
     }
   },
   {
@@ -2138,8 +2138,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리코 Orange",
-      "checkedAt": "2026-11-02T14:01:15.134Z"
+      "query": "리코 오렌지",
+      "checkedAt": "2026-11-02T14:33:44.500Z"
     }
   },
   {
@@ -2179,7 +2179,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "리제 orion",
-      "checkedAt": "2026-11-02T14:01:28.218Z"
+      "checkedAt": "2026-11-02T14:40:09.856Z"
     }
   },
   {
@@ -2218,8 +2218,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "린 아이네 클라이네",
-      "checkedAt": "2026-11-02T14:01:28.809Z"
+      "query": "린 아이네클라이네",
+      "checkedAt": "2026-11-02T14:34:07.167Z"
     }
   },
   {
@@ -2258,8 +2258,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "히나 Acacia",
-      "checkedAt": "2026-11-02T14:01:13.131Z"
+      "query": "히나 acacia",
+      "checkedAt": "2026-11-02T14:33:40.534Z"
     }
   },
   {
@@ -2299,7 +2299,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "리코 숨바꼭질",
-      "checkedAt": "2026-11-02T14:01:18.648Z"
+      "checkedAt": "2026-11-02T14:40:00.814Z"
     }
   },
   {
@@ -2338,8 +2338,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "후야 푸른 하늘의 랩소디",
-      "checkedAt": "2026-11-02T14:01:14.739Z"
+      "query": "후야 푸른하늘의랩소디",
+      "checkedAt": "2026-11-02T14:33:43.793Z"
     }
   },
   {
@@ -2378,8 +2378,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리제 Stellar Stellar",
-      "checkedAt": "2026-11-02T14:01:31.143Z"
+      "query": "리제 stellar stellar",
+      "checkedAt": "2026-11-02T14:34:09.693Z"
     }
   },
   {
@@ -2414,8 +2414,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "스텔라이브 STAR TRAIL",
-      "checkedAt": "2026-11-02T14:01:19.173Z"
+      "query": "스텔라이브 star trail",
+      "checkedAt": "2026-11-02T14:33:53.814Z"
     }
   },
   {
@@ -2450,8 +2450,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "스텔라이브 히로인이 되고싶어",
-      "checkedAt": "2026-11-02T14:01:16.426Z"
+      "query": "스텔라이브 히로인이되고싶어",
+      "checkedAt": "2026-11-02T14:33:48.876Z"
     }
   },
   {
@@ -2490,8 +2490,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "타비 사랑 감기에 실려",
-      "checkedAt": "2026-11-02T14:01:31.655Z"
+      "query": "타비 사랑감기에실려",
+      "checkedAt": "2026-11-02T14:34:12.586Z"
     }
   },
   {
@@ -2531,7 +2531,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "리코 포니",
-      "checkedAt": "2026-11-02T14:01:21.820Z"
+      "checkedAt": "2026-11-02T14:40:06.742Z"
     }
   },
   {
@@ -2570,8 +2570,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "린 Oh",
-      "checkedAt": "2026-11-02T14:01:16.863Z"
+      "query": "린 oh",
+      "checkedAt": "2026-11-02T14:33:50.801Z"
     }
   },
   {
@@ -2610,8 +2610,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "나나 One Last Kiss",
-      "checkedAt": "2026-11-02T14:01:33.555Z"
+      "query": "나나 one last kiss",
+      "checkedAt": "2026-11-02T14:34:15.434Z"
     }
   },
   {
@@ -2650,8 +2650,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "시부키 행복에 대해 내가 생각한 것",
-      "checkedAt": "2026-11-02T14:01:22.167Z"
+      "query": "시부키 행복에대해내가생각한것",
+      "checkedAt": "2026-11-02T14:33:56.127Z"
     }
   },
   {
@@ -2692,7 +2692,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "히나 리제 ray",
-      "checkedAt": "2026-11-02T14:01:19.665Z"
+      "checkedAt": "2026-11-02T14:40:01.693Z"
     }
   },
   {
@@ -2733,7 +2733,7 @@
       "fallbackRank": 1,
       "noResults": true,
       "query": "마시로 린 메이드지상주의",
-      "checkedAt": "2026-11-02T14:01:26.808Z"
+      "checkedAt": "2026-11-02T14:38:54.016Z"
     }
   },
   {
@@ -2772,8 +2772,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리제 주름 맞추기",
-      "checkedAt": "2026-11-02T14:01:34.872Z"
+      "query": "리제 주름맞추기",
+      "checkedAt": "2026-11-02T14:34:21.203Z"
     }
   },
   {
@@ -2813,7 +2813,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "린 AIZO",
-      "checkedAt": "2026-11-02T14:01:20.306Z"
+      "checkedAt": "2026-11-02T14:40:03.904Z"
     }
   },
   {
@@ -2852,8 +2852,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "나나 죄와 벌",
-      "checkedAt": "2026-11-02T14:01:24.949Z"
+      "query": "나나 죄와벌",
+      "checkedAt": "2026-11-02T14:34:00.238Z"
     }
   },
   {
@@ -2892,8 +2892,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "히나 바다의 유령",
-      "checkedAt": "2026-11-02T14:01:36.637Z"
+      "query": "히나 바다의유령",
+      "checkedAt": "2026-11-02T14:34:24.785Z"
     }
   },
   {
@@ -2933,8 +2933,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "린 유니 chocolate box",
-      "checkedAt": "2026-11-02T14:01:37.127Z"
+      "query": "유니 린 chocolate box",
+      "checkedAt": "2026-11-02T14:34:27.736Z"
     }
   },
   {
@@ -2969,12 +2969,12 @@
       "privacy": "public"
     },
     "search": {
-      "status": "hidden",
+      "status": "cover_only",
       "rank": null,
-      "fallbackRank": null,
+      "fallbackRank": 1,
       "noResults": false,
-      "query": "후야 CHEWING LUV",
-      "checkedAt": "2026-11-02T14:01:24.621Z"
+      "query": "후야 chewing luv",
+      "checkedAt": "2026-11-02T14:34:01.392Z"
     }
   },
   {
@@ -3013,8 +3013,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "시부키 ラブレター",
-      "checkedAt": "2026-11-02T14:01:27.835Z"
+      "query": "시부키 러브레터",
+      "checkedAt": "2026-11-02T14:34:03.583Z"
     }
   },
   {
@@ -3052,8 +3052,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "스텔라이브 セカイ",
-      "checkedAt": "2026-11-02T14:01:23.350Z"
+      "query": "스텔라이브 세카이",
+      "checkedAt": "2026-11-02T14:33:56.797Z"
     }
   },
   {
@@ -3093,7 +3093,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "히나 계절범죄",
-      "checkedAt": "2026-11-02T14:01:39.472Z"
+      "checkedAt": "2026-11-02T14:40:17.264Z"
     }
   },
   {
@@ -3132,8 +3132,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "시부키 DAYBREAK FRONTLINE",
-      "checkedAt": "2026-11-02T14:01:29.791Z"
+      "query": "시부키 daybreak frontline",
+      "checkedAt": "2026-11-02T14:34:08.834Z"
     }
   },
   {
@@ -3173,7 +3173,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "리코 밤을 달리다",
-      "checkedAt": "2026-11-02T14:01:42.141Z"
+      "checkedAt": "2026-11-02T14:38:54.981Z"
     }
   },
   {
@@ -3213,7 +3213,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "린 카가리비토",
-      "checkedAt": "2026-11-02T14:01:25.788Z"
+      "checkedAt": "2026-11-02T14:40:09.017Z"
     }
   },
   {
@@ -3252,8 +3252,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "나나 RAIN",
-      "checkedAt": "2026-11-02T14:01:31.527Z"
+      "query": "나나 rain",
+      "checkedAt": "2026-11-02T14:34:11.794Z"
     }
   },
   {
@@ -3292,8 +3292,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "히나 Melt",
-      "checkedAt": "2026-11-02T14:01:27.917Z"
+      "query": "히나 멜트",
+      "checkedAt": "2026-11-02T14:34:04.978Z"
     }
   },
   {
@@ -3333,7 +3333,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "린 사신",
-      "checkedAt": "2026-11-02T14:01:33.246Z"
+      "checkedAt": "2026-11-02T14:40:13.848Z"
     }
   },
   {
@@ -3372,8 +3372,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "히나 크리스마스 송",
-      "checkedAt": "2026-11-02T14:01:42.366Z"
+      "query": "히나 크리스마스송",
+      "checkedAt": "2026-11-02T14:34:34.779Z"
     }
   },
   {
@@ -3413,7 +3413,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "시부키 메리크리",
-      "checkedAt": "2026-11-02T14:01:29.101Z"
+      "checkedAt": "2026-11-02T14:40:11.514Z"
     }
   },
   {
@@ -3453,7 +3453,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "리코 히로인",
-      "checkedAt": "2026-11-02T14:01:44.843Z"
+      "checkedAt": "2026-11-02T14:40:21.031Z"
     }
   },
   {
@@ -3492,8 +3492,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "타비 Number one rockstar",
-      "checkedAt": "2026-11-02T14:01:34.703Z"
+      "query": "타비 number one rockstar",
+      "checkedAt": "2026-11-02T14:34:18.636Z"
     }
   },
   {
@@ -3533,7 +3533,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "유니 참생활",
-      "checkedAt": "2026-11-02T14:01:30.606Z"
+      "checkedAt": "2026-11-02T14:40:12.367Z"
     }
   },
   {
@@ -3572,8 +3572,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "린 All I Want For Christmas Is You",
-      "checkedAt": "2026-11-02T14:01:33.826Z"
+      "query": "린 all i want for christmas is you",
+      "checkedAt": "2026-11-02T14:34:18.257Z"
     }
   },
   {
@@ -3613,7 +3613,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "리제 케세라세라",
-      "checkedAt": "2026-11-02T14:01:36.047Z"
+      "checkedAt": "2026-11-02T14:40:14.754Z"
     }
   },
   {
@@ -3653,8 +3653,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "나나 히나 Joker",
-      "checkedAt": "2026-11-02T14:01:45.898Z"
+      "query": "히나 나나 joker",
+      "checkedAt": "2026-11-02T14:34:42.737Z"
     }
   },
   {
@@ -3695,8 +3695,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "나나 TOMBOY",
-      "checkedAt": "2026-11-02T14:01:32.388Z"
+      "query": "나나 하지메 tomboy",
+      "checkedAt": "2026-11-02T14:34:14.815Z"
     }
   },
   {
@@ -3731,12 +3731,12 @@
       "privacy": "public"
     },
     "search": {
-      "status": "suspected",
+      "status": "hidden",
       "rank": null,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리제 출항",
-      "checkedAt": "2026-11-02T14:01:40.389Z"
+      "query": "리제 발묘",
+      "checkedAt": "2026-11-02T14:38:20.437Z"
     }
   },
   {
@@ -3775,8 +3775,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리코 목마름을 외치다",
-      "checkedAt": "2026-11-02T14:01:48.058Z"
+      "query": "리코 목마름을외치다",
+      "checkedAt": "2026-11-02T14:34:48.307Z"
     }
   },
   {
@@ -3818,8 +3818,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "에버리스 팝핀 캔디☆피버",
-      "checkedAt": "2026-11-02T14:01:37.866Z"
+      "query": "유니 후야 팝핀캔디피버",
+      "checkedAt": "2026-11-02T14:34:28.019Z"
     }
   },
   {
@@ -3859,7 +3859,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "히나 깜빡임",
-      "checkedAt": "2026-11-02T14:01:49.033Z"
+      "checkedAt": "2026-11-02T14:40:23.924Z"
     }
   },
   {
@@ -3898,8 +3898,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "시부키 생명에게 미움받고 있어",
-      "checkedAt": "2026-11-02T14:01:35.597Z"
+      "query": "시부키 생명에게미움받고있어",
+      "checkedAt": "2026-11-02T14:34:22.202Z"
     }
   },
   {
@@ -3939,7 +3939,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "나나 수평선",
-      "checkedAt": "2026-11-02T14:01:50.775Z"
+      "checkedAt": "2026-11-02T14:40:24.388Z"
     }
   },
   {
@@ -3977,7 +3977,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "유니 삐질게",
-      "checkedAt": "2026-11-02T14:01:41.075Z"
+      "checkedAt": "2026-11-02T14:40:17.958Z"
     }
   },
   {
@@ -4017,8 +4017,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "린 STAY",
-      "checkedAt": "2026-11-02T14:01:51.304Z"
+      "query": "린 stay",
+      "checkedAt": "2026-11-02T14:34:56.532Z"
     }
   },
   {
@@ -4057,8 +4057,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리코 IRIS OUT",
-      "checkedAt": "2026-11-02T14:01:37.095Z"
+      "query": "리코 아이리스아웃",
+      "checkedAt": "2026-11-02T14:34:24.976Z"
     }
   },
   {
@@ -4095,12 +4095,12 @@
       "privacy": "public"
     },
     "search": {
-      "status": "cover_only",
-      "rank": null,
-      "fallbackRank": 1,
-      "noResults": true,
-      "query": "히나 린 JANE DOE",
-      "checkedAt": "2026-11-02T14:01:40.673Z"
+      "status": "visible",
+      "rank": 1,
+      "fallbackRank": null,
+      "noResults": false,
+      "query": "히나 린 제인도",
+      "checkedAt": "2026-11-02T14:34:31.207Z"
     }
   },
   {
@@ -4141,8 +4141,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "린 Dynamite",
-      "checkedAt": "2026-11-02T14:01:53.409Z"
+      "query": "린 네리사 다이너마이트",
+      "checkedAt": "2026-11-02T14:35:04.028Z"
     }
   },
   {
@@ -4182,7 +4182,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "리코 숙명",
-      "checkedAt": "2026-11-02T14:01:43.081Z"
+      "checkedAt": "2026-11-02T14:40:20.210Z"
     }
   },
   {
@@ -4222,8 +4222,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리제 JANE DOE",
-      "checkedAt": "2026-11-02T14:03:03.899Z"
+      "query": "리제 제인도",
+      "checkedAt": "2026-11-02T14:37:47.556Z"
     }
   },
   {
@@ -4259,12 +4259,12 @@
       "privacy": "public"
     },
     "search": {
-      "status": "hidden",
-      "rank": null,
+      "status": "visible",
+      "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "나나 시부키 울려퍼져라",
-      "checkedAt": "2026-11-02T14:01:42.001Z"
+      "query": "시부키 나나 울려퍼져라",
+      "checkedAt": "2026-11-02T14:34:33.749Z"
     }
   },
   {
@@ -4303,8 +4303,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "린 IRIS OUT",
-      "checkedAt": "2026-11-02T14:01:44.529Z"
+      "query": "린 아이리스아웃",
+      "checkedAt": "2026-11-02T14:34:37.987Z"
     }
   },
   {
@@ -4342,9 +4342,9 @@
       "status": "cover_only",
       "rank": null,
       "fallbackRank": 1,
-      "noResults": false,
-      "query": "리제 Bunny Girl",
-      "checkedAt": "2026-11-02T14:03:19.321Z"
+      "noResults": true,
+      "query": "아카네 리제 바니걸",
+      "checkedAt": "2026-11-02T14:38:04.027Z"
     }
   },
   {
@@ -4383,8 +4383,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "히나 사랑해줘 사랑해줘 사랑해줘",
-      "checkedAt": "2026-11-02T14:01:54.697Z"
+      "query": "히나 사랑해줘",
+      "checkedAt": "2026-11-02T14:35:05.729Z"
     }
   },
   {
@@ -4424,8 +4424,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "마시로 とんとんまーえ！",
-      "checkedAt": "2026-11-02T14:03:01.256Z"
+      "query": "마시로 쿵쿵앞으로",
+      "checkedAt": "2026-11-02T14:37:40.219Z"
     }
   },
   {
@@ -4465,7 +4465,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "리제 프로포즈",
-      "checkedAt": "2026-11-02T14:03:08.909Z"
+      "checkedAt": "2026-11-02T14:39:04.431Z"
     }
   },
   {
@@ -4504,8 +4504,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "타비 SODA POP",
-      "checkedAt": "2026-11-02T14:03:19.367Z"
+      "query": "타비 소다팝",
+      "checkedAt": "2026-11-02T14:38:02.904Z"
     }
   },
   {
@@ -4544,8 +4544,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리코 미소녀무죄♡파이레츠",
-      "checkedAt": "2026-11-02T14:03:05.350Z"
+      "query": "리코 미소녀무죄파이레츠",
+      "checkedAt": "2026-11-02T14:37:49.933Z"
     }
   },
   {
@@ -4584,8 +4584,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리제 Surges",
-      "checkedAt": "2026-11-02T14:03:02.615Z"
+      "query": "리제 surges",
+      "checkedAt": "2026-11-02T14:37:43.852Z"
     }
   },
   {
@@ -4624,8 +4624,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "후야 별자리가 될 수 있다면",
-      "checkedAt": "2026-11-02T14:01:47.623Z"
+      "query": "후야 별자리가될수있다면",
+      "checkedAt": "2026-11-02T14:34:45.231Z"
     }
   },
   {
@@ -4664,8 +4664,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "나나 Summer",
-      "checkedAt": "2026-11-02T14:01:56.012Z"
+      "query": "나나 summer",
+      "checkedAt": "2026-11-02T14:35:09.133Z"
     }
   },
   {
@@ -4704,8 +4704,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "히나 악마의 아이",
-      "checkedAt": "2026-11-02T14:01:45.439Z"
+      "query": "히나 악마의아이",
+      "checkedAt": "2026-11-02T14:34:40.967Z"
     }
   },
   {
@@ -4744,8 +4744,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "유니 Lilac",
-      "checkedAt": "2026-11-02T14:01:43.481Z"
+      "query": "유니 라일락",
+      "checkedAt": "2026-11-02T14:34:36.588Z"
     }
   },
   {
@@ -4784,8 +4784,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "린 전방향 미소녀",
-      "checkedAt": "2026-11-02T14:01:45.431Z"
+      "query": "린 전방향미소녀",
+      "checkedAt": "2026-11-02T14:34:39.400Z"
     }
   },
   {
@@ -4824,8 +4824,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "타비 Healer",
-      "checkedAt": "2026-11-02T14:01:57.196Z"
+      "query": "타비 healer",
+      "checkedAt": "2026-11-02T14:35:13.418Z"
     }
   },
   {
@@ -4864,8 +4864,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리제 シャンティ",
-      "checkedAt": "2026-11-02T14:01:47.827Z"
+      "query": "리제 샨티",
+      "checkedAt": "2026-11-02T14:34:47.012Z"
     }
   },
   {
@@ -4906,8 +4906,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리코 유니 리제 POP IN 2",
-      "checkedAt": "2026-11-02T14:01:46.582Z"
+      "query": "리코 유니 리제 pop in 2",
+      "checkedAt": "2026-11-02T14:34:44.572Z"
     }
   },
   {
@@ -4947,7 +4947,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "히나 군청",
-      "checkedAt": "2026-11-02T14:01:59.106Z"
+      "checkedAt": "2026-11-02T14:40:30.747Z"
     }
   },
   {
@@ -4986,8 +4986,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "타비 Ref:rain",
-      "checkedAt": "2026-11-02T14:01:49.796Z"
+      "query": "타비 refrain",
+      "checkedAt": "2026-11-02T14:34:52.497Z"
     }
   },
   {
@@ -5027,8 +5027,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "시부키 린 KING",
-      "checkedAt": "2026-11-02T14:02:00.314Z"
+      "query": "시부키 린 킹",
+      "checkedAt": "2026-11-02T14:35:16.950Z"
     }
   },
   {
@@ -5067,8 +5067,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "린 プレイ",
-      "checkedAt": "2026-11-02T14:01:48.322Z"
+      "query": "린 play",
+      "checkedAt": "2026-11-02T14:34:49.733Z"
     }
   },
   {
@@ -5108,8 +5108,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "린 리코 잿빛과 푸름",
-      "checkedAt": "2026-11-02T14:01:49.509Z"
+      "query": "린 리코 잿빛과푸름",
+      "checkedAt": "2026-11-02T14:34:51.330Z"
     }
   },
   {
@@ -5148,8 +5148,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리코 체리 팝",
-      "checkedAt": "2026-11-02T14:01:50.645Z"
+      "query": "리코 체리팝",
+      "checkedAt": "2026-11-02T14:34:53.736Z"
     }
   },
   {
@@ -5188,8 +5188,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "시부키 푸름과 여름",
-      "checkedAt": "2026-11-02T14:01:52.942Z"
+      "query": "시부키 푸름과여름",
+      "checkedAt": "2026-11-02T14:34:59.878Z"
     }
   },
   {
@@ -5228,8 +5228,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "나나 죽는 게 나아",
-      "checkedAt": "2026-11-02T14:02:03.491Z"
+      "query": "나나 죽는게나아",
+      "checkedAt": "2026-11-02T14:35:23.316Z"
     }
   },
   {
@@ -5268,8 +5268,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리코 걘 아니야 Pt 2",
-      "checkedAt": "2026-11-02T14:02:02.183Z"
+      "query": "리코 걘아니야",
+      "checkedAt": "2026-11-02T14:35:20.340Z"
     }
   },
   {
@@ -5308,8 +5308,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "나나 걘 아니야 Pt 1",
-      "checkedAt": "2026-11-02T14:01:50.885Z"
+      "query": "나나 걘아니야",
+      "checkedAt": "2026-11-02T14:34:54.847Z"
     }
   },
   {
@@ -5350,8 +5350,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리제 린 나나 Golden",
-      "checkedAt": "2026-11-02T14:01:53.328Z"
+      "query": "리제 린 나나 골든",
+      "checkedAt": "2026-11-02T14:35:03.442Z"
     }
   },
   {
@@ -5392,8 +5392,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "히나 나나 Summertime",
-      "checkedAt": "2026-11-02T14:01:55.899Z"
+      "query": "히나 나나 summertime",
+      "checkedAt": "2026-11-02T14:35:07.669Z"
     }
   },
   {
@@ -5434,8 +5434,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "린 나나 Ｗ●ＲＫ",
-      "checkedAt": "2026-11-02T14:01:52.695Z"
+      "query": "린 나나 work",
+      "checkedAt": "2026-11-02T14:34:57.518Z"
     }
   },
   {
@@ -5474,8 +5474,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리제 취한 줄을 모르고",
-      "checkedAt": "2026-11-02T14:02:05.141Z"
+      "query": "리제 취한줄을모르고",
+      "checkedAt": "2026-11-02T14:35:26.414Z"
     }
   },
   {
@@ -5511,11 +5511,11 @@
     },
     "search": {
       "status": "visible",
-      "rank": 2,
+      "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "나나 Summertime",
-      "checkedAt": "2026-11-02T14:03:03.899Z"
+      "query": "나나 summertime",
+      "checkedAt": "2026-11-02T14:37:47.123Z"
     }
   },
   {
@@ -5554,8 +5554,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리코 도쿄 섄디 랑데부",
-      "checkedAt": "2026-11-02T14:01:52.967Z"
+      "query": "리코 도쿄섄디랑데부",
+      "checkedAt": "2026-11-02T14:35:00.591Z"
     }
   },
   {
@@ -5595,8 +5595,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "나나 Enemy",
-      "checkedAt": "2026-11-02T14:02:06.142Z"
+      "query": "나나 에너미",
+      "checkedAt": "2026-11-02T14:35:26.583Z"
     }
   },
   {
@@ -5636,7 +5636,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "린 별자리가 될 수 있다면",
-      "checkedAt": "2026-11-02T14:01:56.075Z"
+      "checkedAt": "2026-11-02T14:40:27.657Z"
     }
   },
   {
@@ -5675,8 +5675,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "시부키 UNDEAD",
-      "checkedAt": "2026-11-02T14:03:21.638Z"
+      "query": "시부키 언데드",
+      "checkedAt": "2026-11-02T14:38:05.536Z"
     }
   },
   {
@@ -5717,7 +5717,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "타비 나나 야화",
-      "checkedAt": "2026-11-02T14:03:08.014Z"
+      "checkedAt": "2026-11-02T14:41:23.639Z"
     }
   },
   {
@@ -5757,7 +5757,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "린 만찬가",
-      "checkedAt": "2026-11-02T14:03:10.233Z"
+      "checkedAt": "2026-11-02T14:41:25.399Z"
     }
   },
   {
@@ -5797,7 +5797,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "리제 뱀파이어",
-      "checkedAt": "2026-11-02T14:03:06.147Z"
+      "checkedAt": "2026-11-02T14:41:20.066Z"
     }
   },
   {
@@ -5836,8 +5836,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "타비 새봄의 노래",
-      "checkedAt": "2026-11-02T14:03:06.945Z"
+      "query": "타비 새봄의노래",
+      "checkedAt": "2026-11-02T14:37:52.863Z"
     }
   },
   {
@@ -5876,8 +5876,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "마시로 병명 상사병",
-      "checkedAt": "2026-11-02T14:03:22.531Z"
+      "query": "마시로 병명상사병",
+      "checkedAt": "2026-11-02T14:38:07.337Z"
     }
   },
   {
@@ -5921,8 +5921,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "유니버스 Universe",
-      "checkedAt": "2026-11-02T14:01:59.008Z"
+      "query": "유니버스 유니버스",
+      "checkedAt": "2026-11-02T14:35:16.562Z"
     }
   },
   {
@@ -5961,8 +5961,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리코 Henceforth",
-      "checkedAt": "2026-11-02T14:01:58.415Z"
+      "query": "리코 헨스포스",
+      "checkedAt": "2026-11-02T14:35:14.061Z"
     }
   },
   {
@@ -6002,7 +6002,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "시부키 눈싸움",
-      "checkedAt": "2026-11-02T14:01:54.990Z"
+      "checkedAt": "2026-11-02T14:40:27.312Z"
     }
   },
   {
@@ -6042,8 +6042,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "히나 린 Lonely Universe",
-      "checkedAt": "2026-11-02T14:02:07.892Z"
+      "query": "히나 린 lonely universe",
+      "checkedAt": "2026-11-02T14:35:30.174Z"
     }
   },
   {
@@ -6083,7 +6083,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "유니 연애서큘레이션",
-      "checkedAt": "2026-11-02T14:03:16.528Z"
+      "checkedAt": "2026-11-02T14:41:38.098Z"
     }
   },
   {
@@ -6127,8 +6127,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "클리셰 언노운 마더구스",
-      "checkedAt": "2026-11-02T14:01:56.179Z"
+      "query": "클리셰 언노운마더구스",
+      "checkedAt": "2026-11-02T14:35:10.072Z"
     }
   },
   {
@@ -6167,8 +6167,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "나나 Grand Escape",
-      "checkedAt": "2026-11-02T14:02:08.629Z"
+      "query": "나나 grand escape",
+      "checkedAt": "2026-11-02T14:35:37.062Z"
     }
   },
   {
@@ -6205,8 +6205,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "스텔라이브 Tell Your World",
-      "checkedAt": "2026-11-02T14:01:57.160Z"
+      "query": "스텔라이브 tell your world",
+      "checkedAt": "2026-11-02T14:35:11.428Z"
     }
   },
   {
@@ -6245,8 +6245,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "린 Stand By You",
-      "checkedAt": "2026-11-02T14:02:11.299Z"
+      "query": "린 stand by you",
+      "checkedAt": "2026-11-02T14:35:52.983Z"
     }
   },
   {
@@ -6286,7 +6286,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "린 Unbreakable Sphere",
-      "checkedAt": "2026-11-02T14:01:59.713Z"
+      "checkedAt": "2026-11-02T14:40:30.791Z"
     }
   },
   {
@@ -6325,8 +6325,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "히나 Orange オレンジ / 4월은 너의 거짓말 ED",
-      "checkedAt": "2026-11-02T14:02:01.351Z"
+      "query": "히나 오렌지",
+      "checkedAt": "2026-11-02T14:35:19.588Z"
     }
   },
   {
@@ -6366,8 +6366,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "시부키 리코 있잖아 있잖아 있잖아",
-      "checkedAt": "2026-11-02T14:02:12.058Z"
+      "query": "시부키 리코 있잖아있잖아있잖아",
+      "checkedAt": "2026-11-02T14:35:54.669Z"
     }
   },
   {
@@ -6407,7 +6407,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "나나 모니터링",
-      "checkedAt": "2026-11-02T14:02:01.933Z"
+      "checkedAt": "2026-11-02T14:40:33.748Z"
     }
   },
   {
@@ -6447,7 +6447,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "리코 증표",
-      "checkedAt": "2026-11-02T14:01:59.932Z"
+      "checkedAt": "2026-11-02T14:40:33.710Z"
     }
   },
   {
@@ -6487,7 +6487,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "마시로 슈가로스",
-      "checkedAt": "2026-11-02T14:02:04.848Z"
+      "checkedAt": "2026-11-02T14:40:37.123Z"
     }
   },
   {
@@ -6526,8 +6526,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "린 BOW AND ARROW",
-      "checkedAt": "2026-11-02T14:02:13.541Z"
+      "query": "린 bow and arrow",
+      "checkedAt": "2026-11-02T14:35:57.144Z"
     }
   },
   {
@@ -6567,7 +6567,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "시부키 SOS",
-      "checkedAt": "2026-11-02T14:02:01.937Z"
+      "checkedAt": "2026-11-02T14:40:36.689Z"
     }
   },
   {
@@ -6608,7 +6608,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "린 나나 역몽",
-      "checkedAt": "2026-11-02T14:02:05.235Z"
+      "checkedAt": "2026-11-02T14:40:39.984Z"
     }
   },
   {
@@ -6648,7 +6648,7 @@
       "fallbackRank": 1,
       "noResults": true,
       "query": "리코 래빗홀",
-      "checkedAt": "2026-11-02T14:03:32.263Z"
+      "checkedAt": "2026-11-02T14:39:09.560Z"
     }
   },
   {
@@ -6687,8 +6687,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리제 벚꽃 너 그리고 나",
-      "checkedAt": "2026-11-02T14:02:14.352Z"
+      "query": "리제 벚꽃너나",
+      "checkedAt": "2026-11-02T14:36:01.260Z"
     }
   },
   {
@@ -6727,8 +6727,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "린 W/X/Y",
-      "checkedAt": "2026-11-02T14:02:02.588Z"
+      "query": "린 wxy",
+      "checkedAt": "2026-11-02T14:35:22.649Z"
     }
   },
   {
@@ -6768,7 +6768,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "마시로 연예인",
-      "checkedAt": "2026-11-02T14:03:25.020Z"
+      "checkedAt": "2026-11-02T14:41:40.515Z"
     }
   },
   {
@@ -6809,8 +6809,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "나나 리코 린 Beyond the way",
-      "checkedAt": "2026-11-02T14:02:16.735Z"
+      "query": "나나 리코 린 beyond the way",
+      "checkedAt": "2026-11-02T14:36:06.663Z"
     }
   },
   {
@@ -6849,8 +6849,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "린 To X",
-      "checkedAt": "2026-11-02T14:02:08.415Z"
+      "query": "린 to x",
+      "checkedAt": "2026-11-02T14:35:33.579Z"
     }
   },
   {
@@ -6889,8 +6889,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리코 心予報",
-      "checkedAt": "2026-11-02T14:03:12.753Z"
+      "query": "리코 마음예보",
+      "checkedAt": "2026-11-02T14:37:59.361Z"
     }
   },
   {
@@ -6930,7 +6930,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "리코 모니터링",
-      "checkedAt": "2026-11-02T14:02:05.243Z"
+      "checkedAt": "2026-11-02T14:40:40.723Z"
     }
   },
   {
@@ -6969,8 +6969,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리제 내일의 밤하늘 초계반",
-      "checkedAt": "2026-11-02T14:03:08.941Z"
+      "query": "리제 내일의밤하늘초계반",
+      "checkedAt": "2026-11-02T14:37:53.032Z"
     }
   },
   {
@@ -7010,8 +7010,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리코 시부키 절대적대완전싫어",
-      "checkedAt": "2026-11-02T14:02:16.876Z"
+      "query": "리코 시부키 절대적완전싫어",
+      "checkedAt": "2026-11-02T14:36:09.114Z"
     }
   },
   {
@@ -7051,7 +7051,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "나나 비행정",
-      "checkedAt": "2026-11-02T14:02:05.402Z"
+      "checkedAt": "2026-11-02T14:40:43.112Z"
     }
   },
   {
@@ -7090,8 +7090,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "린 꿈의 카니발",
-      "checkedAt": "2026-11-02T14:03:25.547Z"
+      "query": "린 꿈의카니발",
+      "checkedAt": "2026-11-02T14:38:07.967Z"
     }
   },
   {
@@ -7130,8 +7130,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리코 꽃의 탑",
-      "checkedAt": "2026-11-02T14:02:08.610Z"
+      "query": "리코 꽃의탑",
+      "checkedAt": "2026-11-02T14:35:35.487Z"
     }
   },
   {
@@ -7171,7 +7171,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "히나 만찬가",
-      "checkedAt": "2026-11-02T14:03:13.538Z"
+      "checkedAt": "2026-11-02T14:41:32.499Z"
     }
   },
   {
@@ -7210,8 +7210,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "린 SPECIALZ",
-      "checkedAt": "2026-11-02T14:03:10.414Z"
+      "query": "린 specialz",
+      "checkedAt": "2026-11-02T14:37:56.767Z"
     }
   },
   {
@@ -7250,8 +7250,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "나나 シル・ヴ・プレジデント",
-      "checkedAt": "2026-11-02T14:03:27.299Z"
+      "query": "나나 실부프레지던트",
+      "checkedAt": "2026-11-02T14:38:09.845Z"
     }
   },
   {
@@ -7290,8 +7290,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "시부키 겨울의 선물",
-      "checkedAt": "2026-11-02T14:02:07.758Z"
+      "query": "시부키 겨울의선물",
+      "checkedAt": "2026-11-02T14:35:28.879Z"
     }
   },
   {
@@ -7330,8 +7330,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리코 크리스마스송 クリスマスソング",
-      "checkedAt": "2026-11-02T14:02:10.789Z"
+      "query": "리코 크리스마스송",
+      "checkedAt": "2026-11-02T14:35:50.491Z"
     }
   },
   {
@@ -7370,8 +7370,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "린 ハッピーエンド",
-      "checkedAt": "2026-11-02T14:02:19.907Z"
+      "query": "린 해피엔드",
+      "checkedAt": "2026-11-02T14:36:16.428Z"
     }
   },
   {
@@ -7411,7 +7411,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "리코 주름맞추기",
-      "checkedAt": "2026-11-02T14:03:11.065Z"
+      "checkedAt": "2026-11-02T14:41:28.487Z"
     }
   },
   {
@@ -7449,7 +7449,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "타비 여로",
-      "checkedAt": "2026-11-02T14:03:15.863Z"
+      "checkedAt": "2026-11-02T14:41:37.519Z"
     }
   },
   {
@@ -7488,8 +7488,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "시부키 Sabotage",
-      "checkedAt": "2026-11-02T14:03:27.993Z"
+      "query": "시부키 sabotage",
+      "checkedAt": "2026-11-02T14:38:10.159Z"
     }
   },
   {
@@ -7529,8 +7529,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "유니 마시로 해피 신디사이저",
-      "checkedAt": "2026-11-02T14:02:11.187Z"
+      "query": "유니 마시로 해피신디사이저",
+      "checkedAt": "2026-11-02T14:35:51.003Z"
     }
   },
   {
@@ -7571,8 +7571,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리제 린 APT",
-      "checkedAt": "2026-11-02T14:02:19.806Z"
+      "query": "리제 린 아파트",
+      "checkedAt": "2026-11-02T14:36:15.248Z"
     }
   },
   {
@@ -7612,8 +7612,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "유니 칸나 점묘의 노래",
-      "checkedAt": "2026-11-02T14:02:08.364Z"
+      "query": "유니 칸나 점묘의노래",
+      "checkedAt": "2026-11-02T14:35:32.269Z"
     }
   },
   {
@@ -7653,8 +7653,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "마시로 타비 さよーならまたいつか！",
-      "checkedAt": "2026-11-02T14:02:22.832Z"
+      "query": "타비 마시로 안녕또언젠가",
+      "checkedAt": "2026-11-02T14:36:19.566Z"
     }
   },
   {
@@ -7690,11 +7690,11 @@
     },
     "search": {
       "status": "visible",
-      "rank": 1,
+      "rank": 2,
       "fallbackRank": null,
       "noResults": false,
-      "query": "나나 神っぽいな",
-      "checkedAt": "2026-11-02T14:02:10.530Z"
+      "query": "나나 신같네",
+      "checkedAt": "2026-11-02T14:35:38.033Z"
     }
   },
   {
@@ -7741,8 +7741,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "미스틱 유니버스 ✧Alice in Musicland✧",
-      "checkedAt": "2026-11-02T14:02:13.367Z"
+      "query": "스텔라이브 앨뮤랜",
+      "checkedAt": "2026-11-02T14:35:55.460Z"
     }
   },
   {
@@ -7782,7 +7782,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "리코 경화수월",
-      "checkedAt": "2026-11-02T14:02:22.954Z"
+      "checkedAt": "2026-11-02T14:40:48.912Z"
     }
   },
   {
@@ -7821,8 +7821,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "린 Overdose",
-      "checkedAt": "2026-11-02T14:02:14.401Z"
+      "query": "린 overdose",
+      "checkedAt": "2026-11-02T14:36:02.301Z"
     }
   },
   {
@@ -7862,7 +7862,7 @@
       "fallbackRank": 1,
       "noResults": true,
       "query": "히나 하루카",
-      "checkedAt": "2026-11-02T14:02:17.830Z"
+      "checkedAt": "2026-11-02T14:38:58.422Z"
     }
   },
   {
@@ -7935,7 +7935,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "리코 케세라세라",
-      "checkedAt": "2026-11-02T14:02:11.264Z"
+      "checkedAt": "2026-11-02T14:40:44.116Z"
     }
   },
   {
@@ -7974,8 +7974,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "타비 死神",
-      "checkedAt": "2026-11-02T14:02:13.769Z"
+      "query": "타비 사신",
+      "checkedAt": "2026-11-02T14:35:58.523Z"
     }
   },
   {
@@ -8015,8 +8015,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "린 시부키 アイデンティティ",
-      "checkedAt": "2026-11-02T14:02:25.725Z"
+      "query": "린 시부키 아이덴티티",
+      "checkedAt": "2026-11-02T14:36:25.646Z"
     }
   },
   {
@@ -8055,8 +8055,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "히나 새벽과 반딧불이",
-      "checkedAt": "2026-11-02T14:02:16.572Z"
+      "query": "히나 새벽과반딧불이",
+      "checkedAt": "2026-11-02T14:36:05.381Z"
     }
   },
   {
@@ -8095,8 +8095,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리제 끝나지 않은 노래",
-      "checkedAt": "2026-11-02T14:02:26.442Z"
+      "query": "리제 끝나지않은노래",
+      "checkedAt": "2026-11-02T14:36:30.499Z"
     }
   },
   {
@@ -8135,8 +8135,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리코 톤데모 원더즈",
-      "checkedAt": "2026-11-02T14:02:13.889Z"
+      "query": "리코 톤데모원더즈",
+      "checkedAt": "2026-11-02T14:35:59.870Z"
     }
   },
   {
@@ -8174,7 +8174,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "마시로 봄꿈",
-      "checkedAt": "2026-11-02T14:02:28.801Z"
+      "checkedAt": "2026-11-02T14:40:51.444Z"
     }
   },
   {
@@ -8213,8 +8213,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "린 사랑 감기에 실려",
-      "checkedAt": "2026-11-02T14:02:18.906Z"
+      "query": "린 사랑감기에실려",
+      "checkedAt": "2026-11-02T14:36:11.721Z"
     }
   },
   {
@@ -8253,8 +8253,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "나나 サムライハート",
-      "checkedAt": "2026-11-02T14:02:16.308Z"
+      "query": "나나 사무라이하트",
+      "checkedAt": "2026-11-02T14:36:03.807Z"
     }
   },
   {
@@ -8295,8 +8295,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리코 린 GETCHA",
-      "checkedAt": "2026-11-02T14:02:29.264Z"
+      "query": "리코 린 getcha",
+      "checkedAt": "2026-11-02T14:36:36.255Z"
     }
   },
   {
@@ -8335,8 +8335,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리제 밀월 Un・Deux・Trois",
-      "checkedAt": "2026-11-02T14:02:20.344Z"
+      "query": "리제 밀월",
+      "checkedAt": "2026-11-02T14:36:17.377Z"
     }
   },
   {
@@ -8375,8 +8375,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "시부키 Leo",
-      "checkedAt": "2026-11-02T14:02:17.266Z"
+      "query": "시부키 레오",
+      "checkedAt": "2026-11-02T14:36:09.591Z"
     }
   },
   {
@@ -8413,8 +8413,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리제 Festa",
-      "checkedAt": "2026-11-02T14:02:31.884Z"
+      "query": "리제 festa",
+      "checkedAt": "2026-11-02T14:36:44.788Z"
     }
   },
   {
@@ -8453,8 +8453,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리코 맑은 날",
-      "checkedAt": "2026-11-02T14:02:19.134Z"
+      "query": "리코 맑은날",
+      "checkedAt": "2026-11-02T14:36:13.272Z"
     }
   },
   {
@@ -8494,7 +8494,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "린 무희",
-      "checkedAt": "2026-11-02T14:02:22.258Z"
+      "checkedAt": "2026-11-02T14:40:47.353Z"
     }
   },
   {
@@ -8532,7 +8532,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "히나 하나",
-      "checkedAt": "2026-11-02T14:02:20.047Z"
+      "checkedAt": "2026-11-02T14:40:45.807Z"
     }
   },
   {
@@ -8571,8 +8571,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "타비 BE SOMEBODY",
-      "checkedAt": "2026-11-02T14:02:31.989Z"
+      "query": "타비 be somebody",
+      "checkedAt": "2026-11-02T14:36:45.083Z"
     }
   },
   {
@@ -8613,8 +8613,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "칸나 공주열차",
-      "checkedAt": "2026-11-02T14:02:23.167Z"
+      "query": "칸나 요미 공주열차",
+      "checkedAt": "2026-11-02T14:36:22.325Z"
     }
   },
   {
@@ -8653,8 +8653,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리제 Viva La Vida",
-      "checkedAt": "2026-11-02T14:02:34.869Z"
+      "query": "리제 비바라비다",
+      "checkedAt": "2026-11-02T14:36:48.504Z"
     }
   },
   {
@@ -8693,8 +8693,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "나나 푸른 산호초",
-      "checkedAt": "2026-11-02T14:02:24.822Z"
+      "query": "나나 푸른산호초",
+      "checkedAt": "2026-11-02T14:36:25.027Z"
     }
   },
   {
@@ -8736,8 +8736,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "클리셰 Our Tales",
-      "checkedAt": "2026-11-02T14:02:21.230Z"
+      "query": "스텔라이브 our tales",
+      "checkedAt": "2026-11-02T14:36:18.915Z"
     }
   },
   {
@@ -8776,8 +8776,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리코 지구를 줄게",
-      "checkedAt": "2026-11-02T14:02:35.170Z"
+      "query": "리코 지구를줄게",
+      "checkedAt": "2026-11-02T14:36:51.245Z"
     }
   },
   {
@@ -8816,8 +8816,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "칸나 Love wins all",
-      "checkedAt": "2026-11-02T14:02:26.177Z"
+      "query": "칸나 love wins all",
+      "checkedAt": "2026-11-02T14:36:28.445Z"
     }
   },
   {
@@ -8856,8 +8856,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "린 Rumor ルーマー",
-      "checkedAt": "2026-11-02T14:02:37.518Z"
+      "query": "린 루머",
+      "checkedAt": "2026-11-02T14:36:56.122Z"
     }
   },
   {
@@ -8897,7 +8897,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "시부키 여우비",
-      "checkedAt": "2026-11-02T14:02:23.011Z"
+      "checkedAt": "2026-11-02T14:40:50.536Z"
     }
   },
   {
@@ -8934,8 +8934,8 @@
       "rank": 2,
       "fallbackRank": null,
       "noResults": false,
-      "query": "칸나 푸른 보석과 어린 용",
-      "checkedAt": "2026-11-02T14:02:24.712Z"
+      "query": "칸나 푸른보석과어린용",
+      "checkedAt": "2026-11-02T14:36:22.542Z"
     }
   },
   {
@@ -8974,8 +8974,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리코 괴수의 꽃노래",
-      "checkedAt": "2026-11-02T14:02:27.260Z"
+      "query": "리코 괴수의꽃노래",
+      "checkedAt": "2026-11-02T14:36:31.228Z"
     }
   },
   {
@@ -9014,8 +9014,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "린 안녕 또 언젠가",
-      "checkedAt": "2026-11-02T14:02:38.636Z"
+      "query": "린 안녕또언젠가",
+      "checkedAt": "2026-11-02T14:36:58.795Z"
     }
   },
   {
@@ -9054,8 +9054,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리제 Drowning",
-      "checkedAt": "2026-11-02T14:02:25.763Z"
+      "query": "리제 드라우닝",
+      "checkedAt": "2026-11-02T14:36:27.744Z"
     }
   },
   {
@@ -9092,8 +9092,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "칸나 Frozen Eclipse",
-      "checkedAt": "2026-11-02T14:02:29.619Z"
+      "query": "칸나 frozen eclipse",
+      "checkedAt": "2026-11-02T14:36:36.701Z"
     }
   },
   {
@@ -9132,8 +9132,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "마시로 댄스 로봇 댄스",
-      "checkedAt": "2026-11-02T14:02:29.645Z"
+      "query": "마시로 댄스로봇댄스",
+      "checkedAt": "2026-11-02T14:36:39.800Z"
     }
   },
   {
@@ -9172,8 +9172,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리제 Melt",
-      "checkedAt": "2026-11-02T14:02:40.788Z"
+      "query": "리제 멜트",
+      "checkedAt": "2026-11-02T14:37:03.846Z"
     }
   },
   {
@@ -9212,8 +9212,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "히나 I Really Want to Stay At Your House",
-      "checkedAt": "2026-11-02T14:02:27.278Z"
+      "query": "히나 달을가",
+      "checkedAt": "2026-11-02T14:36:33.424Z"
     }
   },
   {
@@ -9250,8 +9250,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "유니 SUPADOPA",
-      "checkedAt": "2026-11-02T14:02:41.209Z"
+      "query": "유니 supadopa",
+      "checkedAt": "2026-11-02T14:37:04.134Z"
     }
   },
   {
@@ -9290,8 +9290,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "타비 HERO",
-      "checkedAt": "2026-11-02T14:02:31.802Z"
+      "query": "타비 hero",
+      "checkedAt": "2026-11-02T14:36:42.540Z"
     }
   },
   {
@@ -9330,8 +9330,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리제 프라이드 혁명",
-      "checkedAt": "2026-11-02T14:02:28.342Z"
+      "query": "리제 프라이드혁명",
+      "checkedAt": "2026-11-02T14:36:34.174Z"
     }
   },
   {
@@ -9370,8 +9370,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "히나 17살의 노래",
-      "checkedAt": "2026-11-02T14:02:43.764Z"
+      "query": "히나 17살의노래",
+      "checkedAt": "2026-11-02T14:37:09.096Z"
     }
   },
   {
@@ -9411,7 +9411,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "칸나 역광",
-      "checkedAt": "2026-11-02T14:02:32.592Z"
+      "checkedAt": "2026-11-02T14:40:53.624Z"
     }
   },
   {
@@ -9448,8 +9448,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "스텔라이브 소리가 나는 쪽으로",
-      "checkedAt": "2026-11-02T14:02:29.632Z"
+      "query": "스텔라이브 소리가나는쪽으로",
+      "checkedAt": "2026-11-02T14:36:38.560Z"
     }
   },
   {
@@ -9488,8 +9488,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "마시로 안녕 꽃도둑씨",
-      "checkedAt": "2026-11-02T14:02:35.128Z"
+      "query": "마시로 안녕꽃도둑씨",
+      "checkedAt": "2026-11-02T14:36:50.108Z"
     }
   },
   {
@@ -9529,7 +9529,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "리코 용사",
-      "checkedAt": "2026-11-02T14:02:43.962Z"
+      "checkedAt": "2026-11-02T14:40:59.774Z"
     }
   },
   {
@@ -9568,8 +9568,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "나나 가짜 얼굴",
-      "checkedAt": "2026-11-02T14:02:31.634Z"
+      "query": "나나 가짜얼굴",
+      "checkedAt": "2026-11-02T14:36:42.087Z"
     }
   },
   {
@@ -9609,7 +9609,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "린 유령도쿄",
-      "checkedAt": "2026-11-02T14:02:35.464Z"
+      "checkedAt": "2026-11-02T14:40:54.007Z"
     }
   },
   {
@@ -9648,8 +9648,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "시부키 너에게 메롱",
-      "checkedAt": "2026-11-02T14:02:47.560Z"
+      "query": "시부키 너에게메롱",
+      "checkedAt": "2026-11-02T14:37:15.854Z"
     }
   },
   {
@@ -9688,8 +9688,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "칸나 애타는 한 가슴을 달랠 수 있다면",
-      "checkedAt": "2026-11-02T14:02:46.433Z"
+      "query": "칸나 애타는한가슴을달랠수있다면",
+      "checkedAt": "2026-11-02T14:37:12.490Z"
     }
   },
   {
@@ -9728,8 +9728,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "히나 봄을 기다리다",
-      "checkedAt": "2026-11-02T14:02:32.982Z"
+      "query": "히나 봄을기다리다",
+      "checkedAt": "2026-11-02T14:36:47.326Z"
     }
   },
   {
@@ -9768,8 +9768,8 @@
       "rank": null,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리제 괴수의 꽃노래",
-      "checkedAt": "2026-11-02T14:02:37.068Z"
+      "query": "리제 괴수의꽃노래",
+      "checkedAt": "2026-11-02T14:38:34.594Z"
     }
   },
   {
@@ -9811,8 +9811,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "유니버스 Stars Align",
-      "checkedAt": "2026-11-02T14:02:37.462Z"
+      "query": "스텔라이브 stars align",
+      "checkedAt": "2026-11-02T14:36:53.858Z"
     }
   },
   {
@@ -9850,8 +9850,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "히나 마시로 Dear my fairy",
-      "checkedAt": "2026-11-02T14:02:38.043Z"
+      "query": "히나 마시로 dear my fairy",
+      "checkedAt": "2026-11-02T14:36:58.059Z"
     }
   },
   {
@@ -9890,8 +9890,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "유니 큐 큐라링",
-      "checkedAt": "2026-11-02T14:02:49.487Z"
+      "query": "유니 두근어질",
+      "checkedAt": "2026-11-02T14:37:17.255Z"
     }
   },
   {
@@ -9925,12 +9925,12 @@
       "privacy": "public"
     },
     "search": {
-      "status": "cover_only",
-      "rank": null,
-      "fallbackRank": 3,
-      "noResults": true,
-      "query": "칸나 리제 Hit On Shot",
-      "checkedAt": "2026-11-02T14:02:41.567Z"
+      "status": "visible",
+      "rank": 1,
+      "fallbackRank": null,
+      "noResults": false,
+      "query": "힛온샷",
+      "checkedAt": "2026-11-02T14:37:06.824Z"
     }
   },
   {
@@ -9971,7 +9971,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "마시로 타비 사랑하고 있는거야",
-      "checkedAt": "2026-11-02T14:02:36.083Z"
+      "checkedAt": "2026-11-02T14:40:55.877Z"
     }
   },
   {
@@ -10011,7 +10011,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "히나 라푼젤",
-      "checkedAt": "2026-11-02T14:02:50.997Z"
+      "checkedAt": "2026-11-02T14:41:08.541Z"
     }
   },
   {
@@ -10051,7 +10051,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "타비 첫사랑",
-      "checkedAt": "2026-11-02T14:02:39.312Z"
+      "checkedAt": "2026-11-02T14:40:56.721Z"
     }
   },
   {
@@ -10090,8 +10090,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "히나 Sweet Dreams My Dear",
-      "checkedAt": "2026-11-02T14:02:52.571Z"
+      "query": "히나 sweet dreams my dear",
+      "checkedAt": "2026-11-02T14:37:23.635Z"
     }
   },
   {
@@ -10125,11 +10125,11 @@
     },
     "search": {
       "status": "visible",
-      "rank": 5,
+      "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "칸나 최종화",
-      "checkedAt": "2026-11-02T14:02:40.171Z"
+      "query": "칸나 최종화 어쿠스틱",
+      "checkedAt": "2026-11-02T14:37:01.516Z"
     }
   },
   {
@@ -10169,7 +10169,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "리제 선잠",
-      "checkedAt": "2026-11-02T14:02:42.727Z"
+      "checkedAt": "2026-11-02T14:38:57.201Z"
     }
   },
   {
@@ -10204,8 +10204,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "스텔라이브 Milky Way",
-      "checkedAt": "2026-11-02T14:02:39.458Z"
+      "query": "스텔라이브 milky way",
+      "checkedAt": "2026-11-02T14:37:00.889Z"
     }
   },
   {
@@ -10240,8 +10240,8 @@
       "rank": 2,
       "fallbackRank": null,
       "noResults": false,
-      "query": "스텔라이브 Starry Way",
-      "checkedAt": "2026-11-02T14:02:55.609Z"
+      "query": "스텔라이브 starry way",
+      "checkedAt": "2026-11-02T14:37:28.455Z"
     }
   },
   {
@@ -10280,8 +10280,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "마시로 츄 다양성",
-      "checkedAt": "2026-11-02T14:02:54.297Z"
+      "query": "마시로 츄다양성",
+      "checkedAt": "2026-11-02T14:37:24.591Z"
     }
   },
   {
@@ -10321,7 +10321,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "리제 절정찬가",
-      "checkedAt": "2026-11-02T14:02:44.618Z"
+      "checkedAt": "2026-11-02T14:41:02.620Z"
     }
   },
   {
@@ -10361,7 +10361,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "히나 피날레",
-      "checkedAt": "2026-11-02T14:02:42.300Z"
+      "checkedAt": "2026-11-02T14:40:59.355Z"
     }
   },
   {
@@ -10400,8 +10400,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "칸나 괴수의 꽃노래",
-      "checkedAt": "2026-11-02T14:02:42.749Z"
+      "query": "칸나 괴수의꽃노래",
+      "checkedAt": "2026-11-02T14:37:06.851Z"
     }
   },
   {
@@ -10440,8 +10440,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리제 눈이 녹을 때",
-      "checkedAt": "2026-11-02T14:02:57.033Z"
+      "query": "리제 눈이녹을때",
+      "checkedAt": "2026-11-02T14:37:31.962Z"
     }
   },
   {
@@ -10475,11 +10475,11 @@
     },
     "search": {
       "status": "visible",
-      "rank": 18,
+      "rank": 10,
       "fallbackRank": null,
       "noResults": false,
       "query": "유니 내꺼 하는 법",
-      "checkedAt": "2026-11-02T14:02:45.005Z"
+      "checkedAt": "2026-11-02T14:38:59.724Z"
     }
   },
   {
@@ -10518,8 +10518,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "히나 그저 네게 맑아라",
-      "checkedAt": "2026-11-02T14:02:46.099Z"
+      "query": "히나 그저네게맑아라",
+      "checkedAt": "2026-11-02T14:37:12.452Z"
     }
   },
   {
@@ -10558,8 +10558,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "마시로 우주 비행사의 노래",
-      "checkedAt": "2026-11-02T14:02:58.757Z"
+      "query": "마시로 우주비행사의노래",
+      "checkedAt": "2026-11-02T14:37:34.728Z"
     }
   },
   {
@@ -10597,7 +10597,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "리제 Stranger",
-      "checkedAt": "2026-11-02T14:02:47.910Z"
+      "checkedAt": "2026-11-02T14:41:05.778Z"
     }
   },
   {
@@ -10636,8 +10636,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "유니 Mela",
-      "checkedAt": "2026-11-02T14:02:45.136Z"
+      "query": "유니 멜라",
+      "checkedAt": "2026-11-02T14:37:09.743Z"
     }
   },
   {
@@ -10676,8 +10676,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "타비 낮에 뜨는 달",
-      "checkedAt": "2026-11-02T14:02:59.967Z"
+      "query": "타비 낮에뜨는달",
+      "checkedAt": "2026-11-02T14:37:36.716Z"
     }
   },
   {
@@ -10716,8 +10716,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "칸나 감 그레이",
-      "checkedAt": "2026-11-02T14:02:47.461Z"
+      "query": "칸나 감그레이",
+      "checkedAt": "2026-11-02T14:37:14.715Z"
     }
   },
   {
@@ -10755,7 +10755,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "칸나 최종화",
-      "checkedAt": "2026-11-02T14:02:49.283Z"
+      "checkedAt": "2026-11-02T14:41:06.290Z"
     }
   },
   {
@@ -10794,8 +10794,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "리제 나라는 것",
-      "checkedAt": "2026-11-02T14:03:01.933Z"
+      "query": "리제 나라는것",
+      "checkedAt": "2026-11-02T14:37:41.438Z"
     }
   },
   {
@@ -10834,8 +10834,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "칸나 사랑해줘 사랑해줘 사랑해줘",
-      "checkedAt": "2026-11-02T14:02:50.932Z"
+      "query": "칸나 사랑해줘",
+      "checkedAt": "2026-11-02T14:37:19.710Z"
     }
   },
   {
@@ -10871,11 +10871,11 @@
     },
     "search": {
       "status": "visible",
-      "rank": 1,
+      "rank": 2,
       "fallbackRank": null,
       "noResults": false,
       "query": "칸나 지구본",
-      "checkedAt": "2026-11-02T14:02:47.744Z"
+      "checkedAt": "2026-11-02T14:41:03.090Z"
     }
   },
   {
@@ -10914,8 +10914,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "마시로 Pale",
-      "checkedAt": "2026-11-02T14:03:03.562Z"
+      "query": "마시로 pale",
+      "checkedAt": "2026-11-02T14:37:44.369Z"
     }
   },
   {
@@ -10954,8 +10954,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "칸나 KICK BACK",
-      "checkedAt": "2026-11-02T14:02:50.518Z"
+      "query": "칸나 킥백",
+      "checkedAt": "2026-11-02T14:37:18.117Z"
     }
   },
   {
@@ -10994,8 +10994,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "칸나 LADY",
-      "checkedAt": "2026-11-02T14:02:52.557Z"
+      "query": "칸나 레이디",
+      "checkedAt": "2026-11-02T14:37:22.407Z"
     }
   },
   {
@@ -11034,8 +11034,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "타비 그 여름에 피어나",
-      "checkedAt": "2026-11-02T14:02:54.891Z"
+      "query": "타비 그여름에피어나",
+      "checkedAt": "2026-11-02T14:37:25.876Z"
     }
   },
   {
@@ -11074,8 +11074,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "칸나 잠이 드는 거리",
-      "checkedAt": "2026-11-02T14:03:05.608Z"
+      "query": "칸나 잠이드는거리",
+      "checkedAt": "2026-11-02T14:37:50.189Z"
     }
   },
   {
@@ -11115,7 +11115,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "히나 드라마",
-      "checkedAt": "2026-11-02T14:02:53.325Z"
+      "checkedAt": "2026-11-02T14:41:11.487Z"
     }
   },
   {
@@ -11152,8 +11152,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "유니 내꺼하는 법",
-      "checkedAt": "2026-11-02T14:02:51.091Z"
+      "query": "유니 내꺼하는법",
+      "checkedAt": "2026-11-02T14:37:20.691Z"
     }
   },
   {
@@ -11193,7 +11193,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "유니 아이돌",
-      "checkedAt": "2026-11-02T14:03:07.192Z"
+      "checkedAt": "2026-11-02T14:41:22.064Z"
     }
   },
   {
@@ -11231,7 +11231,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "칸나 색채",
-      "checkedAt": "2026-11-02T14:02:53.237Z"
+      "checkedAt": "2026-11-02T14:41:10.048Z"
     }
   },
   {
@@ -11270,8 +11270,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "타비 그 여름의 어느 날은",
-      "checkedAt": "2026-11-02T14:03:09.161Z"
+      "query": "타비 그여름의어느날은",
+      "checkedAt": "2026-11-02T14:37:56.532Z"
     }
   },
   {
@@ -11311,7 +11311,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "리제 괴물",
-      "checkedAt": "2026-11-02T14:02:55.496Z"
+      "checkedAt": "2026-11-02T14:41:14.526Z"
     }
   },
   {
@@ -11351,7 +11351,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "마시로 퀘스천",
-      "checkedAt": "2026-11-02T14:02:54.271Z"
+      "checkedAt": "2026-11-02T14:41:12.469Z"
     }
   },
   {
@@ -11391,7 +11391,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "히나 낙향",
-      "checkedAt": "2026-11-02T14:03:10.476Z"
+      "checkedAt": "2026-11-02T14:41:26.626Z"
     }
   },
   {
@@ -11428,8 +11428,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "칸나 ADDICT ON",
-      "checkedAt": "2026-11-02T14:02:55.721Z"
+      "query": "칸나 어딕션",
+      "checkedAt": "2026-11-02T14:37:28.974Z"
     }
   },
   {
@@ -11469,7 +11469,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "칸나 아이돌",
-      "checkedAt": "2026-11-02T14:02:58.384Z"
+      "checkedAt": "2026-11-02T14:41:15.867Z"
     }
   },
   {
@@ -11508,8 +11508,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "유니 굿바이 선언",
-      "checkedAt": "2026-11-02T14:02:56.864Z"
+      "query": "유니 굿바이선언",
+      "checkedAt": "2026-11-02T14:37:31.209Z"
     }
   },
   {
@@ -11549,7 +11549,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "칸나 에러",
-      "checkedAt": "2026-11-02T14:03:12.188Z"
+      "checkedAt": "2026-11-02T14:41:29.097Z"
     }
   },
   {
@@ -11589,7 +11589,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "칸나 스즈메",
-      "checkedAt": "2026-11-02T14:03:13.334Z"
+      "checkedAt": "2026-11-02T14:41:31.482Z"
     }
   },
   {
@@ -11629,7 +11629,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "칸나 삼문소설",
-      "checkedAt": "2026-11-02T14:02:58.551Z"
+      "checkedAt": "2026-11-02T14:41:17.052Z"
     }
   },
   {
@@ -11669,7 +11669,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "칸나 신시대",
-      "checkedAt": "2026-11-02T14:03:01.330Z"
+      "checkedAt": "2026-11-02T14:41:18.733Z"
     }
   },
   {
@@ -11708,8 +11708,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "유니 사랑의 말 Ⅳ",
-      "checkedAt": "2026-11-02T14:02:58.054Z"
+      "query": "유니 사랑의말",
+      "checkedAt": "2026-11-02T14:37:33.398Z"
     }
   },
   {
@@ -11749,7 +11749,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "유니 베텔기우스",
-      "checkedAt": "2026-11-02T14:03:13.921Z"
+      "checkedAt": "2026-11-02T14:41:34.538Z"
     }
   },
   {
@@ -11789,7 +11789,7 @@
       "fallbackRank": null,
       "noResults": false,
       "query": "칸나 좋아하니까",
-      "checkedAt": "2026-11-02T14:03:14.377Z"
+      "checkedAt": "2026-11-02T14:41:34.906Z"
     }
   },
   {
@@ -11824,12 +11824,12 @@
       "privacy": null
     },
     "search": {
-      "status": "unavailable",
+      "status": "hidden",
       "rank": null,
       "fallbackRank": null,
       "noResults": false,
       "query": "칸나 Cookie",
-      "checkedAt": "2026-11-02T14:03:03.247Z"
+      "checkedAt": "2026-11-02T14:39:03.492Z"
     }
   },
   {
@@ -11868,8 +11868,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "유니 긍지높은 아이돌",
-      "checkedAt": "2026-11-02T14:03:00.325Z"
+      "query": "유니 긍지높은아이돌",
+      "checkedAt": "2026-11-02T14:37:37.756Z"
     }
   },
   {
@@ -11908,8 +11908,8 @@
       "rank": 1,
       "fallbackRank": null,
       "noResults": false,
-      "query": "칸나 나는 최강",
-      "checkedAt": "2026-11-02T14:03:16.685Z"
+      "query": "칸나 나는최강",
+      "checkedAt": "2026-11-02T14:37:59.519Z"
     }
   }
 ]

@@ -66,7 +66,9 @@ Node ≥ 22.6 (TS를 `--experimental-strip-types`로 직접 실행, 빌드 없�
 
 ## 검색 노출 단계 (`npm run search`)
 로그아웃 상태(시크릿 모드 상당) YouTube 검색 첫 페이지에 곡이 뜨는지 점검 → `data/search.json`.
-- 검색어: `{멤버 약칭} {곡명}` (유닛곡은 유닛명, 구두점 제거). 없으면 `{검색어} cover`로 재검색.
+- 검색어 우선순위: `src/queries.ts`(수동) > `src/fan-queries.ts`(팬 표기, [Stelline](https://stel-line.vercel.app/search) 등록 검색어 스냅샷) > 자동 `{멤버 약칭} {곡명}`. 없으면 `{검색어} cover`로 재검색. 검색어가 바뀐 곡은 이력을 초기화하고 다음 실행에서 우선 점검.
+- 삭제·비공개 영상은 점검 제외 (`songs.json`에서 `search.status: unavailable`)
+- **측정 위치 주의**: GitHub 러너는 미국 IP라 한국에서 검색할 때와 결과가 일부 다름 (2026-11-02 비교: Stelline 대비 한국 IP 97% · 미국 IP 95% 일치, 미국 IP가 '막힘'을 더 많이 판정)
 - 호출: YouTube 웹이 내부적으로 쓰는 검색 API(InnerTube, 응답 약 0.44MB) → 실패 시 검색어 단위로 HTML 결과 페이지(약 1.3MB) 예비. `--engine=html`로 고정 가능.
 - `status`:
   | 값 | 의미 |
@@ -80,8 +82,8 @@ Node ≥ 22.6 (TS를 `--experimental-strip-types`로 직접 실행, 빌드 없�
 - 점검 주기 (등급):
   | 등급 | 조건 | 주기 |
   |---|---|---|
-  | 우선 | 미점검 · `error` · `suspected` | 매 실행 |
-  | 일반 | 그 외, 또는 공식 게시 30일 이내 신곡 | `--stale` (기본 8h, CI 7h) |
+  | 우선 | 미점검 · `error` · `suspected` · 검색어가 바뀐 곡 | 매 실행 |
+  | 일반 | 그 외, 또는 공식 게시 30일 이내 신곡 | `--stale` (기본 8h, CI 3h) |
   | 안정 | 최근 `--stable-runs`(3)회 연속 1위 | `--stable-stale` (기본 24h, CI 23h) |
 - 옵션: `--budget=초`(기본 160, 넘으면 끊고 다음 실행에서 이어서) `--delay=ms`(기본 1500) `--concurrency=N`(기본 2, 같은 IP에서 높이면 YouTube 일시 제한) `--shard=i/n` `--out=경로` `--only=게시물id`
 - 거짓 `hidden`(자동 검색어가 실제 검색 습관과 다른 경우)은 `src/queries.ts`에 검색어 수동 지정.
@@ -102,7 +104,7 @@ Node ≥ 22.6 (TS를 `--experimental-strip-types`로 직접 실행, 빌드 없�
 - 신규 멤버 데뷔 시 `src/members.ts`의 `MEMBERS`, `UNIT_MEMBERS` 갱신.
 
 ## 자동 실행 (GitHub Actions, `.github/workflows/collect.yml`)
-- 일정: KST 07:47 / 15:47 / 23:47 (하루 3회) + 수동 실행(Actions 탭 → collect → Run workflow, `search_all`로 점검 주기 무시하고 전체 재점검)
+- 일정: 4시간마다 KST 03:47 / 07:47 / 11:47 / 15:47 / 19:47 / 23:47 + 수동 실행(Actions 탭 → collect → Run workflow, `search_all`로 점검 주기 무시하고 전체 재점검)
 - 구조:
   | 잡 | 내용 |
   |---|---|
@@ -115,6 +117,10 @@ Node ≥ 22.6 (TS를 `--experimental-strip-types`로 직접 실행, 빌드 없�
 - 맥북 등 로컬 단독 실행은 기존처럼 `npm run search` (샤드 없이 `data/search.json`에 직접 기록)
 
 ## API (`https://stella-api.vercel.app`)
+> **비공식·비상업 팬 프로젝트**입니다. 스텔라이브 및 소속 멤버와 무관하며, 영리 목적 사용을 금지합니다. 곡·영상의 권리는 각 권리자에게 있고, 이 API는 공개된 메타데이터와 YouTube 영상 ID만 제공합니다.
+>
+> **이용 안내**: Vercel 무료 플랜(월 CDN 요청 100만 회)으로 운영되며, 한도를 넘으면 최대 30일간 API가 정지됩니다. 데이터는 4시간마다 갱신되므로 **서버에서 받아 캐시해서 쓰고**, 방문자 브라우저에서 매 페이지마다 직접 호출하지 말아 주세요.
+
 `main`에 커밋될 때마다 Vercel이 `npm run export-api`로 `public/v1`을 만들어 배포 (Actions 데이터 커밋 → 자동 갱신). 경로는 `.json` 없이 호출, 붙여도 동작. CORS `*`, CDN 캐시 1시간(배포 시 갱신).
 
 | 경로 | 내용 |

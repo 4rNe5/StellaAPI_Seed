@@ -1,7 +1,4 @@
-// 검색 노출 점검용 검색어 수동 지정 (공식 게시물 id → 검색어)
-// 자동 검색어("{멤버 약칭} {곡명}")가 팬들이 실제로 치는 표기와 달라 거짓 'hidden'이 나올 때 추가
-export const QUERY_OVERRIDES: Record<number, string> = {
-  5644: '유니 연애서큘레이션', // 공식 제목: Kana Hanazawa - 연애서큘레이션
-  4508: '리코 래빗홀', // 공식 제목: ラビットホール(래빗 홀)
-  439: '칸나 스즈메', // 공식 제목: 스즈메 suzume(스즈메의 문단속 OST)
-};
+// 검색 노출 점검용 검색어 수동 지정 (공식 게시물 id → 검색어) — 최우선
+// 우선순위: QUERY_OVERRIDES(여기) > FAN_QUERIES(fan-queries.ts, 팬 표기) > 자동 생성("{멤버 약칭} {곡명}")
+// 팬 표기 검색어가 없거나 틀린 곡만 여기에 추가
+export const QUERY_OVERRIDES: Record<number, string> = {};

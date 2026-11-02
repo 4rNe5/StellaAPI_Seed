@@ -10,7 +10,9 @@
  *   --engine=innertube|html  기본 innertube (실패 시 검색어 단위로 html 예비)
  *   --shard=i/n          대상 목록을 n개로 나눠 i번째(0부터)만 점검 (GitHub Actions 매트릭스용)
  *   --out=경로           기본 data/search.json (샤드는 별도 파일에 쓰고 merge-search.ts로 병합)
+ *   --history=N          곡별 보관 이력 수 (기본 180)
  *   --only=게시물id      한 곡만 강제 점검
+ * 검색어: queries.ts(수동) > fan-queries.ts(팬 표기) > 자동. 검색어가 바뀐 곡은 이력 초기화 후 우선 재점검
  * 판정: 기본 검색어 → 없으면 "{검색어} cover" 재검색
  *   visible / cover_only / suspected(미노출 1회, 다음 실행 우선 재점검) / hidden(미노출 2회 연속) / error
  */
@@ -19,6 +21,7 @@ import { existsSync } from 'node:fs';
 import { join, resolve, dirname } from 'node:path';
 import type { Unit } from './members.ts';
 import { QUERY_OVERRIDES } from './queries.ts';
+import { FAN_QUERIES } from './fan-queries.ts';
 
 const args = new Map(process.argv.slice(2).map((a) => { const [k, v] = a.replace(/^--/, '').split('='); return [k, v ?? 'true']; }));
 const BUDGET_MS = Number(args.get('budget') ?? 160) * 1000;
@@ -30,6 +33,7 @@ const CONCURRENCY = Number(args.get('concurrency') ?? 2);
 const ENGINE = (args.get('engine') ?? 'innertube') as 'innertube' | 'html';
 const ONLY = args.get('only');
 const [SHARD_I, SHARD_N] = (args.get('shard') ?? '0/1').split('/').map(Number);
+const HISTORY_MAX = Number(args.get('history') ?? 180); // 4시간 주기 기준 30일
 const NEW_DAYS = 30; // 공식 게시일 기준 신곡은 안정 여부와 무관하게 일반 주기
 const DATA = join(import.meta.dirname, '..', 'data');
 const IN = join(DATA, 'search.json');
@@ -58,6 +62,7 @@ export interface SearchEntry {
 
 export function buildQuery(t: any): string {
   if (QUERY_OVERRIDES[t.id]) return QUERY_OVERRIDES[t.id];
+  if (FAN_QUERIES[t.id]) return FAN_QUERIES[t.id];
   const who = t.units?.length
     ? t.units.map((u: Unit) => UNIT_KO[u]).join(' ')
     : t.members?.length
@@ -73,7 +78,7 @@ const rawOf = (h: Hist) => (h[1] ? 'visible' : h[2] ? 'cover_only' : 'hidden');
 type Tier = 'priority' | 'normal' | 'stable';
 /** priority: 신규·오류·suspected → 매 실행 / normal: --stale 주기 / stable: --stable-stale 주기 */
 function tierOf(t: any, e: SearchEntry | undefined, now: number): Tier {
-  if (!e || e.status === 'error' || e.status === 'suspected') return 'priority';
+  if (!e || e.status === 'error' || e.status === 'suspected' || e.query !== buildQuery(t)) return 'priority';
   if (t.date && now - Date.parse(t.date) < NEW_DAYS * 864e5) return 'normal';
   const last = e.history.slice(-STABLE_RUNS);
   return last.length === STABLE_RUNS && last.every((h) => h[1] === 1) ? 'stable' : 'normal';
@@ -162,11 +167,14 @@ async function main() {
   await mkdir(dirname(OUT), { recursive: true }); // 샤드 출력 폴더는 러너에 없음
   const tracks: any[] = JSON.parse(await readFile(join(DATA, 'tracks.json'), 'utf8'));
   const db: Record<string, SearchEntry> = existsSync(IN) ? JSON.parse(await readFile(IN, 'utf8')) : {};
+  // 삭제·비공개 영상은 검색 노출 판정이 무의미 → 제외 (youtube 단계 결과가 있을 때)
+  const VIDEOS = join(DATA, 'youtube', 'videos.json');
+  const unavailable = new Set<string>(existsSync(VIDEOS) ? JSON.parse(await readFile(VIDEOS, 'utf8')).filter((v: any) => !v.available).map((v: any) => v.id) : []);
   const now = Date.now();
   const order: Record<Tier, number> = { priority: 0, normal: 1, stable: 2 };
   const tiers = { priority: 0, normal: 0, stable: 0 };
   const due = tracks
-    .filter((t) => t.youtubeId && !t.isMedley)
+    .filter((t) => t.youtubeId && !t.isMedley && !unavailable.has(t.youtubeId))
     .map((t) => ({ t, tier: tierOf(t, db[t.id], now), age: db[t.id] ? now - Date.parse(db[t.id].checkedAt) : Infinity }))
     .filter(({ t, tier, age }) => (ONLY ? String(t.id) === ONLY : tier === 'priority' || age > (tier === 'stable' ? STABLE_STALE_MS : STALE_MS)))
     // 우선순위 → 오래된 순 → id (샤드가 같은 순서를 보도록 결정적 정렬)
@@ -198,14 +206,16 @@ async function main() {
         }
         const checkedAt = new Date().toISOString();
         const cur: Hist = [checkedAt, rank, fallbackRank];
-        const prevRaw = prev?.history.at(-1);
+        const sameQuery = prev?.query === query;
+        const prevHistory = sameQuery ? prev!.history : []; // 검색어가 바뀌면 이력 초기화
+        const prevRaw = prevHistory.at(-1);
         const raw = rawOf(cur);
         // 미노출은 2회 연속일 때만 확정 (IP·시점에 따른 검색 결과 노이즈 대응)
         const status: SearchStatus = raw === 'hidden' ? (prevRaw && rawOf(prevRaw) === 'hidden' ? 'hidden' : 'suspected') : raw;
         entry = {
           query, rank, fallbackQuery, fallbackRank, status,
           resultCount: ids.length, noResults, checkedAt,
-          history: [...(prev?.history ?? []), cur].slice(-60),
+          history: [...prevHistory, cur].slice(-HISTORY_MAX),
         };
         errors = 0;
       } catch (e) {
