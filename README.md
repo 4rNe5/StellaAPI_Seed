@@ -83,24 +83,23 @@ Node ≥ 22.6 (TS를 `--experimental-strip-types`로 직접 실행, 빌드 없�
   | 등급 | 조건 | 주기 |
   |---|---|---|
   | 우선 | 미점검 · `error` · `suspected` · 검색어가 바뀐 곡 | 매 실행 |
-  | 일반 | 그 외, 또는 공식 게시 30일 이내 신곡 | `--stale` (기본 8h, CI 3h) |
+  | 일반 | 그 외, 또는 공식 게시 30일 이내 신곡 | `--stale` (기본 8h, CI 7h) |
   | 안정 | 최근 `--stable-runs`(3)회 연속 1위 | `--stable-stale` (기본 24h, CI 23h) |
 - 옵션: `--budget=초`(기본 160, 넘으면 끊고 다음 실행에서 이어서) `--delay=ms`(기본 1500) `--concurrency=N`(기본 2, 같은 IP에서 높이면 YouTube 일시 제한) `--shard=i/n` `--out=경로` `--only=게시물id`
 - 거짓 `hidden`(자동 검색어가 실제 검색 습관과 다른 경우)은 `src/queries.ts`에 검색어 수동 지정.
 - YouTube 웹/내부 API 자동 접근이라 YouTube 약관상 허용되지 않는 방식이며, 구조 변경·차단 시 깨질 수 있음.
 
 ## 맥북 보조 측정 (한국 IP)
-GitHub 러너(미국 IP)는 한국에서 검색할 때와 결과가 일부 달라서, 맥북이 켜져 있으면 한국 IP로 먼저 측정해 반영한다.
-- 흐름: 맥북 launchd가 KST 03:17 / 07:17 / … (Actions 30분 전) `scripts/kr-run.sh` 실행 → `git pull` → `search --source=KR` → `data/search-kr.json` 업로드(GitHub API)
-  → Actions `prepare`가 `search-kr.json`을 병합 → 한국 측정이 3시간 이내인 곡은 미국 샤드에서 건너뜀 → 맥북이 꺼져 있으면 미국 IP 결과로 대체
-- 결과의 `source`(`KR` / `US`)로 측정 위치 확인 가능
-- 설치 (맥북, 1회):
-  1. `git clone https://github.com/4rNe5/StellaAPI_Seed && cd StellaAPI_Seed && npm ci`
-  2. GitHub → Settings → Developer settings → Fine-grained tokens: 저장소 `StellaAPI_Seed`만, **Contents: Read and write** → `.env`에 `KR_GITHUB_TOKEN=...`
-  3. `bash scripts/install-kr-agent.sh` → 시험 실행 `launchctl kickstart gui/$(id -u)/com.4rne5.stellaapi.kr` → 로그 `.kr/agent.log`
-  - 해제: `bash scripts/install-kr-agent.sh --uninstall`
+GitHub 러너(미국 IP)는 한국에서 검색할 때와 결과가 일부 달라서, 맥북(한국 가정용 IP)에서 먼저 측정해 반영한다.
+- 흐름: **Claude 예약 작업**이 KST 05:07 / 13:07 / 21:07 (Actions 40분 전) 맥북 VM에서 실행
+  → 저장소 최신본 다운로드 → `scripts/kr-session.sh prepare` → `run`(150초씩 반복, 이어받기) → `upload`(`data/search-kr.json`, GitHub API)
+  → Actions `prepare`가 `search-kr.json`을 병합 → 한국 측정이 7시간 이내인 곡은 미국 샤드에서 건너뜀
+- 맥북이 꺼져 있거나 Claude 데스크톱 앱이 닫혀 있으면 그 회차는 미국 IP 결과로 대체
+- 결과의 `source`(`KR` / `US`)로 측정 위치 확인
+- 토큰: 맥북 `~/Repo/.stellaapi-kr.env`에 `KR_GITHUB_TOKEN=...` (fine-grained, 저장소 `StellaAPI_Seed`만, Contents: Read and write)
+- 맥북을 직접 쓸 수 있을 때는 macOS launchd로 대체 가능: `bash scripts/install-kr-agent.sh` (`scripts/kr-run.sh`, 해제 `--uninstall`)
 
- → `data/songs.json`
+## 병합 (`npm run build`) → `data/songs.json`
 공식 곡(`tracks.json`) + `availability`(가용성) + `search`(검색 노출). **조회수·채널·치지직 통계는 넣지 않음** — `youtube/`, `chzzk.json`, `stats/`에서 별도 관리.
 
 ## 알려진 데이터 특이점 (2026-11-01, 298건 기준)
@@ -115,7 +114,7 @@ GitHub 러너(미국 IP)는 한국에서 검색할 때와 결과가 일부 달�
 - 신규 멤버 데뷔 시 `src/members.ts`의 `MEMBERS`, `UNIT_MEMBERS` 갱신.
 
 ## 자동 실행 (GitHub Actions, `.github/workflows/collect.yml`)
-- 일정: 4시간마다 KST 03:47 / 07:47 / 11:47 / 15:47 / 19:47 / 23:47 + 수동 실행(Actions 탭 → collect → Run workflow, `search_all`로 점검 주기 무시하고 전체 재점검)
+- 일정: 하루 3회 KST 05:47 / 13:47 / 21:47 + 수동 실행(Actions 탭 → collect → Run workflow, `search_all`로 점검 주기 무시하고 전체 재점검)
 - 구조:
   | 잡 | 내용 |
   |---|---|
