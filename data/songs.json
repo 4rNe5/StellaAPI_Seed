@@ -11824,7 +11824,7 @@
       "privacy": null
     },
     "search": {
-      "status": "hidden",
+      "status": "unavailable",
       "rank": null,
       "fallbackRank": null,
       "noResults": false,
