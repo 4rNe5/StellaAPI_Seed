@@ -2,8 +2,9 @@ name: collect
 
 on:
   schedule:
-    # 4시간마다: KST 03:47 / 07:47 / 11:47 / 15:47 / 19:47 / 23:47 (정각은 GitHub 스케줄 지연이 커서 피함)
-    - cron: '47 2,6,10,14,18,22 * * *'
+    # 하루 3회 KST 05:47 / 13:47 / 21:47 (정각은 GitHub 스케줄 지연이 커서 피함)
+    # 맥북 한국 IP 측정(Claude 예약 작업)이 40분 먼저 KST 05:07 / 13:07 / 21:07에 search-kr.json을 올림
+    - cron: '47 20,4,12 * * *'
   workflow_dispatch:
     inputs:
       search_all:
@@ -73,14 +74,14 @@ jobs:
         with: { name: prepared, path: data }
 
       - name: 검색 노출 (샤드 ${{ matrix.shard }})
-        # 스케줄 간격(4h)보다 짧게 잡아야 매 실행 대상에 들어옴. 안정 곡은 23h(=하루 1회)
+        # 스케줄 간격(8h)보다 짧게 잡아야 매 실행 대상에 들어옴. 안정 곡은 23h(=하루 1회)
         run: >-
           npm run search --
           --shard=${{ matrix.shard }}/${{ env.SHARDS }}
           --source=US
           --out=data/search-shards/shard-${{ matrix.shard }}.json
           --budget=1500
-          --stale=${{ inputs.search_all && '0' || '3' }}
+          --stale=${{ inputs.search_all && '0' || '7' }}
           --stable-stale=${{ inputs.search_all && '0' || '23' }}
 
       - uses: actions/upload-artifact@v4

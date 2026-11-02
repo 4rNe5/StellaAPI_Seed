@@ -10,6 +10,7 @@
  *   --engine=innertube|html  기본 innertube (실패 시 검색어 단위로 html 예비)
  *   --shard=i/n          대상 목록을 n개로 나눠 i번째(0부터)만 점검 (GitHub Actions 매트릭스용)
  *   --out=경로           기본 data/search.json (샤드는 별도 파일에 쓰고 merge-search.ts로 병합)
+ *   --in=경로            기준 파일 (기본 data/search.json). --in과 --out을 같게 주면 여러 번 나눠 실행해도 이어서 진행
  *   --history=N          곡별 보관 이력 수 (기본 180)
  *   --source=KR|US       측정 위치 표기 (결과·이력에 기록)
  *   --only=게시물id      한 곡만 강제 점검
@@ -38,7 +39,7 @@ const [SHARD_I, SHARD_N] = (args.get('shard') ?? '0/1').split('/').map(Number);
 const HISTORY_MAX = Number(args.get('history') ?? 180); // 4시간 주기 기준 30일
 const NEW_DAYS = 30; // 공식 게시일 기준 신곡은 안정 여부와 무관하게 일반 주기
 const DATA = join(import.meta.dirname, '..', 'data');
-const IN = join(DATA, 'search.json');
+const IN = args.get('in') ? resolve(args.get('in')!) : join(DATA, 'search.json'); // --in=--out으로 주면 이어받기
 const OUT = args.get('out') ? resolve(args.get('out')!) : IN;
 const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36';
 
