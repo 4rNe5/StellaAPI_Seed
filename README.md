@@ -113,3 +113,23 @@ Node ≥ 22.6 (TS를 `--experimental-strip-types`로 직접 실행, 빌드 없�
 - 필요한 시크릿: `YT_API_KEY` (Settings → Secrets and variables → Actions)
 - 샤드 수 변경: `matrix.shard` 배열과 `env.SHARDS`를 같이 수정
 - 맥북 등 로컬 단독 실행은 기존처럼 `npm run search` (샤드 없이 `data/search.json`에 직접 기록)
+
+## API (`https://stella-api.vercel.app`)
+`main`에 커밋될 때마다 Vercel이 `npm run export-api`로 `public/v1`을 만들어 배포 (Actions 데이터 커밋 → 자동 갱신). 경로는 `.json` 없이 호출, 붙여도 동작. CORS `*`, CDN 캐시 1시간(배포 시 갱신).
+
+| 경로 | 내용 |
+|---|---|
+| `/v1` | 엔드포인트 목록·갱신 시각 |
+| `/v1/meta` | 갱신 시각·건수 |
+| `/v1/songs` | 전체 곡 (공식 MUSIC + `availability` + `search`) |
+| `/v1/songs/{id}` | 곡 1개 + 검색 노출 이력 (`id` = 공식 게시물 id) |
+| `/v1/members` | 멤버 목록 + 곡 수 |
+| `/v1/members/{slug}` | 멤버 1명 + 참여 곡 (`slug` 예: `rin`, `hina`, `mary`) |
+| `/v1/channels` | 멤버별 YouTube 채널·치지직 |
+| `/v1/search/hidden` | 검색 노출 문제 곡 (hidden → suspected → cover_only) |
+| `/v1/stats/latest` | 최신 조회수·좋아요·댓글(+전일 대비), 채널 구독자, 치지직 팔로워 |
+| `/v1/stats/songs/{id}` | 곡별 일별 조회수 추이 |
+
+```js
+const rin = await fetch('https://stella-api.vercel.app/v1/members/rin').then((r) => r.json());
+```
