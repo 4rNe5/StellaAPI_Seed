@@ -16,6 +16,6 @@ case "${1:-}" in
   run)
     "${NODE[@]}" src/search.ts --source=KR --stale=7 --stable-stale=23 --budget=150 --in=.kr/search-kr.json --out=.kr/search-kr.json ;;
   upload)
-    "${NODE[@]}" --env-file="$ENV_FILE" src/kr-upload.ts .kr/search-kr.json ;;
+    "${NODE[@]}" --env-file-if-exists="$ENV_FILE" src/kr-upload.ts .kr/search-kr.json ;;
   *) echo "사용: $0 prepare|run|upload"; exit 2 ;;
 esac
