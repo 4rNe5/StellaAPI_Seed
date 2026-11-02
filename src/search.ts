@@ -14,9 +14,9 @@
  * 판정: 기본 검색어 → 없으면 "{검색어} cover" 재검색
  *   visible / cover_only / suspected(미노출 1회, 다음 실행 우선 재점검) / hidden(미노출 2회 연속) / error
  */
-import { readFile, writeFile, rename } from 'node:fs/promises';
+import { readFile, writeFile, rename, mkdir } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
-import { join, resolve } from 'node:path';
+import { join, resolve, dirname } from 'node:path';
 import type { Unit } from './members.ts';
 import { QUERY_OVERRIDES } from './queries.ts';
 
@@ -159,6 +159,7 @@ async function searchIds(q: string) {
 }
 
 async function main() {
+  await mkdir(dirname(OUT), { recursive: true }); // 샤드 출력 폴더는 러너에 없음
   const tracks: any[] = JSON.parse(await readFile(join(DATA, 'tracks.json'), 'utf8'));
   const db: Record<string, SearchEntry> = existsSync(IN) ? JSON.parse(await readFile(IN, 'utf8')) : {};
   const now = Date.now();
