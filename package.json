@@ -10,7 +10,8 @@
     "all": "npm run collect && npm run youtube && npm run search && npm run build && npm run validate",
     "search": "node --experimental-strip-types --no-warnings src/search.ts",
     "build": "node --experimental-strip-types --no-warnings src/build.ts",
-    "merge-search": "node --experimental-strip-types --no-warnings src/merge-search.ts"
+    "merge-search": "node --experimental-strip-types --no-warnings src/merge-search.ts",
+    "export-api": "node --experimental-strip-types --no-warnings src/export-api.ts"
   },
   "dependencies": {
     "cheerio": "^1.2.0"
