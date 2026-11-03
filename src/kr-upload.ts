@@ -1,6 +1,7 @@
 /**
  * 맥북(한국 IP) 검색 측정 결과 업로드: 로컬 파일 → 저장소 data/search-kr.json (GitHub Contents API)
- * git 푸시 권한 없이 동작 — .env의 KR_GITHUB_TOKEN(이 저장소 Contents: Read and write 권한 fine-grained 토큰) 사용
+ * git 푸시 권한 없이 동작 — KR_GITHUB_TOKEN(이 저장소 fine-grained 토큰: Contents·Actions Read and write) 사용
+ * 업로드 후 collect.yml을 workflow_dispatch로 바로 실행 (KR_DISPATCH=0이면 생략)
  * 사용: node --experimental-strip-types --env-file-if-exists=.env src/kr-upload.ts .kr/search-kr.json
  */
 import { readFile } from 'node:fs/promises';
@@ -37,4 +38,13 @@ for (let i = 1; ; i++) {
   // 409: 그 사이 다른 커밋으로 sha가 바뀜 → 다시 조회 후 재시도
   if (res.status === 409 && i < 3) continue;
   throw new Error(`업로드 실패 HTTP ${res.status}: ${(await res.text()).slice(0, 300)}`);
+}
+
+// 업로드 직후 Actions(collect.yml) 바로 실행 — GitHub 예약 실행은 수 시간씩 밀려서 대비용으로만 둠
+// 토큰에 Actions: Read and write 권한 필요. 실패해도 업로드는 이미 끝났으므로 경고만 (다음 예약 실행이 병합)
+if (process.env.KR_DISPATCH !== '0') {
+  const d = await fetch(`https://api.github.com/repos/${REPO}/actions/workflows/collect.yml/dispatches`, {
+    method: 'POST', headers, body: JSON.stringify({ ref: 'main' }),
+  });
+  console.log(d.status === 204 ? 'Actions 실행 요청 완료 (collect.yml)' : `Actions 실행 요청 실패 HTTP ${d.status}: ${(await d.text()).slice(0, 200)} — 예약 실행 때 병합됨`);
 }

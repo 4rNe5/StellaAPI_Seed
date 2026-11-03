@@ -91,12 +91,14 @@ Node ≥ 22.6 (TS를 `--experimental-strip-types`로 직접 실행, 빌드 없�
 
 ## 맥북 보조 측정 (한국 IP)
 GitHub 러너(미국 IP)는 한국에서 검색할 때와 결과가 일부 달라서, 맥북(한국 가정용 IP)에서 먼저 측정해 반영한다.
-- 흐름: **Claude 예약 작업**이 KST 05:07 / 13:07 / 21:07 (Actions 40분 전) 맥북 VM에서 실행
+- 흐름: **Claude 예약 작업**이 KST 05:07 / 13:07 / 21:07 맥북 VM에서 실행
   → 저장소 최신본 다운로드 → `scripts/kr-session.sh prepare` → `run`(150초씩 반복, 이어받기) → `upload`(`data/search-kr.json`, GitHub API)
-  → Actions `prepare`가 `search-kr.json`을 병합 → 한국 측정이 7시간 이내인 곡은 미국 샤드에서 건너뜀
+  → 업로드 직후 Actions(`collect.yml`)를 `workflow_dispatch`로 바로 실행 → `prepare`가 `search-kr.json`을 병합 → 한국 측정이 7시간 이내인 곡은 미국 샤드에서 건너뜀
+- Actions 예약 실행(05:47 / 13:47 / 21:47)은 맥북이 꺼졌을 때를 위한 대비용 — GitHub 예약 실행은 수 시간씩 밀리는 일이 잦음
+- 예약 실행 세션에 맥북 `~/Repo` 폴더가 넘어오지 않는 경우가 있어, 작업이 먼저 폴더 연결을 확인하고 없으면 직접 요청함
 - 맥북이 꺼져 있거나 Claude 데스크톱 앱이 닫혀 있으면 그 회차는 미국 IP 결과로 대체
 - 결과의 `source`(`KR` / `US`)로 측정 위치 확인
-- 토큰: 맥북 `~/Repo/.stellaapi-kr.env`에 `KR_GITHUB_TOKEN=...` (fine-grained, 저장소 `StellaAPI_Seed`만, Contents: Read and write)
+- 토큰: 맥북 `~/Repo/.stellaapi-kr.env`에 `KR_GITHUB_TOKEN=...` (fine-grained, 저장소 `StellaAPI_Seed`만, Contents·Actions: Read and write)
 - 맥북을 직접 쓸 수 있을 때는 macOS launchd로 대체 가능: `bash scripts/install-kr-agent.sh` (`scripts/kr-run.sh`, 해제 `--uninstall`)
 
 ## 병합 (`npm run build`) → `data/songs.json`
@@ -114,7 +116,7 @@ GitHub 러너(미국 IP)는 한국에서 검색할 때와 결과가 일부 달�
 - 신규 멤버 데뷔 시 `src/members.ts`의 `MEMBERS`, `UNIT_MEMBERS` 갱신.
 
 ## 자동 실행 (GitHub Actions, `.github/workflows/collect.yml`)
-- 일정: 하루 3회 KST 05:47 / 13:47 / 21:47 + 수동 실행(Actions 탭 → collect → Run workflow, `search_all`로 점검 주기 무시하고 전체 재점검)
+- 일정: 맥북 업로드 직후(`workflow_dispatch`) + 대비용 예약 하루 3회 KST 05:47 / 13:47 / 21:47 + 수동 실행(Actions 탭 → collect → Run workflow, `search_all`로 점검 주기 무시하고 전체 재점검)
 - 구조:
   | 잡 | 내용 |
   |---|---|

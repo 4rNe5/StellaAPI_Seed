@@ -3,7 +3,8 @@ name: collect
 on:
   schedule:
     # 하루 3회 KST 05:47 / 13:47 / 21:47 (정각은 GitHub 스케줄 지연이 커서 피함)
-    # 맥북 한국 IP 측정(Claude 예약 작업)이 40분 먼저 KST 05:07 / 13:07 / 21:07에 search-kr.json을 올림
+    # 대비용: 평소에는 맥북 한국 IP 측정(KST 05:07 / 13:07 / 21:07)이 search-kr.json 업로드 직후 workflow_dispatch로 바로 실행함
+    # (GitHub 예약 실행은 수 시간씩 밀림. 밀린 예약 실행이 뒤따라와도 점검 주기 안의 곡은 건너뛰어 부담 적음)
     - cron: '47 20,4,12 * * *'
   workflow_dispatch:
     inputs:
