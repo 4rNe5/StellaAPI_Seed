@@ -11,6 +11,7 @@ NODE=(node --experimental-strip-types --no-warnings)
 case "${1:-}" in
   prepare)
     npm ci --no-audit --no-fund --silent
+    "${NODE[@]}" src/merge-search.ts data/search-kr.json  # 직전 한국 측정 반영 (Actions 병합 전이어도 다시 재지 않게)
     mkdir -p .kr && cp data/search.json .kr/search-kr.json
     echo "준비 완료 ($(node -v))" ;;
   run)
