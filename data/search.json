@@ -7143,11 +7143,11 @@
   "rank": null,
   "fallbackQuery": "리제 발묘 cover",
   "fallbackRank": null,
-  "status": "suspected",
-  "resultCount": 17,
+  "status": "hidden",
+  "resultCount": 14,
   "noResults": false,
-  "source": "US",
-  "checkedAt": "2026-11-03T19:52:16.466Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T20:08:47.879Z",
   "history": [
    [
     "2026-11-02T14:34:32.537Z",
@@ -7178,6 +7178,12 @@
     null,
     null,
     "US"
+   ],
+   [
+    "2026-11-03T20:08:47.879Z",
+    null,
+    null,
+    "KR"
    ]
   ]
  },
@@ -8815,11 +8821,11 @@
   "rank": null,
   "fallbackQuery": "유니 오네가이달링 cover",
   "fallbackRank": null,
-  "status": "suspected",
+  "status": "hidden",
   "resultCount": 16,
   "noResults": false,
-  "source": "US",
-  "checkedAt": "2026-11-03T19:52:00.422Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T20:08:47.999Z",
   "history": [
    [
     "2026-11-02T14:33:35.351Z",
@@ -8844,6 +8850,12 @@
     null,
     null,
     "US"
+   ],
+   [
+    "2026-11-03T20:08:47.999Z",
+    null,
+    null,
+    "KR"
    ]
   ]
  },
