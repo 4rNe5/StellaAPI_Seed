@@ -942,10 +942,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 18,
+  "resultCount": 16,
   "noResults": false,
   "source": "US",
-  "checkedAt": "2026-11-03T12:27:34.661Z",
+  "checkedAt": "2026-11-03T19:51:58.345Z",
   "history": [
    [
     "2026-11-01T15:06:40.741Z",
@@ -979,6 +979,12 @@
    ],
    [
     "2026-11-03T12:27:34.661Z",
+    1,
+    null,
+    "US"
+   ],
+   [
+    "2026-11-03T19:51:58.345Z",
     1,
     null,
     "US"
@@ -1547,10 +1553,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 17,
+  "resultCount": 18,
   "noResults": false,
   "source": "US",
-  "checkedAt": "2026-11-03T12:27:08.730Z",
+  "checkedAt": "2026-11-03T19:51:54.516Z",
   "history": [
    [
     "2026-11-02T14:37:28.455Z",
@@ -1569,6 +1575,12 @@
     2,
     null,
     "US"
+   ],
+   [
+    "2026-11-03T19:51:54.516Z",
+    2,
+    null,
+    "US"
    ]
   ]
  },
@@ -1578,10 +1590,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 18,
+  "resultCount": 28,
   "noResults": false,
   "source": "US",
-  "checkedAt": "2026-11-03T12:27:38.928Z",
+  "checkedAt": "2026-11-03T19:52:10.888Z",
   "history": [
    [
     "2026-11-01T15:06:00.871Z",
@@ -1615,6 +1627,12 @@
    ],
    [
     "2026-11-03T12:27:38.928Z",
+    2,
+    null,
+    "US"
+   ],
+   [
+    "2026-11-03T19:52:10.888Z",
     2,
     null,
     "US"
@@ -1728,14 +1746,14 @@
  },
  "1838": {
   "query": "유니 내꺼 하는 법",
-  "rank": 17,
+  "rank": 16,
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 19,
+  "resultCount": 18,
   "noResults": false,
   "source": "US",
-  "checkedAt": "2026-11-03T12:27:43.038Z",
+  "checkedAt": "2026-11-03T19:52:05.592Z",
   "history": [
    [
     "2026-11-01T15:06:15.585Z",
@@ -1770,6 +1788,12 @@
    [
     "2026-11-03T12:27:43.038Z",
     17,
+    null,
+    "US"
+   ],
+   [
+    "2026-11-03T19:52:05.592Z",
+    16,
     null,
     "US"
    ]
@@ -1989,12 +2013,12 @@
   "query": "리제 괴수의꽃노래",
   "rank": null,
   "fallbackQuery": "리제 괴수의꽃노래 cover",
-  "fallbackRank": null,
-  "status": "hidden",
-  "resultCount": 17,
+  "fallbackRank": 1,
+  "status": "cover_only",
+  "resultCount": 18,
   "noResults": false,
   "source": "US",
-  "checkedAt": "2026-11-03T12:27:34.773Z",
+  "checkedAt": "2026-11-03T19:52:01.951Z",
   "history": [
    [
     "2026-11-02T14:36:55.023Z",
@@ -2018,6 +2042,12 @@
     "2026-11-03T12:27:34.773Z",
     null,
     null,
+    "US"
+   ],
+   [
+    "2026-11-03T19:52:01.951Z",
+    null,
+    1,
     "US"
    ]
   ]
@@ -2687,7 +2717,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "US",
-  "checkedAt": "2026-11-03T12:26:49.459Z",
+  "checkedAt": "2026-11-03T19:52:03.045Z",
   "history": [
    [
     "2026-11-02T14:36:22.542Z",
@@ -2703,6 +2733,12 @@
    ],
    [
     "2026-11-03T12:26:49.459Z",
+    2,
+    null,
+    "US"
+   ],
+   [
+    "2026-11-03T19:52:03.045Z",
     2,
     null,
     "US"
@@ -3522,7 +3558,7 @@
   "resultCount": 0,
   "noResults": true,
   "source": "US",
-  "checkedAt": "2026-11-03T12:27:43.183Z",
+  "checkedAt": "2026-11-03T19:52:10.596Z",
   "history": [
    [
     "2026-11-01T15:02:53.696Z",
@@ -3556,6 +3592,12 @@
    ],
    [
     "2026-11-03T12:27:43.183Z",
+    null,
+    1,
+    "US"
+   ],
+   [
+    "2026-11-03T19:52:10.596Z",
     null,
     1,
     "US"
@@ -3676,7 +3718,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "US",
-  "checkedAt": "2026-11-03T12:26:38.024Z",
+  "checkedAt": "2026-11-03T19:51:57.580Z",
   "history": [
    [
     "2026-11-02T14:35:38.033Z",
@@ -3692,6 +3734,12 @@
    ],
    [
     "2026-11-03T12:26:38.024Z",
+    1,
+    null,
+    "US"
+   ],
+   [
+    "2026-11-03T19:51:57.580Z",
     1,
     null,
     "US"
@@ -4554,7 +4602,7 @@
   "resultCount": 0,
   "noResults": true,
   "source": "US",
-  "checkedAt": "2026-11-03T12:27:39.817Z",
+  "checkedAt": "2026-11-03T19:52:06.594Z",
   "history": [
    [
     "2026-11-01T15:09:00.912Z",
@@ -4594,6 +4642,12 @@
    ],
    [
     "2026-11-03T12:27:39.817Z",
+    null,
+    1,
+    "US"
+   ],
+   [
+    "2026-11-03T19:52:06.594Z",
     null,
     1,
     "US"
@@ -5624,10 +5678,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 18,
+  "resultCount": 17,
   "noResults": false,
   "source": "US",
-  "checkedAt": "2026-11-03T12:27:20.852Z",
+  "checkedAt": "2026-11-03T19:51:57.467Z",
   "history": [
    [
     "2026-11-02T14:37:47.123Z",
@@ -5643,6 +5697,12 @@
    ],
    [
     "2026-11-03T12:27:20.852Z",
+    1,
+    null,
+    "US"
+   ],
+   [
+    "2026-11-03T19:51:57.467Z",
     1,
     null,
     "US"
@@ -6562,7 +6622,7 @@
   "resultCount": 0,
   "noResults": true,
   "source": "US",
-  "checkedAt": "2026-11-03T12:27:39.480Z",
+  "checkedAt": "2026-11-03T19:52:03.819Z",
   "history": [
    [
     "2026-11-02T14:38:04.027Z",
@@ -6578,6 +6638,12 @@
    ],
    [
     "2026-11-03T12:27:39.480Z",
+    null,
+    1,
+    "US"
+   ],
+   [
+    "2026-11-03T19:52:03.819Z",
     null,
     1,
     "US"
@@ -6621,10 +6687,10 @@
   "fallbackQuery": "시부키 나나 울려퍼져라 cover",
   "fallbackRank": 1,
   "status": "cover_only",
-  "resultCount": 18,
+  "resultCount": 17,
   "noResults": false,
   "source": "US",
-  "checkedAt": "2026-11-03T12:26:37.762Z",
+  "checkedAt": "2026-11-03T19:51:55.521Z",
   "history": [
    [
     "2026-11-02T14:34:33.749Z",
@@ -6640,6 +6706,12 @@
    ],
    [
     "2026-11-03T12:26:37.762Z",
+    null,
+    1,
+    "US"
+   ],
+   [
+    "2026-11-03T19:51:55.521Z",
     null,
     1,
     "US"
@@ -7070,12 +7142,12 @@
   "query": "리제 발묘",
   "rank": null,
   "fallbackQuery": "리제 발묘 cover",
-  "fallbackRank": 1,
-  "status": "cover_only",
-  "resultCount": 16,
+  "fallbackRank": null,
+  "status": "hidden",
+  "resultCount": 14,
   "noResults": false,
-  "source": "US",
-  "checkedAt": "2026-11-03T12:27:45.165Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T20:08:47.879Z",
   "history": [
    [
     "2026-11-02T14:34:32.537Z",
@@ -7100,6 +7172,18 @@
     null,
     1,
     "US"
+   ],
+   [
+    "2026-11-03T19:52:16.466Z",
+    null,
+    null,
+    "US"
+   ],
+   [
+    "2026-11-03T20:08:47.879Z",
+    null,
+    null,
+    "KR"
    ]
   ]
  },
@@ -7482,7 +7566,7 @@
   "resultCount": 14,
   "noResults": false,
   "source": "US",
-  "checkedAt": "2026-11-03T12:26:17.383Z",
+  "checkedAt": "2026-11-03T19:52:00.955Z",
   "history": [
    [
     "2026-11-02T14:34:04.978Z",
@@ -7498,6 +7582,12 @@
    ],
    [
     "2026-11-03T12:26:17.383Z",
+    2,
+    null,
+    "US"
+   ],
+   [
+    "2026-11-03T19:52:00.955Z",
     2,
     null,
     "US"
@@ -7775,10 +7865,10 @@
   "fallbackQuery": "후야 chewing luv cover",
   "fallbackRank": null,
   "status": "hidden",
-  "resultCount": 7,
+  "resultCount": 10,
   "noResults": false,
   "source": "US",
-  "checkedAt": "2026-11-03T12:26:00.717Z",
+  "checkedAt": "2026-11-03T19:51:51.040Z",
   "history": [
    [
     "2026-11-02T14:34:01.392Z",
@@ -7794,6 +7884,12 @@
    ],
    [
     "2026-11-03T12:26:00.717Z",
+    null,
+    null,
+    "US"
+   ],
+   [
+    "2026-11-03T19:51:51.040Z",
     null,
     null,
     "US"
@@ -7976,7 +8072,7 @@
   "resultCount": 0,
   "noResults": true,
   "source": "US",
-  "checkedAt": "2026-11-03T12:27:35.882Z",
+  "checkedAt": "2026-11-03T19:52:11.309Z",
   "history": [
    [
     "2026-11-01T14:57:47.313Z",
@@ -8010,6 +8106,12 @@
    ],
    [
     "2026-11-03T12:27:35.882Z",
+    null,
+    1,
+    "US"
+   ],
+   [
+    "2026-11-03T19:52:11.309Z",
     null,
     1,
     "US"
@@ -8550,7 +8652,7 @@
   "resultCount": 16,
   "noResults": false,
   "source": "US",
-  "checkedAt": "2026-11-03T12:26:04.953Z",
+  "checkedAt": "2026-11-03T19:51:55.416Z",
   "history": [
    [
     "2026-11-02T14:33:46.973Z",
@@ -8566,6 +8668,12 @@
    ],
    [
     "2026-11-03T12:26:04.953Z",
+    null,
+    null,
+    "US"
+   ],
+   [
+    "2026-11-03T19:51:55.416Z",
     null,
     null,
     "US"
@@ -8712,12 +8820,12 @@
   "query": "유니 오네가이달링",
   "rank": null,
   "fallbackQuery": "유니 오네가이달링 cover",
-  "fallbackRank": 1,
-  "status": "cover_only",
+  "fallbackRank": null,
+  "status": "hidden",
   "resultCount": 16,
   "noResults": false,
-  "source": "US",
-  "checkedAt": "2026-11-03T12:25:59.675Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T20:08:47.999Z",
   "history": [
    [
     "2026-11-02T14:33:35.351Z",
@@ -8736,6 +8844,18 @@
     null,
     1,
     "US"
+   ],
+   [
+    "2026-11-03T19:52:00.422Z",
+    null,
+    null,
+    "US"
+   ],
+   [
+    "2026-11-03T20:08:47.999Z",
+    null,
+    null,
+    "KR"
    ]
   ]
  },
@@ -8779,7 +8899,7 @@
   "resultCount": 17,
   "noResults": false,
   "source": "US",
-  "checkedAt": "2026-11-03T12:27:50.989Z",
+  "checkedAt": "2026-11-03T19:52:10.298Z",
   "history": [
    [
     "2026-11-01T14:56:16.883Z",
@@ -8813,6 +8933,12 @@
    ],
    [
     "2026-11-03T12:27:50.989Z",
+    null,
+    null,
+    "US"
+   ],
+   [
+    "2026-11-03T19:52:10.298Z",
     null,
     null,
     "US"
@@ -8871,7 +8997,7 @@
   "resultCount": 0,
   "noResults": true,
   "source": "US",
-  "checkedAt": "2026-11-03T12:26:08.625Z",
+  "checkedAt": "2026-11-03T19:51:51.022Z",
   "history": [
    [
     "2026-11-02T14:33:40.893Z",
@@ -8887,6 +9013,12 @@
    ],
    [
     "2026-11-03T12:26:08.625Z",
+    null,
+    1,
+    "US"
+   ],
+   [
+    "2026-11-03T19:51:51.022Z",
     null,
     1,
     "US"
@@ -9510,10 +9642,10 @@
   "fallbackQuery": "나나 희극 cover",
   "fallbackRank": null,
   "status": "hidden",
-  "resultCount": 16,
+  "resultCount": 18,
   "noResults": false,
   "source": "US",
-  "checkedAt": "2026-11-03T12:27:40.147Z",
+  "checkedAt": "2026-11-03T19:52:15.616Z",
   "history": [
    [
     "2026-11-01T14:54:54.658Z",
@@ -9547,6 +9679,12 @@
    ],
    [
     "2026-11-03T12:27:40.147Z",
+    null,
+    null,
+    "US"
+   ],
+   [
+    "2026-11-03T19:52:15.616Z",
     null,
     null,
     "US"
@@ -9633,10 +9771,10 @@
   "fallbackQuery": "나나 논블레스오브리주 cover",
   "fallbackRank": null,
   "status": "hidden",
-  "resultCount": 18,
+  "resultCount": 17,
   "noResults": false,
   "source": "US",
-  "checkedAt": "2026-11-03T12:27:32.672Z",
+  "checkedAt": "2026-11-03T19:52:07.626Z",
   "history": [
    [
     "2026-11-02T14:33:14.561Z",
@@ -9658,6 +9796,12 @@
    ],
    [
     "2026-11-03T12:27:32.672Z",
+    null,
+    null,
+    "US"
+   ],
+   [
+    "2026-11-03T19:52:07.626Z",
     null,
     null,
     "US"
@@ -9761,12 +9905,12 @@
   "query": "마시로 구르는 바위 네게 아침이 내린다",
   "rank": null,
   "fallbackQuery": "마시로 구르는 바위 네게 아침이 내린다 cover",
-  "fallbackRank": null,
-  "status": "hidden",
-  "resultCount": 18,
+  "fallbackRank": 1,
+  "status": "cover_only",
+  "resultCount": 15,
   "noResults": false,
   "source": "US",
-  "checkedAt": "2026-11-03T12:27:32.255Z",
+  "checkedAt": "2026-11-03T19:52:01.697Z",
   "history": [
    [
     "2026-11-01T14:53:06.122Z",
@@ -9802,6 +9946,12 @@
     "2026-11-03T12:27:32.255Z",
     null,
     null,
+    "US"
+   ],
+   [
+    "2026-11-03T19:52:01.697Z",
+    null,
+    1,
     "US"
    ]
   ]
@@ -9886,10 +10036,10 @@
   "fallbackQuery": "시부키 모시모시 cover",
   "fallbackRank": null,
   "status": "hidden",
-  "resultCount": 18,
+  "resultCount": 17,
   "noResults": false,
   "source": "US",
-  "checkedAt": "2026-11-03T12:27:27.021Z",
+  "checkedAt": "2026-11-03T19:52:06.129Z",
   "history": [
    [
     "2026-11-02T14:33:34.615Z",
@@ -9911,6 +10061,12 @@
    ],
    [
     "2026-11-03T12:27:27.021Z",
+    null,
+    null,
+    "US"
+   ],
+   [
+    "2026-11-03T19:52:06.129Z",
     null,
     null,
     "US"
@@ -9969,7 +10125,7 @@
   "resultCount": 0,
   "noResults": true,
   "source": "US",
-  "checkedAt": "2026-11-03T12:27:47.231Z",
+  "checkedAt": "2026-11-03T19:52:10.456Z",
   "history": [
    [
     "2026-11-01T14:54:08.619Z",
@@ -10003,6 +10159,12 @@
    ],
    [
     "2026-11-03T12:27:47.231Z",
+    null,
+    null,
+    "US"
+   ],
+   [
+    "2026-11-03T19:52:10.456Z",
     null,
     null,
     "US"
@@ -10080,7 +10242,7 @@
   "resultCount": 0,
   "noResults": true,
   "source": "US",
-  "checkedAt": "2026-11-03T12:27:38.847Z",
+  "checkedAt": "2026-11-03T19:52:06.496Z",
   "history": [
    [
     "2026-11-01T14:53:54.358Z",
@@ -10114,6 +10276,12 @@
    ],
    [
     "2026-11-03T12:27:38.847Z",
+    null,
+    1,
+    "US"
+   ],
+   [
+    "2026-11-03T19:52:06.496Z",
     null,
     1,
     "US"
@@ -10169,10 +10337,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 10,
+  "resultCount": 8,
   "noResults": false,
   "source": "US",
-  "checkedAt": "2026-11-03T12:27:46.268Z",
+  "checkedAt": "2026-11-03T19:52:06.170Z",
   "history": [
    [
     "2026-11-01T14:53:43.948Z",
@@ -10209,6 +10377,12 @@
     1,
     null,
     "US"
+   ],
+   [
+    "2026-11-03T19:52:06.170Z",
+    1,
+    null,
+    "US"
    ]
   ]
  },
@@ -10218,10 +10392,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 14,
+  "resultCount": 10,
   "noResults": false,
   "source": "US",
-  "checkedAt": "2026-11-03T12:25:57.634Z",
+  "checkedAt": "2026-11-03T19:51:53.131Z",
   "history": [
    [
     "2026-11-02T14:33:00.260Z",
@@ -10240,6 +10414,12 @@
     1,
     null,
     "US"
+   ],
+   [
+    "2026-11-03T19:51:53.131Z",
+    1,
+    null,
+    "US"
    ]
   ]
  },
@@ -10249,10 +10429,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 6,
+  "resultCount": 7,
   "noResults": false,
   "source": "US",
-  "checkedAt": "2026-11-03T12:26:11.045Z",
+  "checkedAt": "2026-11-03T19:51:55.303Z",
   "history": [
    [
     "2026-11-02T14:33:06.306Z",
@@ -10271,6 +10451,12 @@
     1,
     null,
     "US"
+   ],
+   [
+    "2026-11-03T19:51:55.303Z",
+    1,
+    null,
+    "US"
    ]
   ]
  },
@@ -10283,7 +10469,7 @@
   "resultCount": 0,
   "noResults": true,
   "source": "US",
-  "checkedAt": "2026-11-03T12:27:36.239Z",
+  "checkedAt": "2026-11-03T19:52:02.378Z",
   "history": [
    [
     "2026-11-01T14:53:32.759Z",
@@ -10320,19 +10506,25 @@
     null,
     1,
     "US"
+   ],
+   [
+    "2026-11-03T19:52:02.378Z",
+    null,
+    1,
+    "US"
    ]
   ]
  },
  "14555": {
   "query": "랑 호랑풍류가",
-  "rank": 3,
+  "rank": 1,
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
   "resultCount": 18,
   "noResults": false,
   "source": "US",
-  "checkedAt": "2026-11-03T12:27:27.302Z",
+  "checkedAt": "2026-11-03T19:51:58.004Z",
   "history": [
    [
     "2026-11-01T14:53:25.936Z",
@@ -10369,6 +10561,12 @@
     3,
     null,
     "US"
+   ],
+   [
+    "2026-11-03T19:51:58.004Z",
+    1,
+    null,
+    "US"
    ]
   ]
  },
@@ -10378,10 +10576,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 10,
+  "resultCount": 7,
   "noResults": false,
   "source": "US",
-  "checkedAt": "2026-11-03T12:26:05.638Z",
+  "checkedAt": "2026-11-03T19:51:58.509Z",
   "history": [
    [
     "2026-11-02T14:33:00.027Z",
@@ -10400,6 +10598,12 @@
     1,
     null,
     "US"
+   ],
+   [
+    "2026-11-03T19:51:58.509Z",
+    1,
+    null,
+    "US"
    ]
   ]
  },
@@ -10409,10 +10613,10 @@
   "fallbackQuery": "메리 도쿄테디베어 cover",
   "fallbackRank": null,
   "status": "hidden",
-  "resultCount": 15,
+  "resultCount": 14,
   "noResults": false,
   "source": "US",
-  "checkedAt": "2026-11-03T12:27:48.333Z",
+  "checkedAt": "2026-11-03T19:52:21.046Z",
   "history": [
    [
     "2026-11-02T14:33:05.326Z",
@@ -10434,6 +10638,12 @@
    ],
    [
     "2026-11-03T12:27:48.333Z",
+    null,
+    null,
+    "US"
+   ],
+   [
+    "2026-11-03T19:52:21.046Z",
     null,
     null,
     "US"
