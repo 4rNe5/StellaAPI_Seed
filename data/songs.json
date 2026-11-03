@@ -37,7 +37,7 @@
       "noResults": false,
       "query": "메리 도쿄테디베어",
       "source": "US",
-      "checkedAt": "2026-11-03T12:27:48.333Z"
+      "checkedAt": "2026-11-03T19:52:21.046Z"
     }
   },
   {
@@ -78,7 +78,7 @@
       "noResults": false,
       "query": "히요리 유령이되고싶어",
       "source": "US",
-      "checkedAt": "2026-11-03T12:26:05.638Z"
+      "checkedAt": "2026-11-03T19:51:58.509Z"
     }
   },
   {
@@ -114,12 +114,12 @@
     },
     "search": {
       "status": "visible",
-      "rank": 3,
+      "rank": 1,
       "fallbackRank": null,
       "noResults": false,
       "query": "랑 호랑풍류가",
       "source": "US",
-      "checkedAt": "2026-11-03T12:27:27.302Z"
+      "checkedAt": "2026-11-03T19:51:58.004Z"
     }
   },
   {
@@ -160,7 +160,7 @@
       "noResults": true,
       "query": "토아 제육감",
       "source": "US",
-      "checkedAt": "2026-11-03T12:27:36.239Z"
+      "checkedAt": "2026-11-03T19:52:02.378Z"
     }
   },
   {
@@ -201,7 +201,7 @@
       "noResults": false,
       "query": "린 아프리오리",
       "source": "US",
-      "checkedAt": "2026-11-03T12:25:57.634Z"
+      "checkedAt": "2026-11-03T19:51:53.131Z"
     }
   },
   {
@@ -240,7 +240,7 @@
       "noResults": false,
       "query": "히나 loop in june",
       "source": "US",
-      "checkedAt": "2026-11-03T12:26:11.045Z"
+      "checkedAt": "2026-11-03T19:51:55.303Z"
     }
   },
   {
@@ -281,7 +281,7 @@
       "noResults": false,
       "query": "유니 오버라이드",
       "source": "US",
-      "checkedAt": "2026-11-03T12:27:46.268Z"
+      "checkedAt": "2026-11-03T19:52:06.170Z"
     }
   },
   {
@@ -364,7 +364,7 @@
       "noResults": true,
       "query": "히나 리코 소녀레이",
       "source": "US",
-      "checkedAt": "2026-11-03T12:27:38.847Z"
+      "checkedAt": "2026-11-03T19:52:06.496Z"
     }
   },
   {
@@ -488,7 +488,7 @@
       "noResults": true,
       "query": "나나 후야 오츠카레summer",
       "source": "US",
-      "checkedAt": "2026-11-03T12:27:47.231Z"
+      "checkedAt": "2026-11-03T19:52:10.456Z"
     }
   },
   {
@@ -570,7 +570,7 @@
       "noResults": false,
       "query": "시부키 모시모시",
       "source": "US",
-      "checkedAt": "2026-11-03T12:27:27.021Z"
+      "checkedAt": "2026-11-03T19:52:06.129Z"
     }
   },
   {
@@ -687,13 +687,13 @@
       "privacy": "public"
     },
     "search": {
-      "status": "hidden",
+      "status": "cover_only",
       "rank": null,
-      "fallbackRank": null,
+      "fallbackRank": 1,
       "noResults": false,
       "query": "마시로 구르는 바위 네게 아침이 내린다",
       "source": "US",
-      "checkedAt": "2026-11-03T12:27:32.255Z"
+      "checkedAt": "2026-11-03T19:52:01.697Z"
     }
   },
   {
@@ -858,7 +858,7 @@
       "noResults": false,
       "query": "나나 논블레스오브리주",
       "source": "US",
-      "checkedAt": "2026-11-03T12:27:32.672Z"
+      "checkedAt": "2026-11-03T19:52:07.626Z"
     }
   },
   {
@@ -981,7 +981,7 @@
       "noResults": false,
       "query": "나나 희극",
       "source": "US",
-      "checkedAt": "2026-11-03T12:27:40.147Z"
+      "checkedAt": "2026-11-03T19:52:15.616Z"
     }
   },
   {
@@ -1793,7 +1793,7 @@
       "noResults": true,
       "query": "리코 마시로 악마가아닌걸",
       "source": "US",
-      "checkedAt": "2026-11-03T12:26:08.625Z"
+      "checkedAt": "2026-11-03T19:51:51.022Z"
     }
   },
   {
@@ -1875,7 +1875,7 @@
       "noResults": false,
       "query": "나나 drivers license",
       "source": "US",
-      "checkedAt": "2026-11-03T12:27:50.989Z"
+      "checkedAt": "2026-11-03T19:52:10.298Z"
     }
   },
   {
@@ -1951,13 +1951,13 @@
       "privacy": "public"
     },
     "search": {
-      "status": "cover_only",
+      "status": "suspected",
       "rank": null,
-      "fallbackRank": 1,
+      "fallbackRank": null,
       "noResults": false,
       "query": "유니 오네가이달링",
       "source": "US",
-      "checkedAt": "2026-11-03T12:25:59.675Z"
+      "checkedAt": "2026-11-03T19:52:00.422Z"
     }
   },
   {
@@ -2039,7 +2039,7 @@
       "noResults": false,
       "query": "나나 deja vu",
       "source": "US",
-      "checkedAt": "2026-11-03T12:26:04.953Z"
+      "checkedAt": "2026-11-03T19:51:55.416Z"
     }
   },
   {
@@ -2800,7 +2800,7 @@
       "noResults": true,
       "query": "마시로 린 메이드지상주의",
       "source": "US",
-      "checkedAt": "2026-11-03T12:27:35.882Z"
+      "checkedAt": "2026-11-03T19:52:11.309Z"
     }
   },
   {
@@ -3047,7 +3047,7 @@
       "noResults": false,
       "query": "후야 chewing luv",
       "source": "US",
-      "checkedAt": "2026-11-03T12:26:00.717Z"
+      "checkedAt": "2026-11-03T19:51:51.040Z"
     }
   },
   {
@@ -3374,7 +3374,7 @@
       "noResults": false,
       "query": "히나 멜트",
       "source": "US",
-      "checkedAt": "2026-11-03T12:26:17.383Z"
+      "checkedAt": "2026-11-03T19:52:00.955Z"
     }
   },
   {
@@ -3822,13 +3822,13 @@
       "privacy": "public"
     },
     "search": {
-      "status": "cover_only",
+      "status": "suspected",
       "rank": null,
-      "fallbackRank": 1,
+      "fallbackRank": null,
       "noResults": false,
       "query": "리제 발묘",
       "source": "US",
-      "checkedAt": "2026-11-03T12:27:45.165Z"
+      "checkedAt": "2026-11-03T19:52:16.466Z"
     }
   },
   {
@@ -4369,7 +4369,7 @@
       "noResults": false,
       "query": "시부키 나나 울려퍼져라",
       "source": "US",
-      "checkedAt": "2026-11-03T12:26:37.762Z"
+      "checkedAt": "2026-11-03T19:51:55.521Z"
     }
   },
   {
@@ -4451,7 +4451,7 @@
       "noResults": true,
       "query": "아카네 리제 바니걸",
       "source": "US",
-      "checkedAt": "2026-11-03T12:27:39.480Z"
+      "checkedAt": "2026-11-03T19:52:03.819Z"
     }
   },
   {
@@ -5651,7 +5651,7 @@
       "noResults": false,
       "query": "나나 summertime",
       "source": "US",
-      "checkedAt": "2026-11-03T12:27:20.852Z"
+      "checkedAt": "2026-11-03T19:51:57.467Z"
     }
   },
   {
@@ -6812,7 +6812,7 @@
       "noResults": true,
       "query": "리코 래빗홀",
       "source": "US",
-      "checkedAt": "2026-11-03T12:27:39.817Z"
+      "checkedAt": "2026-11-03T19:52:06.594Z"
     }
   },
   {
@@ -7884,7 +7884,7 @@
       "noResults": false,
       "query": "나나 신같네",
       "source": "US",
-      "checkedAt": "2026-11-03T12:26:38.024Z"
+      "checkedAt": "2026-11-03T19:51:57.580Z"
     }
   },
   {
@@ -8056,7 +8056,7 @@
       "noResults": true,
       "query": "히나 하루카",
       "source": "US",
-      "checkedAt": "2026-11-03T12:27:43.183Z"
+      "checkedAt": "2026-11-03T19:52:10.596Z"
     }
   },
   {
@@ -9155,7 +9155,7 @@
       "noResults": false,
       "query": "칸나 푸른보석과어린용",
       "source": "US",
-      "checkedAt": "2026-11-03T12:26:49.459Z"
+      "checkedAt": "2026-11-03T19:52:03.045Z"
     }
   },
   {
@@ -10004,13 +10004,13 @@
       "privacy": "public"
     },
     "search": {
-      "status": "hidden",
+      "status": "cover_only",
       "rank": null,
-      "fallbackRank": null,
+      "fallbackRank": 1,
       "noResults": false,
       "query": "리제 괴수의꽃노래",
       "source": "US",
-      "checkedAt": "2026-11-03T12:27:34.773Z"
+      "checkedAt": "2026-11-03T19:52:01.951Z"
     }
   },
   {
@@ -10420,7 +10420,7 @@
       "noResults": false,
       "query": "리제 선잠",
       "source": "US",
-      "checkedAt": "2026-11-03T12:27:38.928Z"
+      "checkedAt": "2026-11-03T19:52:10.888Z"
     }
   },
   {
@@ -10494,7 +10494,7 @@
       "noResults": false,
       "query": "스텔라이브 starry way",
       "source": "US",
-      "checkedAt": "2026-11-03T12:27:08.730Z"
+      "checkedAt": "2026-11-03T19:51:54.516Z"
     }
   },
   {
@@ -10733,12 +10733,12 @@
     },
     "search": {
       "status": "visible",
-      "rank": 17,
+      "rank": 16,
       "fallbackRank": null,
       "noResults": false,
       "query": "유니 내꺼 하는 법",
       "source": "US",
-      "checkedAt": "2026-11-03T12:27:43.038Z"
+      "checkedAt": "2026-11-03T19:52:05.592Z"
     }
   },
   {
@@ -11144,7 +11144,7 @@
       "noResults": false,
       "query": "칸나 지구본",
       "source": "US",
-      "checkedAt": "2026-11-03T12:27:34.661Z"
+      "checkedAt": "2026-11-03T19:51:58.345Z"
     }
   },
   {
