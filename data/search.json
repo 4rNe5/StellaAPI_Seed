@@ -67,9 +67,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 14,
+  "resultCount": 17,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:41:34.906Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:53:45.336Z",
   "history": [
    [
     "2026-11-01T15:08:08.835Z",
@@ -94,9 +95,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:53:45.336Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "434": {
   "query": "유니 베텔기우스",
@@ -104,9 +110,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 17,
+  "resultCount": 18,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:41:34.538Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:53:42.402Z",
   "history": [
    [
     "2026-11-01T15:07:44.852Z",
@@ -131,9 +138,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:53:42.402Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "435": {
   "query": "유니 사랑의말",
@@ -172,9 +184,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 17,
+  "resultCount": 16,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:41:18.733Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:53:27.980Z",
   "history": [
    [
     "2026-11-01T15:07:41.229Z",
@@ -199,9 +212,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:53:27.980Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "437": {
   "query": "칸나 삼문소설",
@@ -209,9 +227,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 18,
+  "resultCount": 17,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:41:17.052Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:53:26.807Z",
   "history": [
    [
     "2026-11-01T15:07:34.695Z",
@@ -236,9 +255,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:53:26.807Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "439": {
   "query": "칸나 스즈메",
@@ -248,7 +272,8 @@
   "status": "visible",
   "resultCount": 16,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:41:31.482Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:53:39.835Z",
   "history": [
    [
     "2026-11-01T15:07:37.592Z",
@@ -279,9 +304,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:53:39.835Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "440": {
   "query": "칸나 에러",
@@ -289,9 +319,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 14,
+  "resultCount": 15,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:41:29.097Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:53:39.457Z",
   "history": [
    [
     "2026-11-01T15:07:30.990Z",
@@ -316,9 +347,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:53:39.457Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "451": {
   "query": "유니 굿바이선언",
@@ -357,9 +393,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 17,
+  "resultCount": 16,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:41:15.867Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:53:25.740Z",
   "history": [
    [
     "2026-11-01T15:07:27.637Z",
@@ -384,9 +421,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:53:25.740Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "471": {
   "query": "칸나 어딕션",
@@ -427,7 +469,8 @@
   "status": "visible",
   "resultCount": 18,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:41:26.626Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:53:36.514Z",
   "history": [
    [
     "2026-11-01T15:07:24.394Z",
@@ -452,9 +495,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:53:36.514Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "474": {
   "query": "마시로 퀘스천",
@@ -462,9 +510,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 13,
+  "resultCount": 11,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:41:12.469Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:53:21.897Z",
   "history": [
    [
     "2026-11-01T15:07:23.175Z",
@@ -489,9 +538,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:53:21.897Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "476": {
   "query": "리제 괴물",
@@ -499,9 +553,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 11,
+  "resultCount": 16,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:41:14.526Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:53:23.601Z",
   "history": [
    [
     "2026-11-01T15:07:20.077Z",
@@ -526,9 +581,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:53:23.601Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "477": {
   "query": "타비 그여름의어느날은",
@@ -567,9 +627,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 17,
+  "resultCount": 15,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:41:10.048Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:53:18.406Z",
   "history": [
    [
     "2026-11-01T15:07:16.626Z",
@@ -594,9 +655,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:53:18.406Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "480": {
   "query": "유니 아이돌",
@@ -604,9 +670,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 14,
+  "resultCount": 13,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:41:22.064Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:53:30.687Z",
   "history": [
    [
     "2026-11-01T15:07:15.577Z",
@@ -631,9 +698,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:53:30.687Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "482": {
   "query": "유니 내꺼하는법",
@@ -672,9 +744,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 6,
+  "resultCount": 12,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:41:11.487Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:53:20.473Z",
   "history": [
    [
     "2026-11-01T15:07:10.954Z",
@@ -699,9 +772,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:53:20.473Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "484": {
   "query": "칸나 잠이드는거리",
@@ -977,7 +1055,8 @@
   "status": "visible",
   "resultCount": 18,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:41:06.290Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:53:16.035Z",
   "history": [
    [
     "2026-11-01T15:06:31.005Z",
@@ -1002,9 +1081,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:53:16.035Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "499": {
   "query": "칸나 감그레이",
@@ -1105,9 +1189,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 15,
+  "resultCount": 17,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:41:05.778Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:53:14.262Z",
   "history": [
    [
     "2026-11-01T15:06:20.476Z",
@@ -1132,9 +1217,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:53:14.262Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "639": {
   "query": "마시로 우주비행사의노래",
@@ -1173,9 +1263,10 @@
   "fallbackQuery": "칸나 Cookie cover",
   "fallbackRank": null,
   "status": "hidden",
-  "resultCount": 15,
+  "resultCount": 16,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:39:03.492Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:51:52.935Z",
   "history": [
    [
     "2026-11-01T15:08:07.853Z",
@@ -1200,9 +1291,14 @@
     null,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:51:52.935Z",
+    null,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "1075": {
   "query": "히나 그저네게맑아라",
@@ -1303,9 +1399,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 17,
+  "resultCount": 18,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:59.355Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:53:09.656Z",
   "history": [
    [
     "2026-11-01T15:06:09.609Z",
@@ -1330,9 +1427,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:53:09.656Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "1568": {
   "query": "마시로 츄다양성",
@@ -1373,7 +1475,8 @@
   "status": "visible",
   "resultCount": 19,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:41:02.620Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:53:12.860Z",
   "history": [
    [
     "2026-11-01T15:06:07.314Z",
@@ -1398,9 +1501,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:53:12.860Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "1653": {
   "query": "스텔라이브 milky way",
@@ -1550,9 +1658,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 16,
+  "resultCount": 17,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:56.721Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:53:08.674Z",
   "history": [
    [
     "2026-11-01T15:05:36.600Z",
@@ -1577,9 +1686,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:53:08.674Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "1837": {
   "query": "칸나 최종화 어쿠스틱",
@@ -1669,7 +1783,8 @@
   "status": "visible",
   "resultCount": 18,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:41:08.541Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:53:17.034Z",
   "history": [
    [
     "2026-11-01T15:05:33.971Z",
@@ -1694,9 +1809,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:53:17.034Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "1862": {
   "query": "마시로 타비 사랑하고 있는거야",
@@ -1704,9 +1824,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 18,
+  "resultCount": 19,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:55.877Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:53:06.040Z",
   "history": [
    [
     "2026-11-01T15:05:29.738Z",
@@ -1731,9 +1852,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:53:06.040Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "1892": {
   "query": "힛온샷",
@@ -1995,9 +2121,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 16,
+  "resultCount": 17,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:54.007Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:53:05.340Z",
   "history": [
    [
     "2026-11-01T15:04:54.968Z",
@@ -2022,9 +2149,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:53:05.340Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "2247": {
   "query": "나나 가짜얼굴",
@@ -2063,9 +2195,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 18,
+  "resultCount": 16,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:59.774Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:53:11.115Z",
   "history": [
    [
     "2026-11-01T15:04:51.321Z",
@@ -2090,9 +2223,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:53:11.115Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "2386": {
   "query": "마시로 안녕꽃도둑씨",
@@ -2164,7 +2302,8 @@
   "status": "visible",
   "resultCount": 18,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:53.624Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:53:03.707Z",
   "history": [
    [
     "2026-11-01T15:04:41.039Z",
@@ -2189,9 +2328,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:53:03.707Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "2456": {
   "query": "히나 17살의노래",
@@ -2571,9 +2715,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 18,
+  "resultCount": 13,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:50.536Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:53:00.158Z",
   "history": [
    [
     "2026-11-01T15:03:59.130Z",
@@ -2598,9 +2743,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:53:00.158Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "2908": {
   "query": "린 루머",
@@ -2858,7 +3008,8 @@
   "status": "visible",
   "resultCount": 18,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:45.807Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:55.780Z",
   "history": [
    [
     "2026-11-01T15:03:31.711Z",
@@ -2883,9 +3034,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:55.780Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "3181": {
   "query": "린 무희",
@@ -2893,9 +3049,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 16,
+  "resultCount": 28,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:47.353Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:57.092Z",
   "history": [
    [
     "2026-11-01T15:03:28.244Z",
@@ -2920,9 +3077,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:57.092Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "3205": {
   "query": "리코 맑은날",
@@ -3149,7 +3311,8 @@
   "status": "visible",
   "resultCount": 18,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:51.444Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:53:02.791Z",
   "history": [
    [
     "2026-11-01T15:03:05.953Z",
@@ -3174,9 +3337,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:53:02.791Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "3357": {
   "query": "리코 톤데모원더즈",
@@ -3310,7 +3478,8 @@
   "status": "visible",
   "resultCount": 18,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:44.116Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:54.243Z",
   "history": [
    [
     "2026-11-01T15:02:52.534Z",
@@ -3335,9 +3504,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:54.243Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "3554": {
   "query": "히나 하루카",
@@ -3425,9 +3599,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 17,
+  "resultCount": 16,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:48.912Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:59.227Z",
   "history": [
    [
     "2026-11-01T15:02:48.717Z",
@@ -3452,9 +3627,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:59.227Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "3613": {
   "query": "스텔라이브 앨뮤랜",
@@ -3679,9 +3859,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 19,
+  "resultCount": 18,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:41:37.519Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:53:45.610Z",
   "history": [
    [
     "2026-11-01T15:09:16.462Z",
@@ -3706,9 +3887,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:53:45.610Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "3767": {
   "query": "리코 주름맞추기",
@@ -3716,9 +3902,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 17,
+  "resultCount": 18,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:41:28.487Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:53:36.601Z",
   "history": [
    [
     "2026-11-01T15:09:14.099Z",
@@ -3743,9 +3930,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:53:36.601Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "3825": {
   "query": "린 해피엔드",
@@ -3910,7 +4102,8 @@
   "status": "visible",
   "resultCount": 16,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:41:32.499Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:53:41.969Z",
   "history": [
    [
     "2026-11-01T15:09:07.674Z",
@@ -3935,9 +4128,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:53:41.969Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "3967": {
   "query": "리코 꽃의탑",
@@ -4007,9 +4205,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 17,
+  "resultCount": 18,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:43.112Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:52.579Z",
   "history": [
    [
     "2026-11-01T15:01:52.387Z",
@@ -4034,9 +4233,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:52.579Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "4132": {
   "query": "리코 시부키 절대적완전싫어",
@@ -4108,7 +4312,8 @@
   "status": "visible",
   "resultCount": 14,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:40.723Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:51.507Z",
   "history": [
    [
     "2026-11-01T15:01:46.262Z",
@@ -4133,9 +4338,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:51.507Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "4244": {
   "query": "리코 마음예보",
@@ -4236,9 +4446,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 17,
+  "resultCount": 18,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:41:40.515Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:53:48.278Z",
   "history": [
    [
     "2026-11-01T15:08:39.595Z",
@@ -4263,9 +4474,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:53:48.278Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "4423": {
   "query": "린 wxy",
@@ -4392,7 +4608,8 @@
   "status": "visible",
   "resultCount": 19,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:39.984Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:49.046Z",
   "history": [
    [
     "2026-11-01T15:01:35.383Z",
@@ -4417,9 +4634,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:49.046Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "4638": {
   "query": "시부키 SOS",
@@ -4429,7 +4651,8 @@
   "status": "visible",
   "resultCount": 18,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:36.689Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:45.573Z",
   "history": [
    [
     "2026-11-01T15:01:32.943Z",
@@ -4454,9 +4677,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:45.573Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "4892": {
   "query": "린 bow and arrow",
@@ -4495,9 +4723,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 13,
+  "resultCount": 15,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:37.123Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:49.021Z",
   "history": [
    [
     "2026-11-01T15:01:30.335Z",
@@ -4522,9 +4751,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:49.021Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "5018": {
   "query": "리코 증표",
@@ -4534,7 +4768,8 @@
   "status": "visible",
   "resultCount": 18,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:33.710Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:42.606Z",
   "history": [
    [
     "2026-11-01T15:01:30.054Z",
@@ -4559,9 +4794,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:42.606Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "5019": {
   "query": "나나 모니터링",
@@ -4569,9 +4809,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 18,
+  "resultCount": 17,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:33.748Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:45.448Z",
   "history": [
    [
     "2026-11-01T15:01:29.669Z",
@@ -4596,9 +4837,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:45.448Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "5305": {
   "query": "시부키 리코 있잖아있잖아있잖아",
@@ -4668,9 +4914,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 29,
+  "resultCount": 18,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:30.791Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:42.010Z",
   "history": [
    [
     "2026-11-01T15:01:28.253Z",
@@ -4695,9 +4942,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:42.010Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "5423": {
   "query": "린 stand by you",
@@ -4860,9 +5112,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 16,
+  "resultCount": 18,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:41:38.098Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:53:48.815Z",
   "history": [
    [
     "2026-11-01T15:01:27.061Z",
@@ -4893,9 +5146,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:53:48.815Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "5751": {
   "query": "히나 린 lonely universe",
@@ -4936,7 +5194,8 @@
   "status": "visible",
   "resultCount": 18,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:27.312Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:36.653Z",
   "history": [
    [
     "2026-11-01T15:01:23.903Z",
@@ -4961,9 +5220,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:36.653Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "5902": {
   "query": "리코 헨스포스",
@@ -5097,7 +5361,8 @@
   "status": "visible",
   "resultCount": 18,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:41:20.066Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:53:30.642Z",
   "history": [
    [
     "2026-11-01T15:08:31.644Z",
@@ -5122,9 +5387,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:53:30.642Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "6014": {
   "query": "린 만찬가",
@@ -5132,9 +5402,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 12,
+  "resultCount": 10,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:41:25.399Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:53:34.202Z",
   "history": [
    [
     "2026-11-01T15:08:32.144Z",
@@ -5159,9 +5430,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:53:34.202Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "6015": {
   "query": "타비 나나 야화",
@@ -5171,7 +5447,8 @@
   "status": "visible",
   "resultCount": 19,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:41:23.639Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:53:33.810Z",
   "history": [
    [
     "2026-11-01T15:08:27.805Z",
@@ -5196,9 +5473,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:53:33.810Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "6310": {
   "query": "시부키 언데드",
@@ -5237,9 +5519,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 18,
+  "resultCount": 19,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:27.657Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:38.712Z",
   "history": [
    [
     "2026-11-01T15:00:42.666Z",
@@ -5264,9 +5547,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:38.712Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "6332": {
   "query": "나나 에너미",
@@ -5708,9 +5996,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 19,
+  "resultCount": 18,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:30.747Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:39.283Z",
   "history": [
    [
     "2026-11-01T15:00:28.182Z",
@@ -5735,9 +6024,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:39.283Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "7071": {
   "query": "시부키 린 킹",
@@ -6147,11 +6441,11 @@
   "rank": null,
   "fallbackQuery": "리제 프로포즈 cover",
   "fallbackRank": null,
-  "status": "suspected",
-  "resultCount": 16,
+  "status": "hidden",
+  "resultCount": 17,
   "noResults": false,
-  "source": "US",
-  "checkedAt": "2026-11-03T12:27:49.684Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:51:47.957Z",
   "history": [
    [
     "2026-11-01T15:08:23.076Z",
@@ -6188,6 +6482,12 @@
     null,
     null,
     "US"
+   ],
+   [
+    "2026-11-03T13:51:47.957Z",
+    null,
+    null,
+    "KR"
    ]
   ]
  },
@@ -6383,9 +6683,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 14,
+  "resultCount": 16,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:20.210Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:29.735Z",
   "history": [
    [
     "2026-11-01T14:59:36.556Z",
@@ -6410,9 +6711,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:29.735Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "8183": {
   "query": "린 네리사 다이너마이트",
@@ -6544,9 +6850,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 15,
+  "resultCount": 14,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:17.958Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:29.217Z",
   "history": [
    [
     "2026-11-01T14:59:33.785Z",
@@ -6571,9 +6878,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:29.217Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "8594": {
   "query": "나나 수평선",
@@ -6583,7 +6895,8 @@
   "status": "visible",
   "resultCount": 18,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:24.388Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:35.954Z",
   "history": [
    [
     "2026-11-01T14:59:33.037Z",
@@ -6608,9 +6921,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:35.954Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "8762": {
   "query": "시부키 생명에게미움받고있어",
@@ -6649,9 +6967,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 13,
+  "resultCount": 15,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:23.924Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:33.323Z",
   "history": [
    [
     "2026-11-01T14:59:31.626Z",
@@ -6676,9 +6995,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:33.323Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "8764": {
   "query": "유니 후야 팝핀캔디피버",
@@ -6847,9 +7171,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 17,
+  "resultCount": 18,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:14.754Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:26.230Z",
   "history": [
    [
     "2026-11-01T14:59:29.242Z",
@@ -6874,9 +7199,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:26.230Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "9320": {
   "query": "린 all i want for christmas is you",
@@ -6917,7 +7247,8 @@
   "status": "visible",
   "resultCount": 11,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:12.367Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:23.127Z",
   "history": [
    [
     "2026-11-01T14:59:08.280Z",
@@ -6942,9 +7273,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:23.127Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "9322": {
   "query": "타비 number one rockstar",
@@ -6985,7 +7321,8 @@
   "status": "visible",
   "resultCount": 17,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:21.031Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:33.036Z",
   "history": [
    [
     "2026-11-01T14:59:01.002Z",
@@ -7010,9 +7347,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:33.036Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "9324": {
   "query": "시부키 메리크리",
@@ -7020,9 +7362,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 16,
+  "resultCount": 18,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:11.514Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:21.324Z",
   "history": [
    [
     "2026-11-01T14:58:57.793Z",
@@ -7047,9 +7390,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:21.324Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "9325": {
   "query": "히나 크리스마스송",
@@ -7090,7 +7438,8 @@
   "status": "visible",
   "resultCount": 17,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:13.848Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:24.111Z",
   "history": [
    [
     "2026-11-01T14:58:46.257Z",
@@ -7115,9 +7464,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:24.111Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "9586": {
   "query": "히나 멜트",
@@ -7187,9 +7541,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 24,
+  "resultCount": 16,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:09.017Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:18.158Z",
   "history": [
    [
     "2026-11-01T14:58:36.068Z",
@@ -7214,20 +7569,25 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:18.158Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "9949": {
   "query": "리코 밤을 달리다",
   "rank": null,
   "fallbackQuery": "리코 밤을 달리다 cover",
   "fallbackRank": null,
-  "status": "suspected",
-  "resultCount": 16,
+  "status": "hidden",
+  "resultCount": 15,
   "noResults": false,
-  "source": "US",
-  "checkedAt": "2026-11-03T12:27:44.101Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:51:47.703Z",
   "history": [
    [
     "2026-11-01T14:58:31.868Z",
@@ -7264,6 +7624,12 @@
     null,
     null,
     "US"
+   ],
+   [
+    "2026-11-03T13:51:47.703Z",
+    null,
+    null,
+    "KR"
    ]
   ]
  },
@@ -7304,9 +7670,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 18,
+  "resultCount": 19,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:17.264Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:26.869Z",
   "history": [
    [
     "2026-11-01T14:58:21.183Z",
@@ -7331,9 +7698,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:26.869Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "9953": {
   "query": "스텔라이브 세카이",
@@ -7527,9 +7899,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 28,
+  "resultCount": 13,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:03.904Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:12.500Z",
   "history": [
    [
     "2026-11-01T14:57:54.260Z",
@@ -7554,9 +7927,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:12.500Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "10246": {
   "query": "리제 주름맞추기",
@@ -7646,7 +8024,8 @@
   "status": "visible",
   "resultCount": 14,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:01.693Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:12.419Z",
   "history": [
    [
     "2026-11-01T14:57:40.305Z",
@@ -7671,9 +8050,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:12.419Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "10661": {
   "query": "시부키 행복에대해내가생각한것",
@@ -7774,9 +8158,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 17,
+  "resultCount": 18,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:06.742Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:15.032Z",
   "history": [
    [
     "2026-11-01T14:57:25.398Z",
@@ -7801,9 +8186,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:15.032Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "10665": {
   "query": "타비 사랑감기에실려",
@@ -7906,7 +8296,8 @@
   "status": "visible",
   "resultCount": 18,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:00.814Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:09.786Z",
   "history": [
    [
     "2026-11-01T14:57:03.841Z",
@@ -7931,9 +8322,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:09.786Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "11515": {
   "query": "히나 acacia",
@@ -8003,9 +8399,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 13,
+  "resultCount": 15,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:09.856Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:20.453Z",
   "history": [
    [
     "2026-11-01T14:56:53.307Z",
@@ -8030,9 +8427,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:20.453Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "11518": {
   "query": "리코 오렌지",
@@ -8102,9 +8504,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 15,
+  "resultCount": 13,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:07.571Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:17.298Z",
   "history": [
    [
     "2026-11-01T14:56:42.530Z",
@@ -8129,9 +8532,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:17.298Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "11522": {
   "query": "나나 deja vu",
@@ -8234,7 +8642,8 @@
   "status": "visible",
   "resultCount": 15,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:39:51.995Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:02.855Z",
   "history": [
    [
     "2026-11-01T14:55:59.833Z",
@@ -8259,9 +8668,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:02.855Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "11842": {
   "query": "시부키 나에게꽃다발",
@@ -8413,7 +8827,8 @@
   "status": "visible",
   "resultCount": 14,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:40:04.744Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:15.014Z",
   "history": [
    [
     "2026-11-01T14:56:09.544Z",
@@ -8438,9 +8853,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:15.014Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "11848": {
   "query": "리코 마시로 악마가아닌걸",
@@ -8479,9 +8899,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 18,
+  "resultCount": 17,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:39:49.399Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:00.328Z",
   "history": [
    [
     "2026-11-01T14:55:49.796Z",
@@ -8506,9 +8927,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:00.328Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "12430": {
   "query": "마시로 망상아스파탐",
@@ -8702,9 +9128,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 9,
+  "resultCount": 4,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:39:58.274Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:10.007Z",
   "history": [
    [
     "2026-11-01T14:55:31.697Z",
@@ -8729,9 +9156,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:10.007Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "12871": {
   "query": "시부키 친애하는소년이여",
@@ -8770,9 +9202,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 15,
+  "resultCount": 16,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:39:49.121Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:51:59.212Z",
   "history": [
    [
     "2026-11-01T14:55:23.937Z",
@@ -8797,9 +9230,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:51:59.212Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "12874": {
   "query": "후야 booo",
@@ -8838,9 +9276,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 18,
+  "resultCount": 17,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:39:45.818Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:51:55.743Z",
   "history": [
    [
     "2026-11-01T14:55:16.639Z",
@@ -8865,9 +9304,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:51:55.743Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "12876": {
   "query": "리코 악당주의보",
@@ -8875,9 +9319,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 18,
+  "resultCount": 19,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:39:45.979Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:51:57.354Z",
   "history": [
    [
     "2026-11-01T14:55:12.626Z",
@@ -8902,9 +9347,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:51:57.354Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "12879": {
   "query": "시부키 베리베리스트로베리",
@@ -8912,9 +9362,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 12,
+  "resultCount": 13,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:39:58.270Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:07.399Z",
   "history": [
    [
     "2026-11-01T14:55:08.736Z",
@@ -8939,9 +9390,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:07.399Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "12881": {
   "query": "나나 hush trap",
@@ -9013,7 +9469,8 @@
   "status": "visible",
   "resultCount": 6,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:39:55.217Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:06.356Z",
   "history": [
    [
     "2026-11-01T14:54:58.382Z",
@@ -9038,9 +9495,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:06.356Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "13627": {
   "query": "나나 희극",
@@ -9130,7 +9592,8 @@
   "status": "visible",
   "resultCount": 18,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:39:54.666Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:04.883Z",
   "history": [
    [
     "2026-11-01T14:54:44.300Z",
@@ -9155,9 +9618,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:04.883Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "13630": {
   "query": "나나 논블레스오브리주",
@@ -9375,9 +9843,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 15,
+  "resultCount": 17,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:39:43.152Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:51:53.859Z",
   "history": [
    [
     "2026-11-01T14:54:19.050Z",
@@ -9402,9 +9871,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:51:53.859Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "13637": {
   "query": "시부키 모시모시",
@@ -9449,9 +9923,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 9,
+  "resultCount": 11,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:39:51.808Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:52:01.538Z",
   "history": [
    [
     "2026-11-01T14:54:12.083Z",
@@ -9476,9 +9951,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:52:01.538Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "14406": {
   "query": "나나 후야 오츠카레summer",
@@ -9648,7 +10128,8 @@
   "status": "visible",
   "resultCount": 17,
   "noResults": false,
-  "checkedAt": "2026-11-02T14:39:42.895Z",
+  "source": "KR",
+  "checkedAt": "2026-11-03T13:51:51.153Z",
   "history": [
    [
     "2026-11-01T14:53:47.652Z",
@@ -9673,9 +10154,14 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-03T13:51:51.153Z",
+    1,
+    null,
+    "KR"
    ]
-  ],
-  "source": "KR"
+  ]
  },
  "14412": {
   "query": "유니 오버라이드",
