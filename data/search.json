@@ -6502,10 +6502,10 @@
   "fallbackQuery": "리제 프로포즈 cover",
   "fallbackRank": null,
   "status": "hidden",
-  "resultCount": 17,
+  "resultCount": 15,
   "noResults": false,
-  "source": "KR",
-  "checkedAt": "2026-11-03T13:51:47.957Z",
+  "source": "US",
+  "checkedAt": "2026-11-04T00:56:33.695Z",
   "history": [
    [
     "2026-11-01T15:08:23.076Z",
@@ -6548,6 +6548,12 @@
     null,
     null,
     "KR"
+   ],
+   [
+    "2026-11-04T00:56:33.695Z",
+    null,
+    null,
+    "US"
    ]
   ]
  },
@@ -7674,10 +7680,10 @@
   "fallbackQuery": "리코 밤을 달리다 cover",
   "fallbackRank": null,
   "status": "hidden",
-  "resultCount": 15,
+  "resultCount": 16,
   "noResults": false,
-  "source": "KR",
-  "checkedAt": "2026-11-03T13:51:47.703Z",
+  "source": "US",
+  "checkedAt": "2026-11-04T00:56:32.292Z",
   "history": [
    [
     "2026-11-01T14:58:31.868Z",
@@ -7720,6 +7726,12 @@
     null,
     null,
     "KR"
+   ],
+   [
+    "2026-11-04T00:56:32.292Z",
+    null,
+    null,
+    "US"
    ]
   ]
  },
