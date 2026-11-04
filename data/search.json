@@ -1473,10 +1473,10 @@
   "fallbackQuery": "칸나 Cookie cover",
   "fallbackRank": null,
   "status": "hidden",
-  "resultCount": 18,
+  "resultCount": 15,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-04T12:12:09.143Z",
+  "checkedAt": "2026-11-04T20:08:50.916Z",
   "history": [
    [
     "2026-11-01T15:08:07.853Z",
@@ -1516,6 +1516,12 @@
    ],
    [
     "2026-11-04T12:12:09.143Z",
+    null,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-04T20:08:50.916Z",
     null,
     null,
     "KR"
@@ -7949,14 +7955,14 @@
  },
  "8012": {
   "query": "시부키 나나 울려퍼져라",
-  "rank": null,
-  "fallbackQuery": "시부키 나나 울려퍼져라 cover",
+  "rank": 1,
+  "fallbackQuery": null,
   "fallbackRank": null,
-  "status": "suspected",
+  "status": "visible",
   "resultCount": 14,
   "noResults": false,
-  "source": "US",
-  "checkedAt": "2026-11-04T20:05:34.709Z",
+  "source": "KR",
+  "checkedAt": "2026-11-04T20:08:38.636Z",
   "history": [
    [
     "2026-11-02T14:34:33.749Z",
@@ -7999,6 +8005,12 @@
     null,
     null,
     "US"
+   ],
+   [
+    "2026-11-04T20:08:38.636Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -9370,11 +9382,11 @@
   "rank": null,
   "fallbackQuery": "후야 chewing luv cover",
   "fallbackRank": null,
-  "status": "suspected",
-  "resultCount": 9,
+  "status": "hidden",
+  "resultCount": 8,
   "noResults": false,
-  "source": "US",
-  "checkedAt": "2026-11-04T20:05:48.599Z",
+  "source": "KR",
+  "checkedAt": "2026-11-04T20:08:42.791Z",
   "history": [
    [
     "2026-11-02T14:34:01.392Z",
@@ -9423,6 +9435,12 @@
     null,
     null,
     "US"
+   ],
+   [
+    "2026-11-04T20:08:42.791Z",
+    null,
+    null,
+    "KR"
    ]
   ]
  },
@@ -10537,11 +10555,11 @@
   "rank": null,
   "fallbackQuery": "유니 오네가이달링 cover",
   "fallbackRank": null,
-  "status": "suspected",
+  "status": "hidden",
   "resultCount": 16,
   "noResults": false,
-  "source": "US",
-  "checkedAt": "2026-11-04T20:05:50.065Z",
+  "source": "KR",
+  "checkedAt": "2026-11-04T20:08:46.180Z",
   "history": [
    [
     "2026-11-02T14:33:35.351Z",
@@ -10590,6 +10608,12 @@
     null,
     null,
     "US"
+   ],
+   [
+    "2026-11-04T20:08:46.180Z",
+    null,
+    null,
+    "KR"
    ]
   ]
  },
@@ -10634,12 +10658,12 @@
   "query": "나나 drivers license",
   "rank": null,
   "fallbackQuery": "나나 drivers license cover",
-  "fallbackRank": null,
-  "status": "suspected",
-  "resultCount": 17,
+  "fallbackRank": 11,
+  "status": "cover_only",
+  "resultCount": 16,
   "noResults": false,
-  "source": "US",
-  "checkedAt": "2026-11-04T20:05:48.069Z",
+  "source": "KR",
+  "checkedAt": "2026-11-04T20:08:40.751Z",
   "history": [
    [
     "2026-11-01T14:56:16.883Z",
@@ -10700,6 +10724,12 @@
     null,
     null,
     "US"
+   ],
+   [
+    "2026-11-04T20:08:40.751Z",
+    null,
+    11,
+    "KR"
    ]
   ]
  },
@@ -11856,11 +11886,11 @@
   "rank": null,
   "fallbackQuery": "마시로 구르는 바위 네게 아침이 내린다 cover",
   "fallbackRank": null,
-  "status": "suspected",
-  "resultCount": 13,
+  "status": "hidden",
+  "resultCount": 15,
   "noResults": false,
-  "source": "US",
-  "checkedAt": "2026-11-04T20:05:54.979Z",
+  "source": "KR",
+  "checkedAt": "2026-11-04T20:08:47.492Z",
   "history": [
    [
     "2026-11-01T14:53:06.122Z",
@@ -11927,6 +11957,12 @@
     null,
     null,
     "US"
+   ],
+   [
+    "2026-11-04T20:08:47.492Z",
+    null,
+    null,
+    "KR"
    ]
   ]
  },

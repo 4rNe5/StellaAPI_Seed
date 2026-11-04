@@ -687,13 +687,13 @@
       "privacy": "public"
     },
     "search": {
-      "status": "suspected",
+      "status": "hidden",
       "rank": null,
       "fallbackRank": null,
       "noResults": false,
       "query": "마시로 구르는 바위 네게 아침이 내린다",
-      "source": "US",
-      "checkedAt": "2026-11-04T20:05:54.979Z"
+      "source": "KR",
+      "checkedAt": "2026-11-04T20:08:47.492Z"
     }
   },
   {
@@ -1869,13 +1869,13 @@
       "privacy": "public"
     },
     "search": {
-      "status": "suspected",
+      "status": "cover_only",
       "rank": null,
-      "fallbackRank": null,
+      "fallbackRank": 11,
       "noResults": false,
       "query": "나나 drivers license",
-      "source": "US",
-      "checkedAt": "2026-11-04T20:05:48.069Z"
+      "source": "KR",
+      "checkedAt": "2026-11-04T20:08:40.751Z"
     }
   },
   {
@@ -1951,13 +1951,13 @@
       "privacy": "public"
     },
     "search": {
-      "status": "suspected",
+      "status": "hidden",
       "rank": null,
       "fallbackRank": null,
       "noResults": false,
       "query": "유니 오네가이달링",
-      "source": "US",
-      "checkedAt": "2026-11-04T20:05:50.065Z"
+      "source": "KR",
+      "checkedAt": "2026-11-04T20:08:46.180Z"
     }
   },
   {
@@ -3041,13 +3041,13 @@
       "privacy": "public"
     },
     "search": {
-      "status": "suspected",
+      "status": "hidden",
       "rank": null,
       "fallbackRank": null,
       "noResults": false,
       "query": "후야 chewing luv",
-      "source": "US",
-      "checkedAt": "2026-11-04T20:05:48.599Z"
+      "source": "KR",
+      "checkedAt": "2026-11-04T20:08:42.791Z"
     }
   },
   {
@@ -4363,13 +4363,13 @@
       "privacy": "public"
     },
     "search": {
-      "status": "suspected",
-      "rank": null,
+      "status": "visible",
+      "rank": 1,
       "fallbackRank": null,
       "noResults": false,
       "query": "시부키 나나 울려퍼져라",
-      "source": "US",
-      "checkedAt": "2026-11-04T20:05:34.709Z"
+      "source": "KR",
+      "checkedAt": "2026-11-04T20:08:38.636Z"
     }
   },
   {
@@ -12122,7 +12122,7 @@
       "noResults": false,
       "query": "칸나 Cookie",
       "source": "KR",
-      "checkedAt": "2026-11-04T12:12:09.143Z"
+      "checkedAt": "2026-11-04T20:08:50.916Z"
     }
   },
   {
