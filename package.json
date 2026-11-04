@@ -1,7 +1,7 @@
 {
   "name": "stelscope",
   "version": "0.1.0",
-  "description": "스텔라이브 공식 MUSIC 카탈로그 수집 파이프라인 (비공식 팬 프로젝트)",
+  "description": "스텔라이브 공식 MUSIC 카탈로그 · YouTube 가용성 · 검색 노출 데이터 API (비공식 팬 프로젝트)",
   "scripts": {
     "collect": "node --experimental-strip-types --no-warnings src/collect.ts",
     "collect:full": "node --experimental-strip-types --no-warnings src/collect.ts --full",

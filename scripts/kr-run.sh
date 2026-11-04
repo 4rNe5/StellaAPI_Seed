@@ -1,6 +1,6 @@
 #!/bin/bash
 # 맥북(한국 IP) 검색 노출 측정 1회 실행: 최신 코드·데이터 받기 → 측정 → data/search-kr.json 업로드
-# launchd(install-kr-agent.sh)가 4시간마다 Actions보다 30분 먼저 실행 → Actions는 한국 측정이 최신인 곡을 건너뜀
+# launchd(install-kr-agent.sh)가 하루 3회 KST 05:07 / 13:07 / 21:07 실행 → 업로드 후 Actions 자동 실행
 set -euo pipefail
 cd "$(dirname "$0")/.."
 mkdir -p .kr
@@ -17,7 +17,8 @@ node -e 'const [a,b]=process.versions.node.split(".").map(Number); if(a<22||(a==
 git pull --ff-only -q
 npm ci --no-audit --no-fund --silent
 
+node --experimental-strip-types --no-warnings src/merge-search.ts data/search-kr.json  # 직전 한국 측정 반영
 node --experimental-strip-types --no-warnings src/search.ts \
-  --source=KR --stale=3 --stable-stale=23 --budget=1200 --out=.kr/search-kr.json
+  --source=KR --stale=7 --stable-stale=23 --budget=1200 --out=.kr/search-kr.json
 node --experimental-strip-types --no-warnings --env-file-if-exists=.env src/kr-upload.ts .kr/search-kr.json
 echo "=== $(date '+%H:%M:%S') 완료"

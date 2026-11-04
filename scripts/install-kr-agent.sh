@@ -1,7 +1,7 @@
 #!/bin/bash
 # 맥북 보조 측정 등록 (macOS launchd). 저장소 루트에서 한 번 실행:  bash scripts/install-kr-agent.sh
 # 해제:  bash scripts/install-kr-agent.sh --uninstall
-# 실행 시각: KST 03:17 / 07:17 / 11:17 / 15:17 / 19:17 / 23:17 (Actions 30분 전). 잠자기 중 놓친 실행은 깨어날 때 1회 실행
+# 실행 시각: KST 05:07 / 13:07 / 21:07. 잠자기 중 놓친 실행은 깨어날 때 1회 실행
 set -euo pipefail
 LABEL=com.4rne5.stellaapi.kr
 PLIST="$HOME/Library/LaunchAgents/$LABEL.plist"
@@ -17,7 +17,7 @@ NODE="$(command -v node || true)"; [[ -n "$NODE" ]] || { echo "node를 찾을 �
 grep -q '^KR_GITHUB_TOKEN=.\+' "$ROOT/.env" 2>/dev/null || { echo ".env에 KR_GITHUB_TOKEN=... 을 먼저 넣어주세요 (.env.example 참고)"; exit 1; }
 
 mkdir -p "$HOME/Library/LaunchAgents" "$ROOT/.kr"
-HOURS=""; for h in 3 7 11 15 19 23; do HOURS+="<dict><key>Hour</key><integer>$h</integer><key>Minute</key><integer>17</integer></dict>"; done
+HOURS=""; for h in 5 13 21; do HOURS+="<dict><key>Hour</key><integer>$h</integer><key>Minute</key><integer>7</integer></dict>"; done
 cat > "$PLIST" <<PLIST
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
