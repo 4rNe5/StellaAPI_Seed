@@ -1,6 +1,6 @@
 # StellaAPI
 
-스텔라이브(STELLIVE) 공식 MUSIC 카탈로그를 매일 수집해 **곡 정보 · YouTube 가용성 · 검색 노출 여부 · 조회수 추이**를 JSON API로 제공하는 팬 프로젝트입니다.
+스텔라이브(STELLIVE) 공식 MUSIC 카탈로그를 매일 수집, **곡 정보 · YouTube 가용성 · 검색 노출 여부 · 조회수 추이**를 JSON API로 제공하는 팬 프로젝트입니다.
 
 ```
 https://stella-api.vercel.app/v1
@@ -37,10 +37,11 @@ curl https://stella-api.vercel.app/v1/songs/14693
 - 없는 경로·id는 `404`를 돌려줍니다.
 
 ## 이용 안내
-이 API는 Vercel 무료 플랜(월 CDN 요청 100만 회)으로 운영됩니다. **한도를 넘으면 최대 30일간 API 전체가 정지**되어 모든 이용자가 쓸 수 없게 됩니다.
+이 API는 Vercel 무료 플랜(월 CDN 요청 100만 회)을 이용하여 운영됩니다.
+**한도를 넘으면 최대 30일간 API 전체가 정지**되어 모든 이용자가 쓸 수 없게 됩니다.
 
-- **서버에서 받아 캐시해서 쓰세요.** 데이터는 하루 3번 갱신되므로 몇 시간 단위 캐시면 충분합니다.
-- 방문자 브라우저에서 페이지를 열 때마다 직접 호출하는 방식은 피해 주세요.
+- **서버에서 받아 캐시해서 쓰세요.** 데이터는 하루 3번 갱신되므로 하루 6-8시간 단위 캐시면 충분합니다.
+- 방문자 브라우저에서 페이지를 열 때마다 **직접 호출하는 방식은 피해 주세요**.
 - 전체가 필요하면 `/v1/songs` 한 번으로 받고, 곡마다 `/v1/songs/{id}`를 반복 호출하지 마세요.
 - 응답 헤더: `Cache-Control: public, max-age=300, s-maxage=3600, stale-while-revalidate=86400`
 
@@ -52,7 +53,7 @@ curl https://stella-api.vercel.app/v1/songs/14693
 | `/v1/songs` | Song[] | 전체 곡 (최신순) |
 | `/v1/songs/{id}` | Song + `searchHistory` | 곡 1개와 검색 노출 측정 이력. `id`는 공식 게시물 번호 |
 | `/v1/members` | Member[] | 멤버 목록과 곡 수 (졸업 멤버 포함, `graduated` 표시) |
-| `/v1/members/{slug}` | Member + `songs` | 멤버 1명과 참여 곡 (예: `rin`, `hina`, `mary`) |
+| `/v1/members/{slug}` | Member + `songs` | 멤버 1명과 참여 곡 (예: `riko`, `hina`, `mary`) |
 | `/v1/channels` | Channel[] | 멤버별 YouTube 채널(구독자·총조회수·영상 수)과 치지직(팔로워·라이브 여부) |
 | `/v1/search/hidden` | Song[] | 검색 노출에 문제가 있는 곡 (`hidden` → `suspected` → `cover_only` 순) |
 | `/v1/stats/latest` | object | 최신 곡별 조회수·좋아요·댓글(+전일 대비 `viewsDelta1d`), 채널 구독자, 치지직 팔로워 |
@@ -133,7 +134,7 @@ curl https://stella-api.vercel.app/v1/songs/14693
 | `source` | 측정 위치: `KR`(한국 IP) / `US`(GitHub 서버, 미국 IP) |
 | `checkedAt` | 측정 시각 (UTC) |
 
-검색어는 팬들이 실제로 쓰는 표기(아래 [크레딧](#크레딧--문의))를 우선 사용하고, 없으면 `{멤버 약칭} {곡명}`으로 자동 생성합니다. 검색어 정정은 Issues로 알려 주세요.
+검색어는 팬들이 실제로 쓰는 표기(아래 [크레딧](#크레딧--문의))를 우선 사용하고, 없으면 `{멤버 약칭} {곡명}`으로 자동 생성합니다. 검색어 정정은 **Issues**로 알려 주세요.
 
 ## 수집 방식과 갱신 주기
 | 데이터 | 출처 | 주기 |
@@ -150,14 +151,14 @@ curl https://stella-api.vercel.app/v1/songs/14693
         ├─ 검색 노출: 한국 측정이 최신이 아닌 곡만 GitHub 서버 3대에서 나눠 측정
         └─ 병합 → 검증 → data/ 커밋 → Vercel이 /v1 재배포
 ```
-- 한국 IP 측정이 빠진 회차에는 대비용 예약 실행(KST 05:47 / 13:47 / 21:47)이 미국 IP로 측정합니다. GitHub 예약 실행은 몇 시간씩 늦어질 수 있습니다.
+- 한국 IP 측정이 빠진 회차에는 대비용 예약 실행(KST 05:47 / 13:47 / 21:47)이 미국 IP 기준으로 측정합니다. GitHub 예약 실행은 몇 시간씩 늦어질 수 있습니다.
 - 정확한 갱신 시각은 `/v1/meta`의 `sources`에서 확인하세요.
 
 ## 알아둘 점
-- **검색 노출은 측정 조건에 따라 달라집니다.** 같은 곡도 지역·시각·검색어에 따라 결과가 바뀝니다. 미국 IP는 한국 IP보다 `hidden` 판정이 조금 많습니다(2026-11-02 비교: 팬 집계 대비 일치율 한국 97%, 미국 95%). `source`를 함께 확인하세요.
+- **검색 노출은 측정 조건에 따라 달라집니다.** 같은 곡도 지역·시각·검색어에 따라 결과가 바뀝니다. 미국 IP는 한국 IP보다 `hidden` 판정이 조금 많습니다(2026-11-02 기준, 타 팬 집계 서비스와 대조 시 일치율 한국 97%, 미국 95%). `source`를 함께 확인하세요.
 - `date`는 공식 게시물 날짜입니다. 예: `#431` 「나는 최강」은 2022-08-20으로 등록되어 있어 그대로 둡니다.
 - YouTube 검색 결과와 치지직 정보는 공식 API가 아닌 방식으로 가져옵니다. 상대 사이트 구조가 바뀌면 일시적으로 비거나 틀릴 수 있습니다.
-- 데이터 오류나 빠진 곡은 [Issues](https://github.com/4rNe5/StellaAPI_Seed/issues)로 알려 주세요.
+- **데이터 오류나 빠진 곡**은 [Issues](https://github.com/4rNe5/StellaAPI_Seed/issues)로 알려 주세요.
 
 ## 직접 실행하기
 Node.js 22.6 이상이 필요합니다. TypeScript를 빌드 없이 바로 실행합니다(`--experimental-strip-types`).
@@ -194,7 +195,7 @@ npm run export-api       # data/ → public/v1/*.json
 | `--only=id` | | 특정 곡만 측정 |
 | `--engine=html` | innertube | 검색 방식 고정 |
 
-재측정 우선순위: 미측정 · `error` · `suspected` · 검색어가 바뀐 곡은 매 실행, 그 외는 위 간격대로.
+재측정 우선순위: 미측정 · `error` · `suspected` · 검색어가 바뀐 곡은 매 실행, 그 외는 위 간격대로 진행합니다.
 </details>
 
 <details>
@@ -237,7 +238,7 @@ npm run export-api       # data/ → public/v1/*.json
 <details>
 <summary>한국 IP 측정</summary>
 
-GitHub 서버는 미국 IP라 한국에서 검색할 때와 결과가 일부 다릅니다. 그래서 운영자 PC(한국 가정용 IP)에서 먼저 측정해 올립니다.
+GitHub 서버가 미국 IP라 한국에서 검색할 때와 결과가 일부 다르게 나타납니다. 따라서 프로젝트 운영자 PC(한국 IP)에서 먼저 측정해 올립니다.
 
 - `scripts/kr-session.sh prepare | run | upload` — 최신 데이터 준비 → 150초 단위로 이어서 측정 → `data/search-kr.json` 업로드 + Actions 실행
 - 토큰: `KR_GITHUB_TOKEN` (fine-grained, 이 저장소만, Contents · Actions: Read and write). 기본 위치 `~/Repo/.stellaapi-kr.env`, `KR_ENV_FILE`로 변경 가능
