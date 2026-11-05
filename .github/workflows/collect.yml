@@ -40,6 +40,12 @@ jobs:
       - name: 공식 MUSIC 수집
         run: npm run collect
 
+      # Stelline 검색어·노래방 번호·노출 점검 (운영자 허가). 실패해도 마지막 값 유지. 중단 요청 시 STELLINE: '0'
+      - name: Stelline
+        env:
+          STELLINE: '1'
+        run: npm run stelline
+
       # 맥북(한국 IP) 측정 결과가 있으면 먼저 병합 → 한국 측정이 최신인 곡은 아래 search 샤드(미국 IP)에서 자동으로 건너뜀
       - name: 한국 IP 측정 결과 병합
         run: npm run merge-search -- data/search-kr.json

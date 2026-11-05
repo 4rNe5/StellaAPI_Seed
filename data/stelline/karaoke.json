@@ -1,0 +1,3864 @@
+{
+ "source": "https://stel-line.vercel.app/api/karaoke/songs",
+ "fetchedAt": "2026-11-05T12:01:04.594Z",
+ "data": {
+  "members": [
+   {
+    "formerUnits": [],
+    "name": "아이리 칸나",
+    "unit": "MYSTIC"
+   },
+   {
+    "formerUnits": [
+     "MYSTIC"
+    ],
+    "name": "아야츠노 유니",
+    "unit": "EVERYS"
+   },
+   {
+    "formerUnits": [],
+    "name": "사키하네 후야",
+    "unit": "EVERYS"
+   },
+   {
+    "formerUnits": [],
+    "name": "시라유키 히나",
+    "unit": "UNIVERSE"
+   },
+   {
+    "formerUnits": [],
+    "name": "네네코 마시로",
+    "unit": "UNIVERSE"
+   },
+   {
+    "formerUnits": [],
+    "name": "아카네 리제",
+    "unit": "UNIVERSE"
+   },
+   {
+    "formerUnits": [],
+    "name": "아라하시 타비",
+    "unit": "UNIVERSE"
+   },
+   {
+    "formerUnits": [],
+    "name": "텐코 시부키",
+    "unit": "CLICHÉ"
+   },
+   {
+    "formerUnits": [],
+    "name": "아오쿠모 린",
+    "unit": "CLICHÉ"
+   },
+   {
+    "formerUnits": [],
+    "name": "하나코 나나",
+    "unit": "CLICHÉ"
+   },
+   {
+    "formerUnits": [],
+    "name": "유즈하 리코",
+    "unit": "CLICHÉ"
+   },
+   {
+    "formerUnits": [],
+    "name": "시즈키 토아",
+    "unit": "ABYSS"
+   },
+   {
+    "formerUnits": [],
+    "name": "코가네 랑",
+    "unit": "ABYSS"
+   },
+   {
+    "formerUnits": [],
+    "name": "하나요 히요리",
+    "unit": "ABYSS"
+   },
+   {
+    "formerUnits": [],
+    "name": "토키노 메리",
+    "unit": "ABYSS"
+   }
+  ],
+  "songs": [
+   {
+    "artist": "스텔라이브",
+    "category": "original",
+    "id": 541,
+    "ky": "",
+    "members": [
+     "아야츠노 유니",
+     "사키하네 후야",
+     "시라유키 히나",
+     "네네코 마시로",
+     "아카네 리제",
+     "아라하시 타비",
+     "텐코 시부키",
+     "아오쿠모 린",
+     "하나코 나나",
+     "유즈하 리코"
+    ],
+    "section": "group",
+    "title": "별을 쫓던 빛에게",
+    "titleAlt": "",
+    "tj": "52350"
+   },
+   {
+    "artist": "스텔라이브",
+    "category": "original",
+    "id": 542,
+    "ky": "",
+    "members": [
+     "아야츠노 유니",
+     "시라유키 히나",
+     "네네코 마시로",
+     "아카네 리제",
+     "아라하시 타비",
+     "텐코 시부키",
+     "아오쿠모 린",
+     "하나코 나나",
+     "유즈하 리코"
+    ],
+    "section": "group",
+    "title": "STAR TRAIL (스타트레일)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "스텔라이브",
+    "category": "original",
+    "id": 543,
+    "ky": "",
+    "members": [
+     "아야츠노 유니",
+     "시라유키 히나",
+     "네네코 마시로",
+     "아카네 리제",
+     "아라하시 타비",
+     "텐코 시부키",
+     "아오쿠모 린",
+     "하나코 나나",
+     "유즈하 리코"
+    ],
+    "section": "group",
+    "title": "히로인이 되고싶어",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "스텔라이브",
+    "category": "original",
+    "id": 544,
+    "ky": "82704",
+    "members": [
+     "아이리 칸나",
+     "아야츠노 유니",
+     "시라유키 히나",
+     "네네코 마시로",
+     "아카네 리제",
+     "아라하시 타비"
+    ],
+    "section": "group",
+    "title": "Milky Way",
+    "titleAlt": "",
+    "tj": "86060"
+   },
+   {
+    "artist": "스텔라이브",
+    "category": "original",
+    "id": 545,
+    "ky": "",
+    "members": [
+     "아이리 칸나",
+     "아야츠노 유니",
+     "시라유키 히나",
+     "네네코 마시로",
+     "아카네 리제",
+     "아라하시 타비"
+    ],
+    "section": "group",
+    "title": "Starry Way",
+    "titleAlt": "",
+    "tj": "86334"
+   },
+   {
+    "artist": "스텔라이브",
+    "category": "cover",
+    "id": 546,
+    "ky": "",
+    "members": [
+     "아야츠노 유니",
+     "사키하네 후야",
+     "시라유키 히나",
+     "네네코 마시로",
+     "아카네 리제",
+     "아라하시 타비",
+     "텐코 시부키",
+     "아오쿠모 린",
+     "하나코 나나",
+     "유즈하 리코"
+    ],
+    "section": "group",
+    "title": "SEKAI (セカイ)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "스텔라이브",
+    "category": "cover",
+    "id": 547,
+    "ky": "43477",
+    "members": [
+     "아야츠노 유니",
+     "시라유키 히나",
+     "네네코 마시로",
+     "아카네 리제",
+     "아라하시 타비",
+     "텐코 시부키",
+     "아오쿠모 린",
+     "하나코 나나",
+     "유즈하 리코"
+    ],
+    "section": "group",
+    "title": "Tell Your World",
+    "titleAlt": "",
+    "tj": "27758"
+   },
+   {
+    "artist": "UNIVERSE(시라유키 히나, 네네코 마시로, 아카네 리제, 아라하시 타비)",
+    "category": "original",
+    "id": 548,
+    "ky": "",
+    "members": [
+     "시라유키 히나",
+     "네네코 마시로",
+     "아카네 리제",
+     "아라하시 타비"
+    ],
+    "section": "unit",
+    "title": "마음악보",
+    "titleAlt": "",
+    "tj": "70321"
+   },
+   {
+    "artist": "CLICHÉ(텐코 시부키, 아오쿠모 린, 하나코 나나, 유즈하 리코)",
+    "category": "original",
+    "id": 549,
+    "ky": "52398",
+    "members": [
+     "텐코 시부키",
+     "아오쿠모 린",
+     "하나코 나나",
+     "유즈하 리코"
+    ],
+    "section": "unit",
+    "title": "유성우",
+    "titleAlt": "",
+    "tj": "52339"
+   },
+   {
+    "artist": "CLICHÉ(텐코 시부키, 아오쿠모 린, 하나코 나나, 유즈하 리코)",
+    "category": "original",
+    "id": 550,
+    "ky": "",
+    "members": [
+     "텐코 시부키",
+     "아오쿠모 린",
+     "하나코 나나",
+     "유즈하 리코"
+    ],
+    "section": "unit",
+    "title": "Our Tales",
+    "titleAlt": "",
+    "tj": "43527"
+   },
+   {
+    "artist": "UNIVERSE(시라유키 히나, 네네코 마시로, 아카네 리제, 아라하시 타비)",
+    "category": "original",
+    "id": 551,
+    "ky": "",
+    "members": [
+     "시라유키 히나",
+     "네네코 마시로",
+     "아카네 리제",
+     "아라하시 타비"
+    ],
+    "section": "unit",
+    "title": "Stars Align",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "시라유키 히나, 네네코 마시로",
+    "category": "original",
+    "id": 552,
+    "ky": "",
+    "members": [
+     "시라유키 히나",
+     "네네코 마시로"
+    ],
+    "section": "unit",
+    "title": "Dear my fairy",
+    "titleAlt": "",
+    "tj": "44461"
+   },
+   {
+    "artist": "아이리 칸나, 아카네 리제",
+    "category": "original",
+    "id": 553,
+    "ky": "75007",
+    "members": [
+     "아이리 칸나",
+     "아카네 리제"
+    ],
+    "section": "unit",
+    "title": "Hit On Shot",
+    "titleAlt": "",
+    "tj": "77929"
+   },
+   {
+    "artist": "유즈하 리코, 네네코 마시로",
+    "category": "cover",
+    "id": 554,
+    "ky": "",
+    "members": [
+     "네네코 마시로",
+     "유즈하 리코"
+    ],
+    "section": "unit",
+    "title": "악마가 아닌걸 (デビルじゃないもん)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "시라유키 히나, 아카네 리제",
+    "category": "cover",
+    "id": 555,
+    "ky": "43725",
+    "members": [
+     "시라유키 히나",
+     "아카네 리제"
+    ],
+    "section": "unit",
+    "title": "ray",
+    "titleAlt": "",
+    "tj": "28109"
+   },
+   {
+    "artist": "네네코 마시로, 아오쿠모 린",
+    "category": "cover",
+    "id": 556,
+    "ky": "",
+    "members": [
+     "네네코 마시로",
+     "아오쿠모 린"
+    ],
+    "section": "unit",
+    "title": "메이드지상주의 (メイド☆至上主義)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "아오쿠모 린, 아야츠노 유니",
+    "category": "cover",
+    "id": 557,
+    "ky": "",
+    "members": [
+     "아야츠노 유니",
+     "아오쿠모 린"
+    ],
+    "section": "unit",
+    "title": "chocolate box",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "하나코 나나, 시라유키 히나",
+    "category": "cover",
+    "id": 558,
+    "ky": "22880",
+    "members": [
+     "시라유키 히나",
+     "하나코 나나"
+    ],
+    "section": "unit",
+    "title": "Joker",
+    "titleAlt": "",
+    "tj": "76468"
+   },
+   {
+    "artist": "EVERYS(아야츠노 유니, 사키하네 후야)",
+    "category": "cover",
+    "id": 559,
+    "ky": "",
+    "members": [
+     "아야츠노 유니",
+     "사키하네 후야"
+    ],
+    "section": "unit",
+    "title": "팝핀 캔디☆피버! (ポッピンキャンディ☆フィーバー !)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "시라유키 히나, 아오쿠모 린",
+    "category": "cover",
+    "id": 560,
+    "ky": "57784",
+    "members": [
+     "시라유키 히나",
+     "아오쿠모 린"
+    ],
+    "section": "unit",
+    "title": "JANE DOE",
+    "titleAlt": "",
+    "tj": "52972"
+   },
+   {
+    "artist": "하나코 나나, 텐코 시부키",
+    "category": "cover",
+    "id": 561,
+    "ky": "",
+    "members": [
+     "텐코 시부키",
+     "하나코 나나"
+    ],
+    "section": "unit",
+    "title": "울려퍼져라 (ヒビカセ)",
+    "titleAlt": "",
+    "tj": "52553"
+   },
+   {
+    "artist": "유즈하 리코, 아야츠노 유니, 아카네 리제",
+    "category": "cover",
+    "id": 562,
+    "ky": "76544",
+    "members": [
+     "아야츠노 유니",
+     "아카네 리제",
+     "유즈하 리코"
+    ],
+    "section": "unit",
+    "title": "POP IN 2",
+    "titleAlt": "",
+    "tj": "52747"
+   },
+   {
+    "artist": "텐코 시부키, 아오쿠모 린",
+    "category": "cover",
+    "id": 563,
+    "ky": "57759",
+    "members": [
+     "텐코 시부키",
+     "아오쿠모 린"
+    ],
+    "section": "unit",
+    "title": "KING",
+    "titleAlt": "",
+    "tj": "52470"
+   },
+   {
+    "artist": "아오쿠모 린, 유즈하 리코",
+    "category": "cover",
+    "id": 564,
+    "ky": "44207",
+    "members": [
+     "아오쿠모 린",
+     "유즈하 리코"
+    ],
+    "section": "unit",
+    "title": "잿빛과 푸름 (灰色と青)",
+    "titleAlt": "",
+    "tj": "28789"
+   },
+   {
+    "artist": "아카네 리제, 아오쿠모 린, 하나코 나나",
+    "category": "cover",
+    "id": 565,
+    "ky": "56569",
+    "members": [
+     "아카네 리제",
+     "아오쿠모 린",
+     "하나코 나나"
+    ],
+    "section": "unit",
+    "title": "Golden",
+    "titleAlt": "",
+    "tj": "88040"
+   },
+   {
+    "artist": "시라유키 히나, 하나코 나나",
+    "category": "cover",
+    "id": 566,
+    "ky": "76550",
+    "members": [
+     "시라유키 히나",
+     "하나코 나나"
+    ],
+    "section": "unit",
+    "title": "Summertime",
+    "titleAlt": "",
+    "tj": "52757"
+   },
+   {
+    "artist": "아오쿠모 린, 하나코 나나",
+    "category": "cover",
+    "id": 567,
+    "ky": "68798",
+    "members": [
+     "아오쿠모 린",
+     "하나코 나나"
+    ],
+    "section": "unit",
+    "title": "W●RK",
+    "titleAlt": "",
+    "tj": "44936"
+   },
+   {
+    "artist": "아라하시 타비, 하나코 나나",
+    "category": "cover",
+    "id": 568,
+    "ky": "28560",
+    "members": [
+     "아라하시 타비",
+     "하나코 나나"
+    ],
+    "section": "unit",
+    "title": "야화(Night Flower)",
+    "titleAlt": "",
+    "tj": "80233"
+   },
+   {
+    "artist": "UNIVERSE(시라유키 히나, 네네코 마시로, 아카네 리제, 아라하시 타비)",
+    "category": "cover",
+    "id": 569,
+    "ky": "",
+    "members": [
+     "시라유키 히나",
+     "네네코 마시로",
+     "아카네 리제",
+     "아라하시 타비"
+    ],
+    "section": "unit",
+    "title": "Universe (ユニバース)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "시라유키 히나, 아오쿠모 린",
+    "category": "cover",
+    "id": 570,
+    "ky": "",
+    "members": [
+     "시라유키 히나",
+     "아오쿠모 린"
+    ],
+    "section": "unit",
+    "title": "Lonely Universe (ロンリーユニバース)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "CLICHÉ(텐코 시부키, 아오쿠모 린, 하나코 나나, 유즈하 리코)",
+    "category": "cover",
+    "id": 571,
+    "ky": "",
+    "members": [
+     "텐코 시부키",
+     "아오쿠모 린",
+     "하나코 나나",
+     "유즈하 리코"
+    ],
+    "section": "unit",
+    "title": "언노운 마더구스 (アンノウン・マザーグース)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "텐코 시부키, 유즈하 리코",
+    "category": "cover",
+    "id": 572,
+    "ky": "",
+    "members": [
+     "텐코 시부키",
+     "유즈하 리코"
+    ],
+    "section": "unit",
+    "title": "있잖아 있잖아 있잖아 (ねぇねぇねぇ。)",
+    "titleAlt": "",
+    "tj": "52687"
+   },
+   {
+    "artist": "아오쿠모 린, 하나코 나나",
+    "category": "cover",
+    "id": 573,
+    "ky": "44744",
+    "members": [
+     "아오쿠모 린",
+     "하나코 나나"
+    ],
+    "section": "unit",
+    "title": "역몽 (逆夢)",
+    "titleAlt": "",
+    "tj": "68561"
+   },
+   {
+    "artist": "하나코 나나, 유즈하 리코, 아오쿠모 린",
+    "category": "cover",
+    "id": 574,
+    "ky": "",
+    "members": [
+     "아오쿠모 린",
+     "하나코 나나",
+     "유즈하 리코"
+    ],
+    "section": "unit",
+    "title": "Beyond the way",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "유즈하 리코, 텐코 시부키",
+    "category": "cover",
+    "id": 575,
+    "ky": "",
+    "members": [
+     "텐코 시부키",
+     "유즈하 리코"
+    ],
+    "section": "unit",
+    "title": "절대적대완전싫어 (絶対敵対メチャキライヤー)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "MYSTIC(아이리 칸나, 아야츠노 유니), UNIVERSE(시라유키 히나, 네네코 마시로, 아카네 리제, 아라하시 타비)",
+    "category": "cover",
+    "id": 576,
+    "ky": "",
+    "members": [
+     "아이리 칸나",
+     "아야츠노 유니",
+     "시라유키 히나",
+     "네네코 마시로",
+     "아카네 리제",
+     "아라하시 타비"
+    ],
+    "section": "unit",
+    "title": "Alice in Musicland",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "아야츠노 유니, 네네코 마시로",
+    "category": "cover",
+    "id": 577,
+    "ky": "43515",
+    "members": [
+     "아야츠노 유니",
+     "네네코 마시로"
+    ],
+    "section": "unit",
+    "title": "해피 신디사이저 (ハッピーシンセサイザ)",
+    "titleAlt": "",
+    "tj": "27289"
+   },
+   {
+    "artist": "아야츠노 유니, 아이리 칸나",
+    "category": "cover",
+    "id": 578,
+    "ky": "44547",
+    "members": [
+     "아이리 칸나",
+     "아야츠노 유니"
+    ],
+    "section": "unit",
+    "title": "점묘의 노래 (点描の唄)",
+    "titleAlt": "",
+    "tj": "68141"
+   },
+   {
+    "artist": "아카네 리제, 아오쿠모 린",
+    "category": "cover",
+    "id": 579,
+    "ky": "71735",
+    "members": [
+     "아카네 리제",
+     "아오쿠모 린"
+    ],
+    "section": "unit",
+    "title": "APT.",
+    "titleAlt": "",
+    "tj": "43681"
+   },
+   {
+    "artist": "아라하시 타비, 네네코 마시로",
+    "category": "cover",
+    "id": 580,
+    "ky": "75948",
+    "members": [
+     "네네코 마시로",
+     "아라하시 타비"
+    ],
+    "section": "unit",
+    "title": "안녕, 또 언젠가! (さよーならまたいつか！)",
+    "titleAlt": "",
+    "tj": "52580"
+   },
+   {
+    "artist": "아오쿠모 린, 텐코 시부키",
+    "category": "cover",
+    "id": 581,
+    "ky": "",
+    "members": [
+     "텐코 시부키",
+     "아오쿠모 린"
+    ],
+    "section": "unit",
+    "title": "아이덴티티 (アイデンティティ)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "유즈하 리코, 아오쿠모 린",
+    "category": "cover",
+    "id": 582,
+    "ky": "",
+    "members": [
+     "아오쿠모 린",
+     "유즈하 리코"
+    ],
+    "section": "unit",
+    "title": "GETCHA!",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "UNIVERSE(시라유키 히나, 네네코 마시로, 아카네 리제, 아라하시 타비)",
+    "category": "cover",
+    "id": 583,
+    "ky": "43869",
+    "members": [
+     "시라유키 히나",
+     "네네코 마시로",
+     "아카네 리제",
+     "아라하시 타비"
+    ],
+    "section": "unit",
+    "title": "소리가 나는 쪽으로 (オトノナルホウへ)",
+    "titleAlt": "",
+    "tj": "28182"
+   },
+   {
+    "artist": "네네코 마시로, 아라하시 타비",
+    "category": "cover",
+    "id": 584,
+    "ky": "",
+    "members": [
+     "네네코 마시로",
+     "아라하시 타비"
+    ],
+    "section": "unit",
+    "title": "사랑하고 있는거야 (恋しているのさ)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "토도로키 하지메, 하나코 나나",
+    "category": "original",
+    "id": 585,
+    "ky": "23767",
+    "members": [
+     "하나코 나나"
+    ],
+    "section": "collab",
+    "title": "TOMBOY",
+    "titleAlt": "",
+    "tj": "81343"
+   },
+   {
+    "artist": "네리사 레이븐크로프트, 아오쿠모 린",
+    "category": "original",
+    "id": 586,
+    "ky": "28017",
+    "members": [
+     "아오쿠모 린"
+    ],
+    "section": "collab",
+    "title": "Dynamite",
+    "titleAlt": "",
+    "tj": "75520"
+   },
+   {
+    "artist": "Miiro, 아카네 리제",
+    "category": "original",
+    "id": 587,
+    "ky": "",
+    "members": [
+     "아카네 리제"
+    ],
+    "section": "collab",
+    "title": "목숨",
+    "titleAlt": "",
+    "tj": "87849"
+   },
+   {
+    "artist": "TAK, 텐코 시부키",
+    "category": "original",
+    "id": 588,
+    "ky": "51607",
+    "members": [
+     "텐코 시부키"
+    ],
+    "section": "collab",
+    "title": "도깨비꽃",
+    "titleAlt": "",
+    "tj": "87685"
+   },
+   {
+    "artist": "에픽세븐, 아이리 칸나",
+    "category": "original",
+    "id": 589,
+    "ky": "",
+    "members": [
+     "아이리 칸나"
+    ],
+    "section": "collab",
+    "title": "Frozen Eclipse",
+    "titleAlt": "",
+    "tj": "77931"
+   },
+   {
+    "artist": "Team. Palette, 아이리 칸나",
+    "category": "original",
+    "id": 590,
+    "ky": "",
+    "members": [
+     "아이리 칸나"
+    ],
+    "section": "collab",
+    "title": "색채 (色彩)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "아카네 리제",
+    "category": "original",
+    "id": 591,
+    "ky": "",
+    "members": [
+     "아카네 리제"
+    ],
+    "section": "gift",
+    "title": "Stranger",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "아이리 칸나",
+    "category": "original",
+    "id": 592,
+    "ky": "75695",
+    "members": [
+     "아이리 칸나"
+    ],
+    "section": "solo",
+    "title": "푸른 보석과 어린 용 (青い宝石と竜の子)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "아이리 칸나",
+    "category": "original",
+    "id": 593,
+    "ky": "",
+    "members": [
+     "아이리 칸나"
+    ],
+    "section": "solo",
+    "title": "최종화(Acoustic Ver.) (最終花)",
+    "titleAlt": "",
+    "tj": "44429"
+   },
+   {
+    "artist": "아이리 칸나",
+    "category": "original",
+    "id": 594,
+    "ky": "80603",
+    "members": [
+     "아이리 칸나"
+    ],
+    "section": "solo",
+    "title": "최종화 (最終花)",
+    "titleAlt": "",
+    "tj": "44108"
+   },
+   {
+    "artist": "아이리 칸나",
+    "category": "original",
+    "id": 595,
+    "ky": "75422",
+    "members": [
+     "아이리 칸나"
+    ],
+    "section": "solo",
+    "title": "ADDICT!ON",
+    "titleAlt": "",
+    "tj": "83718"
+   },
+   {
+    "artist": "아이리 칸나",
+    "category": "cover",
+    "id": 596,
+    "ky": "80783",
+    "members": [
+     "아이리 칸나"
+    ],
+    "section": "solo",
+    "title": "Love wins all",
+    "titleAlt": "",
+    "tj": "85842"
+   },
+   {
+    "artist": "아이리 칸나",
+    "category": "cover",
+    "id": 597,
+    "ky": "76509",
+    "members": [
+     "아이리 칸나"
+    ],
+    "section": "solo",
+    "title": "역광 (逆光)",
+    "titleAlt": "",
+    "tj": "68868"
+   },
+   {
+    "artist": "아이리 칸나",
+    "category": "cover",
+    "id": 598,
+    "ky": "",
+    "members": [
+     "아이리 칸나"
+    ],
+    "section": "solo",
+    "title": "애타는 한 가슴을 달랠 수 있다면 (傷つく誰かの心を守ることができたなら)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "아이리 칸나",
+    "category": "cover",
+    "id": 599,
+    "ky": "57775",
+    "members": [
+     "아이리 칸나"
+    ],
+    "section": "solo",
+    "title": "괴수의 꽃노래 (怪獣の花唄)",
+    "titleAlt": "",
+    "tj": "52988"
+   },
+   {
+    "artist": "아이리 칸나",
+    "category": "cover",
+    "id": 600,
+    "ky": "",
+    "members": [
+     "아이리 칸나"
+    ],
+    "section": "solo",
+    "title": "감 그레이 (勘ぐれい)",
+    "titleAlt": "",
+    "tj": "68357"
+   },
+   {
+    "artist": "아이리 칸나",
+    "category": "cover",
+    "id": 601,
+    "ky": "",
+    "members": [
+     "아이리 칸나"
+    ],
+    "section": "solo",
+    "title": "사랑해줘 사랑해줘 사랑해줘 (愛して愛して愛して)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "아이리 칸나",
+    "category": "cover",
+    "id": 602,
+    "ky": "44993",
+    "members": [
+     "아이리 칸나"
+    ],
+    "section": "solo",
+    "title": "지구본 (地球儀)",
+    "titleAlt": "",
+    "tj": "68840"
+   },
+   {
+    "artist": "아이리 칸나",
+    "category": "cover",
+    "id": 603,
+    "ky": "44855",
+    "members": [
+     "아이리 칸나"
+    ],
+    "section": "solo",
+    "title": "KICK BACK",
+    "titleAlt": "",
+    "tj": "68677"
+   },
+   {
+    "artist": "아이리 칸나",
+    "category": "cover",
+    "id": 604,
+    "ky": "76514",
+    "members": [
+     "아이리 칸나"
+    ],
+    "section": "solo",
+    "title": "LADY",
+    "titleAlt": "",
+    "tj": "68495"
+   },
+   {
+    "artist": "아이리 칸나",
+    "category": "cover",
+    "id": 605,
+    "ky": "",
+    "members": [
+     "아이리 칸나"
+    ],
+    "section": "solo",
+    "title": "잠이 드는 거리 (ねむるまち)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "아이리 칸나",
+    "category": "cover",
+    "id": 606,
+    "ky": "44923",
+    "members": [
+     "아이리 칸나"
+    ],
+    "section": "solo",
+    "title": "아이돌 (アイドル)",
+    "titleAlt": "",
+    "tj": "68781"
+   },
+   {
+    "artist": "아이리 칸나",
+    "category": "cover",
+    "id": 607,
+    "ky": "",
+    "members": [
+     "아이리 칸나"
+    ],
+    "section": "solo",
+    "title": "에러 (ERROR)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "아이리 칸나",
+    "category": "cover",
+    "id": 608,
+    "ky": "76511",
+    "members": [
+     "아이리 칸나"
+    ],
+    "section": "solo",
+    "title": "스즈메 (すずめ)",
+    "titleAlt": "",
+    "tj": "68759"
+   },
+   {
+    "artist": "아이리 칸나",
+    "category": "cover",
+    "id": 609,
+    "ky": "44630",
+    "members": [
+     "아이리 칸나"
+    ],
+    "section": "solo",
+    "title": "삼문소설 (三文小説)",
+    "titleAlt": "",
+    "tj": "68346"
+   },
+   {
+    "artist": "아이리 칸나",
+    "category": "cover",
+    "id": 610,
+    "ky": "57817",
+    "members": [
+     "아이리 칸나"
+    ],
+    "section": "solo",
+    "title": "신시대 (新時代)",
+    "titleAlt": "",
+    "tj": "68799"
+   },
+   {
+    "artist": "아이리 칸나",
+    "category": "cover",
+    "id": 611,
+    "ky": "44734",
+    "members": [
+     "아이리 칸나"
+    ],
+    "section": "solo",
+    "title": "좋아하니까 (好きだから。)",
+    "titleAlt": "",
+    "tj": "68523"
+   },
+   {
+    "artist": "아이리 칸나",
+    "category": "cover",
+    "id": 612,
+    "ky": "28888",
+    "members": [
+     "아이리 칸나"
+    ],
+    "section": "solo",
+    "title": "Cookie",
+    "titleAlt": "",
+    "tj": "82076"
+   },
+   {
+    "artist": "아이리 칸나",
+    "category": "cover",
+    "id": 613,
+    "ky": "76515",
+    "members": [
+     "아이리 칸나"
+    ],
+    "section": "solo",
+    "title": "나는 최강 (私は最強)",
+    "titleAlt": "",
+    "tj": "52717"
+   },
+   {
+    "artist": "아야츠노 유니",
+    "category": "original",
+    "id": 614,
+    "ky": "",
+    "members": [
+     "아야츠노 유니"
+    ],
+    "section": "solo",
+    "title": "CHEWING LUV",
+    "titleAlt": "",
+    "tj": "51731"
+   },
+   {
+    "artist": "아야츠노 유니",
+    "category": "original",
+    "id": 615,
+    "ky": "",
+    "members": [
+     "아야츠노 유니"
+    ],
+    "section": "solo",
+    "title": "삐질게",
+    "titleAlt": "",
+    "tj": "51617"
+   },
+   {
+    "artist": "아야츠노 유니",
+    "category": "original",
+    "id": 616,
+    "ky": "",
+    "members": [
+     "아야츠노 유니"
+    ],
+    "section": "solo",
+    "title": "SUPADOPA",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "아야츠노 유니",
+    "category": "original",
+    "id": 617,
+    "ky": "99555",
+    "members": [
+     "아야츠노 유니"
+    ],
+    "section": "solo",
+    "title": "내꺼 하는 법",
+    "titleAlt": "",
+    "tj": "84251"
+   },
+   {
+    "artist": "아야츠노 유니",
+    "category": "cover",
+    "id": 618,
+    "ky": "",
+    "members": [
+     "아야츠노 유니"
+    ],
+    "section": "solo",
+    "title": "오네가이 달링 (おねがいダーリン)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "아야츠노 유니",
+    "category": "cover",
+    "id": 619,
+    "ky": "",
+    "members": [
+     "아야츠노 유니"
+    ],
+    "section": "solo",
+    "title": "참생활 (真生活)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "아야츠노 유니",
+    "category": "cover",
+    "id": 620,
+    "ky": "75996",
+    "members": [
+     "아야츠노 유니"
+    ],
+    "section": "solo",
+    "title": "Lilac (ライラック)",
+    "titleAlt": "",
+    "tj": "68461"
+   },
+   {
+    "artist": "아야츠노 유니",
+    "category": "cover",
+    "id": 621,
+    "ky": "43227",
+    "members": [
+     "아야츠노 유니"
+    ],
+    "section": "solo",
+    "title": "연애 서큘레이션 (恋愛サーキュレーション)",
+    "titleAlt": "",
+    "tj": "27027"
+   },
+   {
+    "artist": "아야츠노 유니",
+    "category": "cover",
+    "id": 622,
+    "ky": "",
+    "members": [
+     "아야츠노 유니"
+    ],
+    "section": "solo",
+    "title": "두근어질 (きゅうくらりん)",
+    "titleAlt": "",
+    "tj": "52506"
+   },
+   {
+    "artist": "아야츠노 유니",
+    "category": "cover",
+    "id": 623,
+    "ky": "75929",
+    "members": [
+     "아야츠노 유니"
+    ],
+    "section": "solo",
+    "title": "Mela!",
+    "titleAlt": "",
+    "tj": "68562"
+   },
+   {
+    "artist": "아야츠노 유니",
+    "category": "cover",
+    "id": 624,
+    "ky": "44923",
+    "members": [
+     "아야츠노 유니"
+    ],
+    "section": "solo",
+    "title": "아이돌 (アイドル)",
+    "titleAlt": "",
+    "tj": "68781"
+   },
+   {
+    "artist": "아야츠노 유니",
+    "category": "cover",
+    "id": 625,
+    "ky": "",
+    "members": [
+     "아야츠노 유니"
+    ],
+    "section": "solo",
+    "title": "굿바이 선언 (グッバイ宣言)",
+    "titleAlt": "",
+    "tj": "68500"
+   },
+   {
+    "artist": "아야츠노 유니",
+    "category": "cover",
+    "id": 626,
+    "ky": "",
+    "members": [
+     "아야츠노 유니"
+    ],
+    "section": "solo",
+    "title": "사랑의 말 Ⅳ (愛言葉Ⅳ)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "아야츠노 유니",
+    "category": "cover",
+    "id": 627,
+    "ky": "44746",
+    "members": [
+     "아야츠노 유니"
+    ],
+    "section": "solo",
+    "title": "베텔기우스 (ベテルギウス)",
+    "titleAlt": "",
+    "tj": "68553"
+   },
+   {
+    "artist": "아야츠노 유니",
+    "category": "cover",
+    "id": 628,
+    "ky": "",
+    "members": [
+     "아야츠노 유니"
+    ],
+    "section": "solo",
+    "title": "긍지높은 아이돌 (誇り高きアイドル)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "사키하네 후야",
+    "category": "cover",
+    "id": 629,
+    "ky": "",
+    "members": [
+     "사키하네 후야"
+    ],
+    "section": "solo",
+    "title": "Booo!",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "사키하네 후야",
+    "category": "cover",
+    "id": 630,
+    "ky": "42670",
+    "members": [
+     "사키하네 후야"
+    ],
+    "section": "solo",
+    "title": "Melt CPK! Remix (メルト)",
+    "titleAlt": "",
+    "tj": "26749"
+   },
+   {
+    "artist": "사키하네 후야",
+    "category": "cover",
+    "id": 631,
+    "ky": "44130",
+    "members": [
+     "사키하네 후야"
+    ],
+    "section": "solo",
+    "title": "푸른 하늘의 랩소디 (青空のラプソディ)",
+    "titleAlt": "",
+    "tj": "28658"
+   },
+   {
+    "artist": "사키하네 후야",
+    "category": "cover",
+    "id": 632,
+    "ky": "",
+    "members": [
+     "사키하네 후야"
+    ],
+    "section": "solo",
+    "title": "CHEWING LUV",
+    "titleAlt": "",
+    "tj": "51731"
+   },
+   {
+    "artist": "사키하네 후야",
+    "category": "cover",
+    "id": 633,
+    "ky": "44888",
+    "members": [
+     "사키하네 후야"
+    ],
+    "section": "solo",
+    "title": "별자리가 될 수 있다면 (星座になれたら)",
+    "titleAlt": "",
+    "tj": "68748"
+   },
+   {
+    "artist": "시라유키 히나",
+    "category": "original",
+    "id": 634,
+    "ky": "",
+    "members": [
+     "시라유키 히나"
+    ],
+    "section": "solo",
+    "title": "하나(夏拏)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "시라유키 히나",
+    "category": "cover",
+    "id": 635,
+    "ky": "",
+    "members": [
+     "시라유키 히나"
+    ],
+    "section": "solo",
+    "title": "내일 또 보자 (またあした)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "시라유키 히나",
+    "category": "cover",
+    "id": 636,
+    "ky": "44523",
+    "members": [
+     "시라유키 히나"
+    ],
+    "section": "solo",
+    "title": "춘수 (春愁)",
+    "titleAlt": "",
+    "tj": "68207"
+   },
+   {
+    "artist": "시라유키 히나",
+    "category": "cover",
+    "id": 637,
+    "ky": "",
+    "members": [
+     "시라유키 히나"
+    ],
+    "section": "solo",
+    "title": "Acacia",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "시라유키 히나",
+    "category": "cover",
+    "id": 638,
+    "ky": "44480",
+    "members": [
+     "시라유키 히나"
+    ],
+    "section": "solo",
+    "title": "바다의 유령 (海の幽霊)",
+    "titleAlt": "",
+    "tj": "68019"
+   },
+   {
+    "artist": "시라유키 히나",
+    "category": "cover",
+    "id": 639,
+    "ky": "93359",
+    "members": [
+     "시라유키 히나"
+    ],
+    "section": "solo",
+    "title": "계절범죄",
+    "titleAlt": "",
+    "tj": "83601"
+   },
+   {
+    "artist": "시라유키 히나",
+    "category": "cover",
+    "id": 640,
+    "ky": "42670",
+    "members": [
+     "시라유키 히나"
+    ],
+    "section": "solo",
+    "title": "Melt (メルト)",
+    "titleAlt": "",
+    "tj": "26749"
+   },
+   {
+    "artist": "시라유키 히나",
+    "category": "cover",
+    "id": 641,
+    "ky": "43987",
+    "members": [
+     "시라유키 히나"
+    ],
+    "section": "solo",
+    "title": "크리스마스 송 (クリスマスソング)",
+    "titleAlt": "",
+    "tj": "27807"
+   },
+   {
+    "artist": "시라유키 히나",
+    "category": "cover",
+    "id": 642,
+    "ky": "44232",
+    "members": [
+     "시라유키 히나"
+    ],
+    "section": "solo",
+    "title": "깜빡임 (瞬き)",
+    "titleAlt": "",
+    "tj": "28816"
+   },
+   {
+    "artist": "시라유키 히나",
+    "category": "cover",
+    "id": 643,
+    "ky": "",
+    "members": [
+     "시라유키 히나"
+    ],
+    "section": "solo",
+    "title": "사랑해줘 사랑해줘 사랑해줘 (愛して愛して愛して)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "시라유키 히나",
+    "category": "cover",
+    "id": 644,
+    "ky": "44755",
+    "members": [
+     "시라유키 히나"
+    ],
+    "section": "solo",
+    "title": "악마의 아이 (悪魔の子)",
+    "titleAlt": "",
+    "tj": "68571"
+   },
+   {
+    "artist": "시라유키 히나",
+    "category": "cover",
+    "id": 645,
+    "ky": "44684",
+    "members": [
+     "시라유키 히나"
+    ],
+    "section": "solo",
+    "title": "군청 (群青)",
+    "titleAlt": "",
+    "tj": "68390"
+   },
+   {
+    "artist": "시라유키 히나",
+    "category": "cover",
+    "id": 646,
+    "ky": "44269",
+    "members": [
+     "시라유키 히나"
+    ],
+    "section": "solo",
+    "title": "Orange (オレンジ)",
+    "titleAlt": "",
+    "tj": "28841"
+   },
+   {
+    "artist": "시라유키 히나",
+    "category": "cover",
+    "id": 647,
+    "ky": "57828",
+    "members": [
+     "시라유키 히나"
+    ],
+    "section": "solo",
+    "title": "만찬가 (晩餐歌)",
+    "titleAlt": "",
+    "tj": "52788"
+   },
+   {
+    "artist": "시라유키 히나",
+    "category": "cover",
+    "id": 648,
+    "ky": "44642",
+    "members": [
+     "시라유키 히나"
+    ],
+    "section": "solo",
+    "title": "하루카 (ハルカ)",
+    "titleAlt": "",
+    "tj": "68354"
+   },
+   {
+    "artist": "시라유키 히나",
+    "category": "cover",
+    "id": 649,
+    "ky": "44116",
+    "members": [
+     "시라유키 히나"
+    ],
+    "section": "solo",
+    "title": "새벽과 반딧불이 (夜明けと蛍)",
+    "titleAlt": "",
+    "tj": "27999"
+   },
+   {
+    "artist": "시라유키 히나",
+    "category": "cover",
+    "id": 650,
+    "ky": "",
+    "members": [
+     "시라유키 히나"
+    ],
+    "section": "solo",
+    "title": "I Really Want to Stay At Your House",
+    "titleAlt": "",
+    "tj": "79185"
+   },
+   {
+    "artist": "시라유키 히나",
+    "category": "cover",
+    "id": 651,
+    "ky": "",
+    "members": [
+     "시라유키 히나"
+    ],
+    "section": "solo",
+    "title": "17살의 노래 (17さいのうた。)",
+    "titleAlt": "",
+    "tj": "68708"
+   },
+   {
+    "artist": "시라유키 히나",
+    "category": "cover",
+    "id": 652,
+    "ky": "",
+    "members": [
+     "시라유키 히나"
+    ],
+    "section": "solo",
+    "title": "봄을 기다리다 (春を待つ)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "시라유키 히나",
+    "category": "cover",
+    "id": 653,
+    "ky": "",
+    "members": [
+     "시라유키 히나"
+    ],
+    "section": "solo",
+    "title": "라푼젤 (ラプンツェル)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "시라유키 히나",
+    "category": "cover",
+    "id": 654,
+    "ky": "82645",
+    "members": [
+     "시라유키 히나"
+    ],
+    "section": "solo",
+    "title": "Sweet Dreams, My Dear",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "시라유키 히나",
+    "category": "cover",
+    "id": 655,
+    "ky": "75842",
+    "members": [
+     "시라유키 히나"
+    ],
+    "section": "solo",
+    "title": "피날레 (フィナーレ。)",
+    "titleAlt": "",
+    "tj": "68845"
+   },
+   {
+    "artist": "시라유키 히나",
+    "category": "cover",
+    "id": 656,
+    "ky": "",
+    "members": [
+     "시라유키 히나"
+    ],
+    "section": "solo",
+    "title": "그저 네게 맑아라 (ただ君に晴れ)",
+    "titleAlt": "",
+    "tj": "68061"
+   },
+   {
+    "artist": "시라유키 히나",
+    "category": "cover",
+    "id": 657,
+    "ky": "48718",
+    "members": [
+     "시라유키 히나"
+    ],
+    "section": "solo",
+    "title": "드라마(Drama)",
+    "titleAlt": "",
+    "tj": "80824"
+   },
+   {
+    "artist": "시라유키 히나",
+    "category": "cover",
+    "id": 658,
+    "ky": "",
+    "members": [
+     "시라유키 히나"
+    ],
+    "section": "solo",
+    "title": "낙향 (都落ち)",
+    "titleAlt": "",
+    "tj": "68450"
+   },
+   {
+    "artist": "네네코 마시로",
+    "category": "original",
+    "id": 659,
+    "ky": "",
+    "members": [
+     "네네코 마시로"
+    ],
+    "section": "solo",
+    "title": "봄꿈",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "네네코 마시로",
+    "category": "cover",
+    "id": 660,
+    "ky": "",
+    "members": [
+     "네네코 마시로"
+    ],
+    "section": "solo",
+    "title": "망상 아스파탐 (妄想アスパルテーム)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "네네코 마시로",
+    "category": "cover",
+    "id": 661,
+    "ky": "",
+    "members": [
+     "네네코 마시로"
+    ],
+    "section": "solo",
+    "title": "쿵쿵 앞-으로! (とんとんまーえ！)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "네네코 마시로",
+    "category": "cover",
+    "id": 662,
+    "ky": "",
+    "members": [
+     "네네코 마시로"
+    ],
+    "section": "solo",
+    "title": "병명 상사병 (病名恋ワズライ)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "네네코 마시로",
+    "category": "cover",
+    "id": 663,
+    "ky": "",
+    "members": [
+     "네네코 마시로"
+    ],
+    "section": "solo",
+    "title": "슈가로스 (シュガーロス)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "네네코 마시로",
+    "category": "cover",
+    "id": 664,
+    "ky": "45651",
+    "members": [
+     "네네코 마시로"
+    ],
+    "section": "solo",
+    "title": "연예인",
+    "titleAlt": "",
+    "tj": "16256"
+   },
+   {
+    "artist": "네네코 마시로",
+    "category": "cover",
+    "id": 665,
+    "ky": "",
+    "members": [
+     "네네코 마시로"
+    ],
+    "section": "solo",
+    "title": "댄스 로봇 댄스 (ダンスロボットダンス)",
+    "titleAlt": "",
+    "tj": "68096"
+   },
+   {
+    "artist": "네네코 마시로",
+    "category": "cover",
+    "id": 666,
+    "ky": "",
+    "members": [
+     "네네코 마시로"
+    ],
+    "section": "solo",
+    "title": "안녕, 꽃도둑씨 (さようなら、花泥棒さん)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "네네코 마시로",
+    "category": "cover",
+    "id": 667,
+    "ky": "57827",
+    "members": [
+     "네네코 마시로"
+    ],
+    "section": "solo",
+    "title": "츄 다양성 (ちゅ、多様性)",
+    "titleAlt": "",
+    "tj": "52425"
+   },
+   {
+    "artist": "네네코 마시로",
+    "category": "cover",
+    "id": 668,
+    "ky": "",
+    "members": [
+     "네네코 마시로"
+    ],
+    "section": "solo",
+    "title": "우주 비행사의 노래 (うちゅうひこうしのうた)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "네네코 마시로",
+    "category": "cover",
+    "id": 669,
+    "ky": "",
+    "members": [
+     "네네코 마시로"
+    ],
+    "section": "solo",
+    "title": "Pale",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "네네코 마시로",
+    "category": "cover",
+    "id": 670,
+    "ky": "",
+    "members": [
+     "네네코 마시로"
+    ],
+    "section": "solo",
+    "title": "퀘스천 (クエスチョン)",
+    "titleAlt": "",
+    "tj": "52802"
+   },
+   {
+    "artist": "아카네 리제",
+    "category": "original",
+    "id": 671,
+    "ky": "",
+    "members": [
+     "아카네 리제"
+    ],
+    "section": "solo",
+    "title": "Festa!",
+    "titleAlt": "",
+    "tj": "44430"
+   },
+   {
+    "artist": "아카네 리제",
+    "category": "cover",
+    "id": 672,
+    "ky": "",
+    "members": [
+     "아카네 리제"
+    ],
+    "section": "solo",
+    "title": "청록",
+    "titleAlt": "",
+    "tj": "43112"
+   },
+   {
+    "artist": "아카네 리제",
+    "category": "cover",
+    "id": 673,
+    "ky": "76512",
+    "members": [
+     "아카네 리제"
+    ],
+    "section": "solo",
+    "title": "무대에 서서 (舞台に立って)",
+    "titleAlt": "",
+    "tj": "52705"
+   },
+   {
+    "artist": "아카네 리제",
+    "category": "cover",
+    "id": 674,
+    "ky": "44401",
+    "members": [
+     "아카네 리제"
+    ],
+    "section": "solo",
+    "title": "Hollowness (ホロネス)",
+    "titleAlt": "",
+    "tj": "68030"
+   },
+   {
+    "artist": "아카네 리제",
+    "category": "cover",
+    "id": 675,
+    "ky": "44128",
+    "members": [
+     "아카네 리제"
+    ],
+    "section": "solo",
+    "title": "orion",
+    "titleAlt": "",
+    "tj": "28660"
+   },
+   {
+    "artist": "아카네 리제",
+    "category": "cover",
+    "id": 676,
+    "ky": "44829",
+    "members": [
+     "아카네 리제"
+    ],
+    "section": "solo",
+    "title": "Stellar Stellar",
+    "titleAlt": "",
+    "tj": "68567"
+   },
+   {
+    "artist": "아카네 리제",
+    "category": "cover",
+    "id": 677,
+    "ky": "",
+    "members": [
+     "아카네 리제"
+    ],
+    "section": "solo",
+    "title": "주름 맞추기 (しわあわせ)",
+    "titleAlt": "",
+    "tj": "52412"
+   },
+   {
+    "artist": "아카네 리제",
+    "category": "cover",
+    "id": 678,
+    "ky": "57810",
+    "members": [
+     "아카네 리제"
+    ],
+    "section": "solo",
+    "title": "케세라세라 (ケセラセラ)",
+    "titleAlt": "",
+    "tj": "52844"
+   },
+   {
+    "artist": "아카네 리제",
+    "category": "cover",
+    "id": 679,
+    "ky": "",
+    "members": [
+     "아카네 리제"
+    ],
+    "section": "solo",
+    "title": "발묘 (抜錨)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "아카네 리제",
+    "category": "cover",
+    "id": 680,
+    "ky": "57784",
+    "members": [
+     "아카네 리제"
+    ],
+    "section": "solo",
+    "title": "JANE DOE",
+    "titleAlt": "",
+    "tj": "52972"
+   },
+   {
+    "artist": "아카네 리제",
+    "category": "cover",
+    "id": 681,
+    "ky": "57738",
+    "members": [
+     "아카네 리제"
+    ],
+    "section": "solo",
+    "title": "Bunny Girl",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "아카네 리제",
+    "category": "cover",
+    "id": 682,
+    "ky": "",
+    "members": [
+     "아카네 리제"
+    ],
+    "section": "solo",
+    "title": "프로포즈 (プロポーズ)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "아카네 리제",
+    "category": "cover",
+    "id": 683,
+    "ky": "",
+    "members": [
+     "아카네 리제"
+    ],
+    "section": "solo",
+    "title": "Surges",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "아카네 리제",
+    "category": "cover",
+    "id": 684,
+    "ky": "",
+    "members": [
+     "아카네 리제"
+    ],
+    "section": "solo",
+    "title": "SHANTI (シャンティ)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "아카네 리제",
+    "category": "cover",
+    "id": 685,
+    "ky": "57767",
+    "members": [
+     "아카네 리제"
+    ],
+    "section": "solo",
+    "title": "취한 줄을 모르고 (酔いどれ知らず)",
+    "titleAlt": "",
+    "tj": "52465"
+   },
+   {
+    "artist": "아카네 리제",
+    "category": "cover",
+    "id": 686,
+    "ky": "57748",
+    "members": [
+     "아카네 리제"
+    ],
+    "section": "solo",
+    "title": "뱀파이어 (ヴァンパイア)",
+    "titleAlt": "",
+    "tj": "52515"
+   },
+   {
+    "artist": "아카네 리제",
+    "category": "cover",
+    "id": 687,
+    "ky": "",
+    "members": [
+     "아카네 리제"
+    ],
+    "section": "solo",
+    "title": "벚꽃, 너, 그리고 나 (サクラキミワタシ)",
+    "titleAlt": "",
+    "tj": "52530"
+   },
+   {
+    "artist": "아카네 리제",
+    "category": "cover",
+    "id": 688,
+    "ky": "44091",
+    "members": [
+     "아카네 리제"
+    ],
+    "section": "solo",
+    "title": "내일의 밤하늘 초계반 (アスノヨゾラ哨戒班)",
+    "titleAlt": "",
+    "tj": "27984"
+   },
+   {
+    "artist": "아카네 리제",
+    "category": "cover",
+    "id": 690,
+    "ky": "",
+    "members": [
+     "아카네 리제"
+    ],
+    "section": "solo",
+    "title": "밀월 Un・Deux・Trois (蜜月アン・ドゥ・トロワ)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "아카네 리제",
+    "category": "cover",
+    "id": 691,
+    "ky": "60148",
+    "members": [
+     "아카네 리제"
+    ],
+    "section": "solo",
+    "title": "Viva La Vida",
+    "titleAlt": "",
+    "tj": "21847"
+   },
+   {
+    "artist": "아카네 리제",
+    "category": "cover",
+    "id": 692,
+    "ky": "80979",
+    "members": [
+     "아카네 리제"
+    ],
+    "section": "solo",
+    "title": "Drowning",
+    "titleAlt": "",
+    "tj": "83945"
+   },
+   {
+    "artist": "아카네 리제",
+    "category": "cover",
+    "id": 693,
+    "ky": "42670",
+    "members": [
+     "아카네 리제"
+    ],
+    "section": "solo",
+    "title": "Melt (メルト)",
+    "titleAlt": "",
+    "tj": "26749"
+   },
+   {
+    "artist": "아카네 리제",
+    "category": "cover",
+    "id": 694,
+    "ky": "43944",
+    "members": [
+     "아카네 리제"
+    ],
+    "section": "solo",
+    "title": "프라이드 혁명 (プライド革命)",
+    "titleAlt": "",
+    "tj": "27767"
+   },
+   {
+    "artist": "아카네 리제",
+    "category": "cover",
+    "id": 695,
+    "ky": "57805",
+    "members": [
+     "아카네 리제"
+    ],
+    "section": "solo",
+    "title": "선잠 (うたたね)",
+    "titleAlt": "",
+    "tj": "68961"
+   },
+   {
+    "artist": "아카네 리제",
+    "category": "cover",
+    "id": 696,
+    "ky": "76530",
+    "members": [
+     "아카네 리제"
+    ],
+    "section": "solo",
+    "title": "절정찬가 (絶頂讃歌)",
+    "titleAlt": "",
+    "tj": "52727"
+   },
+   {
+    "artist": "아카네 리제",
+    "category": "cover",
+    "id": 697,
+    "ky": "",
+    "members": [
+     "아카네 리제"
+    ],
+    "section": "solo",
+    "title": "눈이 녹을 때 (雪解け)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "아카네 리제",
+    "category": "cover",
+    "id": 698,
+    "ky": "44894",
+    "members": [
+     "아카네 리제"
+    ],
+    "section": "solo",
+    "title": "나라는 것 (僕のこと)",
+    "titleAlt": "",
+    "tj": "68248"
+   },
+   {
+    "artist": "아카네 리제",
+    "category": "cover",
+    "id": 699,
+    "ky": "44655",
+    "members": [
+     "아카네 리제"
+    ],
+    "section": "solo",
+    "title": "괴물 (怪物)",
+    "titleAlt": "",
+    "tj": "68387"
+   },
+   {
+    "artist": "아라하시 타비",
+    "category": "original",
+    "id": 700,
+    "ky": "",
+    "members": [
+     "아라하시 타비"
+    ],
+    "section": "solo",
+    "title": "여로",
+    "titleAlt": "",
+    "tj": "44431"
+   },
+   {
+    "artist": "아라하시 타비",
+    "category": "cover",
+    "id": 701,
+    "ky": "",
+    "members": [
+     "아라하시 타비"
+    ],
+    "section": "solo",
+    "title": "밤새도록 널 생각해 (夜もすがら君想ふ)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "아라하시 타비",
+    "category": "cover",
+    "id": 702,
+    "ky": "93396",
+    "members": [
+     "아라하시 타비"
+    ],
+    "section": "solo",
+    "title": "행운을 빌어 줘",
+    "titleAlt": "",
+    "tj": "81184"
+   },
+   {
+    "artist": "아라하시 타비",
+    "category": "cover",
+    "id": 703,
+    "ky": "57771",
+    "members": [
+     "아라하시 타비"
+    ],
+    "section": "solo",
+    "title": "사랑 감기에 실려 (恋風邪にのせて)",
+    "titleAlt": "",
+    "tj": "52428"
+   },
+   {
+    "artist": "아라하시 타비",
+    "category": "cover",
+    "id": 704,
+    "ky": "50499",
+    "members": [
+     "아라하시 타비"
+    ],
+    "section": "solo",
+    "title": "Number one rockstar",
+    "titleAlt": "",
+    "tj": "50742"
+   },
+   {
+    "artist": "아라하시 타비",
+    "category": "cover",
+    "id": 705,
+    "ky": "56593",
+    "members": [
+     "아라하시 타비"
+    ],
+    "section": "solo",
+    "title": "SODA POP",
+    "titleAlt": "",
+    "tj": "88056"
+   },
+   {
+    "artist": "아라하시 타비",
+    "category": "cover",
+    "id": 706,
+    "ky": "",
+    "members": [
+     "아라하시 타비"
+    ],
+    "section": "solo",
+    "title": "Healer",
+    "titleAlt": "",
+    "tj": "76715"
+   },
+   {
+    "artist": "아라하시 타비",
+    "category": "cover",
+    "id": 707,
+    "ky": "44252",
+    "members": [
+     "아라하시 타비"
+    ],
+    "section": "solo",
+    "title": "Ref:rain",
+    "titleAlt": "",
+    "tj": "28832"
+   },
+   {
+    "artist": "아라하시 타비",
+    "category": "cover",
+    "id": 708,
+    "ky": "75077",
+    "members": [
+     "아라하시 타비"
+    ],
+    "section": "solo",
+    "title": "새봄의 노래 (Beginning)",
+    "titleAlt": "",
+    "tj": "86759"
+   },
+   {
+    "artist": "아라하시 타비",
+    "category": "cover",
+    "id": 709,
+    "ky": "",
+    "members": [
+     "아라하시 타비"
+    ],
+    "section": "solo",
+    "title": "사신 (死神)",
+    "titleAlt": "",
+    "tj": "52430"
+   },
+   {
+    "artist": "아라하시 타비",
+    "category": "cover",
+    "id": 710,
+    "ky": "23292",
+    "members": [
+     "아라하시 타비"
+    ],
+    "section": "solo",
+    "title": "HERO",
+    "titleAlt": "",
+    "tj": "76423"
+   },
+   {
+    "artist": "아라하시 타비",
+    "category": "cover",
+    "id": 711,
+    "ky": "95844",
+    "members": [
+     "아라하시 타비"
+    ],
+    "section": "solo",
+    "title": "첫사랑",
+    "titleAlt": "",
+    "tj": "78872"
+   },
+   {
+    "artist": "아라하시 타비",
+    "category": "cover",
+    "id": 712,
+    "ky": "80711",
+    "members": [
+     "아라하시 타비"
+    ],
+    "section": "solo",
+    "title": "낮에 뜨는 달",
+    "titleAlt": "",
+    "tj": "64242"
+   },
+   {
+    "artist": "아라하시 타비",
+    "category": "cover",
+    "id": 713,
+    "ky": "",
+    "members": [
+     "아라하시 타비"
+    ],
+    "section": "solo",
+    "title": "그 여름에 피어나 (あの夏に咲け)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "아라하시 타비",
+    "category": "cover",
+    "id": 714,
+    "ky": "",
+    "members": [
+     "아라하시 타비"
+    ],
+    "section": "solo",
+    "title": "그 여름의 어느 날은 (あの夏のいつかは)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "텐코 시부키",
+    "category": "original",
+    "id": 715,
+    "ky": "",
+    "members": [
+     "텐코 시부키"
+    ],
+    "section": "solo",
+    "title": "베리베리스트로베리",
+    "titleAlt": "",
+    "tj": "70682"
+   },
+   {
+    "artist": "텐코 시부키",
+    "category": "cover",
+    "id": 716,
+    "ky": "76548",
+    "members": [
+     "텐코 시부키"
+    ],
+    "section": "solo",
+    "title": "친애하는 소년이여 (拝啓、少年よ)",
+    "titleAlt": "",
+    "tj": "52756"
+   },
+   {
+    "artist": "텐코 시부키",
+    "category": "cover",
+    "id": 717,
+    "ky": "",
+    "members": [
+     "텐코 시부키"
+    ],
+    "section": "solo",
+    "title": "나에게 꽃다발 (わたしに花束)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "텐코 시부키",
+    "category": "cover",
+    "id": 718,
+    "ky": "",
+    "members": [
+     "텐코 시부키"
+    ],
+    "section": "solo",
+    "title": "행복에 대해 내가 생각한 것 (幸せについて、僕が考えたこと)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "텐코 시부키",
+    "category": "cover",
+    "id": 719,
+    "ky": "44729",
+    "members": [
+     "텐코 시부키"
+    ],
+    "section": "solo",
+    "title": "러브레터 (ラブレター)",
+    "titleAlt": "",
+    "tj": "68514"
+   },
+   {
+    "artist": "텐코 시부키",
+    "category": "cover",
+    "id": 720,
+    "ky": "",
+    "members": [
+     "텐코 시부키"
+    ],
+    "section": "solo",
+    "title": "DAYBREAK FRONTLINE",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "텐코 시부키",
+    "category": "cover",
+    "id": 721,
+    "ky": "41852",
+    "members": [
+     "텐코 시부키"
+    ],
+    "section": "solo",
+    "title": "메리크리 (メリクリ)",
+    "titleAlt": "",
+    "tj": "25907"
+   },
+   {
+    "artist": "텐코 시부키",
+    "category": "cover",
+    "id": 722,
+    "ky": "",
+    "members": [
+     "텐코 시부키"
+    ],
+    "section": "solo",
+    "title": "생명에게 미움받고 있어 (命に嫌われている。)",
+    "titleAlt": "",
+    "tj": "68051"
+   },
+   {
+    "artist": "텐코 시부키",
+    "category": "cover",
+    "id": 723,
+    "ky": "44466",
+    "members": [
+     "텐코 시부키"
+    ],
+    "section": "solo",
+    "title": "푸름과 여름 (青と夏)",
+    "titleAlt": "",
+    "tj": "68127"
+   },
+   {
+    "artist": "텐코 시부키",
+    "category": "cover",
+    "id": 724,
+    "ky": "75979",
+    "members": [
+     "텐코 시부키"
+    ],
+    "section": "solo",
+    "title": "UNDEAD",
+    "titleAlt": "",
+    "tj": "52595"
+   },
+   {
+    "artist": "텐코 시부키",
+    "category": "cover",
+    "id": 725,
+    "ky": "57829",
+    "members": [
+     "텐코 시부키"
+    ],
+    "section": "solo",
+    "title": "눈싸움 (睨めっ娘)",
+    "titleAlt": "",
+    "tj": "52776"
+   },
+   {
+    "artist": "텐코 시부키",
+    "category": "cover",
+    "id": 726,
+    "ky": "",
+    "members": [
+     "텐코 시부키"
+    ],
+    "section": "solo",
+    "title": "SOS",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "텐코 시부키",
+    "category": "cover",
+    "id": 727,
+    "ky": "",
+    "members": [
+     "텐코 시부키"
+    ],
+    "section": "solo",
+    "title": "겨울의 선물 (冬のプレゼント)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "텐코 시부키",
+    "category": "cover",
+    "id": 728,
+    "ky": "",
+    "members": [
+     "텐코 시부키"
+    ],
+    "section": "solo",
+    "title": "Sabotage",
+    "titleAlt": "",
+    "tj": "52401"
+   },
+   {
+    "artist": "텐코 시부키",
+    "category": "cover",
+    "id": 729,
+    "ky": "57826",
+    "members": [
+     "텐코 시부키"
+    ],
+    "section": "solo",
+    "title": "Leo (レオ)",
+    "titleAlt": "",
+    "tj": "52773"
+   },
+   {
+    "artist": "텐코 시부키",
+    "category": "cover",
+    "id": 730,
+    "ky": "47119",
+    "members": [
+     "텐코 시부키"
+    ],
+    "section": "solo",
+    "title": "여우비",
+    "titleAlt": "",
+    "tj": "32933"
+   },
+   {
+    "artist": "텐코 시부키",
+    "category": "cover",
+    "id": 731,
+    "ky": "",
+    "members": [
+     "텐코 시부키"
+    ],
+    "section": "solo",
+    "title": "너에게 메롱 (あんたにあっかんべ)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "아오쿠모 린",
+    "category": "original",
+    "id": 732,
+    "ky": "",
+    "members": [
+     "아오쿠모 린"
+    ],
+    "section": "solo",
+    "title": "Maid My Way",
+    "titleAlt": "",
+    "tj": "70674"
+   },
+   {
+    "artist": "아오쿠모 린",
+    "category": "cover",
+    "id": 733,
+    "ky": "40922",
+    "members": [
+     "아오쿠모 린"
+    ],
+    "section": "solo",
+    "title": "물떼새 (千鳥)",
+    "titleAlt": "",
+    "tj": "52504"
+   },
+   {
+    "artist": "아오쿠모 린",
+    "category": "cover",
+    "id": 734,
+    "ky": "44808",
+    "members": [
+     "아오쿠모 린"
+    ],
+    "section": "solo",
+    "title": "댄스홀 (ダンスホール)",
+    "titleAlt": "",
+    "tj": "68620"
+   },
+   {
+    "artist": "아오쿠모 린",
+    "category": "cover",
+    "id": 735,
+    "ky": "44040",
+    "members": [
+     "아오쿠모 린"
+    ],
+    "section": "solo",
+    "title": "아이네 클라이네 (アイネクライネ)",
+    "titleAlt": "",
+    "tj": "28607"
+   },
+   {
+    "artist": "아오쿠모 린",
+    "category": "cover",
+    "id": 736,
+    "ky": "",
+    "members": [
+     "아오쿠모 린"
+    ],
+    "section": "solo",
+    "title": "Oh...",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "아오쿠모 린",
+    "category": "cover",
+    "id": 737,
+    "ky": "",
+    "members": [
+     "아오쿠모 린"
+    ],
+    "section": "solo",
+    "title": "AIZO",
+    "titleAlt": "",
+    "tj": "52501"
+   },
+   {
+    "artist": "아오쿠모 린",
+    "category": "cover",
+    "id": 738,
+    "ky": "",
+    "members": [
+     "아오쿠모 린"
+    ],
+    "section": "solo",
+    "title": "카가리비토 (カガリビト)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "아오쿠모 린",
+    "category": "cover",
+    "id": 739,
+    "ky": "",
+    "members": [
+     "아오쿠모 린"
+    ],
+    "section": "solo",
+    "title": "사신 (死神)",
+    "titleAlt": "",
+    "tj": "52430"
+   },
+   {
+    "artist": "아오쿠모 린",
+    "category": "cover",
+    "id": 740,
+    "ky": "8008",
+    "members": [
+     "아오쿠모 린"
+    ],
+    "section": "solo",
+    "title": "All I Want For Christmas Is You (Kinyopio Ver.)",
+    "titleAlt": "",
+    "tj": "20422"
+   },
+   {
+    "artist": "아오쿠모 린",
+    "category": "cover",
+    "id": 741,
+    "ky": "94974",
+    "members": [
+     "아오쿠모 린"
+    ],
+    "section": "solo",
+    "title": "STAY",
+    "titleAlt": "",
+    "tj": "23762"
+   },
+   {
+    "artist": "아오쿠모 린",
+    "category": "cover",
+    "id": 742,
+    "ky": "57785",
+    "members": [
+     "아오쿠모 린"
+    ],
+    "section": "solo",
+    "title": "IRIS OUT",
+    "titleAlt": "",
+    "tj": "52959"
+   },
+   {
+    "artist": "아오쿠모 린",
+    "category": "cover",
+    "id": 743,
+    "ky": "75949",
+    "members": [
+     "아오쿠모 린"
+    ],
+    "section": "solo",
+    "title": "전방향 미소녀 (全方向美少女)",
+    "titleAlt": "",
+    "tj": "52589"
+   },
+   {
+    "artist": "아오쿠모 린",
+    "category": "cover",
+    "id": 744,
+    "ky": "",
+    "members": [
+     "아오쿠모 린"
+    ],
+    "section": "solo",
+    "title": "PLAY (プレイ)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "아오쿠모 린",
+    "category": "cover",
+    "id": 745,
+    "ky": "44888",
+    "members": [
+     "아오쿠모 린"
+    ],
+    "section": "solo",
+    "title": "별자리가 될 수 있다면 (星座になれたら)",
+    "titleAlt": "",
+    "tj": "68748"
+   },
+   {
+    "artist": "아오쿠모 린",
+    "category": "cover",
+    "id": 746,
+    "ky": "57828",
+    "members": [
+     "아오쿠모 린"
+    ],
+    "section": "solo",
+    "title": "만찬가 (晩餐歌)",
+    "titleAlt": "",
+    "tj": "52788"
+   },
+   {
+    "artist": "아오쿠모 린",
+    "category": "cover",
+    "id": 747,
+    "ky": "44587",
+    "members": [
+     "아오쿠모 린"
+    ],
+    "section": "solo",
+    "title": "Stand By You",
+    "titleAlt": "",
+    "tj": "68850"
+   },
+   {
+    "artist": "아오쿠모 린",
+    "category": "cover",
+    "id": 748,
+    "ky": "",
+    "members": [
+     "아오쿠모 린"
+    ],
+    "section": "solo",
+    "title": "Unbreakable Sphere",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "아오쿠모 린",
+    "category": "cover",
+    "id": 749,
+    "ky": "57822",
+    "members": [
+     "아오쿠모 린"
+    ],
+    "section": "solo",
+    "title": "BOW AND ARROW",
+    "titleAlt": "",
+    "tj": "52796"
+   },
+   {
+    "artist": "아오쿠모 린",
+    "category": "cover",
+    "id": 750,
+    "ky": "",
+    "members": [
+     "아오쿠모 린"
+    ],
+    "section": "solo",
+    "title": "W/X/Y",
+    "titleAlt": "",
+    "tj": "52444"
+   },
+   {
+    "artist": "아오쿠모 린",
+    "category": "cover",
+    "id": 751,
+    "ky": "80411",
+    "members": [
+     "아오쿠모 린"
+    ],
+    "section": "solo",
+    "title": "To. X",
+    "titleAlt": "",
+    "tj": "85413"
+   },
+   {
+    "artist": "아오쿠모 린",
+    "category": "cover",
+    "id": 752,
+    "ky": "",
+    "members": [
+     "아오쿠모 린"
+    ],
+    "section": "solo",
+    "title": "꿈의 카니발 (Grand Feast Daydream)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "아오쿠모 린",
+    "category": "cover",
+    "id": 753,
+    "ky": "75838",
+    "members": [
+     "아오쿠모 린"
+    ],
+    "section": "solo",
+    "title": "SPECIALZ",
+    "titleAlt": "",
+    "tj": "68876"
+   },
+   {
+    "artist": "아오쿠모 린",
+    "category": "cover",
+    "id": 754,
+    "ky": "44136",
+    "members": [
+     "아오쿠모 린"
+    ],
+    "section": "solo",
+    "title": "Happy End (ハッピーエンド)",
+    "titleAlt": "",
+    "tj": "28675"
+   },
+   {
+    "artist": "아오쿠모 린",
+    "category": "cover",
+    "id": 755,
+    "ky": "44876",
+    "members": [
+     "아오쿠모 린"
+    ],
+    "section": "solo",
+    "title": "Overdose",
+    "titleAlt": "",
+    "tj": "68698"
+   },
+   {
+    "artist": "아오쿠모 린",
+    "category": "cover",
+    "id": 756,
+    "ky": "57771",
+    "members": [
+     "아오쿠모 린"
+    ],
+    "section": "solo",
+    "title": "사랑 감기에 실려 (恋風邪にのせて)",
+    "titleAlt": "",
+    "tj": "52428"
+   },
+   {
+    "artist": "아오쿠모 린",
+    "category": "cover",
+    "id": 757,
+    "ky": "76508",
+    "members": [
+     "아오쿠모 린"
+    ],
+    "section": "solo",
+    "title": "무희 (踊り子)",
+    "titleAlt": "",
+    "tj": "68807"
+   },
+   {
+    "artist": "아오쿠모 린",
+    "category": "cover",
+    "id": 758,
+    "ky": "",
+    "members": [
+     "아오쿠모 린"
+    ],
+    "section": "solo",
+    "title": "Rumor (ルーマー)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "아오쿠모 린",
+    "category": "cover",
+    "id": 759,
+    "ky": "75948",
+    "members": [
+     "아오쿠모 린"
+    ],
+    "section": "solo",
+    "title": "안녕, 또 언젠가! (さよーならまたいつか！)",
+    "titleAlt": "",
+    "tj": "52580"
+   },
+   {
+    "artist": "아오쿠모 린",
+    "category": "cover",
+    "id": 760,
+    "ky": "",
+    "members": [
+     "아오쿠모 린"
+    ],
+    "section": "solo",
+    "title": "유령도쿄 (幽霊東京)",
+    "titleAlt": "",
+    "tj": "52447"
+   },
+   {
+    "artist": "하나코 나나",
+    "category": "original",
+    "id": 761,
+    "ky": "",
+    "members": [
+     "하나코 나나"
+    ],
+    "section": "solo",
+    "title": "Hush Trap",
+    "titleAlt": "",
+    "tj": "70683"
+   },
+   {
+    "artist": "하나코 나나",
+    "category": "cover",
+    "id": 762,
+    "ky": "",
+    "members": [
+     "하나코 나나"
+    ],
+    "section": "solo",
+    "title": "Loveit?",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "하나코 나나",
+    "category": "cover",
+    "id": 763,
+    "ky": "",
+    "members": [
+     "하나코 나나"
+    ],
+    "section": "solo",
+    "title": "drivers license",
+    "titleAlt": "",
+    "tj": "23662"
+   },
+   {
+    "artist": "하나코 나나",
+    "category": "cover",
+    "id": 764,
+    "ky": "",
+    "members": [
+     "하나코 나나"
+    ],
+    "section": "solo",
+    "title": "Deja vu",
+    "titleAlt": "",
+    "tj": "23745"
+   },
+   {
+    "artist": "하나코 나나",
+    "category": "cover",
+    "id": 765,
+    "ky": "",
+    "members": [
+     "하나코 나나"
+    ],
+    "section": "solo",
+    "title": "One Last Kiss",
+    "titleAlt": "",
+    "tj": "52459"
+   },
+   {
+    "artist": "하나코 나나",
+    "category": "cover",
+    "id": 766,
+    "ky": "42016",
+    "members": [
+     "하나코 나나"
+    ],
+    "section": "solo",
+    "title": "죄와 벌 (罪と罰)",
+    "titleAlt": "",
+    "tj": "25497"
+   },
+   {
+    "artist": "하나코 나나",
+    "category": "cover",
+    "id": 767,
+    "ky": "43237",
+    "members": [
+     "하나코 나나"
+    ],
+    "section": "solo",
+    "title": "RAIN (レイン)",
+    "titleAlt": "",
+    "tj": "27062"
+   },
+   {
+    "artist": "하나코 나나",
+    "category": "cover",
+    "id": 768,
+    "ky": "44701",
+    "members": [
+     "하나코 나나"
+    ],
+    "section": "solo",
+    "title": "수평선 (水平線)",
+    "titleAlt": "",
+    "tj": "68446"
+   },
+   {
+    "artist": "하나코 나나",
+    "category": "cover",
+    "id": 769,
+    "ky": "24102",
+    "members": [
+     "하나코 나나"
+    ],
+    "section": "solo",
+    "title": "Summer",
+    "titleAlt": "",
+    "tj": "81810"
+   },
+   {
+    "artist": "하나코 나나",
+    "category": "cover",
+    "id": 770,
+    "ky": "76521",
+    "members": [
+     "하나코 나나"
+    ],
+    "section": "solo",
+    "title": "죽는 게 나아 (死ぬのがいいわ)",
+    "titleAlt": "",
+    "tj": "68803"
+   },
+   {
+    "artist": "하나코 나나",
+    "category": "cover",
+    "id": 771,
+    "ky": "95696",
+    "members": [
+     "하나코 나나"
+    ],
+    "section": "solo",
+    "title": "걘 아니야 Pt.1",
+    "titleAlt": "",
+    "tj": "24266"
+   },
+   {
+    "artist": "하나코 나나",
+    "category": "cover",
+    "id": 772,
+    "ky": "",
+    "members": [
+     "하나코 나나"
+    ],
+    "section": "solo",
+    "title": "Summertime",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "하나코 나나",
+    "category": "cover",
+    "id": 773,
+    "ky": "95001",
+    "members": [
+     "하나코 나나"
+    ],
+    "section": "solo",
+    "title": "Enemy",
+    "titleAlt": "",
+    "tj": "23821"
+   },
+   {
+    "artist": "하나코 나나",
+    "category": "cover",
+    "id": 774,
+    "ky": "44423",
+    "members": [
+     "하나코 나나"
+    ],
+    "section": "solo",
+    "title": "Grand Escape (グランドエスケープ)",
+    "titleAlt": "",
+    "tj": "68067"
+   },
+   {
+    "artist": "하나코 나나",
+    "category": "cover",
+    "id": 775,
+    "ky": "57766",
+    "members": [
+     "하나코 나나"
+    ],
+    "section": "solo",
+    "title": "모니터링 (モニタリング)",
+    "titleAlt": "",
+    "tj": "52468"
+   },
+   {
+    "artist": "하나코 나나",
+    "category": "cover",
+    "id": 776,
+    "ky": "44499",
+    "members": [
+     "하나코 나나"
+    ],
+    "section": "solo",
+    "title": "비행정 (飛行艇)",
+    "titleAlt": "",
+    "tj": "68135"
+   },
+   {
+    "artist": "하나코 나나",
+    "category": "cover",
+    "id": 777,
+    "ky": "44688",
+    "members": [
+     "하나코 나나"
+    ],
+    "section": "solo",
+    "title": "실・부・프레지던트 (シル・ヴ・プレジデント)",
+    "titleAlt": "",
+    "tj": "68442"
+   },
+   {
+    "artist": "하나코 나나",
+    "category": "cover",
+    "id": 778,
+    "ky": "57742",
+    "members": [
+     "하나코 나나"
+    ],
+    "section": "solo",
+    "title": "신 같네 (神っぽいな)",
+    "titleAlt": "",
+    "tj": "52678"
+   },
+   {
+    "artist": "하나코 나나",
+    "category": "cover",
+    "id": 779,
+    "ky": "43372",
+    "members": [
+     "하나코 나나"
+    ],
+    "section": "solo",
+    "title": "사무라이 하트(Some Like It Hot!!) (サムライハート(Some Like It Hot!!))",
+    "titleAlt": "",
+    "tj": "27527"
+   },
+   {
+    "artist": "하나코 나나",
+    "category": "cover",
+    "id": 780,
+    "ky": "40403",
+    "members": [
+     "하나코 나나"
+    ],
+    "section": "solo",
+    "title": "푸른 산호초 (青い珊瑚礁)",
+    "titleAlt": "",
+    "tj": "27121"
+   },
+   {
+    "artist": "하나코 나나",
+    "category": "cover",
+    "id": 781,
+    "ky": "75985",
+    "members": [
+     "하나코 나나"
+    ],
+    "section": "solo",
+    "title": "가짜 얼굴 (偽顔)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "유즈하 리코",
+    "category": "original",
+    "id": 782,
+    "ky": "",
+    "members": [
+     "유즈하 리코"
+    ],
+    "section": "solo",
+    "title": "악당주의보",
+    "titleAlt": "",
+    "tj": "70676"
+   },
+   {
+    "artist": "유즈하 리코",
+    "category": "cover",
+    "id": 783,
+    "ky": "43715",
+    "members": [
+     "유즈하 리코"
+    ],
+    "section": "solo",
+    "title": "서머타임레코드 (サマータイムレコード)",
+    "titleAlt": "",
+    "tj": "28208"
+   },
+   {
+    "artist": "유즈하 리코",
+    "category": "cover",
+    "id": 784,
+    "ky": "44269",
+    "members": [
+     "유즈하 리코"
+    ],
+    "section": "solo",
+    "title": "Orange (オレンジ)",
+    "titleAlt": "",
+    "tj": "28841"
+   },
+   {
+    "artist": "유즈하 리코",
+    "category": "cover",
+    "id": 785,
+    "ky": "",
+    "members": [
+     "유즈하 리코"
+    ],
+    "section": "solo",
+    "title": "숨바꼭질 (かくれんぼ)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "유즈하 리코",
+    "category": "cover",
+    "id": 786,
+    "ky": "57803",
+    "members": [
+     "유즈하 리코"
+    ],
+    "section": "solo",
+    "title": "포니 (フォニイ)",
+    "titleAlt": "",
+    "tj": "52537"
+   },
+   {
+    "artist": "유즈하 리코",
+    "category": "cover",
+    "id": 787,
+    "ky": "44656",
+    "members": [
+     "유즈하 리코"
+    ],
+    "section": "solo",
+    "title": "밤을 달리다 (夜に駆ける)",
+    "titleAlt": "",
+    "tj": "68381"
+   },
+   {
+    "artist": "유즈하 리코",
+    "category": "cover",
+    "id": 788,
+    "ky": "43998",
+    "members": [
+     "유즈하 리코"
+    ],
+    "section": "solo",
+    "title": "히로인 (ヒロイン)",
+    "titleAlt": "",
+    "tj": "27762"
+   },
+   {
+    "artist": "유즈하 리코",
+    "category": "cover",
+    "id": 789,
+    "ky": "44373",
+    "members": [
+     "유즈하 리코"
+    ],
+    "section": "solo",
+    "title": "목마름을 외치다 (カワキヲアメク)",
+    "titleAlt": "",
+    "tj": "68000"
+   },
+   {
+    "artist": "유즈하 리코",
+    "category": "cover",
+    "id": 790,
+    "ky": "57785",
+    "members": [
+     "유즈하 리코"
+    ],
+    "section": "solo",
+    "title": "IRIS OUT",
+    "titleAlt": "",
+    "tj": "52959"
+   },
+   {
+    "artist": "유즈하 리코",
+    "category": "cover",
+    "id": 791,
+    "ky": "44442",
+    "members": [
+     "유즈하 리코"
+    ],
+    "section": "solo",
+    "title": "숙명 (宿命)",
+    "titleAlt": "",
+    "tj": "68086"
+   },
+   {
+    "artist": "유즈하 리코",
+    "category": "cover",
+    "id": 792,
+    "ky": "",
+    "members": [
+     "유즈하 리코"
+    ],
+    "section": "solo",
+    "title": "미소녀무죄♡파이레츠 (美少女無罪♡パイレーツ)",
+    "titleAlt": "",
+    "tj": "52490"
+   },
+   {
+    "artist": "유즈하 리코",
+    "category": "cover",
+    "id": 793,
+    "ky": "",
+    "members": [
+     "유즈하 리코"
+    ],
+    "section": "solo",
+    "title": "체리 팝 (チェリーポップ)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "유즈하 리코",
+    "category": "cover",
+    "id": 794,
+    "ky": "",
+    "members": [
+     "유즈하 리코"
+    ],
+    "section": "solo",
+    "title": "걘 아니야 Pt.2",
+    "titleAlt": "",
+    "tj": "82855"
+   },
+   {
+    "artist": "유즈하 리코",
+    "category": "cover",
+    "id": 795,
+    "ky": "44881",
+    "members": [
+     "유즈하 리코"
+    ],
+    "section": "solo",
+    "title": "도쿄 섄디 랑데부 (トウキョウ・シャンディ・ランデヴ)",
+    "titleAlt": "",
+    "tj": "68738"
+   },
+   {
+    "artist": "유즈하 리코",
+    "category": "cover",
+    "id": 796,
+    "ky": "",
+    "members": [
+     "유즈하 리코"
+    ],
+    "section": "solo",
+    "title": "Henceforth",
+    "titleAlt": "",
+    "tj": "52679"
+   },
+   {
+    "artist": "유즈하 리코",
+    "category": "cover",
+    "id": 797,
+    "ky": "43870",
+    "members": [
+     "유즈하 리코"
+    ],
+    "section": "solo",
+    "title": "증표 (シルシ)",
+    "titleAlt": "",
+    "tj": "27687"
+   },
+   {
+    "artist": "유즈하 리코",
+    "category": "cover",
+    "id": 798,
+    "ky": "57757",
+    "members": [
+     "유즈하 리코"
+    ],
+    "section": "solo",
+    "title": "래빗 홀 (ラビットホール)",
+    "titleAlt": "",
+    "tj": "52520"
+   },
+   {
+    "artist": "유즈하 리코",
+    "category": "cover",
+    "id": 799,
+    "ky": "",
+    "members": [
+     "유즈하 리코"
+    ],
+    "section": "solo",
+    "title": "마음 예보 (心予報)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "유즈하 리코",
+    "category": "cover",
+    "id": 800,
+    "ky": "57766",
+    "members": [
+     "유즈하 리코"
+    ],
+    "section": "solo",
+    "title": "모니터링 (モニタリング)",
+    "titleAlt": "",
+    "tj": "52468"
+   },
+   {
+    "artist": "유즈하 리코",
+    "category": "cover",
+    "id": 801,
+    "ky": "44860",
+    "members": [
+     "유즈하 리코"
+    ],
+    "section": "solo",
+    "title": "꽃의 탑 (花の塔)",
+    "titleAlt": "",
+    "tj": "68711"
+   },
+   {
+    "artist": "유즈하 리코",
+    "category": "cover",
+    "id": 802,
+    "ky": "43987",
+    "members": [
+     "유즈하 리코"
+    ],
+    "section": "solo",
+    "title": "크리스마스송 (クリスマスソング)",
+    "titleAlt": "",
+    "tj": "27807"
+   },
+   {
+    "artist": "유즈하 리코",
+    "category": "cover",
+    "id": 803,
+    "ky": "",
+    "members": [
+     "유즈하 리코"
+    ],
+    "section": "solo",
+    "title": "주름맞추기 (しわあわせ)",
+    "titleAlt": "",
+    "tj": "52412"
+   },
+   {
+    "artist": "유즈하 리코",
+    "category": "cover",
+    "id": 804,
+    "ky": "44121",
+    "members": [
+     "유즈하 리코"
+    ],
+    "section": "solo",
+    "title": "경화수월 (鏡花水月)",
+    "titleAlt": "",
+    "tj": "28657"
+   },
+   {
+    "artist": "유즈하 리코",
+    "category": "cover",
+    "id": 805,
+    "ky": "57810",
+    "members": [
+     "유즈하 리코"
+    ],
+    "section": "solo",
+    "title": "케세라세라 (ケセラセラ)",
+    "titleAlt": "",
+    "tj": "52844"
+   },
+   {
+    "artist": "유즈하 리코",
+    "category": "cover",
+    "id": 806,
+    "ky": "",
+    "members": [
+     "유즈하 리코"
+    ],
+    "section": "solo",
+    "title": "톤데모 원더즈 (トンデモワンダーズ)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "유즈하 리코",
+    "category": "cover",
+    "id": 807,
+    "ky": "75893",
+    "members": [
+     "유즈하 리코"
+    ],
+    "section": "solo",
+    "title": "맑은 날 (晴る)",
+    "titleAlt": "",
+    "tj": "68953"
+   },
+   {
+    "artist": "유즈하 리코",
+    "category": "cover",
+    "id": 808,
+    "ky": "",
+    "members": [
+     "유즈하 리코"
+    ],
+    "section": "solo",
+    "title": "지구를 줄게 (地球をあげる)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "유즈하 리코",
+    "category": "cover",
+    "id": 809,
+    "ky": "57775",
+    "members": [
+     "유즈하 리코"
+    ],
+    "section": "solo",
+    "title": "괴수의 꽃노래 (怪獣の花唄)",
+    "titleAlt": "",
+    "tj": "52988"
+   },
+   {
+    "artist": "유즈하 리코",
+    "category": "cover",
+    "id": 810,
+    "ky": "75833",
+    "members": [
+     "유즈하 리코"
+    ],
+    "section": "solo",
+    "title": "용사 (勇者)",
+    "titleAlt": "",
+    "tj": "68860"
+   },
+   {
+    "artist": "아카네 리제",
+    "category": "cover",
+    "id": 811,
+    "ky": "57775",
+    "members": [
+     "아카네 리제"
+    ],
+    "section": "solo",
+    "title": "괴수의 꽃노래 (怪獣の花唄)",
+    "titleAlt": "",
+    "tj": "52988"
+   },
+   {
+    "artist": "사키하네 후야",
+    "category": "cover",
+    "id": 812,
+    "ky": "40403",
+    "members": [
+     "사키하네 후야"
+    ],
+    "section": "solo",
+    "title": "푸른 산호초 (青い珊瑚礁)",
+    "titleAlt": "",
+    "tj": "27121"
+   },
+   {
+    "artist": "아라하시 타비",
+    "category": "cover",
+    "id": 813,
+    "ky": "",
+    "members": [
+     "아라하시 타비"
+    ],
+    "section": "solo",
+    "title": "High Hopes",
+    "titleAlt": "하이 홉스",
+    "tj": "23388"
+   },
+   {
+    "artist": "하나코 나나",
+    "category": "cover",
+    "id": 814,
+    "ky": "50864",
+    "members": [
+     "하나코 나나"
+    ],
+    "section": "solo",
+    "title": "Yin and Yang",
+    "titleAlt": "인 앤 양",
+    "tj": "51540"
+   },
+   {
+    "artist": "하나코 나나",
+    "category": "cover",
+    "id": 815,
+    "ky": "44784",
+    "members": [
+     "하나코 나나"
+    ],
+    "section": "group",
+    "title": "희극 (喜劇)",
+    "titleAlt": "",
+    "tj": "68601"
+   },
+   {
+    "artist": "네네코 마시로",
+    "category": "cover",
+    "id": 816,
+    "ky": "44980",
+    "members": [
+     "네네코 마시로"
+    ],
+    "section": "solo",
+    "title": "구르는 바위、네게 아침이 내린다 (転がる岩、君に朝が降る)",
+    "titleAlt": "",
+    "tj": "68723"
+   },
+   {
+    "artist": "시라유키 히나",
+    "category": "cover",
+    "id": 817,
+    "ky": "22084",
+    "members": [
+     "시라유키 히나"
+    ],
+    "section": "solo",
+    "title": "아틀란티스 소녀 (Atlantis Princess)",
+    "titleAlt": "",
+    "tj": "62841"
+   },
+   {
+    "artist": "유즈하 리코",
+    "category": "cover",
+    "id": 818,
+    "ky": "75996",
+    "members": [
+     "유즈하 리코"
+    ],
+    "section": "solo",
+    "title": "Lilac (ライラック)",
+    "titleAlt": "라일락",
+    "tj": "68461"
+   },
+   {
+    "artist": "텐코 시부키",
+    "category": "cover",
+    "id": 819,
+    "ky": "",
+    "members": [
+     "텐코 시부키"
+    ],
+    "section": "solo",
+    "title": "mosi mosi?",
+    "titleAlt": "모시 모시, 덴파, 캥파",
+    "tj": "52546"
+   },
+   {
+    "artist": "아라하시 타비",
+    "category": "cover",
+    "id": 820,
+    "ky": "40922",
+    "members": [
+     "아라하시 타비"
+    ],
+    "section": "solo",
+    "title": "물떼새 (千鳥)",
+    "titleAlt": "",
+    "tj": "52504"
+   },
+   {
+    "artist": "유즈하 리코",
+    "category": "cover",
+    "id": 821,
+    "ky": "28409",
+    "members": [
+     "유즈하 리코"
+    ],
+    "section": "solo",
+    "title": "아이와 나의 바다",
+    "titleAlt": "아나바다",
+    "tj": "76600"
+   },
+   {
+    "artist": "아카네 리제",
+    "category": "cover",
+    "id": 822,
+    "ky": "",
+    "members": [
+     "아카네 리제"
+    ],
+    "section": "solo",
+    "title": "J-POP Mashup! (제이팝 매쉬업!)",
+    "titleAlt": "",
+    "tj": ""
+   },
+   {
+    "artist": "아오쿠모 린",
+    "category": "cover",
+    "id": 1092,
+    "ky": "57768",
+    "members": [
+     "아오쿠모 린"
+    ],
+    "section": "solo",
+    "title": "불가행력(不可幸力)",
+    "titleAlt": "",
+    "tj": "52455"
+   }
+  ],
+  "updatedAt": "2026-10-11 19:52:45"
+ }
+}

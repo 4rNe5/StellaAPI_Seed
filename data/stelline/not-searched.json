@@ -1,0 +1,145 @@
+{
+ "source": "https://stel-line.vercel.app/api/search/not_searched",
+ "fetchedAt": "2026-11-05T12:01:03.695Z",
+ "data": {
+  "all_songs": [
+   {
+    "query": "아카네 리제 바니걸",
+    "video_id": "SIBtVNjRois"
+   },
+   {
+    "query": "나나 후야 오츠카레summer",
+    "video_id": "Zetk77I6_s8"
+   },
+   {
+    "query": "스텔라이브 twinkle",
+    "video_id": "WnCMBCpENio"
+   },
+   {
+    "query": "리코 밤을 달리다",
+    "video_id": "lBtlpVXmbYY"
+   },
+   {
+    "query": "나나 희극",
+    "video_id": "gkmnG2pWzys"
+   },
+   {
+    "query": "메리 도쿄테디베어",
+    "video_id": "rKQptWhAvO0"
+   },
+   {
+    "query": "유즈하 리코 밤을 달리다",
+    "video_id": "lBtlpVXmbYY"
+   },
+   {
+    "query": "나나 deja vu",
+    "video_id": "KmH0RhhenzE"
+   }
+  ],
+  "cover_matches": [
+   {
+    "fallback_query": "리코 마시로 악마가아닌걸 cover",
+    "query": "리코 마시로 악마가아닌걸",
+    "video_id": "xKA5wKYMFhM"
+   },
+   {
+    "fallback_query": "마시로 린 메이드지상주의 cover",
+    "query": "마시로 린 메이드지상주의",
+    "video_id": "5uOxZswwBx4"
+   },
+   {
+    "fallback_query": "토아 제육감 cover",
+    "query": "토아 제육감",
+    "video_id": "MZNKiadMo3U"
+   },
+   {
+    "fallback_query": "히나 리코 소녀레이 cover",
+    "query": "히나 리코 소녀레이",
+    "video_id": "Qngf5HNfl6Q"
+   },
+   {
+    "fallback_query": "히나 하루카 cover",
+    "query": "히나 하루카",
+    "video_id": "9hLbsRU2neM"
+   }
+  ],
+  "recent": [
+   {
+    "query": "나나 deja vu",
+    "searched_time": 1793866247.6474192,
+    "video_id": "KmH0RhhenzE"
+   },
+   {
+    "query": "나나 drivers license",
+    "searched_time": 1793808604.4713142,
+    "video_id": "SUJm8SX87DY"
+   },
+   {
+    "query": "나나 논블레스오브리주",
+    "searched_time": 1793808604.4713142,
+    "video_id": "YXIz7U42pgk"
+   },
+   {
+    "query": "나나 후야 오츠카레summer",
+    "searched_time": 1793866247.6474192,
+    "video_id": "Zetk77I6_s8"
+   },
+   {
+    "query": "나나 희극",
+    "searched_time": 1793866247.6474192,
+    "video_id": "gkmnG2pWzys"
+   },
+   {
+    "query": "리제 괴수의꽃노래",
+    "searched_time": 1793751006.9785585,
+    "video_id": "yCVZq40vqLk"
+   },
+   {
+    "query": "리제 발묘",
+    "searched_time": 1793751006.9785585,
+    "video_id": "R_B4tmy2DVA"
+   },
+   {
+    "query": "리제 프로포즈",
+    "searched_time": 1793664634.615569,
+    "video_id": "icR-Tg7YZwY"
+   },
+   {
+    "query": "리코 밤을 달리다",
+    "searched_time": 1793866247.6474192,
+    "video_id": "lBtlpVXmbYY"
+   },
+   {
+    "query": "마시로 구르는 바위 네게 아침이 내린다",
+    "searched_time": 1793808604.4713142,
+    "video_id": "SiBzI2htX2o"
+   },
+   {
+    "query": "메리 도쿄테디베어",
+    "searched_time": 1793866247.6474192,
+    "video_id": "rKQptWhAvO0"
+   },
+   {
+    "query": "스텔라이브 twinkle",
+    "searched_time": 1793866247.6474192,
+    "video_id": "WnCMBCpENio"
+   },
+   {
+    "query": "시부키 모시모시",
+    "searched_time": 1793751006.9785585,
+    "video_id": "zQp6ZZAT6ew"
+   },
+   {
+    "query": "아카네 리제 바니걸",
+    "searched_time": 1793866247.6474192,
+    "video_id": "SIBtVNjRois"
+   },
+   {
+    "query": "유즈하 리코 밤을 달리다",
+    "searched_time": 1793866247.6474192,
+    "video_id": "lBtlpVXmbYY"
+   }
+  ],
+  "searched_time": 1793866247.6474192
+ }
+}

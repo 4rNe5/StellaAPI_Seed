@@ -67,7 +67,12 @@ if (existsSync(songsPath)) {
     check('미노출 의심 (1회, 다음 실행 재확인)', se.filter((s) => s.search.status === 'suspected'), q);
     check('cover 붙여야 노출', se.filter((s) => s.search.status === 'cover_only'), q);
     check('점검 오류', se.filter((s) => s.search.status === 'error'), q);
+    // 판정 기준이 다름(StellaAPI 첫 페이지 / Stelline 상위 3개) — 차이는 검색어·측정 오류 점검용
+    const st = (s: any) => s.stelline?.status;
+    check('Stelline과 판정 다름 (우리 visible · Stelline 최근 실패)', se.filter((s) => s.search.status === 'visible' && st(s) === 'not_found'), q);
+    check('Stelline 검색어 없음 (자동 생성 검색어 사용)', songs.filter((s) => s.search && !s.stelline), q);
   }
+  check('노래방 목록 미매칭 공식 곡 (Stelline에 없거나 매칭 실패)', songs.filter((s) => s.karaoke === null && !s.isMedley), show);
 }
 const chPath = join(DATA, 'youtube', 'channels.json');
 if (existsSync(chPath)) {

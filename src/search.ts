@@ -14,7 +14,7 @@
  *   --history=N          곡별 보관 이력 수 (기본 180)
  *   --source=KR|US       측정 위치 표기 (결과·이력에 기록)
  *   --only=게시물id      한 곡만 강제 점검
- * 검색어: queries.ts(수동) > fan-queries.ts(팬 표기) > 자동. 검색어가 바뀐 곡은 이력 초기화 후 우선 재점검
+ * 검색어: queries.ts(수동) > Stelline 등록 검색어(data/stelline, 매 수집 갱신) > fan-queries.ts(2026-11-02 스냅샷) > 자동. 검색어가 바뀐 곡은 이력 초기화 후 우선 재점검
  * 판정: 기본 검색어 → 없으면 "{검색어} cover" 재검색
  *   visible / cover_only / suspected(미노출 1회, 다음 실행 우선 재점검) / hidden(미노출 2회 연속) / error
  */
@@ -24,6 +24,10 @@ import { join, resolve, dirname } from 'node:path';
 import type { Unit } from './members.ts';
 import { QUERY_OVERRIDES } from './queries.ts';
 import { FAN_QUERIES } from './fan-queries.ts';
+import { loadStelline } from './stelline.ts';
+
+// Stelline 등록 검색어 (영상 ID → 검색어). 수집 실패 시 마지막으로 받은 파일, 그것도 없으면 fan-queries.ts 스냅샷
+const STELLINE_QUERIES = new Map<string, string>((loadStelline<any[]>('search-songs')?.data ?? []).filter((x) => x.query?.trim()).map((x) => [x.video_id, x.query.trim()]));
 
 const args = new Map(process.argv.slice(2).map((a) => { const [k, v] = a.replace(/^--/, '').split('='); return [k, v ?? 'true']; }));
 const BUDGET_MS = Number(args.get('budget') ?? 160) * 1000;
@@ -66,6 +70,7 @@ export interface SearchEntry {
 
 export function buildQuery(t: any): string {
   if (QUERY_OVERRIDES[t.id]) return QUERY_OVERRIDES[t.id];
+  if (STELLINE_QUERIES.has(t.youtubeId)) return STELLINE_QUERIES.get(t.youtubeId)!;
   if (FAN_QUERIES[t.id]) return FAN_QUERIES[t.id];
   const who = t.units?.length
     ? t.units.map((u: Unit) => UNIT_KO[u]).join(' ')

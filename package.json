@@ -7,11 +7,12 @@
     "collect:full": "node --experimental-strip-types --no-warnings src/collect.ts --full",
     "validate": "node --experimental-strip-types --no-warnings src/validate.ts",
     "youtube": "node --experimental-strip-types --no-warnings --env-file-if-exists=.env src/youtube.ts",
-    "all": "npm run collect && npm run youtube && npm run search && npm run build && npm run validate",
+    "all": "npm run collect && npm run stelline && npm run youtube && npm run search && npm run build && npm run validate",
     "search": "node --experimental-strip-types --no-warnings src/search.ts",
     "build": "node --experimental-strip-types --no-warnings src/build.ts",
     "merge-search": "node --experimental-strip-types --no-warnings src/merge-search.ts",
-    "export-api": "node --experimental-strip-types --no-warnings src/export-api.ts"
+    "export-api": "node --experimental-strip-types --no-warnings src/export-api.ts",
+    "stelline": "node --experimental-strip-types --no-warnings src/stelline.ts"
   },
   "dependencies": {
     "cheerio": "^1.2.0"

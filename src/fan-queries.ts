@@ -1,7 +1,7 @@
 // 팬 표기 검색어 (공식 게시물 id → 검색어)
 // 출처: Stelline(https://stel-line.vercel.app/search)의 등록 검색어, 2026-11-02 스냅샷.
 // 팬들이 실제로 입력하는 표기를 쓰기 위해 사용 (자동 생성 검색어보다 우선, QUERY_OVERRIDES보다 후순위).
-// 갱신: scripts 없이 수동 — Stelline에 신곡이 추가되면 이 파일에 반영
+// 지금은 npm run stelline이 매 수집마다 최신 검색어를 받아 우선 적용 — 이 파일은 그 수집이 실패했을 때의 예비값 (운영자 허가로 유지)
 export const FAN_QUERIES: Record<number, string> = {
   14693: "메리 도쿄테디베어",
   14692: "히요리 유령이되고싶어",
