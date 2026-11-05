@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/songs",
- "fetchedAt": "2026-11-05T12:47:12.364Z",
+ "fetchedAt": "2026-11-05T20:12:44.157Z",
  "data": [
   {
    "fallback_query": null,
@@ -103,12 +103,6 @@
    "query": "리제 바니걸",
    "risk": 0,
    "video_id": "SIBtVNjRois"
-  },
-  {
-   "fallback_query": null,
-   "query": "리제 비바라비다",
-   "risk": 0,
-   "video_id": "OzncrMNY7cw"
   },
   {
    "fallback_query": null,
@@ -538,12 +532,6 @@
   },
   {
    "fallback_query": null,
-   "query": "칸나 괴수의꽃노래",
-   "risk": 0,
-   "video_id": "of5l0st1kA8"
-  },
-  {
-   "fallback_query": null,
    "query": "칸나 나는최강",
    "risk": 0,
    "video_id": "MhtScZvcsiQ"
@@ -595,12 +583,6 @@
    "query": "타비 healer",
    "risk": 0,
    "video_id": "-uRxUMJ-exw"
-  },
-  {
-   "fallback_query": null,
-   "query": "타비 hero",
-   "risk": 0,
-   "video_id": "gGQqeRJub3E"
   },
   {
    "fallback_query": null,
@@ -1324,12 +1306,6 @@
   },
   {
    "fallback_query": null,
-   "query": "후야 푸른하늘의랩소디",
-   "risk": 0,
-   "video_id": "Xo1Q-RPAk2c"
-  },
-  {
-   "fallback_query": null,
    "query": "마시로 연예인",
    "risk": 0,
    "video_id": "Nse1CbmfIj4"
@@ -1624,12 +1600,6 @@
   },
   {
    "fallback_query": null,
-   "query": "리코 도쿄섄디랑데부",
-   "risk": 0,
-   "video_id": "ZJ7TFaFyYwc"
-  },
-  {
-   "fallback_query": null,
    "query": "유니 두근어질",
    "risk": 0,
    "video_id": "a6imWKGILZA"
@@ -1750,48 +1720,6 @@
   },
   {
    "fallback_query": null,
-   "query": "히요리 유령이되고싶어",
-   "risk": 4,
-   "video_id": "ouKcRBeyKbk"
-  },
-  {
-   "fallback_query": null,
-   "query": "리코 ch4nge",
-   "risk": 3,
-   "video_id": "VuyZF2VYAfU"
-  },
-  {
-   "fallback_query": null,
-   "query": "히나 린 타상연화",
-   "risk": 6,
-   "video_id": "LmOl01G4DR4"
-  },
-  {
-   "fallback_query": null,
-   "query": "어비스 별이시작되는곳",
-   "risk": 3,
-   "video_id": "EKEts5IShas"
-  },
-  {
-   "fallback_query": "히나 하루카 cover",
-   "query": "히나 하루카",
-   "risk": 28,
-   "video_id": "9hLbsRU2neM"
-  },
-  {
-   "fallback_query": null,
-   "query": "스텔라이브 stars align",
-   "risk": 24,
-   "video_id": "Jt6UCd7JhAA"
-  },
-  {
-   "fallback_query": null,
-   "query": "유니 칸나 점묘의노래",
-   "risk": 27,
-   "video_id": "QDIdN_eBvl0"
-  },
-  {
-   "fallback_query": null,
    "query": "마시로 츄다양성",
    "risk": 0,
    "video_id": "0nVQggWAzyE"
@@ -1840,57 +1768,9 @@
   },
   {
    "fallback_query": null,
-   "query": "나나 drivers license",
-   "risk": 28,
-   "video_id": "SUJm8SX87DY"
-  },
-  {
-   "fallback_query": null,
-   "query": "나나 논블레스오브리주",
-   "risk": 28,
-   "video_id": "YXIz7U42pgk"
-  },
-  {
-   "fallback_query": null,
-   "query": "마시로 구르는 바위 네게 아침이 내린다",
-   "risk": 28,
-   "video_id": "SiBzI2htX2o"
-  },
-  {
-   "fallback_query": null,
    "query": "랑 호랑풍류가",
    "risk": 0,
    "video_id": "iAoU1UGPoXc"
-  },
-  {
-   "fallback_query": "리코 마시로 악마가아닌걸 cover",
-   "query": "리코 마시로 악마가아닌걸",
-   "risk": 28,
-   "video_id": "xKA5wKYMFhM"
-  },
-  {
-   "fallback_query": null,
-   "query": "리제 괴수의꽃노래",
-   "risk": 28,
-   "video_id": "yCVZq40vqLk"
-  },
-  {
-   "fallback_query": null,
-   "query": "리제 발묘",
-   "risk": 28,
-   "video_id": "R_B4tmy2DVA"
-  },
-  {
-   "fallback_query": null,
-   "query": "시부키 모시모시",
-   "risk": 28,
-   "video_id": "zQp6ZZAT6ew"
-  },
-  {
-   "fallback_query": "마시로 린 메이드지상주의 cover",
-   "query": "마시로 린 메이드지상주의",
-   "risk": 28,
-   "video_id": "5uOxZswwBx4"
   },
   {
    "fallback_query": null,
@@ -1987,6 +1867,126 @@
    "query": "리제 프로포즈",
    "risk": 25,
    "video_id": "icR-Tg7YZwY"
+  },
+  {
+   "fallback_query": null,
+   "query": "히요리 유령이되고싶어",
+   "risk": 3,
+   "video_id": "ouKcRBeyKbk"
+  },
+  {
+   "fallback_query": null,
+   "query": "리코 ch4nge",
+   "risk": 2,
+   "video_id": "VuyZF2VYAfU"
+  },
+  {
+   "fallback_query": null,
+   "query": "히나 린 타상연화",
+   "risk": 5,
+   "video_id": "LmOl01G4DR4"
+  },
+  {
+   "fallback_query": null,
+   "query": "어비스 별이시작되는곳",
+   "risk": 2,
+   "video_id": "EKEts5IShas"
+  },
+  {
+   "fallback_query": "히나 하루카 cover",
+   "query": "히나 하루카",
+   "risk": 28,
+   "video_id": "9hLbsRU2neM"
+  },
+  {
+   "fallback_query": null,
+   "query": "스텔라이브 stars align",
+   "risk": 23,
+   "video_id": "Jt6UCd7JhAA"
+  },
+  {
+   "fallback_query": null,
+   "query": "유니 칸나 점묘의노래",
+   "risk": 26,
+   "video_id": "QDIdN_eBvl0"
+  },
+  {
+   "fallback_query": "리코 마시로 악마가아닌걸 cover",
+   "query": "리코 마시로 악마가아닌걸",
+   "risk": 28,
+   "video_id": "xKA5wKYMFhM"
+  },
+  {
+   "fallback_query": "마시로 린 메이드지상주의 cover",
+   "query": "마시로 린 메이드지상주의",
+   "risk": 28,
+   "video_id": "5uOxZswwBx4"
+  },
+  {
+   "fallback_query": null,
+   "query": "칸나 괴수의꽃노래",
+   "risk": 0,
+   "video_id": "of5l0st1kA8"
+  },
+  {
+   "fallback_query": null,
+   "query": "후야 푸른하늘의랩소디",
+   "risk": 0,
+   "video_id": "Xo1Q-RPAk2c"
+  },
+  {
+   "fallback_query": null,
+   "query": "리코 도쿄섄디랑데부",
+   "risk": 0,
+   "video_id": "ZJ7TFaFyYwc"
+  },
+  {
+   "fallback_query": null,
+   "query": "리제 비바라비다",
+   "risk": 0,
+   "video_id": "OzncrMNY7cw"
+  },
+  {
+   "fallback_query": null,
+   "query": "타비 hero",
+   "risk": 0,
+   "video_id": "gGQqeRJub3E"
+  },
+  {
+   "fallback_query": null,
+   "query": "나나 drivers license",
+   "risk": 28,
+   "video_id": "SUJm8SX87DY"
+  },
+  {
+   "fallback_query": null,
+   "query": "나나 논블레스오브리주",
+   "risk": 28,
+   "video_id": "YXIz7U42pgk"
+  },
+  {
+   "fallback_query": null,
+   "query": "마시로 구르는 바위 네게 아침이 내린다",
+   "risk": 28,
+   "video_id": "SiBzI2htX2o"
+  },
+  {
+   "fallback_query": null,
+   "query": "리제 괴수의꽃노래",
+   "risk": 28,
+   "video_id": "yCVZq40vqLk"
+  },
+  {
+   "fallback_query": null,
+   "query": "리제 발묘",
+   "risk": 28,
+   "video_id": "R_B4tmy2DVA"
+  },
+  {
+   "fallback_query": null,
+   "query": "시부키 모시모시",
+   "risk": 28,
+   "video_id": "zQp6ZZAT6ew"
   }
  ]
 }
