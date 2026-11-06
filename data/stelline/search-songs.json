@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/songs",
- "fetchedAt": "2026-11-05T20:12:44.157Z",
+ "fetchedAt": "2026-11-06T01:08:58.607Z",
  "data": [
   {
    "fallback_query": null,
@@ -49,12 +49,6 @@
    "query": "나나 에너미",
    "risk": 0,
    "video_id": "8vQfO5tT85k"
-  },
-  {
-   "fallback_query": null,
-   "query": "나나 죽는게나아",
-   "risk": 0,
-   "video_id": "5u6yVIVXF60"
   },
   {
    "fallback_query": null,
@@ -181,12 +175,6 @@
    "query": "리코 숙명",
    "risk": 0,
    "video_id": "nknH0KshgpY"
-  },
-  {
-   "fallback_query": null,
-   "query": "리코 시부키 절대적완전싫어",
-   "risk": 0,
-   "video_id": "PBh8a0GaNFs"
   },
   {
    "fallback_query": null,
@@ -1768,42 +1756,6 @@
   },
   {
    "fallback_query": null,
-   "query": "랑 호랑풍류가",
-   "risk": 0,
-   "video_id": "iAoU1UGPoXc"
-  },
-  {
-   "fallback_query": null,
-   "query": "스텔라이브 괴도F의대본",
-   "risk": 20,
-   "video_id": "qNOFi7GzpfM"
-  },
-  {
-   "fallback_query": null,
-   "query": "후야 letters to me",
-   "risk": 9,
-   "video_id": "SRMTyNLUnZY"
-  },
-  {
-   "fallback_query": null,
-   "query": "시부키 혁명도중",
-   "risk": 3,
-   "video_id": "3Xf1Wt7Z-RY"
-  },
-  {
-   "fallback_query": "토아 제육감 cover",
-   "query": "토아 제육감",
-   "risk": 28,
-   "video_id": "MZNKiadMo3U"
-  },
-  {
-   "fallback_query": "히나 리코 소녀레이 cover",
-   "query": "히나 리코 소녀레이",
-   "risk": 28,
-   "video_id": "Qngf5HNfl6Q"
-  },
-  {
-   "fallback_query": null,
    "query": "타비 낮에뜨는달",
    "risk": 0,
    "video_id": "5j8voUwxzmU"
@@ -1813,66 +1765,6 @@
    "query": "린 oh",
    "risk": 0,
    "video_id": "RLKm8ymJPlo"
-  },
-  {
-   "fallback_query": null,
-   "query": "아카네 리제 바니걸",
-   "risk": 28,
-   "video_id": "SIBtVNjRois"
-  },
-  {
-   "fallback_query": null,
-   "query": "나나 후야 오츠카레summer",
-   "risk": 28,
-   "video_id": "Zetk77I6_s8"
-  },
-  {
-   "fallback_query": null,
-   "query": "스텔라이브 twinkle",
-   "risk": 28,
-   "video_id": "WnCMBCpENio"
-  },
-  {
-   "fallback_query": null,
-   "query": "리코 밤을 달리다",
-   "risk": 28,
-   "video_id": "lBtlpVXmbYY"
-  },
-  {
-   "fallback_query": null,
-   "query": "나나 희극",
-   "risk": 28,
-   "video_id": "gkmnG2pWzys"
-  },
-  {
-   "fallback_query": null,
-   "query": "메리 도쿄테디베어",
-   "risk": 28,
-   "video_id": "rKQptWhAvO0"
-  },
-  {
-   "fallback_query": null,
-   "query": "유즈하 리코 밤을 달리다",
-   "risk": 28,
-   "video_id": "lBtlpVXmbYY"
-  },
-  {
-   "fallback_query": null,
-   "query": "나나 deja vu",
-   "risk": 28,
-   "video_id": "KmH0RhhenzE"
-  },
-  {
-   "fallback_query": null,
-   "query": "리제 프로포즈",
-   "risk": 25,
-   "video_id": "icR-Tg7YZwY"
-  },
-  {
-   "fallback_query": null,
-   "query": "히요리 유령이되고싶어",
-   "risk": 3,
-   "video_id": "ouKcRBeyKbk"
   },
   {
    "fallback_query": null,
@@ -1987,6 +1879,114 @@
    "query": "시부키 모시모시",
    "risk": 28,
    "video_id": "zQp6ZZAT6ew"
+  },
+  {
+   "fallback_query": null,
+   "query": "스텔라이브 괴도F의대본",
+   "risk": 19,
+   "video_id": "qNOFi7GzpfM"
+  },
+  {
+   "fallback_query": null,
+   "query": "후야 letters to me",
+   "risk": 8,
+   "video_id": "SRMTyNLUnZY"
+  },
+  {
+   "fallback_query": null,
+   "query": "시부키 혁명도중",
+   "risk": 2,
+   "video_id": "3Xf1Wt7Z-RY"
+  },
+  {
+   "fallback_query": "토아 제육감 cover",
+   "query": "토아 제육감",
+   "risk": 28,
+   "video_id": "MZNKiadMo3U"
+  },
+  {
+   "fallback_query": "히나 리코 소녀레이 cover",
+   "query": "히나 리코 소녀레이",
+   "risk": 28,
+   "video_id": "Qngf5HNfl6Q"
+  },
+  {
+   "fallback_query": "아카네 리제 바니걸 cover",
+   "query": "아카네 리제 바니걸",
+   "risk": 28,
+   "video_id": "SIBtVNjRois"
+  },
+  {
+   "fallback_query": "나나 희극 cover",
+   "query": "나나 희극",
+   "risk": 28,
+   "video_id": "gkmnG2pWzys"
+  },
+  {
+   "fallback_query": null,
+   "query": "히요리 유령이되고싶어",
+   "risk": 2,
+   "video_id": "ouKcRBeyKbk"
+  },
+  {
+   "fallback_query": null,
+   "query": "랑 호랑풍류가",
+   "risk": 0,
+   "video_id": "iAoU1UGPoXc"
+  },
+  {
+   "fallback_query": null,
+   "query": "리코 시부키 절대적완전싫어",
+   "risk": 0,
+   "video_id": "PBh8a0GaNFs"
+  },
+  {
+   "fallback_query": "나나 죽는게나아 cover",
+   "query": "나나 죽는게나아",
+   "risk": 28,
+   "video_id": "5u6yVIVXF60"
+  },
+  {
+   "fallback_query": null,
+   "query": "나나 후야 오츠카레summer",
+   "risk": 28,
+   "video_id": "Zetk77I6_s8"
+  },
+  {
+   "fallback_query": null,
+   "query": "스텔라이브 twinkle",
+   "risk": 28,
+   "video_id": "WnCMBCpENio"
+  },
+  {
+   "fallback_query": null,
+   "query": "리코 밤을 달리다",
+   "risk": 28,
+   "video_id": "lBtlpVXmbYY"
+  },
+  {
+   "fallback_query": null,
+   "query": "메리 도쿄테디베어",
+   "risk": 28,
+   "video_id": "rKQptWhAvO0"
+  },
+  {
+   "fallback_query": null,
+   "query": "유즈하 리코 밤을 달리다",
+   "risk": 28,
+   "video_id": "lBtlpVXmbYY"
+  },
+  {
+   "fallback_query": null,
+   "query": "나나 deja vu",
+   "risk": 28,
+   "video_id": "KmH0RhhenzE"
+  },
+  {
+   "fallback_query": null,
+   "query": "리제 프로포즈",
+   "risk": 28,
+   "video_id": "icR-Tg7YZwY"
   }
  ]
 }
