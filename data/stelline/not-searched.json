@@ -1,39 +1,38 @@
 {
  "source": "https://stel-line.vercel.app/api/search/not_searched",
- "fetchedAt": "2026-11-06T12:31:33.949Z",
+ "fetchedAt": "2026-11-06T19:43:20.541Z",
  "data": {
   "all_songs": [
    {
-    "query": "나나 drivers license",
-    "video_id": "SUJm8SX87DY"
+    "query": "아카네 리제 바니걸",
+    "video_id": "SIBtVNjRois"
    },
    {
-    "query": "나나 논블레스오브리주",
-    "video_id": "YXIz7U42pgk"
+    "query": "나나 후야 오츠카레summer",
+    "video_id": "Zetk77I6_s8"
    },
    {
-    "query": "마시로 구르는 바위 네게 아침이 내린다",
-    "video_id": "SiBzI2htX2o"
+    "query": "스텔라이브 twinkle",
+    "video_id": "WnCMBCpENio"
    },
    {
-    "query": "리제 괴수의꽃노래",
-    "video_id": "yCVZq40vqLk"
+    "query": "리코 밤을 달리다",
+    "video_id": "lBtlpVXmbYY"
    },
    {
-    "query": "리제 발묘",
-    "video_id": "R_B4tmy2DVA"
+    "query": "메리 도쿄테디베어",
+    "video_id": "rKQptWhAvO0"
    },
    {
-    "query": "시부키 모시모시",
-    "video_id": "zQp6ZZAT6ew"
+    "query": "유즈하 리코 밤을 달리다",
+    "video_id": "lBtlpVXmbYY"
+   },
+   {
+    "query": "나나 deja vu",
+    "video_id": "KmH0RhhenzE"
    }
   ],
   "cover_matches": [
-   {
-    "fallback_query": "나나 죽는게나아 cover",
-    "query": "나나 죽는게나아",
-    "video_id": "5u6yVIVXF60"
-   },
    {
     "fallback_query": "나나 희극 cover",
     "query": "나나 희극",
@@ -48,11 +47,6 @@
     "fallback_query": "마시로 린 메이드지상주의 cover",
     "query": "마시로 린 메이드지상주의",
     "video_id": "5uOxZswwBx4"
-   },
-   {
-    "fallback_query": "아카네 리제 바니걸 cover",
-    "query": "아카네 리제 바니걸",
-    "video_id": "SIBtVNjRois"
    },
    {
     "fallback_query": "토아 제육감 cover",
@@ -73,7 +67,7 @@
   "recent": [
    {
     "query": "나나 deja vu",
-    "searched_time": 1793923849.0209901,
+    "searched_time": 1793981430.3707902,
     "video_id": "KmH0RhhenzE"
    },
    {
@@ -88,7 +82,7 @@
    },
    {
     "query": "나나 후야 오츠카레summer",
-    "searched_time": 1793923849.0209901,
+    "searched_time": 1793981430.3707902,
     "video_id": "Zetk77I6_s8"
    },
    {
@@ -113,7 +107,7 @@
    },
    {
     "query": "리코 밤을 달리다",
-    "searched_time": 1793923849.0209901,
+    "searched_time": 1793981430.3707902,
     "video_id": "lBtlpVXmbYY"
    },
    {
@@ -123,12 +117,12 @@
    },
    {
     "query": "메리 도쿄테디베어",
-    "searched_time": 1793923849.0209901,
+    "searched_time": 1793981430.3707902,
     "video_id": "rKQptWhAvO0"
    },
    {
     "query": "스텔라이브 twinkle",
-    "searched_time": 1793923849.0209901,
+    "searched_time": 1793981430.3707902,
     "video_id": "WnCMBCpENio"
    },
    {
@@ -138,15 +132,15 @@
    },
    {
     "query": "아카네 리제 바니걸",
-    "searched_time": 1793866247.6474192,
+    "searched_time": 1793981430.3707902,
     "video_id": "SIBtVNjRois"
    },
    {
     "query": "유즈하 리코 밤을 달리다",
-    "searched_time": 1793923849.0209901,
+    "searched_time": 1793981430.3707902,
     "video_id": "lBtlpVXmbYY"
    }
   ],
-  "searched_time": 1793952624.3935976
+  "searched_time": 1793981430.3707902
  }
 }
