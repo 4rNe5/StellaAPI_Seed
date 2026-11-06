@@ -1887,10 +1887,10 @@
   "fallbackQuery": "칸나 Cookie cover",
   "fallbackRank": null,
   "status": "hidden",
-  "resultCount": 17,
+  "resultCount": 16,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-06T12:13:43.442Z",
+  "checkedAt": "2026-11-06T20:09:24.329Z",
   "history": [
    [
     "2026-11-01T15:08:07.853Z",
@@ -1960,6 +1960,12 @@
    ],
    [
     "2026-11-06T12:13:43.442Z",
+    null,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-06T20:09:24.329Z",
     null,
     null,
     "KR"
@@ -10415,14 +10421,14 @@
  },
  "8012": {
   "query": "시부키 나나 울려퍼져라",
-  "rank": null,
-  "fallbackQuery": "시부키 나나 울려퍼져라 cover",
+  "rank": 1,
+  "fallbackQuery": null,
   "fallbackRank": null,
-  "status": "suspected",
+  "status": "visible",
   "resultCount": 17,
   "noResults": false,
-  "source": "US",
-  "checkedAt": "2026-11-06T19:44:25.794Z",
+  "source": "KR",
+  "checkedAt": "2026-11-06T20:09:19.744Z",
   "history": [
    [
     "2026-11-02T14:34:33.749Z",
@@ -10489,6 +10495,12 @@
     null,
     null,
     "US"
+   ],
+   [
+    "2026-11-06T20:09:19.744Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -12231,12 +12243,12 @@
   "query": "후야 chewing luv",
   "rank": null,
   "fallbackQuery": "후야 chewing luv cover",
-  "fallbackRank": null,
-  "status": "suspected",
-  "resultCount": 14,
+  "fallbackRank": 4,
+  "status": "cover_only",
+  "resultCount": 8,
   "noResults": false,
-  "source": "US",
-  "checkedAt": "2026-11-06T19:44:20.253Z",
+  "source": "KR",
+  "checkedAt": "2026-11-06T20:09:21.460Z",
   "history": [
    [
     "2026-11-02T14:34:01.392Z",
@@ -12321,6 +12333,12 @@
     null,
     null,
     "US"
+   ],
+   [
+    "2026-11-06T20:09:21.460Z",
+    null,
+    4,
+    "KR"
    ]
   ]
  },

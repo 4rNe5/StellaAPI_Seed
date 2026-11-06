@@ -3722,13 +3722,13 @@
       "privacy": "public"
     },
     "search": {
-      "status": "suspected",
+      "status": "cover_only",
       "rank": null,
-      "fallbackRank": null,
+      "fallbackRank": 4,
       "noResults": false,
       "query": "후야 chewing luv",
-      "source": "US",
-      "checkedAt": "2026-11-06T19:44:20.253Z"
+      "source": "KR",
+      "checkedAt": "2026-11-06T20:09:21.460Z"
     },
     "karaoke": {
       "tj": "51731",
@@ -5364,13 +5364,13 @@
       "privacy": "public"
     },
     "search": {
-      "status": "suspected",
-      "rank": null,
+      "status": "visible",
+      "rank": 1,
       "fallbackRank": null,
       "noResults": false,
       "query": "시부키 나나 울려퍼져라",
-      "source": "US",
-      "checkedAt": "2026-11-06T19:44:25.794Z"
+      "source": "KR",
+      "checkedAt": "2026-11-06T20:09:19.744Z"
     },
     "karaoke": {
       "tj": "52553",
@@ -14973,7 +14973,7 @@
       "noResults": false,
       "query": "칸나 Cookie",
       "source": "KR",
-      "checkedAt": "2026-11-06T12:13:43.442Z"
+      "checkedAt": "2026-11-06T20:09:24.329Z"
     },
     "karaoke": {
       "tj": "82076",
