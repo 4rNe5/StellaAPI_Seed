@@ -21,14 +21,19 @@ if (!files.length) {
   process.exit(0);
 }
 const merged: Record<string, any> = existsSync(BASE) ? JSON.parse(await readFile(BASE, 'utf8')) : {};
-let updated = 0;
+// 한국(KR) 측정이 24시간 안이면 그 뒤의 미국(US) 측정으로 덮어쓰지 않음 (US는 맥북이 꺼졌을 때의 대비용)
+const KR_HOLD_MS = 24 * 3600e3;
+const keepKR = (cur: any, next: any) => cur?.source === 'KR' && next.source === 'US' && Date.parse(next.checkedAt) - Date.parse(cur.checkedAt) < KR_HOLD_MS;
+let updated = 0, kept = 0;
 for (const f of files) {
   const part: Record<string, any> = JSON.parse(await readFile(f, 'utf8'));
   for (const [id, e] of Object.entries(part)) {
-    if (!merged[id] || Date.parse(e.checkedAt) > Date.parse(merged[id].checkedAt)) { merged[id] = e; updated++; }
+    if (merged[id] && Date.parse(e.checkedAt) <= Date.parse(merged[id].checkedAt)) continue;
+    if (keepKR(merged[id], e)) { kept++; continue; }
+    merged[id] = e; updated++;
   }
 }
 await writeFile(BASE, JSON.stringify(merged, null, 1));
 const bySource: Record<string, number> = {};
 Object.values(merged).forEach((e: any) => (bySource[e.source ?? '미표기'] = (bySource[e.source ?? '미표기'] ?? 0) + 1));
-console.log(`${files.length}개 파일 병합 · 갱신 ${updated}곡 · 전체 ${Object.keys(merged).length}곡 · 측정 위치 ${JSON.stringify(bySource)}`);
+console.log(`${files.length}개 파일 병합 · 갱신 ${updated}곡 · 한국 측정 유지 ${kept}곡 · 전체 ${Object.keys(merged).length}곡 · 측정 위치 ${JSON.stringify(bySource)}`);

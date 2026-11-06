@@ -14,6 +14,7 @@
  *   --history=N          곡별 보관 이력 수 (기본 180)
  *   --source=KR|US       측정 위치 표기 (결과·이력에 기록)
  *   --only=게시물id      한 곡만 강제 점검
+ *   --kr-hold=시간       기본 24. --source=US일 때 이 시간 안의 한국(KR) 측정이 있는 곡은 건너뜀 (한국 결과를 미국 결과로 덮어쓰지 않게)
  * 검색어: queries.ts(수동) > Stelline 등록 검색어(data/stelline, 매 수집 갱신) > fan-queries.ts(2026-11-02 스냅샷) > 자동. 검색어가 바뀐 곡은 이력 초기화 후 우선 재점검
  * 판정: 기본 검색어 → 없으면 "{검색어} cover" 재검색
  *   visible / cover_only / suspected(미노출 1회, 다음 실행 우선 재점검) / hidden(미노출 2회 연속) / error
@@ -39,6 +40,7 @@ const CONCURRENCY = Number(args.get('concurrency') ?? 2);
 const ENGINE = (args.get('engine') ?? 'innertube') as 'innertube' | 'html';
 const SOURCE = args.get('source') ?? 'local'; // 측정 위치 표기: KR(맥북·한국 IP) / US(GitHub 러너) / local
 const ONLY = args.get('only');
+const KR_HOLD_MS = Number(args.get('kr-hold') ?? 24) * 3600e3;
 const [SHARD_I, SHARD_N] = (args.get('shard') ?? '0/1').split('/').map(Number);
 const HISTORY_MAX = Number(args.get('history') ?? 180); // 4시간 주기 기준 30일
 const NEW_DAYS = 30; // 공식 게시일 기준 신곡은 안정 여부와 무관하게 일반 주기
@@ -186,6 +188,8 @@ async function main() {
     .filter((t) => t.youtubeId && !t.isMedley && !unavailable.has(t.youtubeId))
     .map((t) => ({ t, tier: tierOf(t, db[t.id], now), age: db[t.id] ? now - Date.parse(db[t.id].checkedAt) : Infinity }))
     .filter(({ t, tier, age }) => (ONLY ? String(t.id) === ONLY : tier === 'priority' || age > (tier === 'stable' ? STABLE_STALE_MS : STALE_MS)))
+    // 미국 IP 측정은 대비용: 한국 측정이 KR_HOLD 안이면 (우선 등급이어도) 다음 한국 회차에 맡김
+    .filter(({ t, age }) => ONLY || SOURCE !== 'US' || db[t.id]?.source !== 'KR' || age > KR_HOLD_MS)
     // 우선순위 → 오래된 순 → id (샤드가 같은 순서를 보도록 결정적 정렬)
     .sort((a, b) => order[a.tier] - order[b.tier] || b.age - a.age || a.t.id - b.t.id)
     .filter((_, i) => i % SHARD_N === SHARD_I);

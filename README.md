@@ -179,7 +179,7 @@ Stelline이 자체적으로 점검한 결과입니다. **판정 기준이 `searc
         ├─ 검색 노출: 한국 측정이 최신이 아닌 곡만 GitHub 서버 3대에서 나눠 측정
         └─ 병합 → 검증 → data/ 커밋 → Vercel이 /v1 재배포
 ```
-- 한국 IP 측정이 빠진 회차에는 대비용 예약 실행(KST 05:47 / 13:47 / 21:47)이 미국 IP 기준으로 측정합니다. GitHub 예약 실행은 몇 시간씩 늦어질 수 있습니다.
+- 맥북이 꺼져 있을 때를 위한 대비용 예약 실행(하루 1회 KST 03:47)이 있습니다. 한국 측정이 24시간 안인 곡은 미국 IP로 다시 측정하지 않고, 한국 측정 결과를 미국 측정으로 덮어쓰지 않습니다. GitHub 예약 실행은 몇 시간씩 늦어질 수 있습니다.
 - 정확한 갱신 시각은 `/v1/meta`의 `sources`에서 확인하세요.
 
 ## 알아둘 점
@@ -222,6 +222,7 @@ npm run export-api       # data/ → public/v1/*.json
 | `--source=KR\|US` | | 측정 위치 표기 |
 | `--in=` / `--out=` | `data/search.json` | 입력 / 출력 파일 |
 | `--only=id` | | 특정 곡만 측정 |
+| `--kr-hold=시간` | 24 | `--source=US`일 때 이 시간 안에 한국 측정이 있는 곡은 건너뜀 |
 | `--engine=html` | innertube | 검색 방식 고정 |
 
 재측정 우선순위: 미측정 · `error` · `suspected` · 검색어가 바뀐 곡은 매 실행, 그 외는 위 간격대로 진행합니다.
@@ -259,7 +260,7 @@ npm run export-api       # data/ → public/v1/*.json
 | `search` ×3 | 검색 노출을 3개로 나눠 서로 다른 러너(IP)에서 동시 측정 (YouTube 제한이 IP 단위) |
 | `finalize` | 결과 병합 → `songs.json` → 검증 리포트(Summary) → `data/` 커밋 |
 
-- 실행: 한국 측정 업로드 직후(`workflow_dispatch`), 대비용 예약 하루 3회, 수동 실행(Actions → collect → Run workflow, `search_all`을 켜면 간격 무시하고 전체 재측정).
+- 실행: 한국 측정 업로드 직후(`workflow_dispatch`), 대비용 예약 하루 1회, 수동 실행(Actions → collect → Run workflow, `search_all`을 켜면 간격 무시하고 전체 재측정).
 - 일부 단계가 실패해도 나머지 데이터는 커밋하고, 실행만 실패로 표시해 알림을 받습니다.
 - 시크릿: `YT_API_KEY`.
 - 샤드 수를 바꿀 때는 `matrix.shard`와 `env.SHARDS`를 같이 수정합니다.
