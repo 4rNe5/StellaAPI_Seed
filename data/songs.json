@@ -37,14 +37,14 @@
       "noResults": false,
       "query": "메리 도쿄테디베어",
       "source": "KR",
-      "checkedAt": "2026-11-06T04:09:02.254Z"
+      "checkedAt": "2026-11-06T12:13:29.279Z"
     },
     "karaoke": null,
     "stelline": {
       "query": "메리 도쿄테디베어",
-      "status": "not_found",
+      "status": null,
       "lastNotFoundAt": "2026-11-06T00:10:49.020Z",
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -85,14 +85,14 @@
       "noResults": false,
       "query": "히요리 유령이되고싶어",
       "source": "KR",
-      "checkedAt": "2026-11-06T04:08:17.703Z"
+      "checkedAt": "2026-11-06T12:12:46.778Z"
     },
     "karaoke": null,
     "stelline": {
       "query": "히요리 유령이되고싶어",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -133,14 +133,14 @@
       "noResults": false,
       "query": "랑 호랑풍류가",
       "source": "KR",
-      "checkedAt": "2026-11-06T04:08:40.296Z"
+      "checkedAt": "2026-11-06T12:13:07.848Z"
     },
     "karaoke": null,
     "stelline": {
       "query": "랑 호랑풍류가",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -181,14 +181,14 @@
       "noResults": true,
       "query": "토아 제육감",
       "source": "KR",
-      "checkedAt": "2026-11-06T04:08:28.873Z"
+      "checkedAt": "2026-11-06T12:12:56.533Z"
     },
     "karaoke": null,
     "stelline": {
       "query": "토아 제육감",
       "status": "cover_only",
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -229,14 +229,14 @@
       "noResults": false,
       "query": "린 아프리오리",
       "source": "KR",
-      "checkedAt": "2026-11-06T04:08:15.138Z"
+      "checkedAt": "2026-11-06T12:12:44.280Z"
     },
     "karaoke": null,
     "stelline": {
       "query": "린 아프리오리",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -275,14 +275,14 @@
       "noResults": false,
       "query": "히나 loop in june",
       "source": "KR",
-      "checkedAt": "2026-11-06T04:08:15.473Z"
+      "checkedAt": "2026-11-06T12:12:44.365Z"
     },
     "karaoke": null,
     "stelline": {
       "query": "히나 loop in june",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -323,14 +323,14 @@
       "noResults": false,
       "query": "유니 오버라이드",
       "source": "KR",
-      "checkedAt": "2026-11-06T04:08:42.933Z"
+      "checkedAt": "2026-11-06T12:13:10.138Z"
     },
     "karaoke": null,
     "stelline": {
       "query": "유니 오버라이드",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -381,7 +381,7 @@
       "query": "린 불가행력",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -423,14 +423,14 @@
       "noResults": true,
       "query": "히나 리코 소녀레이",
       "source": "KR",
-      "checkedAt": "2026-11-06T04:08:56.332Z"
+      "checkedAt": "2026-11-06T12:13:22.292Z"
     },
     "karaoke": null,
     "stelline": {
       "query": "히나 리코 소녀레이",
       "status": "cover_only",
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -471,14 +471,14 @@
       "noResults": false,
       "query": "리제 심월과달의노래",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:14:44.805Z"
+      "checkedAt": "2026-11-06T12:13:52.468Z"
     },
     "karaoke": null,
     "stelline": {
       "query": "리제 심월과달의노래",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -519,7 +519,7 @@
       "noResults": false,
       "query": "리코 아이와나의바다",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:14:43.405Z"
+      "checkedAt": "2026-11-06T12:13:50.876Z"
     },
     "karaoke": {
       "tj": "76600",
@@ -529,7 +529,7 @@
       "query": "리코 아이와나의바다",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -571,14 +571,14 @@
       "noResults": true,
       "query": "나나 후야 오츠카레summer",
       "source": "KR",
-      "checkedAt": "2026-11-06T04:08:37.912Z"
+      "checkedAt": "2026-11-06T12:13:06.173Z"
     },
     "karaoke": null,
     "stelline": {
       "query": "나나 후야 오츠카레summer",
-      "status": "not_found",
+      "status": null,
       "lastNotFoundAt": "2026-11-06T00:10:49.020Z",
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -629,7 +629,7 @@
       "query": "타비 물떼새",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -670,7 +670,7 @@
       "noResults": false,
       "query": "시부키 모시모시",
       "source": "KR",
-      "checkedAt": "2026-11-06T04:08:37.487Z"
+      "checkedAt": "2026-11-06T12:13:05.435Z"
     },
     "karaoke": {
       "tj": "52546",
@@ -678,9 +678,9 @@
     },
     "stelline": {
       "query": "시부키 모시모시",
-      "status": null,
-      "lastNotFoundAt": "2026-11-05T16:10:28.233Z",
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "status": "not_found",
+      "lastNotFoundAt": "2026-11-06T08:10:24.393Z",
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -731,7 +731,7 @@
       "query": "리코 라일락",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -772,7 +772,7 @@
       "noResults": false,
       "query": "히나 아틀란티스소녀",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:14:49.825Z"
+      "checkedAt": "2026-11-06T12:13:56.127Z"
     },
     "karaoke": {
       "tj": "62841",
@@ -782,7 +782,7 @@
       "query": "히나 아틀란티스소녀",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -823,7 +823,7 @@
       "noResults": false,
       "query": "마시로 구르는 바위 네게 아침이 내린다",
       "source": "KR",
-      "checkedAt": "2026-11-06T04:09:12.555Z"
+      "checkedAt": "2026-11-06T12:13:39.680Z"
     },
     "karaoke": {
       "tj": "68723",
@@ -831,9 +831,9 @@
     },
     "stelline": {
       "query": "마시로 구르는 바위 네게 아침이 내린다",
-      "status": null,
-      "lastNotFoundAt": "2026-11-05T16:10:28.233Z",
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "status": "not_found",
+      "lastNotFoundAt": "2026-11-06T08:10:24.393Z",
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -874,7 +874,7 @@
       "noResults": false,
       "query": "타비 high hopes",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:06.538Z"
+      "checkedAt": "2026-11-06T12:14:13.322Z"
     },
     "karaoke": {
       "tj": "23388",
@@ -884,7 +884,7 @@
       "query": "타비 high hopes",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -925,7 +925,7 @@
       "noResults": false,
       "query": "후야 푸른산호초",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:14:53.180Z"
+      "checkedAt": "2026-11-06T12:14:01.040Z"
     },
     "karaoke": {
       "tj": "27121",
@@ -935,7 +935,7 @@
       "query": "후야 푸른산호초",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -977,14 +977,14 @@
       "noResults": false,
       "query": "마시로 시부키 네기꺼이",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:14:56.021Z"
+      "checkedAt": "2026-11-06T12:14:03.435Z"
     },
     "karaoke": null,
     "stelline": {
       "query": "마시로 시부키 네기꺼이",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -1025,14 +1025,14 @@
       "noResults": false,
       "query": "나나 논블레스오브리주",
       "source": "KR",
-      "checkedAt": "2026-11-06T04:08:48.233Z"
+      "checkedAt": "2026-11-06T12:13:14.559Z"
     },
     "karaoke": null,
     "stelline": {
       "query": "나나 논블레스오브리주",
-      "status": null,
-      "lastNotFoundAt": "2026-11-05T16:10:28.233Z",
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "status": "not_found",
+      "lastNotFoundAt": "2026-11-06T08:10:24.393Z",
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -1080,7 +1080,7 @@
       "query": "린 소녀레이",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -1121,14 +1121,14 @@
       "noResults": false,
       "query": "리제 미랫빛라이더",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:14:46.635Z"
+      "checkedAt": "2026-11-06T12:13:53.732Z"
     },
     "karaoke": null,
     "stelline": {
       "query": "리제 미랫빛라이더",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -1169,7 +1169,7 @@
       "noResults": false,
       "query": "나나 희극",
       "source": "KR",
-      "checkedAt": "2026-11-06T04:08:57.701Z"
+      "checkedAt": "2026-11-06T12:13:24.939Z"
     },
     "karaoke": {
       "tj": "68601",
@@ -1179,7 +1179,7 @@
       "query": "나나 희극",
       "status": "cover_only",
       "lastNotFoundAt": "2026-11-05T08:10:47.647Z",
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -1228,7 +1228,7 @@
       "query": "린 리코 우리 쓰레기 분리수거단",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -1267,7 +1267,7 @@
       "noResults": false,
       "query": "린 maid my way",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:14:47.379Z"
+      "checkedAt": "2026-11-06T12:13:54.725Z"
     },
     "karaoke": {
       "tj": "70674",
@@ -1277,7 +1277,7 @@
       "query": "린 maid my way",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -1316,7 +1316,7 @@
       "noResults": false,
       "query": "나나 hush trap",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:01.051Z"
+      "checkedAt": "2026-11-06T12:14:08.761Z"
     },
     "karaoke": {
       "tj": "70683",
@@ -1326,7 +1326,7 @@
       "query": "나나 hush trap",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -1375,7 +1375,7 @@
       "query": "시부키 베리베리스트로베리",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -1424,7 +1424,7 @@
       "query": "리코 악당주의보",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -1475,7 +1475,7 @@
       "query": "리코 서머타임레코드",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -1516,7 +1516,7 @@
       "noResults": false,
       "query": "후야 booo",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:14:59.520Z"
+      "checkedAt": "2026-11-06T12:14:07.899Z"
     },
     "karaoke": {
       "tj": null,
@@ -1526,7 +1526,7 @@
       "query": "후야 booo",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -1577,7 +1577,7 @@
       "query": "리제 청록",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -1651,7 +1651,7 @@
       "noResults": false,
       "query": "시부키 친애하는소년이여",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:14:57.104Z"
+      "checkedAt": "2026-11-06T12:14:05.219Z"
     },
     "karaoke": {
       "tj": "52756",
@@ -1661,7 +1661,7 @@
       "query": "시부키 친애하는소년이여",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -1712,7 +1712,7 @@
       "query": "린 물떼새",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -1754,7 +1754,7 @@
       "noResults": false,
       "query": "나나 Loveit?",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:12.680Z"
+      "checkedAt": "2026-11-06T12:14:20.077Z"
     },
     "karaoke": {
       "tj": null,
@@ -1764,7 +1764,7 @@
       "query": "나나 Loveit?",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -1805,7 +1805,7 @@
       "noResults": false,
       "query": "타비 밤새도록널생각해",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:14:52.417Z"
+      "checkedAt": "2026-11-06T12:13:59.147Z"
     },
     "karaoke": {
       "tj": null,
@@ -1815,7 +1815,7 @@
       "query": "타비 밤새도록널생각해",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -1856,14 +1856,14 @@
       "noResults": false,
       "query": "타비 행운을빌어줘",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:03.080Z"
+      "checkedAt": "2026-11-06T12:14:10.413Z"
     },
     "karaoke": null,
     "stelline": {
       "query": "타비 행운을빌어줘",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -1904,7 +1904,7 @@
       "noResults": false,
       "query": "리제 무대에서서",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:14:58.738Z"
+      "checkedAt": "2026-11-06T12:14:05.874Z"
     },
     "karaoke": {
       "tj": "52705",
@@ -1914,7 +1914,7 @@
       "query": "리제 무대에서서",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -1968,7 +1968,7 @@
       "query": "유니버스 마음악보",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -2009,7 +2009,7 @@
       "noResults": false,
       "query": "히나 내일또보자",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:14:50.694Z"
+      "checkedAt": "2026-11-06T12:13:58.311Z"
     },
     "karaoke": {
       "tj": null,
@@ -2019,7 +2019,7 @@
       "query": "히나 내일또보자",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -2060,7 +2060,7 @@
       "noResults": false,
       "query": "마시로 망상아스파탐",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:10.218Z"
+      "checkedAt": "2026-11-06T12:14:16.531Z"
     },
     "karaoke": {
       "tj": null,
@@ -2070,7 +2070,7 @@
       "query": "마시로 망상아스파탐",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -2124,7 +2124,7 @@
       "query": "클리셰 유성우",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -2167,7 +2167,7 @@
       "noResults": true,
       "query": "리코 마시로 악마가아닌걸",
       "source": "KR",
-      "checkedAt": "2026-11-06T04:08:22.246Z"
+      "checkedAt": "2026-11-06T12:12:52.215Z"
     },
     "karaoke": {
       "tj": null,
@@ -2177,7 +2177,7 @@
       "query": "리코 마시로 악마가아닌걸",
       "status": "cover_only",
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -2228,7 +2228,7 @@
       "query": "히나 춘수",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -2269,7 +2269,7 @@
       "noResults": false,
       "query": "나나 drivers license",
       "source": "KR",
-      "checkedAt": "2026-11-06T04:09:21.807Z"
+      "checkedAt": "2026-11-06T12:13:49.790Z"
     },
     "karaoke": {
       "tj": "23662",
@@ -2277,9 +2277,9 @@
     },
     "stelline": {
       "query": "나나 drivers license",
-      "status": null,
-      "lastNotFoundAt": "2026-11-05T16:10:28.233Z",
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "status": "not_found",
+      "lastNotFoundAt": "2026-11-06T08:10:24.393Z",
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -2320,7 +2320,7 @@
       "noResults": false,
       "query": "리제 hollowness",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:08.814Z"
+      "checkedAt": "2026-11-06T12:14:16.445Z"
     },
     "karaoke": {
       "tj": "68030",
@@ -2330,7 +2330,7 @@
       "query": "리제 hollowness",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -2371,7 +2371,7 @@
       "noResults": false,
       "query": "유니 오네가이달링",
       "source": "KR",
-      "checkedAt": "2026-11-06T04:09:11.926Z"
+      "checkedAt": "2026-11-06T12:13:39.101Z"
     },
     "karaoke": {
       "tj": null,
@@ -2381,7 +2381,7 @@
       "query": "유니 오네가이달링",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -2422,7 +2422,7 @@
       "noResults": false,
       "query": "시부키 나에게꽃다발",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:14:54.661Z"
+      "checkedAt": "2026-11-06T12:14:02.284Z"
     },
     "karaoke": {
       "tj": null,
@@ -2432,7 +2432,7 @@
       "query": "시부키 나에게꽃다발",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -2473,7 +2473,7 @@
       "noResults": false,
       "query": "나나 deja vu",
       "source": "KR",
-      "checkedAt": "2026-11-06T04:09:03.837Z"
+      "checkedAt": "2026-11-06T12:13:30.119Z"
     },
     "karaoke": {
       "tj": "23745",
@@ -2481,9 +2481,9 @@
     },
     "stelline": {
       "query": "나나 deja vu",
-      "status": "not_found",
+      "status": null,
       "lastNotFoundAt": "2026-11-06T00:10:49.020Z",
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -2519,7 +2519,7 @@
       "query": "스텔라이브 투니버스 메들리",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -2570,7 +2570,7 @@
       "query": "린 댄스홀",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -2611,7 +2611,7 @@
       "noResults": false,
       "query": "후야 멜트",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:15.521Z"
+      "checkedAt": "2026-11-06T12:14:22.864Z"
     },
     "karaoke": {
       "tj": "26749",
@@ -2621,7 +2621,7 @@
       "query": "후야 멜트",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -2662,7 +2662,7 @@
       "noResults": false,
       "query": "리코 오렌지",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:22.103Z"
+      "checkedAt": "2026-11-06T12:14:28.490Z"
     },
     "karaoke": {
       "tj": "28841",
@@ -2672,7 +2672,7 @@
       "query": "리코 오렌지",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -2723,7 +2723,7 @@
       "query": "리제 orion",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -2764,7 +2764,7 @@
       "noResults": false,
       "query": "린 아이네클라이네",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:19.747Z"
+      "checkedAt": "2026-11-06T12:14:26.688Z"
     },
     "karaoke": {
       "tj": "28607",
@@ -2774,7 +2774,7 @@
       "query": "린 아이네클라이네",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -2815,7 +2815,7 @@
       "noResults": false,
       "query": "히나 acacia",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:16.282Z"
+      "checkedAt": "2026-11-06T12:14:24.120Z"
     },
     "karaoke": {
       "tj": null,
@@ -2825,7 +2825,7 @@
       "query": "히나 acacia",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -2876,7 +2876,7 @@
       "query": "리코 숨바꼭질",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -2917,7 +2917,7 @@
       "noResults": false,
       "query": "후야 푸른하늘의랩소디",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:04.513Z"
+      "checkedAt": "2026-11-06T12:14:11.014Z"
     },
     "karaoke": {
       "tj": "28658",
@@ -2927,7 +2927,7 @@
       "query": "후야 푸른하늘의랩소디",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -2968,7 +2968,7 @@
       "noResults": false,
       "query": "리제 stellar stellar",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:19.122Z"
+      "checkedAt": "2026-11-06T12:14:25.957Z"
     },
     "karaoke": {
       "tj": "68567",
@@ -2978,7 +2978,7 @@
       "query": "리제 stellar stellar",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -3015,7 +3015,7 @@
       "noResults": false,
       "query": "스텔라이브 star trail",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:29.632Z"
+      "checkedAt": "2026-11-06T12:14:36.617Z"
     },
     "karaoke": {
       "tj": null,
@@ -3025,7 +3025,7 @@
       "query": "스텔라이브 star trail",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -3062,7 +3062,7 @@
       "noResults": false,
       "query": "스텔라이브 히로인이되고싶어",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:36.035Z"
+      "checkedAt": "2026-11-06T12:14:43.465Z"
     },
     "karaoke": {
       "tj": null,
@@ -3072,7 +3072,7 @@
       "query": "스텔라이브 히로인이되고싶어",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -3113,7 +3113,7 @@
       "noResults": false,
       "query": "타비 사랑감기에실려",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:46.972Z"
+      "checkedAt": "2026-11-06T12:14:54.027Z"
     },
     "karaoke": {
       "tj": "52428",
@@ -3123,7 +3123,7 @@
       "query": "타비 사랑감기에실려",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -3174,7 +3174,7 @@
       "query": "리코 포니",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -3215,7 +3215,7 @@
       "noResults": false,
       "query": "린 oh",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:11.074Z"
+      "checkedAt": "2026-11-06T12:14:18.613Z"
     },
     "karaoke": {
       "tj": null,
@@ -3225,7 +3225,7 @@
       "query": "린 oh",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -3266,7 +3266,7 @@
       "noResults": false,
       "query": "나나 one last kiss",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:30.990Z"
+      "checkedAt": "2026-11-06T12:14:38.326Z"
     },
     "karaoke": {
       "tj": "52459",
@@ -3276,7 +3276,7 @@
       "query": "나나 one last kiss",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -3317,7 +3317,7 @@
       "noResults": false,
       "query": "시부키 행복에대해내가생각한것",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:13.367Z"
+      "checkedAt": "2026-11-06T12:14:21.444Z"
     },
     "karaoke": {
       "tj": null,
@@ -3327,7 +3327,7 @@
       "query": "시부키 행복에대해내가생각한것",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -3379,7 +3379,7 @@
       "query": "히나 리제 ray",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -3421,7 +3421,7 @@
       "noResults": true,
       "query": "마시로 린 메이드지상주의",
       "source": "KR",
-      "checkedAt": "2026-11-06T04:08:45.710Z"
+      "checkedAt": "2026-11-06T12:13:13.105Z"
     },
     "karaoke": {
       "tj": null,
@@ -3431,7 +3431,7 @@
       "query": "마시로 린 메이드지상주의",
       "status": "cover_only",
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -3472,7 +3472,7 @@
       "noResults": false,
       "query": "리제 주름맞추기",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:24.569Z"
+      "checkedAt": "2026-11-06T12:14:30.818Z"
     },
     "karaoke": {
       "tj": "52412",
@@ -3482,7 +3482,7 @@
       "query": "리제 주름맞추기",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -3533,7 +3533,7 @@
       "query": "린 AIZO",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -3574,7 +3574,7 @@
       "noResults": false,
       "query": "나나 죄와벌",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:07.282Z"
+      "checkedAt": "2026-11-06T12:14:13.559Z"
     },
     "karaoke": {
       "tj": "25497",
@@ -3584,7 +3584,7 @@
       "query": "나나 죄와벌",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -3625,7 +3625,7 @@
       "noResults": false,
       "query": "히나 바다의유령",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:27.794Z"
+      "checkedAt": "2026-11-06T12:14:36.152Z"
     },
     "karaoke": {
       "tj": "68019",
@@ -3635,7 +3635,7 @@
       "query": "히나 바다의유령",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -3677,7 +3677,7 @@
       "noResults": false,
       "query": "유니 린 chocolate box",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:16:19.353Z"
+      "checkedAt": "2026-11-06T12:15:11.211Z"
     },
     "karaoke": {
       "tj": null,
@@ -3687,7 +3687,7 @@
       "query": "유니 린 chocolate box",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -3728,7 +3728,7 @@
       "noResults": false,
       "query": "후야 chewing luv",
       "source": "KR",
-      "checkedAt": "2026-11-06T04:09:08.267Z"
+      "checkedAt": "2026-11-06T12:13:35.044Z"
     },
     "karaoke": {
       "tj": "51731",
@@ -3738,7 +3738,7 @@
       "query": "후야 chewing luv",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -3779,7 +3779,7 @@
       "noResults": false,
       "query": "시부키 러브레터",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:51.412Z"
+      "checkedAt": "2026-11-06T12:14:58.951Z"
     },
     "karaoke": {
       "tj": "68514",
@@ -3789,7 +3789,7 @@
       "query": "시부키 러브레터",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -3829,7 +3829,7 @@
       "noResults": false,
       "query": "스텔라이브 세카이",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:44.787Z"
+      "checkedAt": "2026-11-06T12:14:51.848Z"
     },
     "karaoke": {
       "tj": null,
@@ -3839,7 +3839,7 @@
       "query": "스텔라이브 세카이",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -3890,7 +3890,7 @@
       "query": "히나 계절범죄",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -3931,7 +3931,7 @@
       "noResults": false,
       "query": "시부키 daybreak frontline",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:45.499Z"
+      "checkedAt": "2026-11-06T12:14:52.895Z"
     },
     "karaoke": {
       "tj": null,
@@ -3941,7 +3941,7 @@
       "query": "시부키 daybreak frontline",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -3982,7 +3982,7 @@
       "noResults": true,
       "query": "유즈하 리코 밤을 달리다",
       "source": "KR",
-      "checkedAt": "2026-11-06T04:09:17.420Z"
+      "checkedAt": "2026-11-06T12:13:45.021Z"
     },
     "karaoke": {
       "tj": "68381",
@@ -3990,9 +3990,9 @@
     },
     "stelline": {
       "query": "유즈하 리코 밤을 달리다",
-      "status": "not_found",
+      "status": null,
       "lastNotFoundAt": "2026-11-06T00:10:49.020Z",
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -4043,7 +4043,7 @@
       "query": "린 카가리비토",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -4084,7 +4084,7 @@
       "noResults": false,
       "query": "나나 rain",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:22.819Z"
+      "checkedAt": "2026-11-06T12:14:29.207Z"
     },
     "karaoke": {
       "tj": "27062",
@@ -4094,7 +4094,7 @@
       "query": "나나 rain",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -4135,7 +4135,7 @@
       "noResults": false,
       "query": "히나 멜트",
       "source": "KR",
-      "checkedAt": "2026-11-06T04:08:21.146Z"
+      "checkedAt": "2026-11-06T12:12:49.221Z"
     },
     "karaoke": {
       "tj": "26749",
@@ -4145,7 +4145,7 @@
       "query": "히나 멜트",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -4196,7 +4196,7 @@
       "query": "린 사신",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -4237,7 +4237,7 @@
       "noResults": false,
       "query": "히나 크리스마스송",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:32.806Z"
+      "checkedAt": "2026-11-06T12:14:39.880Z"
     },
     "karaoke": {
       "tj": "27807",
@@ -4247,7 +4247,7 @@
       "query": "히나 크리스마스송",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -4298,7 +4298,7 @@
       "query": "시부키 메리크리",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -4349,7 +4349,7 @@
       "query": "리코 히로인",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -4390,7 +4390,7 @@
       "noResults": false,
       "query": "타비 number one rockstar",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:27.042Z"
+      "checkedAt": "2026-11-06T12:14:33.067Z"
     },
     "karaoke": {
       "tj": "50742",
@@ -4400,7 +4400,7 @@
       "query": "타비 number one rockstar",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -4451,7 +4451,7 @@
       "query": "유니 참생활",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -4492,7 +4492,7 @@
       "noResults": false,
       "query": "린 all i want for christmas is you",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:54.876Z"
+      "checkedAt": "2026-11-06T12:15:01.266Z"
     },
     "karaoke": {
       "tj": "20422",
@@ -4502,7 +4502,7 @@
       "query": "린 all i want for christmas is you",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -4553,7 +4553,7 @@
       "query": "리제 케세라세라",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -4595,7 +4595,7 @@
       "noResults": false,
       "query": "히나 나나 joker",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:16:41.050Z"
+      "checkedAt": "2026-11-06T12:15:38.069Z"
     },
     "karaoke": {
       "tj": "76468",
@@ -4605,7 +4605,7 @@
       "query": "히나 나나 joker",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -4648,7 +4648,7 @@
       "noResults": false,
       "query": "나나 하지메 tomboy",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:25.330Z"
+      "checkedAt": "2026-11-06T12:14:32.946Z"
     },
     "karaoke": {
       "tj": "81343",
@@ -4658,7 +4658,7 @@
       "query": "나나 하지메 tomboy",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -4699,7 +4699,7 @@
       "noResults": false,
       "query": "리제 발묘",
       "source": "KR",
-      "checkedAt": "2026-11-06T04:08:52.752Z"
+      "checkedAt": "2026-11-06T12:13:18.952Z"
     },
     "karaoke": {
       "tj": null,
@@ -4707,9 +4707,9 @@
     },
     "stelline": {
       "query": "리제 발묘",
-      "status": null,
-      "lastNotFoundAt": "2026-11-05T16:10:28.233Z",
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "status": "not_found",
+      "lastNotFoundAt": "2026-11-06T08:10:24.393Z",
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -4750,7 +4750,7 @@
       "noResults": false,
       "query": "리코 목마름을외치다",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:56.285Z"
+      "checkedAt": "2026-11-06T12:15:01.699Z"
     },
     "karaoke": {
       "tj": "68000",
@@ -4760,7 +4760,7 @@
       "query": "리코 목마름을외치다",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -4804,7 +4804,7 @@
       "noResults": false,
       "query": "유니 후야 팝핀캔디피버",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:39.005Z"
+      "checkedAt": "2026-11-06T12:14:45.631Z"
     },
     "karaoke": {
       "tj": null,
@@ -4814,7 +4814,7 @@
       "query": "유니 후야 팝핀캔디피버",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -4865,7 +4865,7 @@
       "query": "히나 깜빡임",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -4906,7 +4906,7 @@
       "noResults": false,
       "query": "시부키 생명에게미움받고있어",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:57.347Z"
+      "checkedAt": "2026-11-06T12:15:04.112Z"
     },
     "karaoke": {
       "tj": "68051",
@@ -4916,7 +4916,7 @@
       "query": "시부키 생명에게미움받고있어",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -4967,7 +4967,7 @@
       "query": "나나 수평선",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -5016,7 +5016,7 @@
       "query": "유니 삐질게",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -5058,7 +5058,7 @@
       "noResults": false,
       "query": "린 stay",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:16:16.472Z"
+      "checkedAt": "2026-11-06T12:15:09.824Z"
     },
     "karaoke": {
       "tj": "23762",
@@ -5068,7 +5068,7 @@
       "query": "린 stay",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -5109,7 +5109,7 @@
       "noResults": false,
       "query": "리코 아이리스아웃",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:33.348Z"
+      "checkedAt": "2026-11-06T12:14:41.037Z"
     },
     "karaoke": {
       "tj": "52959",
@@ -5119,7 +5119,7 @@
       "query": "리코 아이리스아웃",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -5162,7 +5162,7 @@
       "noResults": false,
       "query": "히나 린 제인도",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:36.999Z"
+      "checkedAt": "2026-11-06T12:14:43.778Z"
     },
     "karaoke": {
       "tj": "52972",
@@ -5172,7 +5172,7 @@
       "query": "히나 린 제인도",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -5215,7 +5215,7 @@
       "noResults": false,
       "query": "린 네리사 다이너마이트",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:00.244Z"
+      "checkedAt": "2026-11-06T12:15:57.680Z"
     },
     "karaoke": {
       "tj": "75520",
@@ -5225,7 +5225,7 @@
       "query": "린 네리사 다이너마이트",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -5276,7 +5276,7 @@
       "query": "리코 숙명",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -5318,7 +5318,7 @@
       "noResults": false,
       "query": "리제 제인도",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:19:08.444Z"
+      "checkedAt": "2026-11-06T12:18:00.828Z"
     },
     "karaoke": {
       "tj": "52972",
@@ -5328,7 +5328,7 @@
       "query": "리제 제인도",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -5380,7 +5380,7 @@
       "query": "시부키 나나 울려퍼져라",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -5421,7 +5421,7 @@
       "noResults": false,
       "query": "린 아이리스아웃",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:16:33.961Z"
+      "checkedAt": "2026-11-06T12:15:32.757Z"
     },
     "karaoke": {
       "tj": "52959",
@@ -5431,7 +5431,7 @@
       "query": "린 아이리스아웃",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -5468,11 +5468,11 @@
     "search": {
       "status": "cover_only",
       "rank": null,
-      "fallbackRank": 3,
+      "fallbackRank": 1,
       "noResults": true,
       "query": "아카네 리제 바니걸",
       "source": "KR",
-      "checkedAt": "2026-11-06T04:08:27.457Z"
+      "checkedAt": "2026-11-06T12:12:55.759Z"
     },
     "karaoke": {
       "tj": null,
@@ -5482,7 +5482,7 @@
       "query": "아카네 리제 바니걸",
       "status": "cover_only",
       "lastNotFoundAt": "2026-11-05T08:10:47.647Z",
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -5523,7 +5523,7 @@
       "noResults": false,
       "query": "히나 사랑해줘",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:16:22.644Z"
+      "checkedAt": "2026-11-06T12:15:20.863Z"
     },
     "karaoke": {
       "tj": null,
@@ -5533,7 +5533,7 @@
       "query": "히나 사랑해줘",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -5575,7 +5575,7 @@
       "noResults": false,
       "query": "마시로 쿵쿵앞으로",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:19:06.011Z"
+      "checkedAt": "2026-11-06T12:18:00.161Z"
     },
     "karaoke": {
       "tj": null,
@@ -5585,7 +5585,7 @@
       "query": "마시로 쿵쿵앞으로",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -5626,7 +5626,7 @@
       "noResults": false,
       "query": "리제 프로포즈",
       "source": "KR",
-      "checkedAt": "2026-11-06T04:08:32.981Z"
+      "checkedAt": "2026-11-06T12:13:02.257Z"
     },
     "karaoke": {
       "tj": null,
@@ -5634,9 +5634,9 @@
     },
     "stelline": {
       "query": "리제 프로포즈",
-      "status": "not_found",
+      "status": null,
       "lastNotFoundAt": "2026-11-06T00:10:49.020Z",
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -5677,7 +5677,7 @@
       "noResults": false,
       "query": "타비 소다팝",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:19:16.477Z"
+      "checkedAt": "2026-11-06T12:18:07.711Z"
     },
     "karaoke": {
       "tj": "88056",
@@ -5687,7 +5687,7 @@
       "query": "타비 소다팝",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -5728,7 +5728,7 @@
       "noResults": false,
       "query": "리코 미소녀무죄파이레츠",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:19:24.997Z"
+      "checkedAt": "2026-11-06T12:18:15.192Z"
     },
     "karaoke": {
       "tj": "52490",
@@ -5738,7 +5738,7 @@
       "query": "리코 미소녀무죄파이레츠",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -5779,7 +5779,7 @@
       "noResults": false,
       "query": "리제 surges",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:58.734Z"
+      "checkedAt": "2026-11-06T12:17:46.524Z"
     },
     "karaoke": {
       "tj": null,
@@ -5789,7 +5789,7 @@
       "query": "리제 surges",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -5830,7 +5830,7 @@
       "noResults": false,
       "query": "후야 별자리가될수있다면",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:53.624Z"
+      "checkedAt": "2026-11-06T12:14:59.279Z"
     },
     "karaoke": {
       "tj": "68748",
@@ -5840,7 +5840,7 @@
       "query": "후야 별자리가될수있다면",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -5881,7 +5881,7 @@
       "noResults": false,
       "query": "나나 summer",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:05.562Z"
+      "checkedAt": "2026-11-06T12:16:02.411Z"
     },
     "karaoke": {
       "tj": "81810",
@@ -5891,7 +5891,7 @@
       "query": "나나 summer",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -5932,7 +5932,7 @@
       "noResults": false,
       "query": "히나 악마의아이",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:39.789Z"
+      "checkedAt": "2026-11-06T12:14:45.985Z"
     },
     "karaoke": {
       "tj": "68571",
@@ -5942,7 +5942,7 @@
       "query": "히나 악마의아이",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -5983,7 +5983,7 @@
       "noResults": false,
       "query": "유니 라일락",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:42.810Z"
+      "checkedAt": "2026-11-06T12:14:49.236Z"
     },
     "karaoke": {
       "tj": "68461",
@@ -5993,7 +5993,7 @@
       "query": "유니 라일락",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -6034,7 +6034,7 @@
       "noResults": false,
       "query": "린 전방향미소녀",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:47.968Z"
+      "checkedAt": "2026-11-06T12:14:55.731Z"
     },
     "karaoke": {
       "tj": "52589",
@@ -6044,7 +6044,7 @@
       "query": "린 전방향미소녀",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -6085,7 +6085,7 @@
       "noResults": false,
       "query": "타비 healer",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:08.813Z"
+      "checkedAt": "2026-11-06T12:16:07.577Z"
     },
     "karaoke": {
       "tj": "76715",
@@ -6095,7 +6095,7 @@
       "query": "타비 healer",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -6136,7 +6136,7 @@
       "noResults": false,
       "query": "리제 샨티",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:16:45.943Z"
+      "checkedAt": "2026-11-06T12:15:43.216Z"
     },
     "karaoke": {
       "tj": null,
@@ -6146,7 +6146,7 @@
       "query": "리제 샨티",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -6189,7 +6189,7 @@
       "noResults": false,
       "query": "리코 유니 리제 pop in 2",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:42.015Z"
+      "checkedAt": "2026-11-06T12:14:48.285Z"
     },
     "karaoke": {
       "tj": "52747",
@@ -6199,7 +6199,7 @@
       "query": "리코 유니 리제 pop in 2",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -6250,7 +6250,7 @@
       "query": "히나 군청",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -6291,7 +6291,7 @@
       "noResults": false,
       "query": "타비 refrain",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:50.481Z"
+      "checkedAt": "2026-11-06T12:14:56.429Z"
     },
     "karaoke": {
       "tj": "28832",
@@ -6301,7 +6301,7 @@
       "query": "타비 refrain",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -6343,7 +6343,7 @@
       "noResults": false,
       "query": "시부키 린 킹",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:13.965Z"
+      "checkedAt": "2026-11-06T12:16:11.604Z"
     },
     "karaoke": {
       "tj": "52470",
@@ -6353,7 +6353,7 @@
       "query": "시부키 린 킹",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -6394,7 +6394,7 @@
       "noResults": false,
       "query": "린 play",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:16:00.974Z"
+      "checkedAt": "2026-11-06T12:15:06.322Z"
     },
     "karaoke": {
       "tj": null,
@@ -6404,7 +6404,7 @@
       "query": "린 play",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -6446,7 +6446,7 @@
       "noResults": false,
       "query": "린 리코 잿빛과푸름",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:16:47.599Z"
+      "checkedAt": "2026-11-06T12:15:43.875Z"
     },
     "karaoke": {
       "tj": "28789",
@@ -6456,7 +6456,7 @@
       "query": "린 리코 잿빛과푸름",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -6497,7 +6497,7 @@
       "noResults": false,
       "query": "리코 체리팝",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:16:02.865Z"
+      "checkedAt": "2026-11-06T12:15:07.339Z"
     },
     "karaoke": {
       "tj": null,
@@ -6507,7 +6507,7 @@
       "query": "리코 체리팝",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -6548,7 +6548,7 @@
       "noResults": false,
       "query": "시부키 푸름과여름",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:16:38.820Z"
+      "checkedAt": "2026-11-06T12:15:36.278Z"
     },
     "karaoke": {
       "tj": "68127",
@@ -6558,7 +6558,7 @@
       "query": "시부키 푸름과여름",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -6599,7 +6599,7 @@
       "noResults": false,
       "query": "나나 죽는게나아",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:16:31.432Z"
+      "checkedAt": "2026-11-06T12:15:29.954Z"
     },
     "karaoke": {
       "tj": "68803",
@@ -6609,7 +6609,7 @@
       "query": "나나 죽는게나아",
       "status": "cover_only",
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -6650,7 +6650,7 @@
       "noResults": false,
       "query": "리코 걘아니야",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:16:37.659Z"
+      "checkedAt": "2026-11-06T12:15:35.450Z"
     },
     "karaoke": {
       "tj": "82855",
@@ -6660,7 +6660,7 @@
       "query": "리코 걘아니야",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -6701,7 +6701,7 @@
       "noResults": false,
       "query": "나나 걘아니야",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:16:55.003Z"
+      "checkedAt": "2026-11-06T12:15:51.881Z"
     },
     "karaoke": {
       "tj": "24266",
@@ -6711,7 +6711,7 @@
       "query": "나나 걘아니야",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -6754,7 +6754,7 @@
       "noResults": false,
       "query": "리제 린 나나 골든",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:16:28.858Z"
+      "checkedAt": "2026-11-06T12:15:27.364Z"
     },
     "karaoke": {
       "tj": "88040",
@@ -6764,7 +6764,7 @@
       "query": "리제 린 나나 골든",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -6807,7 +6807,7 @@
       "noResults": false,
       "query": "히나 나나 summertime",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:16:29.676Z"
+      "checkedAt": "2026-11-06T12:15:27.425Z"
     },
     "karaoke": {
       "tj": "52757",
@@ -6817,7 +6817,7 @@
       "query": "히나 나나 summertime",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -6860,14 +6860,14 @@
       "noResults": false,
       "query": "린 나나 work",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:15:59.678Z"
+      "checkedAt": "2026-11-06T12:15:04.468Z"
     },
     "karaoke": null,
     "stelline": {
       "query": "린 나나 work",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -6908,7 +6908,7 @@
       "noResults": false,
       "query": "리제 취한줄을모르고",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:16:49.549Z"
+      "checkedAt": "2026-11-06T12:15:45.778Z"
     },
     "karaoke": {
       "tj": "52465",
@@ -6918,7 +6918,7 @@
       "query": "리제 취한줄을모르고",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -6959,7 +6959,7 @@
       "noResults": false,
       "query": "나나 summertime",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:14:41.154Z"
+      "checkedAt": "2026-11-06T12:13:47.650Z"
     },
     "karaoke": {
       "tj": null,
@@ -6969,7 +6969,7 @@
       "query": "나나 summertime",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -7010,7 +7010,7 @@
       "noResults": false,
       "query": "리코 도쿄섄디랑데부",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:16:26.128Z"
+      "checkedAt": "2026-11-06T12:15:24.044Z"
     },
     "karaoke": {
       "tj": "68738",
@@ -7020,7 +7020,7 @@
       "query": "리코 도쿄섄디랑데부",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -7062,7 +7062,7 @@
       "noResults": false,
       "query": "나나 에너미",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:19.584Z"
+      "checkedAt": "2026-11-06T12:16:17.594Z"
     },
     "karaoke": {
       "tj": "23821",
@@ -7072,7 +7072,7 @@
       "query": "나나 에너미",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -7123,7 +7123,7 @@
       "query": "린 별자리가 될 수 있다면",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -7164,7 +7164,7 @@
       "noResults": false,
       "query": "시부키 언데드",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:19:13.939Z"
+      "checkedAt": "2026-11-06T12:18:05.318Z"
     },
     "karaoke": {
       "tj": "52595",
@@ -7174,7 +7174,7 @@
       "query": "시부키 언데드",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -7226,7 +7226,7 @@
       "query": "타비 나나 야화",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -7277,7 +7277,7 @@
       "query": "린 만찬가",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -7328,7 +7328,7 @@
       "query": "리제 뱀파이어",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -7369,7 +7369,7 @@
       "noResults": false,
       "query": "타비 새봄의노래",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:19:05.074Z"
+      "checkedAt": "2026-11-06T12:17:57.224Z"
     },
     "karaoke": {
       "tj": "86759",
@@ -7379,7 +7379,7 @@
       "query": "타비 새봄의노래",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -7420,7 +7420,7 @@
       "noResults": false,
       "query": "마시로 병명상사병",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:19:18.512Z"
+      "checkedAt": "2026-11-06T12:18:08.651Z"
     },
     "karaoke": {
       "tj": null,
@@ -7430,7 +7430,7 @@
       "query": "마시로 병명상사병",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -7476,7 +7476,7 @@
       "noResults": false,
       "query": "유니버스 유니버스",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:16:26.106Z"
+      "checkedAt": "2026-11-06T12:15:24.033Z"
     },
     "karaoke": {
       "tj": null,
@@ -7486,7 +7486,7 @@
       "query": "유니버스 유니버스",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -7527,7 +7527,7 @@
       "noResults": false,
       "query": "리코 헨스포스",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:16:36.348Z"
+      "checkedAt": "2026-11-06T12:15:33.299Z"
     },
     "karaoke": {
       "tj": "52679",
@@ -7537,7 +7537,7 @@
       "query": "리코 헨스포스",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -7588,7 +7588,7 @@
       "query": "시부키 눈싸움",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -7630,7 +7630,7 @@
       "noResults": false,
       "query": "히나 린 lonely universe",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:16:33.172Z"
+      "checkedAt": "2026-11-06T12:15:30.168Z"
     },
     "karaoke": {
       "tj": null,
@@ -7640,7 +7640,7 @@
       "query": "히나 린 lonely universe",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -7688,7 +7688,7 @@
       "query": "유니 연애서큘레이션",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -7734,7 +7734,7 @@
       "noResults": false,
       "query": "클리셰 언노운마더구스",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:16:15.733Z"
+      "checkedAt": "2026-11-06T12:15:09.026Z"
     },
     "karaoke": {
       "tj": null,
@@ -7744,7 +7744,7 @@
       "query": "클리셰 언노운마더구스",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -7785,7 +7785,7 @@
       "noResults": false,
       "query": "나나 grand escape",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:27.043Z"
+      "checkedAt": "2026-11-06T12:16:26.114Z"
     },
     "karaoke": {
       "tj": "68067",
@@ -7795,7 +7795,7 @@
       "query": "나나 grand escape",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -7834,7 +7834,7 @@
       "noResults": false,
       "query": "스텔라이브 tell your world",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:16:19.822Z"
+      "checkedAt": "2026-11-06T12:15:12.908Z"
     },
     "karaoke": {
       "tj": "27758",
@@ -7844,7 +7844,7 @@
       "query": "스텔라이브 tell your world",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -7885,7 +7885,7 @@
       "noResults": false,
       "query": "린 stand by you",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:16:43.574Z"
+      "checkedAt": "2026-11-06T12:15:40.985Z"
     },
     "karaoke": {
       "tj": "68850",
@@ -7895,7 +7895,7 @@
       "query": "린 stand by you",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -7946,7 +7946,7 @@
       "query": "린 Unbreakable Sphere",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -7987,14 +7987,14 @@
       "noResults": false,
       "query": "히나 오렌지",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:16:23.317Z"
+      "checkedAt": "2026-11-06T12:15:21.006Z"
     },
     "karaoke": null,
     "stelline": {
       "query": "히나 오렌지",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -8036,7 +8036,7 @@
       "noResults": false,
       "query": "시부키 리코 있잖아있잖아있잖아",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:01.002Z"
+      "checkedAt": "2026-11-06T12:15:58.178Z"
     },
     "karaoke": {
       "tj": "52687",
@@ -8046,7 +8046,7 @@
       "query": "시부키 리코 있잖아있잖아있잖아",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -8097,7 +8097,7 @@
       "query": "나나 모니터링",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -8148,7 +8148,7 @@
       "query": "리코 증표",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -8199,7 +8199,7 @@
       "query": "마시로 슈가로스",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -8240,7 +8240,7 @@
       "noResults": false,
       "query": "린 bow and arrow",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:03.772Z"
+      "checkedAt": "2026-11-06T12:16:01.696Z"
     },
     "karaoke": {
       "tj": "52796",
@@ -8250,7 +8250,7 @@
       "query": "린 bow and arrow",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -8301,7 +8301,7 @@
       "query": "시부키 SOS",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -8353,7 +8353,7 @@
       "query": "린 나나 역몽",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -8394,7 +8394,7 @@
       "noResults": true,
       "query": "리코 래빗홀",
       "source": "KR",
-      "checkedAt": "2026-11-06T04:08:32.829Z"
+      "checkedAt": "2026-11-06T12:13:00.942Z"
     },
     "karaoke": {
       "tj": "52520",
@@ -8404,7 +8404,7 @@
       "query": "리코 래빗홀",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -8445,7 +8445,7 @@
       "noResults": false,
       "query": "리제 벚꽃너나",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:16:50.127Z"
+      "checkedAt": "2026-11-06T12:15:46.103Z"
     },
     "karaoke": {
       "tj": "52530",
@@ -8455,7 +8455,7 @@
       "query": "리제 벚꽃너나",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -8496,7 +8496,7 @@
       "noResults": false,
       "query": "린 wxy",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:16:52.489Z"
+      "checkedAt": "2026-11-06T12:15:48.344Z"
     },
     "karaoke": {
       "tj": "52444",
@@ -8506,7 +8506,7 @@
       "query": "린 wxy",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -8557,7 +8557,7 @@
       "query": "마시로 연예인",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -8600,7 +8600,7 @@
       "noResults": false,
       "query": "나나 리코 린 beyond the way",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:16.188Z"
+      "checkedAt": "2026-11-06T12:16:15.004Z"
     },
     "karaoke": {
       "tj": null,
@@ -8610,7 +8610,7 @@
       "query": "나나 리코 린 beyond the way",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -8651,7 +8651,7 @@
       "noResults": false,
       "query": "린 to x",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:16:53.147Z"
+      "checkedAt": "2026-11-06T12:15:48.812Z"
     },
     "karaoke": {
       "tj": "85413",
@@ -8661,7 +8661,7 @@
       "query": "린 to x",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -8702,7 +8702,7 @@
       "noResults": false,
       "query": "리코 마음예보",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:19:28.651Z"
+      "checkedAt": "2026-11-06T12:18:18.265Z"
     },
     "karaoke": {
       "tj": null,
@@ -8712,7 +8712,7 @@
       "query": "리코 마음예보",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -8763,7 +8763,7 @@
       "query": "리코 모니터링",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -8804,7 +8804,7 @@
       "noResults": false,
       "query": "리제 내일의밤하늘초계반",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:19:26.559Z"
+      "checkedAt": "2026-11-06T12:18:17.441Z"
     },
     "karaoke": {
       "tj": "27984",
@@ -8814,7 +8814,7 @@
       "query": "리제 내일의밤하늘초계반",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -8856,7 +8856,7 @@
       "noResults": false,
       "query": "리코 시부키 절대적완전싫어",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:49.834Z"
+      "checkedAt": "2026-11-06T12:16:48.938Z"
     },
     "karaoke": {
       "tj": null,
@@ -8866,7 +8866,7 @@
       "query": "리코 시부키 절대적완전싫어",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -8917,7 +8917,7 @@
       "query": "나나 비행정",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -8958,7 +8958,7 @@
       "noResults": false,
       "query": "린 꿈의카니발",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:19:21.896Z"
+      "checkedAt": "2026-11-06T12:18:11.516Z"
     },
     "karaoke": {
       "tj": null,
@@ -8968,7 +8968,7 @@
       "query": "린 꿈의카니발",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -9009,7 +9009,7 @@
       "noResults": false,
       "query": "리코 꽃의탑",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:16:57.960Z"
+      "checkedAt": "2026-11-06T12:15:55.329Z"
     },
     "karaoke": {
       "tj": "68711",
@@ -9019,7 +9019,7 @@
       "query": "리코 꽃의탑",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -9070,7 +9070,7 @@
       "query": "히나 만찬가",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -9111,7 +9111,7 @@
       "noResults": false,
       "query": "린 specialz",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:19:11.843Z"
+      "checkedAt": "2026-11-06T12:18:03.576Z"
     },
     "karaoke": {
       "tj": "68876",
@@ -9121,7 +9121,7 @@
       "query": "린 specialz",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -9162,7 +9162,7 @@
       "noResults": false,
       "query": "나나 실부프레지던트",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:19:15.088Z"
+      "checkedAt": "2026-11-06T12:18:06.406Z"
     },
     "karaoke": {
       "tj": "68442",
@@ -9172,7 +9172,7 @@
       "query": "나나 실부프레지던트",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -9213,7 +9213,7 @@
       "noResults": false,
       "query": "시부키 겨울의선물",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:16:44.029Z"
+      "checkedAt": "2026-11-06T12:15:41.601Z"
     },
     "karaoke": {
       "tj": null,
@@ -9223,7 +9223,7 @@
       "query": "시부키 겨울의선물",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -9264,7 +9264,7 @@
       "noResults": false,
       "query": "리코 크리스마스송",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:16:55.322Z"
+      "checkedAt": "2026-11-06T12:15:51.767Z"
     },
     "karaoke": {
       "tj": "27807",
@@ -9274,7 +9274,7 @@
       "query": "리코 크리스마스송",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -9315,7 +9315,7 @@
       "noResults": false,
       "query": "린 해피엔드",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:24.764Z"
+      "checkedAt": "2026-11-06T12:16:22.800Z"
     },
     "karaoke": {
       "tj": "28675",
@@ -9325,7 +9325,7 @@
       "query": "린 해피엔드",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -9376,7 +9376,7 @@
       "query": "리코 주름맞추기",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -9425,7 +9425,7 @@
       "query": "타비 여로",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -9466,7 +9466,7 @@
       "noResults": false,
       "query": "시부키 sabotage",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:19:19.028Z"
+      "checkedAt": "2026-11-06T12:18:09.880Z"
     },
     "karaoke": {
       "tj": "52401",
@@ -9476,7 +9476,7 @@
       "query": "시부키 sabotage",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -9518,7 +9518,7 @@
       "noResults": false,
       "query": "유니 마시로 해피신디사이저",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:28.244Z"
+      "checkedAt": "2026-11-06T12:16:26.537Z"
     },
     "karaoke": {
       "tj": "27289",
@@ -9528,7 +9528,7 @@
       "query": "유니 마시로 해피신디사이저",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -9571,7 +9571,7 @@
       "noResults": false,
       "query": "리제 린 아파트",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:02.963Z"
+      "checkedAt": "2026-11-06T12:16:00.208Z"
     },
     "karaoke": {
       "tj": "43681",
@@ -9581,7 +9581,7 @@
       "query": "리제 린 아파트",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -9623,7 +9623,7 @@
       "noResults": false,
       "query": "유니 칸나 점묘의노래",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:18.739Z"
+      "checkedAt": "2026-11-06T12:16:16.514Z"
     },
     "karaoke": {
       "tj": "68141",
@@ -9633,7 +9633,7 @@
       "query": "유니 칸나 점묘의노래",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -9675,7 +9675,7 @@
       "noResults": false,
       "query": "타비 마시로 안녕또언젠가",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:06.031Z"
+      "checkedAt": "2026-11-06T12:16:04.765Z"
     },
     "karaoke": {
       "tj": "52580",
@@ -9685,7 +9685,7 @@
       "query": "타비 마시로 안녕또언젠가",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -9736,7 +9736,7 @@
       "query": "나나 신같네",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -9785,7 +9785,7 @@
       "noResults": false,
       "query": "스텔라이브 앨뮤랜",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:36.769Z"
+      "checkedAt": "2026-11-06T12:16:34.096Z"
     },
     "karaoke": {
       "tj": null,
@@ -9795,7 +9795,7 @@
       "query": "스텔라이브 앨뮤랜",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -9846,7 +9846,7 @@
       "query": "리코 경화수월",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -9887,7 +9887,7 @@
       "noResults": false,
       "query": "린 overdose",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:08.642Z"
+      "checkedAt": "2026-11-06T12:16:05.346Z"
     },
     "karaoke": {
       "tj": "68698",
@@ -9897,7 +9897,7 @@
       "query": "린 overdose",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -9938,7 +9938,7 @@
       "noResults": true,
       "query": "히나 하루카",
       "source": "KR",
-      "checkedAt": "2026-11-06T04:08:51.135Z"
+      "checkedAt": "2026-11-06T12:13:17.428Z"
     },
     "karaoke": {
       "tj": "68354",
@@ -9948,7 +9948,7 @@
       "query": "히나 하루카",
       "status": "cover_only",
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -9991,7 +9991,7 @@
       "query": "리제 제이팝매쉬업",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -10042,7 +10042,7 @@
       "query": "리코 케세라세라",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -10083,7 +10083,7 @@
       "noResults": false,
       "query": "타비 사신",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:16:41.243Z"
+      "checkedAt": "2026-11-06T12:15:39.013Z"
     },
     "karaoke": {
       "tj": "52430",
@@ -10093,7 +10093,7 @@
       "query": "타비 사신",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -10135,7 +10135,7 @@
       "noResults": false,
       "query": "린 시부키 아이덴티티",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:09.801Z"
+      "checkedAt": "2026-11-06T12:17:07.712Z"
     },
     "karaoke": {
       "tj": null,
@@ -10145,7 +10145,7 @@
       "query": "린 시부키 아이덴티티",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -10186,7 +10186,7 @@
       "noResults": false,
       "query": "히나 새벽과반딧불이",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:11.084Z"
+      "checkedAt": "2026-11-06T12:16:08.186Z"
     },
     "karaoke": {
       "tj": "27999",
@@ -10196,7 +10196,7 @@
       "query": "히나 새벽과반딧불이",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -10237,14 +10237,14 @@
       "noResults": false,
       "query": "리제 끝나지않은노래",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:11.731Z"
+      "checkedAt": "2026-11-06T12:17:08.269Z"
     },
     "karaoke": null,
     "stelline": {
       "query": "리제 끝나지않은노래",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -10285,7 +10285,7 @@
       "noResults": false,
       "query": "리코 톤데모원더즈",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:42.024Z"
+      "checkedAt": "2026-11-06T12:16:40.270Z"
     },
     "karaoke": {
       "tj": null,
@@ -10295,7 +10295,7 @@
       "query": "리코 톤데모원더즈",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -10344,7 +10344,7 @@
       "query": "마시로 봄꿈",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -10385,7 +10385,7 @@
       "noResults": false,
       "query": "린 사랑감기에실려",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:16:58.204Z"
+      "checkedAt": "2026-11-06T12:15:55.408Z"
     },
     "karaoke": {
       "tj": "52428",
@@ -10395,7 +10395,7 @@
       "query": "린 사랑감기에실려",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -10436,14 +10436,14 @@
       "noResults": false,
       "query": "나나 사무라이하트",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:45.716Z"
+      "checkedAt": "2026-11-06T12:16:44.794Z"
     },
     "karaoke": null,
     "stelline": {
       "query": "나나 사무라이하트",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -10486,7 +10486,7 @@
       "noResults": false,
       "query": "리코 린 getcha",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:21.566Z"
+      "checkedAt": "2026-11-06T12:16:19.756Z"
     },
     "karaoke": {
       "tj": null,
@@ -10496,7 +10496,7 @@
       "query": "리코 린 getcha",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -10537,7 +10537,7 @@
       "noResults": false,
       "query": "리제 밀월",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:02.682Z"
+      "checkedAt": "2026-11-06T12:17:00.775Z"
     },
     "karaoke": {
       "tj": null,
@@ -10547,7 +10547,7 @@
       "query": "리제 밀월",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -10588,7 +10588,7 @@
       "noResults": false,
       "query": "시부키 레오",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:15.508Z"
+      "checkedAt": "2026-11-06T12:16:13.338Z"
     },
     "karaoke": {
       "tj": "52773",
@@ -10598,7 +10598,7 @@
       "query": "시부키 레오",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -10637,7 +10637,7 @@
       "noResults": false,
       "query": "리제 festa",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:30.320Z"
+      "checkedAt": "2026-11-06T12:16:29.646Z"
     },
     "karaoke": {
       "tj": "44430",
@@ -10647,7 +10647,7 @@
       "query": "리제 festa",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -10688,7 +10688,7 @@
       "noResults": false,
       "query": "리코 맑은날",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:39.729Z"
+      "checkedAt": "2026-11-06T12:16:39.679Z"
     },
     "karaoke": {
       "tj": "68953",
@@ -10698,7 +10698,7 @@
       "query": "리코 맑은날",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -10749,7 +10749,7 @@
       "query": "린 무희",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -10798,7 +10798,7 @@
       "query": "히나 하나",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -10839,14 +10839,14 @@
       "noResults": false,
       "query": "타비 be somebody",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:53.476Z"
+      "checkedAt": "2026-11-06T12:16:51.779Z"
     },
     "karaoke": null,
     "stelline": {
       "query": "타비 be somebody",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -10889,14 +10889,14 @@
       "noResults": false,
       "query": "칸나 요미 공주열차",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:06.020Z"
+      "checkedAt": "2026-11-06T12:17:02.970Z"
     },
     "karaoke": null,
     "stelline": {
       "query": "칸나 요미 공주열차",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -10937,7 +10937,7 @@
       "noResults": false,
       "query": "리제 비바라비다",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:31.132Z"
+      "checkedAt": "2026-11-06T12:16:29.695Z"
     },
     "karaoke": {
       "tj": "21847",
@@ -10947,7 +10947,7 @@
       "query": "리제 비바라비다",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -10988,7 +10988,7 @@
       "noResults": false,
       "query": "나나 푸른산호초",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:33.851Z"
+      "checkedAt": "2026-11-06T12:16:33.262Z"
     },
     "karaoke": {
       "tj": "27121",
@@ -10998,7 +10998,7 @@
       "query": "나나 푸른산호초",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -11042,7 +11042,7 @@
       "noResults": false,
       "query": "스텔라이브 our tales",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:25.506Z"
+      "checkedAt": "2026-11-06T12:16:22.914Z"
     },
     "karaoke": {
       "tj": "43527",
@@ -11052,7 +11052,7 @@
       "query": "스텔라이브 our tales",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -11093,7 +11093,7 @@
       "noResults": false,
       "query": "리코 지구를줄게",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:37.365Z"
+      "checkedAt": "2026-11-06T12:17:30.903Z"
     },
     "karaoke": {
       "tj": null,
@@ -11103,7 +11103,7 @@
       "query": "리코 지구를줄게",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -11144,7 +11144,7 @@
       "noResults": false,
       "query": "칸나 love wins all",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:11.900Z"
+      "checkedAt": "2026-11-06T12:16:10.995Z"
     },
     "karaoke": {
       "tj": "85842",
@@ -11154,7 +11154,7 @@
       "query": "칸나 love wins all",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -11195,7 +11195,7 @@
       "noResults": false,
       "query": "린 루머",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:03.750Z"
+      "checkedAt": "2026-11-06T12:17:01.267Z"
     },
     "karaoke": {
       "tj": null,
@@ -11205,7 +11205,7 @@
       "query": "린 루머",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -11256,7 +11256,7 @@
       "query": "시부키 여우비",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -11295,7 +11295,7 @@
       "noResults": false,
       "query": "칸나 푸른보석과어린용",
       "source": "KR",
-      "checkedAt": "2026-11-06T04:08:40.762Z"
+      "checkedAt": "2026-11-06T12:13:08.534Z"
     },
     "karaoke": {
       "tj": null,
@@ -11305,7 +11305,7 @@
       "query": "칸나 푸른보석과어린용",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -11346,7 +11346,7 @@
       "noResults": false,
       "query": "리코 괴수의꽃노래",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:37.289Z"
+      "checkedAt": "2026-11-06T12:16:36.520Z"
     },
     "karaoke": {
       "tj": "52988",
@@ -11356,7 +11356,7 @@
       "query": "리코 괴수의꽃노래",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -11397,7 +11397,7 @@
       "noResults": false,
       "query": "린 안녕또언젠가",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:39.607Z"
+      "checkedAt": "2026-11-06T12:16:37.489Z"
     },
     "karaoke": {
       "tj": "52580",
@@ -11407,7 +11407,7 @@
       "query": "린 안녕또언젠가",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -11448,7 +11448,7 @@
       "noResults": false,
       "query": "리제 드라우닝",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:33.599Z"
+      "checkedAt": "2026-11-06T12:16:31.815Z"
     },
     "karaoke": {
       "tj": "83945",
@@ -11458,7 +11458,7 @@
       "query": "리제 드라우닝",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -11497,7 +11497,7 @@
       "noResults": false,
       "query": "칸나 frozen eclipse",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:22.854Z"
+      "checkedAt": "2026-11-06T12:16:20.115Z"
     },
     "karaoke": {
       "tj": "77931",
@@ -11507,7 +11507,7 @@
       "query": "칸나 frozen eclipse",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -11548,7 +11548,7 @@
       "noResults": false,
       "query": "마시로 댄스로봇댄스",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:46.818Z"
+      "checkedAt": "2026-11-06T12:16:46.222Z"
     },
     "karaoke": {
       "tj": "68096",
@@ -11558,7 +11558,7 @@
       "query": "마시로 댄스로봇댄스",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -11599,7 +11599,7 @@
       "noResults": false,
       "query": "리제 멜트",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:44.427Z"
+      "checkedAt": "2026-11-06T12:16:43.495Z"
     },
     "karaoke": {
       "tj": "26749",
@@ -11609,7 +11609,7 @@
       "query": "리제 멜트",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -11650,7 +11650,7 @@
       "noResults": false,
       "query": "히나 달을가",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:43.019Z"
+      "checkedAt": "2026-11-06T12:16:42.335Z"
     },
     "karaoke": {
       "tj": "79185",
@@ -11660,7 +11660,7 @@
       "query": "히나 달을가",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -11699,7 +11699,7 @@
       "noResults": false,
       "query": "유니 supadopa",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:12.443Z"
+      "checkedAt": "2026-11-06T12:17:11.016Z"
     },
     "karaoke": {
       "tj": null,
@@ -11709,7 +11709,7 @@
       "query": "유니 supadopa",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -11750,7 +11750,7 @@
       "noResults": false,
       "query": "타비 hero",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:29.029Z"
+      "checkedAt": "2026-11-06T12:17:24.710Z"
     },
     "karaoke": {
       "tj": "76423",
@@ -11760,7 +11760,7 @@
       "query": "타비 hero",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -11801,7 +11801,7 @@
       "noResults": false,
       "query": "리제 프라이드혁명",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:19.426Z"
+      "checkedAt": "2026-11-06T12:17:16.247Z"
     },
     "karaoke": {
       "tj": "27767",
@@ -11811,7 +11811,7 @@
       "query": "리제 프라이드혁명",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -11852,7 +11852,7 @@
       "noResults": false,
       "query": "히나 17살의노래",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:14.186Z"
+      "checkedAt": "2026-11-06T12:17:11.518Z"
     },
     "karaoke": {
       "tj": "68708",
@@ -11862,7 +11862,7 @@
       "query": "히나 17살의노래",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -11913,7 +11913,7 @@
       "query": "칸나 역광",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -11952,7 +11952,7 @@
       "noResults": false,
       "query": "스텔라이브 소리가나는쪽으로",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:22.718Z"
+      "checkedAt": "2026-11-06T12:17:19.293Z"
     },
     "karaoke": {
       "tj": "28182",
@@ -11962,7 +11962,7 @@
       "query": "스텔라이브 소리가나는쪽으로",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -12003,7 +12003,7 @@
       "noResults": false,
       "query": "마시로 안녕꽃도둑씨",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:00.382Z"
+      "checkedAt": "2026-11-06T12:16:58.246Z"
     },
     "karaoke": {
       "tj": null,
@@ -12013,7 +12013,7 @@
       "query": "마시로 안녕꽃도둑씨",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -12064,7 +12064,7 @@
       "query": "리코 용사",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -12105,7 +12105,7 @@
       "noResults": false,
       "query": "나나 가짜얼굴",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:50.953Z"
+      "checkedAt": "2026-11-06T12:16:50.776Z"
     },
     "karaoke": {
       "tj": null,
@@ -12115,7 +12115,7 @@
       "query": "나나 가짜얼굴",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -12166,7 +12166,7 @@
       "query": "린 유령도쿄",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -12207,7 +12207,7 @@
       "noResults": false,
       "query": "시부키 너에게메롱",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:57.715Z"
+      "checkedAt": "2026-11-06T12:16:55.692Z"
     },
     "karaoke": {
       "tj": null,
@@ -12217,7 +12217,7 @@
       "query": "시부키 너에게메롱",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -12258,7 +12258,7 @@
       "noResults": false,
       "query": "칸나 애타는한가슴을달랠수있다면",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:21.903Z"
+      "checkedAt": "2026-11-06T12:17:17.404Z"
     },
     "karaoke": {
       "tj": null,
@@ -12268,7 +12268,7 @@
       "query": "칸나 애타는한가슴을달랠수있다면",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -12309,7 +12309,7 @@
       "noResults": false,
       "query": "히나 봄을기다리다",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:31.514Z"
+      "checkedAt": "2026-11-06T12:17:24.789Z"
     },
     "karaoke": {
       "tj": null,
@@ -12319,7 +12319,7 @@
       "query": "히나 봄을기다리다",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -12360,7 +12360,7 @@
       "noResults": false,
       "query": "리제 괴수의꽃노래",
       "source": "KR",
-      "checkedAt": "2026-11-06T04:09:07.595Z"
+      "checkedAt": "2026-11-06T12:13:34.690Z"
     },
     "karaoke": {
       "tj": "52988",
@@ -12368,9 +12368,9 @@
     },
     "stelline": {
       "query": "리제 괴수의꽃노래",
-      "status": null,
-      "lastNotFoundAt": "2026-11-05T16:10:28.233Z",
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "status": "not_found",
+      "lastNotFoundAt": "2026-11-06T08:10:24.393Z",
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -12414,7 +12414,7 @@
       "noResults": false,
       "query": "스텔라이브 stars align",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:56.758Z"
+      "checkedAt": "2026-11-06T12:16:54.367Z"
     },
     "karaoke": {
       "tj": null,
@@ -12424,7 +12424,7 @@
       "query": "스텔라이브 stars align",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -12464,7 +12464,7 @@
       "noResults": false,
       "query": "히나 마시로 dear my fairy",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:18.451Z"
+      "checkedAt": "2026-11-06T12:17:14.901Z"
     },
     "karaoke": {
       "tj": "44461",
@@ -12474,7 +12474,7 @@
       "query": "히나 마시로 dear my fairy",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -12515,14 +12515,14 @@
       "noResults": false,
       "query": "유니 두근어질",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:26.339Z"
+      "checkedAt": "2026-11-06T12:17:22.460Z"
     },
     "karaoke": null,
     "stelline": {
       "query": "유니 두근어질",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -12562,7 +12562,7 @@
       "noResults": false,
       "query": "힛온샷",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:27.967Z"
+      "checkedAt": "2026-11-06T12:17:22.693Z"
     },
     "karaoke": {
       "tj": "77929",
@@ -12572,7 +12572,7 @@
       "query": "힛온샷",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -12670,7 +12670,7 @@
       "query": "히나 라푼젤",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -12721,7 +12721,7 @@
       "query": "타비 첫사랑",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -12762,7 +12762,7 @@
       "noResults": false,
       "query": "히나 sweet dreams my dear",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:06.643Z"
+      "checkedAt": "2026-11-06T12:17:04.852Z"
     },
     "karaoke": {
       "tj": null,
@@ -12772,7 +12772,7 @@
       "query": "히나 sweet dreams my dear",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -12811,7 +12811,7 @@
       "noResults": false,
       "query": "칸나 최종화 어쿠스틱",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:49.312Z"
+      "checkedAt": "2026-11-06T12:17:36.648Z"
     },
     "karaoke": {
       "tj": "44429",
@@ -12821,7 +12821,7 @@
       "query": "칸나 최종화 어쿠스틱",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -12862,7 +12862,7 @@
       "noResults": false,
       "query": "리제 선잠",
       "source": "KR",
-      "checkedAt": "2026-11-06T04:08:58.900Z"
+      "checkedAt": "2026-11-06T12:13:25.437Z"
     },
     "karaoke": {
       "tj": "68961",
@@ -12872,7 +12872,7 @@
       "query": "리제 선잠",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -12909,7 +12909,7 @@
       "noResults": false,
       "query": "스텔라이브 milky way",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:08.819Z"
+      "checkedAt": "2026-11-06T12:17:06.156Z"
     },
     "karaoke": {
       "tj": "86060",
@@ -12919,7 +12919,7 @@
       "query": "스텔라이브 milky way",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -12956,7 +12956,7 @@
       "noResults": false,
       "query": "스텔라이브 starry way",
       "source": "KR",
-      "checkedAt": "2026-11-06T04:08:23.823Z"
+      "checkedAt": "2026-11-06T12:12:51.511Z"
     },
     "karaoke": {
       "tj": "86334",
@@ -12966,7 +12966,7 @@
       "query": "스텔라이브 starry way",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -13007,7 +13007,7 @@
       "noResults": false,
       "query": "마시로 츄다양성",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:34.344Z"
+      "checkedAt": "2026-11-06T12:17:28.151Z"
     },
     "karaoke": {
       "tj": "52425",
@@ -13017,7 +13017,7 @@
       "query": "마시로 츄다양성",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -13068,7 +13068,7 @@
       "query": "리제 절정찬가",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -13119,7 +13119,7 @@
       "query": "히나 피날레",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -13160,7 +13160,7 @@
       "noResults": false,
       "query": "칸나 괴수의꽃노래",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:48.567Z"
+      "checkedAt": "2026-11-06T12:16:48.281Z"
     },
     "karaoke": {
       "tj": "52988",
@@ -13170,7 +13170,7 @@
       "query": "칸나 괴수의꽃노래",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -13211,7 +13211,7 @@
       "noResults": false,
       "query": "리제 눈이녹을때",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:15.909Z"
+      "checkedAt": "2026-11-06T12:17:13.887Z"
     },
     "karaoke": {
       "tj": null,
@@ -13221,7 +13221,7 @@
       "query": "리제 눈이녹을때",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -13255,12 +13255,12 @@
     },
     "search": {
       "status": "visible",
-      "rank": 11,
+      "rank": 16,
       "fallbackRank": null,
       "noResults": false,
       "query": "유니 내꺼 하는 법",
       "source": "KR",
-      "checkedAt": "2026-11-06T04:08:17.873Z"
+      "checkedAt": "2026-11-06T12:12:47.532Z"
     },
     "karaoke": null,
     "stelline": null
@@ -13303,7 +13303,7 @@
       "noResults": false,
       "query": "히나 그저네게맑아라",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:54.211Z"
+      "checkedAt": "2026-11-06T12:16:53.143Z"
     },
     "karaoke": {
       "tj": "68061",
@@ -13313,7 +13313,7 @@
       "query": "히나 그저네게맑아라",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -13354,7 +13354,7 @@
       "noResults": false,
       "query": "마시로 우주비행사의노래",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:19:22.131Z"
+      "checkedAt": "2026-11-06T12:18:12.669Z"
     },
     "karaoke": {
       "tj": null,
@@ -13364,7 +13364,7 @@
       "query": "마시로 우주비행사의노래",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -13413,7 +13413,7 @@
       "query": "리제 Stranger",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -13454,7 +13454,7 @@
       "noResults": false,
       "query": "유니 멜라",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:59.510Z"
+      "checkedAt": "2026-11-06T12:17:48.835Z"
     },
     "karaoke": {
       "tj": "68562",
@@ -13464,7 +13464,7 @@
       "query": "유니 멜라",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -13505,7 +13505,7 @@
       "noResults": false,
       "query": "타비 낮에뜨는달",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:45.875Z"
+      "checkedAt": "2026-11-06T12:17:34.130Z"
     },
     "karaoke": {
       "tj": "64242",
@@ -13515,7 +13515,7 @@
       "query": "타비 낮에뜨는달",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -13556,7 +13556,7 @@
       "noResults": false,
       "query": "칸나 감그레이",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:19:09.377Z"
+      "checkedAt": "2026-11-06T12:18:03.114Z"
     },
     "karaoke": {
       "tj": "68357",
@@ -13566,7 +13566,7 @@
       "query": "칸나 감그레이",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -13615,7 +13615,7 @@
       "query": "칸나 최종화",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -13656,7 +13656,7 @@
       "noResults": false,
       "query": "리제 나라는것",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:25.018Z"
+      "checkedAt": "2026-11-06T12:17:19.904Z"
     },
     "karaoke": {
       "tj": "68248",
@@ -13666,7 +13666,7 @@
       "query": "리제 나라는것",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -13707,7 +13707,7 @@
       "noResults": false,
       "query": "칸나 사랑해줘",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:17:59.570Z"
+      "checkedAt": "2026-11-06T12:16:57.498Z"
     },
     "karaoke": {
       "tj": null,
@@ -13717,7 +13717,7 @@
       "query": "칸나 사랑해줘",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -13768,7 +13768,7 @@
       "query": "칸나 지구본",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -13809,7 +13809,7 @@
       "noResults": false,
       "query": "마시로 pale",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:19:24.120Z"
+      "checkedAt": "2026-11-06T12:18:13.760Z"
     },
     "karaoke": {
       "tj": null,
@@ -13819,7 +13819,7 @@
       "query": "마시로 pale",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -13860,7 +13860,7 @@
       "noResults": false,
       "query": "칸나 킥백",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:38.180Z"
+      "checkedAt": "2026-11-06T12:17:33.620Z"
     },
     "karaoke": {
       "tj": "68677",
@@ -13870,7 +13870,7 @@
       "query": "칸나 킥백",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -13911,7 +13911,7 @@
       "noResults": false,
       "query": "칸나 레이디",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:52.686Z"
+      "checkedAt": "2026-11-06T12:17:43.104Z"
     },
     "karaoke": {
       "tj": "68495",
@@ -13921,7 +13921,7 @@
       "query": "칸나 레이디",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -13962,7 +13962,7 @@
       "noResults": false,
       "query": "타비 그여름에피어나",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:55.682Z"
+      "checkedAt": "2026-11-06T12:17:43.442Z"
     },
     "karaoke": {
       "tj": null,
@@ -13972,7 +13972,7 @@
       "query": "타비 그여름에피어나",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -14013,7 +14013,7 @@
       "noResults": false,
       "query": "칸나 잠이드는거리",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:34.701Z"
+      "checkedAt": "2026-11-06T12:17:30.132Z"
     },
     "karaoke": {
       "tj": null,
@@ -14023,7 +14023,7 @@
       "query": "칸나 잠이드는거리",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -14074,7 +14074,7 @@
       "query": "히나 드라마",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -14113,7 +14113,7 @@
       "noResults": false,
       "query": "유니 내꺼하는법",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:32.210Z"
+      "checkedAt": "2026-11-06T12:17:26.983Z"
     },
     "karaoke": {
       "tj": "84251",
@@ -14123,7 +14123,7 @@
       "query": "유니 내꺼하는법",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -14174,7 +14174,7 @@
       "query": "유니 아이돌",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -14223,7 +14223,7 @@
       "query": "칸나 색채",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -14259,12 +14259,12 @@
     },
     "search": {
       "status": "visible",
-      "rank": 1,
+      "rank": 2,
       "fallbackRank": null,
       "noResults": false,
       "query": "타비 그여름의어느날은",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:19:02.244Z"
+      "checkedAt": "2026-11-06T12:17:57.118Z"
     },
     "karaoke": {
       "tj": null,
@@ -14274,7 +14274,7 @@
       "query": "타비 그여름의어느날은",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -14325,7 +14325,7 @@
       "query": "리제 괴물",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -14376,7 +14376,7 @@
       "query": "마시로 퀘스천",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -14427,7 +14427,7 @@
       "query": "히나 낙향",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -14466,7 +14466,7 @@
       "noResults": false,
       "query": "칸나 어딕션",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:45.997Z"
+      "checkedAt": "2026-11-06T12:17:36.451Z"
     },
     "karaoke": {
       "tj": "83718",
@@ -14476,7 +14476,7 @@
       "query": "칸나 어딕션",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -14527,7 +14527,7 @@
       "query": "칸나 아이돌",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -14568,7 +14568,7 @@
       "noResults": false,
       "query": "유니 굿바이선언",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:19:01.505Z"
+      "checkedAt": "2026-11-06T12:17:49.291Z"
     },
     "karaoke": {
       "tj": "68500",
@@ -14578,7 +14578,7 @@
       "query": "유니 굿바이선언",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -14629,7 +14629,7 @@
       "query": "칸나 에러",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -14677,7 +14677,7 @@
       "query": "칸나 스즈메",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -14728,7 +14728,7 @@
       "query": "칸나 삼문소설",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -14779,7 +14779,7 @@
       "query": "칸나 신시대",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -14820,7 +14820,7 @@
       "noResults": false,
       "query": "유니 사랑의말",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:52.069Z"
+      "checkedAt": "2026-11-06T12:17:40.139Z"
     },
     "karaoke": {
       "tj": null,
@@ -14830,7 +14830,7 @@
       "query": "유니 사랑의말",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -14881,7 +14881,7 @@
       "query": "유니 베텔기우스",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -14932,7 +14932,7 @@
       "query": "칸나 좋아하니까",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -14973,7 +14973,7 @@
       "noResults": false,
       "query": "칸나 Cookie",
       "source": "KR",
-      "checkedAt": "2026-11-06T04:09:16.967Z"
+      "checkedAt": "2026-11-06T12:13:43.442Z"
     },
     "karaoke": {
       "tj": "82076",
@@ -15019,7 +15019,7 @@
       "noResults": false,
       "query": "유니 긍지높은아이돌",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:56.104Z"
+      "checkedAt": "2026-11-06T12:17:46.504Z"
     },
     "karaoke": {
       "tj": null,
@@ -15029,7 +15029,7 @@
       "query": "유니 긍지높은아이돌",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   },
   {
@@ -15070,7 +15070,7 @@
       "noResults": false,
       "query": "칸나 나는최강",
       "source": "KR",
-      "checkedAt": "2026-11-05T12:18:49.320Z"
+      "checkedAt": "2026-11-06T12:17:39.954Z"
     },
     "karaoke": {
       "tj": "52717",
@@ -15080,7 +15080,7 @@
       "query": "칸나 나는최강",
       "status": null,
       "lastNotFoundAt": null,
-      "roundCheckedAt": "2026-11-06T00:10:49.020Z"
+      "roundCheckedAt": "2026-11-06T08:10:24.393Z"
     }
   }
 ]

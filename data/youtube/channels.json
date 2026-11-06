@@ -6,7 +6,7 @@
     "handle": "@ayatsunoyuni",
     "subscribers": 376000,
     "views": 205403751,
-    "videoCount": 760,
+    "videoCount": 761,
     "uploads": "UUlbYIn9LDbbFZ9w2shX3K0g"
   },
   {
@@ -25,7 +25,7 @@
     "title": "토키노 메리 TOKINO MARY",
     "handle": "@tokinomarychannel",
     "subscribers": 187000,
-    "views": 4312434,
+    "views": 4353235,
     "videoCount": 3,
     "uploads": "UUGSt1yNG5l-jpYRLpJ5oNtA"
   },
@@ -35,29 +35,9 @@
     "title": "Ayatsuno Yuni - Topic",
     "handle": null,
     "subscribers": 5910,
-    "views": 11748533,
+    "views": 11752005,
     "videoCount": 0,
     "uploads": "UUV4WeySMDmS1CoTypSJoQmg"
-  },
-  {
-    "channelId": "UC0YQnenKBCu5sGb7H61n6HA",
-    "owner": "huya",
-    "title": "사키하네 후야 SAKIHANE HUYA",
-    "handle": "@sakihanechannel",
-    "subscribers": 153000,
-    "views": 59148364,
-    "videoCount": 365,
-    "uploads": "UU0YQnenKBCu5sGb7H61n6HA"
-  },
-  {
-    "channelId": "UC6YnTqZidFg4WUiXpiCtSSQ",
-    "owner": "kanna",
-    "title": "아이리 칸나 Music Official",
-    "handle": "@airikanna",
-    "subscribers": 214000,
-    "views": 171478773,
-    "videoCount": 43,
-    "uploads": "UU6YnTqZidFg4WUiXpiCtSSQ"
   },
   {
     "channelId": "UCHAr9pWGS30akL4MQCQT4uQ",
@@ -68,6 +48,16 @@
     "views": 1683061,
     "videoCount": 3,
     "uploads": "UUHAr9pWGS30akL4MQCQT4uQ"
+  },
+  {
+    "channelId": "UC6YnTqZidFg4WUiXpiCtSSQ",
+    "owner": "kanna",
+    "title": "아이리 칸나 Music Official",
+    "handle": "@airikanna",
+    "subscribers": 214000,
+    "views": 171478773,
+    "videoCount": 43,
+    "uploads": "UU6YnTqZidFg4WUiXpiCtSSQ"
   },
   {
     "channelId": "UCAHVQ44O81aehLWfy9O6Elw",
@@ -86,8 +76,18 @@
     "handle": "@tenkoshibuki",
     "subscribers": 246000,
     "views": 223308982,
-    "videoCount": 671,
+    "videoCount": 672,
     "uploads": "UUYxLMfeX1CbMBll9MsGlzmw"
+  },
+  {
+    "channelId": "UCcA21_PzN1EhNe7xS4MJGsQ",
+    "owner": "nana",
+    "title": "하나코 나나 HANAKO NANA",
+    "handle": "@hanako_nana",
+    "subscribers": 226000,
+    "views": 187934189,
+    "videoCount": 548,
+    "uploads": "UUcA21_PzN1EhNe7xS4MJGsQ"
   },
   {
     "channelId": "UClcSEuDF_g_6g4snw_nAavw",
@@ -105,19 +105,19 @@
     "title": "아카네 리제 AKANE LIZE",
     "handle": "@akanelize",
     "subscribers": 376000,
-    "views": 338846444,
-    "videoCount": 645,
+    "views": 339120041,
+    "videoCount": 647,
     "uploads": "UU7-m6jQLinZQWIbwm9W-1iw"
   },
   {
-    "channelId": "UCcA21_PzN1EhNe7xS4MJGsQ",
-    "owner": "nana",
-    "title": "하나코 나나 HANAKO NANA",
-    "handle": "@hanako_nana",
-    "subscribers": 226000,
-    "views": 187934189,
-    "videoCount": 548,
-    "uploads": "UUcA21_PzN1EhNe7xS4MJGsQ"
+    "channelId": "UC0YQnenKBCu5sGb7H61n6HA",
+    "owner": "huya",
+    "title": "사키하네 후야 SAKIHANE HUYA",
+    "handle": "@sakihanechannel",
+    "subscribers": 154000,
+    "views": 59148364,
+    "videoCount": 366,
+    "uploads": "UU0YQnenKBCu5sGb7H61n6HA"
   },
   {
     "channelId": "UC1afpiIuBDcjYlmruAa0HiA",
@@ -164,9 +164,9 @@
     "owner": "stellive",
     "title": "스텔라이브 STELLIVE OFFICIAL",
     "handle": "@stellive_official",
-    "subscribers": 282000,
+    "subscribers": 283000,
     "views": 120404832,
-    "videoCount": 411,
+    "videoCount": 412,
     "uploads": "UU2b4WRE5BZ6SIUWBeJU8rwg"
   },
   {
@@ -175,7 +175,7 @@
     "title": "StelLive - Topic",
     "handle": null,
     "subscribers": 10100,
-    "views": 14907846,
+    "views": 14921242,
     "videoCount": 0,
     "uploads": "UUbiWR9pa5YTRknGPzn0l8Ww"
   }
