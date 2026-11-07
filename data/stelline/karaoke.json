@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/karaoke/songs",
- "fetchedAt": "2026-11-07T04:10:01.244Z",
+ "fetchedAt": "2026-11-07T12:14:16.027Z",
  "data": {
   "members": [
    {
@@ -4028,8 +4028,21 @@
     "title": "BE SOMEBODY",
     "titleAlt": "",
     "tj": "86778"
+   },
+   {
+    "artist": "유즈하 리코",
+    "category": "cover",
+    "id": 1107,
+    "ky": "",
+    "members": [
+     "유즈하 리코"
+    ],
+    "section": "solo",
+    "title": "Loveit?",
+    "titleAlt": "",
+    "tj": ""
    }
   ],
-  "updatedAt": "2026-11-07 11:35:25"
+  "updatedAt": "2026-11-07 20:01:57"
  }
 }
