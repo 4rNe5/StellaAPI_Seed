@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/karaoke/songs",
- "fetchedAt": "2026-11-06T20:09:48.467Z",
+ "fetchedAt": "2026-11-07T04:10:01.244Z",
  "data": {
   "members": [
    {
@@ -123,7 +123,7 @@
     "section": "group",
     "title": "STAR TRAIL (스타트레일)",
     "titleAlt": "",
-    "tj": ""
+    "tj": "70786"
    },
    {
     "artist": "스텔라이브",
@@ -245,7 +245,7 @@
     "artist": "CLICHÉ(텐코 시부키, 아오쿠모 린, 하나코 나나, 유즈하 리코)",
     "category": "original",
     "id": 549,
-    "ky": "52398",
+    "ky": "51398",
     "members": [
      "텐코 시부키",
      "아오쿠모 린",
@@ -505,7 +505,7 @@
     "artist": "아오쿠모 린, 하나코 나나",
     "category": "cover",
     "id": 567,
-    "ky": "68798",
+    "ky": "44936",
     "members": [
      "아오쿠모 린",
      "하나코 나나"
@@ -513,7 +513,7 @@
     "section": "unit",
     "title": "W●RK",
     "titleAlt": "",
-    "tj": "44936"
+    "tj": "68798"
    },
    {
     "artist": "아라하시 타비, 하나코 나나",
@@ -573,7 +573,7 @@
     "section": "unit",
     "title": "언노운 마더구스 (アンノウン・マザーグース)",
     "titleAlt": "",
-    "tj": ""
+    "tj": "52683"
    },
    {
     "artist": "텐코 시부키, 유즈하 리코",
@@ -1444,14 +1444,14 @@
     "artist": "시라유키 히나",
     "category": "cover",
     "id": 637,
-    "ky": "",
+    "ky": "44603",
     "members": [
      "시라유키 히나"
     ],
     "section": "solo",
-    "title": "Acacia",
+    "title": "Acacia (アカシア)",
     "titleAlt": "",
-    "tj": ""
+    "tj": "68307"
    },
    {
     "artist": "시라유키 히나",
@@ -1717,7 +1717,7 @@
     "artist": "시라유키 히나",
     "category": "cover",
     "id": 658,
-    "ky": "",
+    "ky": "57789",
     "members": [
      "시라유키 히나"
     ],
@@ -1737,7 +1737,7 @@
     "section": "solo",
     "title": "봄꿈",
     "titleAlt": "",
-    "tj": ""
+    "tj": "71052"
    },
    {
     "artist": "네네코 마시로",
@@ -2023,7 +2023,7 @@
     "section": "solo",
     "title": "Bunny Girl",
     "titleAlt": "",
-    "tj": ""
+    "tj": "52693"
    },
    {
     "artist": "아카네 리제",
@@ -2049,7 +2049,7 @@
     "section": "solo",
     "title": "Surges",
     "titleAlt": "",
-    "tj": ""
+    "tj": "90208"
    },
    {
     "artist": "아카네 리제",
@@ -2380,20 +2380,20 @@
     "artist": "아라하시 타비",
     "category": "cover",
     "id": 710,
-    "ky": "23292",
+    "ky": "95844",
     "members": [
      "아라하시 타비"
     ],
     "section": "solo",
     "title": "HERO",
     "titleAlt": "",
-    "tj": "76423"
+    "tj": ""
    },
    {
     "artist": "아라하시 타비",
     "category": "cover",
     "id": 711,
-    "ky": "95844",
+    "ky": "23292",
     "members": [
      "아라하시 타비"
     ],
@@ -2445,13 +2445,13 @@
     "artist": "텐코 시부키",
     "category": "original",
     "id": 715,
-    "ky": "",
+    "ky": "51847",
     "members": [
      "텐코 시부키"
     ],
     "section": "solo",
-    "title": "베리베리스트로베리",
-    "titleAlt": "",
+    "title": "Berry Verry Strawberry",
+    "titleAlt": "베리베리스트로베리",
     "tj": "70682"
    },
    {
@@ -2516,8 +2516,8 @@
     ],
     "section": "solo",
     "title": "DAYBREAK FRONTLINE",
-    "titleAlt": "",
-    "tj": ""
+    "titleAlt": "데이브레이크 프론트라인",
+    "tj": "90144"
    },
    {
     "artist": "텐코 시부키",
@@ -2666,7 +2666,7 @@
     "artist": "아오쿠모 린",
     "category": "original",
     "id": 732,
-    "ky": "",
+    "ky": "51798",
     "members": [
      "아오쿠모 린"
     ],
@@ -3043,7 +3043,7 @@
     "artist": "하나코 나나",
     "category": "original",
     "id": 761,
-    "ky": "",
+    "ky": "51749",
     "members": [
      "하나코 나나"
     ],
@@ -3088,7 +3088,7 @@
     ],
     "section": "solo",
     "title": "Deja vu",
-    "titleAlt": "",
+    "titleAlt": "데자뷰, 데자부",
     "tj": "23745"
    },
    {
@@ -3101,7 +3101,7 @@
     ],
     "section": "solo",
     "title": "One Last Kiss",
-    "titleAlt": "",
+    "titleAlt": "원 라스트 키스",
     "tj": "52459"
    },
    {
@@ -3316,7 +3316,7 @@
     "artist": "유즈하 리코",
     "category": "original",
     "id": 782,
-    "ky": "",
+    "ky": "51747",
     "members": [
      "유즈하 리코"
     ],
@@ -3362,7 +3362,7 @@
     "section": "solo",
     "title": "숨바꼭질 (かくれんぼ)",
     "titleAlt": "",
-    "tj": ""
+    "tj": "52690"
    },
    {
     "artist": "유즈하 리코",
@@ -3472,7 +3472,7 @@
     "artist": "유즈하 리코",
     "category": "cover",
     "id": 794,
-    "ky": "",
+    "ky": "50299",
     "members": [
      "유즈하 리코"
     ],
@@ -3719,7 +3719,7 @@
     "artist": "아라하시 타비",
     "category": "cover",
     "id": 813,
-    "ky": "",
+    "ky": "53937",
     "members": [
      "아라하시 타비"
     ],
@@ -3833,19 +3833,6 @@
     "tj": "76600"
    },
    {
-    "artist": "아카네 리제",
-    "category": "cover",
-    "id": 822,
-    "ky": "",
-    "members": [
-     "아카네 리제"
-    ],
-    "section": "solo",
-    "title": "J-POP Mashup! (제이팝 매쉬업!)",
-    "titleAlt": "",
-    "tj": ""
-   },
-   {
     "artist": "아오쿠모 린",
     "category": "cover",
     "id": 1092,
@@ -3857,8 +3844,192 @@
     "title": "불가행력(不可幸力)",
     "titleAlt": "",
     "tj": "52455"
+   },
+   {
+    "artist": "아카네 리제",
+    "category": "cover",
+    "id": 1093,
+    "ky": "",
+    "members": [
+     "아카네 리제"
+    ],
+    "section": "solo",
+    "title": "로스트원의 호곡 (ロストワンの号哭)",
+    "titleAlt": "",
+    "tj": "27670"
+   },
+   {
+    "artist": "시라유키 히나, 아오쿠모 린",
+    "category": "cover",
+    "id": 1094,
+    "ky": "44190",
+    "members": [
+     "시라유키 히나",
+     "아오쿠모 린"
+    ],
+    "section": "unit",
+    "title": "타상연화 (打上花火)",
+    "titleAlt": "",
+    "tj": "28750"
+   },
+   {
+    "artist": "텐코 시부키",
+    "category": "cover",
+    "id": 1095,
+    "ky": "57770",
+    "members": [
+     "텐코 시부키"
+    ],
+    "section": "solo",
+    "title": "혁명도중 (革命道中)",
+    "titleAlt": "",
+    "tj": "52461"
+   },
+   {
+    "artist": "토키노 메리",
+    "category": "cover",
+    "id": 1096,
+    "ky": "43503",
+    "members": [
+     "토키노 메리"
+    ],
+    "section": "solo",
+    "title": "도쿄 테디베어 (東京テディベア)",
+    "titleAlt": "",
+    "tj": "27324"
+   },
+   {
+    "artist": "코가네 랑",
+    "category": "cover",
+    "id": 1097,
+    "ky": "80648",
+    "members": [
+     "코가네 랑"
+    ],
+    "section": "solo",
+    "title": "호랑풍류가",
+    "titleAlt": "",
+    "tj": "98701"
+   },
+   {
+    "artist": "시즈키 토아",
+    "category": "cover",
+    "id": 1098,
+    "ky": "44607",
+    "members": [
+     "시즈키 토아"
+    ],
+    "section": "solo",
+    "title": "제육감 (第六感)",
+    "titleAlt": "",
+    "tj": "68302"
+   },
+   {
+    "artist": "시라유키 히나, 유즈하 리코",
+    "category": "cover",
+    "id": 1099,
+    "ky": "",
+    "members": [
+     "시라유키 히나",
+     "유즈하 리코"
+    ],
+    "section": "unit",
+    "title": "소녀레이 (少女レイ)",
+    "titleAlt": "",
+    "tj": "68106"
+   },
+   {
+    "artist": "아오쿠모 린",
+    "category": "cover",
+    "id": 1100,
+    "ky": "",
+    "members": [
+     "아오쿠모 린"
+    ],
+    "section": "solo",
+    "title": "아 프리오리 (ア・プリオリ)",
+    "titleAlt": "",
+    "tj": "52856"
+   },
+   {
+    "artist": "하나코 나나",
+    "category": "cover",
+    "id": 1101,
+    "ky": "",
+    "members": [
+     "하나코 나나"
+    ],
+    "section": "solo",
+    "title": "Brain Rot",
+    "titleAlt": "브레인 롯",
+    "tj": ""
+   },
+   {
+    "artist": "하나코 나나",
+    "category": "cover",
+    "id": 1102,
+    "ky": "",
+    "members": [
+     "하나코 나나"
+    ],
+    "section": "solo",
+    "title": "논브레스 오블리주 (ノンブレス・オブリージュ)",
+    "titleAlt": "노블레스 오블리주",
+    "tj": ""
+   },
+   {
+    "artist": "하나코 나나",
+    "category": "cover",
+    "id": 1103,
+    "ky": "57784",
+    "members": [
+     "하나코 나나"
+    ],
+    "section": "solo",
+    "title": "JANE DOE",
+    "titleAlt": "제인 도",
+    "tj": "52972"
+   },
+   {
+    "artist": "시라유키 히나",
+    "category": "cover",
+    "id": 1104,
+    "ky": "76514",
+    "members": [
+     "시라유키 히나"
+    ],
+    "section": "solo",
+    "title": "LADY",
+    "titleAlt": "",
+    "tj": "68495"
+   },
+   {
+    "artist": "아오쿠모 린",
+    "category": "cover",
+    "id": 1105,
+    "ky": "",
+    "members": [
+     "아오쿠모 린"
+    ],
+    "section": "solo",
+    "title": "소녀레이 (少女レイ)",
+    "titleAlt": "",
+    "tj": "68106"
+   },
+   {
+    "artist": "아라하시 타비",
+    "category": "cover",
+    "id": 1106,
+    "ky": "75161",
+    "members": [
+     "아라하시 타비"
+    ],
+    "section": "solo",
+    "title": "BE SOMEBODY",
+    "titleAlt": "",
+    "tj": "86778"
    }
   ],
-  "updatedAt": "2026-10-11 19:52:45"
+  "updatedAt": "2026-11-07 11:35:25"
  }
 }
