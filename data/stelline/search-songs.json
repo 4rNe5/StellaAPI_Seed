@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/songs",
- "fetchedAt": "2026-11-08T04:09:45.222Z",
+ "fetchedAt": "2026-11-08T12:14:28.350Z",
  "data": [
   {
    "checked_at": 1793779544,
@@ -24,14 +24,14 @@
    "video_id": "H4T4ihraPic"
   },
   {
-   "checked_at": 1794067854,
+   "checked_at": 1794125457,
    "fallback_query": null,
    "query": "나나 deja vu",
    "state": "blocked",
    "video_id": "KmH0RhhenzE"
   },
   {
-   "checked_at": 1794067854,
+   "checked_at": 1794125457,
    "fallback_query": null,
    "query": "나나 drivers license",
    "state": "blocked",
@@ -94,7 +94,7 @@
    "video_id": "KJzmhOkm4-E"
   },
   {
-   "checked_at": 1794067854,
+   "checked_at": 1794125457,
    "fallback_query": null,
    "query": "나나 논블레스오브리주",
    "state": "blocked",
@@ -206,17 +206,17 @@
    "video_id": "td73oLSQug0"
   },
   {
-   "checked_at": 1794067854,
+   "checked_at": 1794125457,
    "fallback_query": null,
    "query": "나나 후야 오츠카레summer",
    "state": "blocked",
    "video_id": "Zetk77I6_s8"
   },
   {
-   "checked_at": 1794096365,
-   "fallback_query": "나나 희극 cover",
+   "checked_at": 1794125457,
+   "fallback_query": null,
    "query": "나나 희극",
-   "state": "cover_only",
+   "state": "blocked",
    "video_id": "gkmnG2pWzys"
   },
   {
@@ -339,10 +339,10 @@
    "video_id": "liPEQZJLQh4"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794124820,
    "fallback_query": null,
    "query": "리제 린 나나 골든",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "JarYu85ctNY"
   },
   {
@@ -360,17 +360,17 @@
    "video_id": "ZMgLAy-VKe4"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794124841,
    "fallback_query": null,
    "query": "리제 무대에서서",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "_t4OxKtCHrg"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794124861,
    "fallback_query": null,
    "query": "리제 미랫빛라이더",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "wu2a0AeQOCc"
   },
   {
@@ -381,14 +381,14 @@
    "video_id": "7zsY6Ex9dMI"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794125457,
    "fallback_query": null,
    "query": "리제 바니걸",
-   "state": "unchecked",
+   "state": "blocked",
    "video_id": "SIBtVNjRois"
   },
   {
-   "checked_at": 1794067854,
+   "checked_at": 1794125457,
    "fallback_query": null,
    "query": "리제 발묘",
    "state": "blocked",
@@ -493,10 +493,10 @@
    "video_id": "pKPPV1RMk-c"
   },
   {
-   "checked_at": 1794067853,
+   "checked_at": 1794124902,
    "fallback_query": null,
    "query": "리제 프로포즈",
-   "state": "blocked",
+   "state": "visible",
    "video_id": "icR-Tg7YZwY"
   },
   {
@@ -570,7 +570,7 @@
    "video_id": "7CQuc6Jf4UE"
   },
   {
-   "checked_at": 1794096608,
+   "checked_at": 1794125409,
    "fallback_query": "리코 마시로 악마가아닌걸 cover",
    "query": "리코 마시로 악마가아닌걸",
    "state": "cover_only",
@@ -1053,6 +1053,13 @@
    "video_id": "ebnM6X6B1Yg"
   },
   {
+   "checked_at": null,
+   "fallback_query": null,
+   "query": "마시로 BUMPA",
+   "state": "unchecked",
+   "video_id": "Z5N_XqM9Nl8"
+  },
+  {
    "checked_at": 1792973225,
    "fallback_query": null,
    "query": "마시로 pale",
@@ -1067,7 +1074,7 @@
    "video_id": "m5XU_4r1yV0"
   },
   {
-   "checked_at": 1794067854,
+   "checked_at": 1794125457,
    "fallback_query": null,
    "query": "마시로 구르는 바위 네게 아침이 내린다",
    "state": "blocked",
@@ -1088,7 +1095,7 @@
    "video_id": "7gYDCoiV7cc"
   },
   {
-   "checked_at": 1794096507,
+   "checked_at": 1794125328,
    "fallback_query": "마시로 린 메이드지상주의 cover",
    "query": "마시로 린 메이드지상주의",
    "state": "cover_only",
@@ -1991,7 +1998,7 @@
    "video_id": "N_vYUNEktsA"
   },
   {
-   "checked_at": 1794096548,
+   "checked_at": 1794125348,
    "fallback_query": "토아 제육감 cover",
    "query": "토아 제육감",
    "state": "cover_only",
@@ -2180,7 +2187,7 @@
    "video_id": "UcFBb927-kU"
   },
   {
-   "checked_at": 1794096568,
+   "checked_at": 1794125368,
    "fallback_query": "히나 리코 소녀레이 cover",
    "query": "히나 리코 소녀레이",
    "state": "cover_only",
@@ -2313,7 +2320,7 @@
    "video_id": "rQaluJS-Tc0"
   },
   {
-   "checked_at": 1794096588,
+   "checked_at": 1794125389,
    "fallback_query": "히나 하루카 cover",
    "query": "히나 하루카",
    "state": "cover_only",

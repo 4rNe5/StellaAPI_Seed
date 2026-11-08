@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/karaoke/songs",
- "fetchedAt": "2026-11-08T04:09:45.918Z",
+ "fetchedAt": "2026-11-08T12:14:29.360Z",
  "data": {
   "members": [
    {
@@ -4041,8 +4041,21 @@
     "title": "Loveit?",
     "titleAlt": "",
     "tj": ""
+   },
+   {
+    "artist": "네네코 마시로",
+    "category": "cover",
+    "id": 1108,
+    "ky": "51362",
+    "members": [
+     "네네코 마시로"
+    ],
+    "section": "solo",
+    "title": "BUMPA",
+    "titleAlt": "",
+    "tj": "64732"
    }
   ],
-  "updatedAt": "2026-11-07 20:01:57"
+  "updatedAt": "2026-11-08 18:53:57"
  }
 }
