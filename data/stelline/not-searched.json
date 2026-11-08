@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/not_searched",
- "fetchedAt": "2026-11-07T22:21:00.318Z",
+ "fetchedAt": "2026-11-08T04:09:45.573Z",
  "data": {
   "all_songs": [
    {
@@ -20,8 +20,8 @@
     "video_id": "Zetk77I6_s8"
    },
    {
-    "query": "나나 희극",
-    "video_id": "gkmnG2pWzys"
+    "query": "리제 괴수의꽃노래",
+    "video_id": "yCVZq40vqLk"
    },
    {
     "query": "리제 발묘",
@@ -62,9 +62,9 @@
   ],
   "cover_matches": [
    {
-    "fallback_query": "리제 괴수의꽃노래 cover",
-    "query": "리제 괴수의꽃노래",
-    "video_id": "yCVZq40vqLk"
+    "fallback_query": "나나 희극 cover",
+    "query": "나나 희극",
+    "video_id": "gkmnG2pWzys"
    },
    {
     "fallback_query": "리코 마시로 악마가아닌걸 cover",
@@ -120,7 +120,7 @@
    },
    {
     "query": "리제 괴수의꽃노래",
-    "searched_time": 1794010220,
+    "searched_time": 1794096658,
     "video_id": "yCVZq40vqLk"
    },
    {
@@ -135,7 +135,7 @@
    },
    {
     "query": "리코 밤을 달리다",
-    "searched_time": 1794039067,
+    "searched_time": 1794096658,
     "video_id": "lBtlpVXmbYY"
    },
    {
@@ -145,30 +145,30 @@
    },
    {
     "query": "메리 도쿄테디베어",
-    "searched_time": 1794039067,
+    "searched_time": 1794096658,
     "video_id": "rKQptWhAvO0"
    },
    {
     "query": "스텔라이브 twinkle",
-    "searched_time": 1794039067,
+    "searched_time": 1794096658,
     "video_id": "WnCMBCpENio"
    },
    {
     "query": "시부키 모시모시",
-    "searched_time": 1794039067,
+    "searched_time": 1794096658,
     "video_id": "zQp6ZZAT6ew"
    },
    {
     "query": "아카네 리제 바니걸",
-    "searched_time": 1794039067,
+    "searched_time": 1794096658,
     "video_id": "SIBtVNjRois"
    },
    {
     "query": "유즈하 리코 밤을 달리다",
-    "searched_time": 1794039067,
+    "searched_time": 1794096658,
     "video_id": "lBtlpVXmbYY"
    }
   ],
-  "searched_time": 1794067854
+  "searched_time": 1794096658
  }
 }
