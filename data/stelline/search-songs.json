@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/songs",
- "fetchedAt": "2026-11-08T12:14:28.350Z",
+ "fetchedAt": "2026-11-08T20:11:37.704Z",
  "data": [
   {
    "checked_at": 1793779544,
@@ -290,10 +290,10 @@
    "video_id": "naWmFCbwi3M"
   },
   {
-   "checked_at": 1794096658,
-   "fallback_query": null,
+   "checked_at": 1794153985,
+   "fallback_query": "리제 괴수의꽃노래 cover",
    "query": "리제 괴수의꽃노래",
-   "state": "blocked",
+   "state": "cover_only",
    "video_id": "yCVZq40vqLk"
   },
   {
@@ -416,17 +416,17 @@
    "video_id": "OzncrMNY7cw"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794153640,
    "fallback_query": null,
    "query": "리제 샨티",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "AXfEu8_-d-k"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794153661,
    "fallback_query": null,
    "query": "리제 선잠",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "t6EzltrzGNo"
   },
   {
@@ -444,10 +444,10 @@
    "video_id": "d_YvT_ULGkc"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794153681,
    "fallback_query": null,
    "query": "리제 제이팝매쉬업",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "090EFw_FDjU"
   },
   {
@@ -458,10 +458,10 @@
    "video_id": "aH8Io8klASU"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794153701,
    "fallback_query": null,
    "query": "리제 주름맞추기",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "LOpOiL7S_0I"
   },
   {
@@ -493,7 +493,7 @@
    "video_id": "pKPPV1RMk-c"
   },
   {
-   "checked_at": 1794124902,
+   "checked_at": 1794153863,
    "fallback_query": null,
    "query": "리제 프로포즈",
    "state": "visible",
@@ -570,7 +570,7 @@
    "video_id": "7CQuc6Jf4UE"
   },
   {
-   "checked_at": 1794125409,
+   "checked_at": 1794154188,
    "fallback_query": "리코 마시로 악마가아닌걸 cover",
    "query": "리코 마시로 악마가아닌걸",
    "state": "cover_only",
@@ -612,7 +612,7 @@
    "video_id": "Tejq1P1TF-M"
   },
   {
-   "checked_at": 1794096658,
+   "checked_at": 1794154224,
    "fallback_query": null,
    "query": "리코 밤을 달리다",
    "state": "blocked",
@@ -1053,10 +1053,10 @@
    "video_id": "ebnM6X6B1Yg"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794153620,
    "fallback_query": null,
    "query": "마시로 BUMPA",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "Z5N_XqM9Nl8"
   },
   {
@@ -1095,7 +1095,7 @@
    "video_id": "7gYDCoiV7cc"
   },
   {
-   "checked_at": 1794125328,
+   "checked_at": 1794154107,
    "fallback_query": "마시로 린 메이드지상주의 cover",
    "query": "마시로 린 메이드지상주의",
    "state": "cover_only",
@@ -1179,10 +1179,10 @@
    "video_id": "Y3McmrSFy1E"
   },
   {
-   "checked_at": 1794096658,
+   "checked_at": 1794153762,
    "fallback_query": null,
    "query": "메리 도쿄테디베어",
-   "state": "blocked",
+   "state": "visible",
    "video_id": "rKQptWhAvO0"
   },
   {
@@ -1242,7 +1242,7 @@
    "video_id": "5kTp7SQCR_Y"
   },
   {
-   "checked_at": 1794096658,
+   "checked_at": 1794154224,
    "fallback_query": null,
    "query": "스텔라이브 twinkle",
    "state": "blocked",
@@ -1403,7 +1403,7 @@
    "video_id": "30dd8K_i-38"
   },
   {
-   "checked_at": 1794096658,
+   "checked_at": 1794154224,
    "fallback_query": null,
    "query": "시부키 모시모시",
    "state": "blocked",
@@ -1466,7 +1466,7 @@
    "video_id": "3Xf1Wt7Z-RY"
   },
   {
-   "checked_at": 1794096658,
+   "checked_at": 1794154224,
    "fallback_query": null,
    "query": "아카네 리제 바니걸",
    "state": "blocked",
@@ -1648,7 +1648,7 @@
    "video_id": "CbuiRlGeA-g"
   },
   {
-   "checked_at": 1794096658,
+   "checked_at": 1794154224,
    "fallback_query": null,
    "query": "유즈하 리코 밤을 달리다",
    "state": "blocked",
@@ -1998,7 +1998,7 @@
    "video_id": "N_vYUNEktsA"
   },
   {
-   "checked_at": 1794125348,
+   "checked_at": 1794154127,
    "fallback_query": "토아 제육감 cover",
    "query": "토아 제육감",
    "state": "cover_only",
@@ -2187,7 +2187,7 @@
    "video_id": "UcFBb927-kU"
   },
   {
-   "checked_at": 1794125368,
+   "checked_at": 1794154147,
    "fallback_query": "히나 리코 소녀레이 cover",
    "query": "히나 리코 소녀레이",
    "state": "cover_only",
@@ -2320,7 +2320,7 @@
    "video_id": "rQaluJS-Tc0"
   },
   {
-   "checked_at": 1794125389,
+   "checked_at": 1794154167,
    "fallback_query": "히나 하루카 cover",
    "query": "히나 하루카",
    "state": "cover_only",

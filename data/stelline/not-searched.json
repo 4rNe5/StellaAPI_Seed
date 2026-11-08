@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/not_searched",
- "fetchedAt": "2026-11-08T12:14:28.651Z",
+ "fetchedAt": "2026-11-08T20:11:38.203Z",
  "data": {
   "all_songs": [
    {
@@ -24,10 +24,6 @@
     "video_id": "gkmnG2pWzys"
    },
    {
-    "query": "리제 괴수의꽃노래",
-    "video_id": "yCVZq40vqLk"
-   },
-   {
     "query": "리제 바니걸",
     "video_id": "SIBtVNjRois"
    },
@@ -42,10 +38,6 @@
    {
     "query": "마시로 구르는 바위 네게 아침이 내린다",
     "video_id": "SiBzI2htX2o"
-   },
-   {
-    "query": "메리 도쿄테디베어",
-    "video_id": "rKQptWhAvO0"
    },
    {
     "query": "스텔라이브 twinkle",
@@ -65,6 +57,11 @@
    }
   ],
   "cover_matches": [
+   {
+    "fallback_query": "리제 괴수의꽃노래 cover",
+    "query": "리제 괴수의꽃노래",
+    "video_id": "yCVZq40vqLk"
+   },
    {
     "fallback_query": "리코 마시로 악마가아닌걸 cover",
     "query": "리코 마시로 악마가아닌걸",
@@ -139,7 +136,7 @@
    },
    {
     "query": "리코 밤을 달리다",
-    "searched_time": 1794096658,
+    "searched_time": 1794154224,
     "video_id": "lBtlpVXmbYY"
    },
    {
@@ -154,25 +151,25 @@
    },
    {
     "query": "스텔라이브 twinkle",
-    "searched_time": 1794096658,
+    "searched_time": 1794154224,
     "video_id": "WnCMBCpENio"
    },
    {
     "query": "시부키 모시모시",
-    "searched_time": 1794096658,
+    "searched_time": 1794154224,
     "video_id": "zQp6ZZAT6ew"
    },
    {
     "query": "아카네 리제 바니걸",
-    "searched_time": 1794096658,
+    "searched_time": 1794154224,
     "video_id": "SIBtVNjRois"
    },
    {
     "query": "유즈하 리코 밤을 달리다",
-    "searched_time": 1794096658,
+    "searched_time": 1794154224,
     "video_id": "lBtlpVXmbYY"
    }
   ],
-  "searched_time": 1794125457
+  "searched_time": 1794154224
  }
 }
