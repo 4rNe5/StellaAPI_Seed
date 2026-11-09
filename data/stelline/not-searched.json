@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/not_searched",
- "fetchedAt": "2026-11-09T04:09:42.675Z",
+ "fetchedAt": "2026-11-09T12:18:28.426Z",
  "data": {
   "all_songs": [
    {
@@ -40,6 +40,10 @@
     "video_id": "SiBzI2htX2o"
    },
    {
+    "query": "메리 도쿄테디베어",
+    "video_id": "rKQptWhAvO0"
+   },
+   {
     "query": "스텔라이브 twinkle",
     "video_id": "WnCMBCpENio"
    },
@@ -48,19 +52,15 @@
     "video_id": "zQp6ZZAT6ew"
    },
    {
-    "query": "아카네 리제 바니걸",
-    "video_id": "SIBtVNjRois"
-   },
-   {
     "query": "유즈하 리코 밤을 달리다",
     "video_id": "lBtlpVXmbYY"
    }
   ],
   "cover_matches": [
    {
-    "fallback_query": "리제 괴수의꽃노래 cover",
-    "query": "리제 괴수의꽃노래",
-    "video_id": "yCVZq40vqLk"
+    "fallback_query": "리코 래빗홀 cover",
+    "query": "리코 래빗홀",
+    "video_id": "y84L-0bz4zo"
    },
    {
     "fallback_query": "리코 마시로 악마가아닌걸 cover",
@@ -71,6 +71,11 @@
     "fallback_query": "마시로 린 메이드지상주의 cover",
     "query": "마시로 린 메이드지상주의",
     "video_id": "5uOxZswwBx4"
+   },
+   {
+    "fallback_query": "아카네 리제 바니걸 cover",
+    "query": "아카네 리제 바니걸",
+    "video_id": "SIBtVNjRois"
    },
    {
     "fallback_query": "토아 제육감 cover",
@@ -136,7 +141,7 @@
    },
    {
     "query": "리코 밤을 달리다",
-    "searched_time": 1794154224,
+    "searched_time": 1794211815,
     "video_id": "lBtlpVXmbYY"
    },
    {
@@ -146,17 +151,17 @@
    },
    {
     "query": "메리 도쿄테디베어",
-    "searched_time": 1794096658,
+    "searched_time": 1794211815,
     "video_id": "rKQptWhAvO0"
    },
    {
     "query": "스텔라이브 twinkle",
-    "searched_time": 1794154224,
+    "searched_time": 1794211815,
     "video_id": "WnCMBCpENio"
    },
    {
     "query": "시부키 모시모시",
-    "searched_time": 1794154224,
+    "searched_time": 1794211815,
     "video_id": "zQp6ZZAT6ew"
    },
    {
@@ -166,10 +171,10 @@
    },
    {
     "query": "유즈하 리코 밤을 달리다",
-    "searched_time": 1794154224,
+    "searched_time": 1794211815,
     "video_id": "lBtlpVXmbYY"
    }
   ],
-  "searched_time": 1794182710
+  "searched_time": 1794211815
  }
 }

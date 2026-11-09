@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/songs",
- "fetchedAt": "2026-11-09T04:09:42.272Z",
+ "fetchedAt": "2026-11-09T12:18:27.981Z",
  "data": [
   {
    "checked_at": 1793779544,
@@ -290,10 +290,10 @@
    "video_id": "naWmFCbwi3M"
   },
   {
-   "checked_at": 1794153985,
-   "fallback_query": "리제 괴수의꽃노래 cover",
+   "checked_at": 1794211342,
+   "fallback_query": null,
    "query": "리제 괴수의꽃노래",
-   "state": "cover_only",
+   "state": "visible",
    "video_id": "yCVZq40vqLk"
   },
   {
@@ -493,7 +493,7 @@
    "video_id": "pKPPV1RMk-c"
   },
   {
-   "checked_at": 1794153863,
+   "checked_at": 1794211322,
    "fallback_query": null,
    "query": "리제 프로포즈",
    "state": "visible",
@@ -556,31 +556,31 @@
    "video_id": "yuxa6o1_scc"
   },
   {
-   "checked_at": null,
-   "fallback_query": null,
+   "checked_at": 1794211566,
+   "fallback_query": "리코 래빗홀 cover",
    "query": "리코 래빗홀",
-   "state": "unchecked",
+   "state": "cover_only",
    "video_id": "y84L-0bz4zo"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794211241,
    "fallback_query": null,
    "query": "리코 린 getcha",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "7CQuc6Jf4UE"
   },
   {
-   "checked_at": 1794154188,
+   "checked_at": 1794211688,
    "fallback_query": "리코 마시로 악마가아닌걸 cover",
    "query": "리코 마시로 악마가아닌걸",
    "state": "cover_only",
    "video_id": "xKA5wKYMFhM"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794211261,
    "fallback_query": null,
    "query": "리코 마음예보",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "HVBL6xHcMRY"
   },
   {
@@ -591,10 +591,10 @@
    "video_id": "Rr2GjXAgJ9E"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794211282,
    "fallback_query": null,
    "query": "리코 모니터링",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "TqQFF_wLlR4"
   },
   {
@@ -612,7 +612,7 @@
    "video_id": "Tejq1P1TF-M"
   },
   {
-   "checked_at": 1794154224,
+   "checked_at": 1794211815,
    "fallback_query": null,
    "query": "리코 밤을 달리다",
    "state": "blocked",
@@ -1095,7 +1095,7 @@
    "video_id": "7gYDCoiV7cc"
   },
   {
-   "checked_at": 1794154107,
+   "checked_at": 1794211606,
    "fallback_query": "마시로 린 메이드지상주의 cover",
    "query": "마시로 린 메이드지상주의",
    "state": "cover_only",
@@ -1179,10 +1179,10 @@
    "video_id": "Y3McmrSFy1E"
   },
   {
-   "checked_at": 1794153762,
+   "checked_at": 1794211815,
    "fallback_query": null,
    "query": "메리 도쿄테디베어",
-   "state": "visible",
+   "state": "blocked",
    "video_id": "rKQptWhAvO0"
   },
   {
@@ -1242,7 +1242,7 @@
    "video_id": "5kTp7SQCR_Y"
   },
   {
-   "checked_at": 1794154224,
+   "checked_at": 1794211815,
    "fallback_query": null,
    "query": "스텔라이브 twinkle",
    "state": "blocked",
@@ -1403,7 +1403,7 @@
    "video_id": "30dd8K_i-38"
   },
   {
-   "checked_at": 1794154224,
+   "checked_at": 1794211815,
    "fallback_query": null,
    "query": "시부키 모시모시",
    "state": "blocked",
@@ -1466,10 +1466,10 @@
    "video_id": "3Xf1Wt7Z-RY"
   },
   {
-   "checked_at": 1794154224,
-   "fallback_query": null,
+   "checked_at": 1794211769,
+   "fallback_query": "아카네 리제 바니걸 cover",
    "query": "아카네 리제 바니걸",
-   "state": "blocked",
+   "state": "cover_only",
    "video_id": "SIBtVNjRois"
   },
   {
@@ -1648,7 +1648,7 @@
    "video_id": "CbuiRlGeA-g"
   },
   {
-   "checked_at": 1794154224,
+   "checked_at": 1794211815,
    "fallback_query": null,
    "query": "유즈하 리코 밤을 달리다",
    "state": "blocked",
@@ -1998,7 +1998,7 @@
    "video_id": "N_vYUNEktsA"
   },
   {
-   "checked_at": 1794154127,
+   "checked_at": 1794211627,
    "fallback_query": "토아 제육감 cover",
    "query": "토아 제육감",
    "state": "cover_only",
@@ -2187,7 +2187,7 @@
    "video_id": "UcFBb927-kU"
   },
   {
-   "checked_at": 1794154147,
+   "checked_at": 1794211647,
    "fallback_query": "히나 리코 소녀레이 cover",
    "query": "히나 리코 소녀레이",
    "state": "cover_only",
@@ -2320,7 +2320,7 @@
    "video_id": "rQaluJS-Tc0"
   },
   {
-   "checked_at": 1794154167,
+   "checked_at": 1794211667,
    "fallback_query": "히나 하루카 cover",
    "query": "히나 하루카",
    "state": "cover_only",
