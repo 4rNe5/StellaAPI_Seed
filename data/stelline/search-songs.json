@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/songs",
- "fetchedAt": "2026-11-08T22:31:31.676Z",
+ "fetchedAt": "2026-11-09T04:09:42.272Z",
  "data": [
   {
    "checked_at": 1793779544,
@@ -24,14 +24,14 @@
    "video_id": "H4T4ihraPic"
   },
   {
-   "checked_at": 1794125457,
+   "checked_at": 1794182710,
    "fallback_query": null,
    "query": "나나 deja vu",
    "state": "blocked",
    "video_id": "KmH0RhhenzE"
   },
   {
-   "checked_at": 1794125457,
+   "checked_at": 1794182710,
    "fallback_query": null,
    "query": "나나 drivers license",
    "state": "blocked",
@@ -94,7 +94,7 @@
    "video_id": "KJzmhOkm4-E"
   },
   {
-   "checked_at": 1794125457,
+   "checked_at": 1794182710,
    "fallback_query": null,
    "query": "나나 논블레스오브리주",
    "state": "blocked",
@@ -206,14 +206,14 @@
    "video_id": "td73oLSQug0"
   },
   {
-   "checked_at": 1794125457,
+   "checked_at": 1794182710,
    "fallback_query": null,
    "query": "나나 후야 오츠카레summer",
    "state": "blocked",
    "video_id": "Zetk77I6_s8"
   },
   {
-   "checked_at": 1794125457,
+   "checked_at": 1794182710,
    "fallback_query": null,
    "query": "나나 희극",
    "state": "blocked",
@@ -381,14 +381,14 @@
    "video_id": "7zsY6Ex9dMI"
   },
   {
-   "checked_at": 1794125457,
+   "checked_at": 1794182710,
    "fallback_query": null,
    "query": "리제 바니걸",
    "state": "blocked",
    "video_id": "SIBtVNjRois"
   },
   {
-   "checked_at": 1794125457,
+   "checked_at": 1794182710,
    "fallback_query": null,
    "query": "리제 발묘",
    "state": "blocked",
@@ -472,10 +472,10 @@
    "video_id": "3Y7Ek6YSGPE"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794182420,
    "fallback_query": null,
    "query": "리제 취한줄을모르고",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "209_dJOJa0Y"
   },
   {
@@ -500,10 +500,10 @@
    "video_id": "icR-Tg7YZwY"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794182441,
    "fallback_query": null,
    "query": "리코 Loveit?",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "TM-uVDKQxhg"
   },
   {
@@ -528,17 +528,17 @@
    "video_id": "c6G7vRuJyhs"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794182461,
    "fallback_query": null,
    "query": "리코 괴수의꽃노래",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "CtXv2_NBBOU"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794182481,
    "fallback_query": null,
    "query": "리코 꽃의탑",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "EtkolJZEmpg"
   },
   {
@@ -1074,7 +1074,7 @@
    "video_id": "m5XU_4r1yV0"
   },
   {
-   "checked_at": 1794125457,
+   "checked_at": 1794182710,
    "fallback_query": null,
    "query": "마시로 구르는 바위 네게 아침이 내린다",
    "state": "blocked",

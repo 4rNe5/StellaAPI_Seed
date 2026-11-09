@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/not_searched",
- "fetchedAt": "2026-11-08T22:31:31.912Z",
+ "fetchedAt": "2026-11-09T04:09:42.675Z",
  "data": {
   "all_songs": [
    {
@@ -91,27 +91,27 @@
   "recent": [
    {
     "query": "나나 deja vu",
-    "searched_time": 1794125457,
+    "searched_time": 1794182710,
     "video_id": "KmH0RhhenzE"
    },
    {
     "query": "나나 drivers license",
-    "searched_time": 1794125457,
+    "searched_time": 1794182710,
     "video_id": "SUJm8SX87DY"
    },
    {
     "query": "나나 논블레스오브리주",
-    "searched_time": 1794125457,
+    "searched_time": 1794182710,
     "video_id": "YXIz7U42pgk"
    },
    {
     "query": "나나 후야 오츠카레summer",
-    "searched_time": 1794125457,
+    "searched_time": 1794182710,
     "video_id": "Zetk77I6_s8"
    },
    {
     "query": "나나 희극",
-    "searched_time": 1794125457,
+    "searched_time": 1794182710,
     "video_id": "gkmnG2pWzys"
    },
    {
@@ -121,12 +121,12 @@
    },
    {
     "query": "리제 바니걸",
-    "searched_time": 1794125457,
+    "searched_time": 1794182710,
     "video_id": "SIBtVNjRois"
    },
    {
     "query": "리제 발묘",
-    "searched_time": 1794125457,
+    "searched_time": 1794182710,
     "video_id": "R_B4tmy2DVA"
    },
    {
@@ -141,7 +141,7 @@
    },
    {
     "query": "마시로 구르는 바위 네게 아침이 내린다",
-    "searched_time": 1794125457,
+    "searched_time": 1794182710,
     "video_id": "SiBzI2htX2o"
    },
    {
@@ -170,6 +170,6 @@
     "video_id": "lBtlpVXmbYY"
    }
   ],
-  "searched_time": 1794154224
+  "searched_time": 1794182710
  }
 }
