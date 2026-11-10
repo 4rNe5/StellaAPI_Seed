@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/not_searched",
- "fetchedAt": "2026-11-10T12:17:14.200Z",
+ "fetchedAt": "2026-11-10T20:12:28.996Z",
  "data": {
   "all_songs": [
    {
@@ -100,7 +100,7 @@
   "recent": [
    {
     "query": "나나 deja vu",
-    "searched_time": 1794269454,
+    "searched_time": 1794327034,
     "video_id": "KmH0RhhenzE"
    },
    {
@@ -145,7 +145,7 @@
    },
    {
     "query": "리코 밤을 달리다",
-    "searched_time": 1794269454,
+    "searched_time": 1794327034,
     "video_id": "lBtlpVXmbYY"
    },
    {
@@ -155,30 +155,30 @@
    },
    {
     "query": "메리 도쿄테디베어",
-    "searched_time": 1794269454,
+    "searched_time": 1794327034,
     "video_id": "rKQptWhAvO0"
    },
    {
     "query": "스텔라이브 twinkle",
-    "searched_time": 1794269454,
+    "searched_time": 1794327034,
     "video_id": "WnCMBCpENio"
    },
    {
     "query": "시부키 모시모시",
-    "searched_time": 1794269454,
+    "searched_time": 1794327034,
     "video_id": "zQp6ZZAT6ew"
    },
    {
     "query": "아카네 리제 바니걸",
-    "searched_time": 1794269454,
+    "searched_time": 1794327034,
     "video_id": "SIBtVNjRois"
    },
    {
     "query": "유즈하 리코 밤을 달리다",
-    "searched_time": 1794269454,
+    "searched_time": 1794327034,
     "video_id": "lBtlpVXmbYY"
    }
   ],
-  "searched_time": 1794298230
+  "searched_time": 1794327034
  }
 }

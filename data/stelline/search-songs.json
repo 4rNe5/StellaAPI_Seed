@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/songs",
- "fetchedAt": "2026-11-10T12:17:13.978Z",
+ "fetchedAt": "2026-11-10T20:12:28.146Z",
  "data": [
   {
    "checked_at": 1793779544,
@@ -24,7 +24,7 @@
    "video_id": "H4T4ihraPic"
   },
   {
-   "checked_at": 1794269454,
+   "checked_at": 1794327034,
    "fallback_query": null,
    "query": "나나 deja vu",
    "state": "blocked",
@@ -213,7 +213,7 @@
    "video_id": "Zetk77I6_s8"
   },
   {
-   "checked_at": 1794298026,
+   "checked_at": 1794326947,
    "fallback_query": "나나 희극 cover",
    "query": "나나 희극",
    "state": "cover_only",
@@ -493,7 +493,7 @@
    "video_id": "pKPPV1RMk-c"
   },
   {
-   "checked_at": 1794297844,
+   "checked_at": 1794326684,
    "fallback_query": null,
    "query": "리제 프로포즈",
    "state": "visible",
@@ -612,7 +612,7 @@
    "video_id": "Tejq1P1TF-M"
   },
   {
-   "checked_at": 1794269454,
+   "checked_at": 1794327034,
    "fallback_query": null,
    "query": "리코 밤을 달리다",
    "state": "blocked",
@@ -815,10 +815,10 @@
    "video_id": "Bhe35DpMlzk"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794326420,
    "fallback_query": null,
    "query": "린 specialz",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "vCHNh5E4eDU"
   },
   {
@@ -871,17 +871,17 @@
    "video_id": "NGyCzUHjorI"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794326441,
    "fallback_query": null,
    "query": "린 나나 역몽",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "lsshc8umnE4"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794326461,
    "fallback_query": null,
    "query": "린 네리사 다이너마이트",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "eHiPI6fybFo"
   },
   {
@@ -892,10 +892,10 @@
    "video_id": "jTUOSAmCqeI"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794326481,
    "fallback_query": null,
    "query": "린 루머",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "oAa_PoRopSs"
   },
   {
@@ -1095,7 +1095,7 @@
    "video_id": "7gYDCoiV7cc"
   },
   {
-   "checked_at": 1794269368,
+   "checked_at": 1794326765,
    "fallback_query": "마시로 린 메이드지상주의 cover",
    "query": "마시로 린 메이드지상주의",
    "state": "cover_only",
@@ -1179,7 +1179,7 @@
    "video_id": "Y3McmrSFy1E"
   },
   {
-   "checked_at": 1794269454,
+   "checked_at": 1794327034,
    "fallback_query": null,
    "query": "메리 도쿄테디베어",
    "state": "blocked",
@@ -1242,7 +1242,7 @@
    "video_id": "5kTp7SQCR_Y"
   },
   {
-   "checked_at": 1794269454,
+   "checked_at": 1794327034,
    "fallback_query": null,
    "query": "스텔라이브 twinkle",
    "state": "blocked",
@@ -1403,7 +1403,7 @@
    "video_id": "30dd8K_i-38"
   },
   {
-   "checked_at": 1794269454,
+   "checked_at": 1794327034,
    "fallback_query": null,
    "query": "시부키 모시모시",
    "state": "blocked",
@@ -1466,7 +1466,7 @@
    "video_id": "3Xf1Wt7Z-RY"
   },
   {
-   "checked_at": 1794269454,
+   "checked_at": 1794327034,
    "fallback_query": null,
    "query": "아카네 리제 바니걸",
    "state": "blocked",
@@ -1648,7 +1648,7 @@
    "video_id": "CbuiRlGeA-g"
   },
   {
-   "checked_at": 1794269454,
+   "checked_at": 1794327034,
    "fallback_query": null,
    "query": "유즈하 리코 밤을 달리다",
    "state": "blocked",
@@ -1998,7 +1998,7 @@
    "video_id": "N_vYUNEktsA"
   },
   {
-   "checked_at": 1794269388,
+   "checked_at": 1794326785,
    "fallback_query": "토아 제육감 cover",
    "query": "토아 제육감",
    "state": "cover_only",
@@ -2187,7 +2187,7 @@
    "video_id": "UcFBb927-kU"
   },
   {
-   "checked_at": 1794298128,
+   "checked_at": 1794326967,
    "fallback_query": "히나 리코 소녀레이 cover",
    "query": "히나 리코 소녀레이",
    "state": "cover_only",
@@ -2320,7 +2320,7 @@
    "video_id": "rQaluJS-Tc0"
   },
   {
-   "checked_at": 1794298148,
+   "checked_at": 1794326988,
    "fallback_query": "히나 하루카 cover",
    "query": "히나 하루카",
    "state": "cover_only",
