@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/not_searched",
- "fetchedAt": "2026-11-09T20:11:28.901Z",
+ "fetchedAt": "2026-11-10T01:46:43.156Z",
  "data": {
   "all_songs": [
    {
@@ -60,6 +60,10 @@
     "video_id": "zQp6ZZAT6ew"
    },
    {
+    "query": "아카네 리제 바니걸",
+    "video_id": "SIBtVNjRois"
+   },
+   {
     "query": "유즈하 리코 밤을 달리다",
     "video_id": "lBtlpVXmbYY"
    }
@@ -81,11 +85,6 @@
     "video_id": "5uOxZswwBx4"
    },
    {
-    "fallback_query": "아카네 리제 바니걸 cover",
-    "query": "아카네 리제 바니걸",
-    "video_id": "SIBtVNjRois"
-   },
-   {
     "fallback_query": "토아 제육감 cover",
     "query": "토아 제육감",
     "video_id": "MZNKiadMo3U"
@@ -104,7 +103,7 @@
   "recent": [
    {
     "query": "나나 deja vu",
-    "searched_time": 1794240666,
+    "searched_time": 1794269454,
     "video_id": "KmH0RhhenzE"
    },
    {
@@ -149,7 +148,7 @@
    },
    {
     "query": "리코 밤을 달리다",
-    "searched_time": 1794211815,
+    "searched_time": 1794269454,
     "video_id": "lBtlpVXmbYY"
    },
    {
@@ -159,30 +158,30 @@
    },
    {
     "query": "메리 도쿄테디베어",
-    "searched_time": 1794211815,
+    "searched_time": 1794269454,
     "video_id": "rKQptWhAvO0"
    },
    {
     "query": "스텔라이브 twinkle",
-    "searched_time": 1794211815,
+    "searched_time": 1794269454,
     "video_id": "WnCMBCpENio"
    },
    {
     "query": "시부키 모시모시",
-    "searched_time": 1794211815,
+    "searched_time": 1794269454,
     "video_id": "zQp6ZZAT6ew"
    },
    {
     "query": "아카네 리제 바니걸",
-    "searched_time": 1794154224,
+    "searched_time": 1794269454,
     "video_id": "SIBtVNjRois"
    },
    {
     "query": "유즈하 리코 밤을 달리다",
-    "searched_time": 1794211815,
+    "searched_time": 1794269454,
     "video_id": "lBtlpVXmbYY"
    }
   ],
-  "searched_time": 1794240666
+  "searched_time": 1794269454
  }
 }
