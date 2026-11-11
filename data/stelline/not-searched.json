@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/not_searched",
- "fetchedAt": "2026-11-10T23:45:28.601Z",
+ "fetchedAt": "2026-11-11T04:09:26.017Z",
  "data": {
   "all_songs": [
    {
@@ -24,12 +24,8 @@
     "video_id": "yCVZq40vqLk"
    },
    {
-    "query": "리제 바니걸",
-    "video_id": "SIBtVNjRois"
-   },
-   {
-    "query": "리제 발묘",
-    "video_id": "R_B4tmy2DVA"
+    "query": "리제 프로포즈",
+    "video_id": "icR-Tg7YZwY"
    },
    {
     "query": "리코 밤을 달리다",
@@ -65,6 +61,11 @@
     "fallback_query": "나나 희극 cover",
     "query": "나나 희극",
     "video_id": "gkmnG2pWzys"
+   },
+   {
+    "fallback_query": "리제 발묘 cover",
+    "query": "리제 발묘",
+    "video_id": "R_B4tmy2DVA"
    },
    {
     "fallback_query": "리코 래빗홀 cover",
@@ -105,17 +106,17 @@
    },
    {
     "query": "나나 drivers license",
-    "searched_time": 1794298230,
+    "searched_time": 1794355826,
     "video_id": "SUJm8SX87DY"
    },
    {
     "query": "나나 논블레스오브리주",
-    "searched_time": 1794298230,
+    "searched_time": 1794355826,
     "video_id": "YXIz7U42pgk"
    },
    {
     "query": "나나 후야 오츠카레summer",
-    "searched_time": 1794298230,
+    "searched_time": 1794355826,
     "video_id": "Zetk77I6_s8"
    },
    {
@@ -125,7 +126,7 @@
    },
    {
     "query": "리제 괴수의꽃노래",
-    "searched_time": 1794298230,
+    "searched_time": 1794355826,
     "video_id": "yCVZq40vqLk"
    },
    {
@@ -140,7 +141,7 @@
    },
    {
     "query": "리제 프로포즈",
-    "searched_time": 1794240666,
+    "searched_time": 1794355826,
     "video_id": "icR-Tg7YZwY"
    },
    {
@@ -150,7 +151,7 @@
    },
    {
     "query": "마시로 구르는 바위 네게 아침이 내린다",
-    "searched_time": 1794298230,
+    "searched_time": 1794355826,
     "video_id": "SiBzI2htX2o"
    },
    {
@@ -179,6 +180,6 @@
     "video_id": "lBtlpVXmbYY"
    }
   ],
-  "searched_time": 1794327034
+  "searched_time": 1794355826
  }
 }

@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/songs",
- "fetchedAt": "2026-11-10T23:45:28.361Z",
+ "fetchedAt": "2026-11-11T04:09:25.830Z",
  "data": [
   {
    "checked_at": 1793779544,
@@ -31,7 +31,7 @@
    "video_id": "KmH0RhhenzE"
   },
   {
-   "checked_at": 1794298230,
+   "checked_at": 1794355826,
    "fallback_query": null,
    "query": "나나 drivers license",
    "state": "blocked",
@@ -94,7 +94,7 @@
    "video_id": "KJzmhOkm4-E"
   },
   {
-   "checked_at": 1794298230,
+   "checked_at": 1794355826,
    "fallback_query": null,
    "query": "나나 논블레스오브리주",
    "state": "blocked",
@@ -206,14 +206,14 @@
    "video_id": "td73oLSQug0"
   },
   {
-   "checked_at": 1794298230,
+   "checked_at": 1794355826,
    "fallback_query": null,
    "query": "나나 후야 오츠카레summer",
    "state": "blocked",
    "video_id": "Zetk77I6_s8"
   },
   {
-   "checked_at": 1794326947,
+   "checked_at": 1794355787,
    "fallback_query": "나나 희극 cover",
    "query": "나나 희극",
    "state": "cover_only",
@@ -290,7 +290,7 @@
    "video_id": "naWmFCbwi3M"
   },
   {
-   "checked_at": 1794298230,
+   "checked_at": 1794355826,
    "fallback_query": null,
    "query": "리제 괴수의꽃노래",
    "state": "blocked",
@@ -381,17 +381,17 @@
    "video_id": "7zsY6Ex9dMI"
   },
   {
-   "checked_at": 1794298230,
+   "checked_at": 1794355423,
    "fallback_query": null,
    "query": "리제 바니걸",
-   "state": "blocked",
+   "state": "visible",
    "video_id": "SIBtVNjRois"
   },
   {
-   "checked_at": 1794298230,
-   "fallback_query": null,
+   "checked_at": 1794355686,
+   "fallback_query": "리제 발묘 cover",
    "query": "리제 발묘",
-   "state": "blocked",
+   "state": "cover_only",
    "video_id": "R_B4tmy2DVA"
   },
   {
@@ -493,10 +493,10 @@
    "video_id": "pKPPV1RMk-c"
   },
   {
-   "checked_at": 1794326684,
+   "checked_at": 1794355826,
    "fallback_query": null,
    "query": "리제 프로포즈",
-   "state": "visible",
+   "state": "blocked",
    "video_id": "icR-Tg7YZwY"
   },
   {
@@ -556,7 +556,7 @@
    "video_id": "yuxa6o1_scc"
   },
   {
-   "checked_at": 1794298189,
+   "checked_at": 1794355585,
    "fallback_query": "리코 래빗홀 cover",
    "query": "리코 래빗홀",
    "state": "cover_only",
@@ -570,7 +570,7 @@
    "video_id": "7CQuc6Jf4UE"
   },
   {
-   "checked_at": 1794298168,
+   "checked_at": 1794355565,
    "fallback_query": "리코 마시로 악마가아닌걸 cover",
    "query": "리코 마시로 악마가아닌걸",
    "state": "cover_only",
@@ -941,10 +941,10 @@
    "video_id": "1HSTjpAEgVY"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794355220,
    "fallback_query": null,
    "query": "린 복숭아색열쇠",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "QQYjoOGbUSQ"
   },
   {
@@ -969,10 +969,10 @@
    "video_id": "jyU6GkzD2CA"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794355241,
    "fallback_query": null,
    "query": "린 소녀레이",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "9S3if_u5n_Q"
   },
   {
@@ -1004,10 +1004,10 @@
    "video_id": "5rQSMZLi5z4"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794355261,
    "fallback_query": null,
    "query": "린 아이리스아웃",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "rxarDgejkZg"
   },
   {
@@ -1039,10 +1039,10 @@
    "video_id": "Dy90S1wHTpM"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794355281,
    "fallback_query": null,
    "query": "린 카가리비토",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "Nmkp68aUw1o"
   },
   {
@@ -1074,7 +1074,7 @@
    "video_id": "m5XU_4r1yV0"
   },
   {
-   "checked_at": 1794298230,
+   "checked_at": 1794355826,
    "fallback_query": null,
    "query": "마시로 구르는 바위 네게 아침이 내린다",
    "state": "blocked",
@@ -1095,7 +1095,7 @@
    "video_id": "7gYDCoiV7cc"
   },
   {
-   "checked_at": 1794326765,
+   "checked_at": 1794355747,
    "fallback_query": "마시로 린 메이드지상주의 cover",
    "query": "마시로 린 메이드지상주의",
    "state": "cover_only",
@@ -1998,7 +1998,7 @@
    "video_id": "N_vYUNEktsA"
   },
   {
-   "checked_at": 1794326785,
+   "checked_at": 1794355767,
    "fallback_query": "토아 제육감 cover",
    "query": "토아 제육감",
    "state": "cover_only",
