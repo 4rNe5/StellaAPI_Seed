@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/not_searched",
- "fetchedAt": "2026-11-11T04:09:26.017Z",
+ "fetchedAt": "2026-11-11T12:16:51.046Z",
  "data": {
   "all_songs": [
    {
@@ -48,10 +48,6 @@
     "video_id": "zQp6ZZAT6ew"
    },
    {
-    "query": "아카네 리제 바니걸",
-    "video_id": "SIBtVNjRois"
-   },
-   {
     "query": "유즈하 리코 밤을 달리다",
     "video_id": "lBtlpVXmbYY"
    }
@@ -61,11 +57,6 @@
     "fallback_query": "나나 희극 cover",
     "query": "나나 희극",
     "video_id": "gkmnG2pWzys"
-   },
-   {
-    "fallback_query": "리제 발묘 cover",
-    "query": "리제 발묘",
-    "video_id": "R_B4tmy2DVA"
    },
    {
     "fallback_query": "리코 래빗홀 cover",
@@ -81,6 +72,11 @@
     "fallback_query": "마시로 린 메이드지상주의 cover",
     "query": "마시로 린 메이드지상주의",
     "video_id": "5uOxZswwBx4"
+   },
+   {
+    "fallback_query": "아카네 리제 바니걸 cover",
+    "query": "아카네 리제 바니걸",
+    "video_id": "SIBtVNjRois"
    },
    {
     "fallback_query": "토아 제육감 cover",
@@ -101,7 +97,7 @@
   "recent": [
    {
     "query": "나나 deja vu",
-    "searched_time": 1794327034,
+    "searched_time": 1794384643,
     "video_id": "KmH0RhhenzE"
    },
    {
@@ -146,7 +142,7 @@
    },
    {
     "query": "리코 밤을 달리다",
-    "searched_time": 1794327034,
+    "searched_time": 1794384643,
     "video_id": "lBtlpVXmbYY"
    },
    {
@@ -156,17 +152,17 @@
    },
    {
     "query": "메리 도쿄테디베어",
-    "searched_time": 1794327034,
+    "searched_time": 1794384643,
     "video_id": "rKQptWhAvO0"
    },
    {
     "query": "스텔라이브 twinkle",
-    "searched_time": 1794327034,
+    "searched_time": 1794384643,
     "video_id": "WnCMBCpENio"
    },
    {
     "query": "시부키 모시모시",
-    "searched_time": 1794327034,
+    "searched_time": 1794384643,
     "video_id": "zQp6ZZAT6ew"
    },
    {
@@ -176,10 +172,10 @@
    },
    {
     "query": "유즈하 리코 밤을 달리다",
-    "searched_time": 1794327034,
+    "searched_time": 1794384643,
     "video_id": "lBtlpVXmbYY"
    }
   ],
-  "searched_time": 1794355826
+  "searched_time": 1794384643
  }
 }

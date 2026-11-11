@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/songs",
- "fetchedAt": "2026-11-11T04:09:25.830Z",
+ "fetchedAt": "2026-11-11T12:16:50.616Z",
  "data": [
   {
    "checked_at": 1793779544,
@@ -24,7 +24,7 @@
    "video_id": "H4T4ihraPic"
   },
   {
-   "checked_at": 1794327034,
+   "checked_at": 1794384643,
    "fallback_query": null,
    "query": "나나 deja vu",
    "state": "blocked",
@@ -113,6 +113,13 @@
    "query": "나나 모니터링",
    "state": "visible",
    "video_id": "vT3xY5UE4Q4"
+  },
+  {
+   "checked_at": null,
+   "fallback_query": null,
+   "query": "나나 발랄라이카",
+   "state": "unchecked",
+   "video_id": "8lD-6Xyq4Lg"
   },
   {
    "checked_at": 1793721741,
@@ -381,17 +388,17 @@
    "video_id": "7zsY6Ex9dMI"
   },
   {
-   "checked_at": 1794355423,
+   "checked_at": 1794384284,
    "fallback_query": null,
    "query": "리제 바니걸",
    "state": "visible",
    "video_id": "SIBtVNjRois"
   },
   {
-   "checked_at": 1794355686,
-   "fallback_query": "리제 발묘 cover",
+   "checked_at": 1794384345,
+   "fallback_query": null,
    "query": "리제 발묘",
-   "state": "cover_only",
+   "state": "visible",
    "video_id": "R_B4tmy2DVA"
   },
   {
@@ -556,7 +563,7 @@
    "video_id": "yuxa6o1_scc"
   },
   {
-   "checked_at": 1794355585,
+   "checked_at": 1794384589,
    "fallback_query": "리코 래빗홀 cover",
    "query": "리코 래빗홀",
    "state": "cover_only",
@@ -570,7 +577,7 @@
    "video_id": "7CQuc6Jf4UE"
   },
   {
-   "checked_at": 1794355565,
+   "checked_at": 1794384568,
    "fallback_query": "리코 마시로 악마가아닌걸 cover",
    "query": "리코 마시로 악마가아닌걸",
    "state": "cover_only",
@@ -612,7 +619,7 @@
    "video_id": "Tejq1P1TF-M"
   },
   {
-   "checked_at": 1794327034,
+   "checked_at": 1794384643,
    "fallback_query": null,
    "query": "리코 밤을 달리다",
    "state": "blocked",
@@ -1067,10 +1074,10 @@
    "video_id": "pnU-h63twZM"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794384020,
    "fallback_query": null,
    "query": "마시로 강지 하나둘팬클럽",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "m5XU_4r1yV0"
   },
   {
@@ -1088,31 +1095,31 @@
    "video_id": "DvFUMLxvyvw"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794384041,
    "fallback_query": null,
    "query": "마시로 리제 그나라의왕가는이상해",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "7gYDCoiV7cc"
   },
   {
-   "checked_at": 1794355747,
+   "checked_at": 1794384609,
    "fallback_query": "마시로 린 메이드지상주의 cover",
    "query": "마시로 린 메이드지상주의",
    "state": "cover_only",
    "video_id": "5uOxZswwBx4"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794384061,
    "fallback_query": null,
    "query": "마시로 망상아스파탐",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "f7uaxrWNIdE"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794384081,
    "fallback_query": null,
    "query": "마시로 병명상사병",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "bW_htBZ_emA"
   },
   {
@@ -1179,7 +1186,7 @@
    "video_id": "Y3McmrSFy1E"
   },
   {
-   "checked_at": 1794327034,
+   "checked_at": 1794384643,
    "fallback_query": null,
    "query": "메리 도쿄테디베어",
    "state": "blocked",
@@ -1242,7 +1249,7 @@
    "video_id": "5kTp7SQCR_Y"
   },
   {
-   "checked_at": 1794327034,
+   "checked_at": 1794384643,
    "fallback_query": null,
    "query": "스텔라이브 twinkle",
    "state": "blocked",
@@ -1403,7 +1410,7 @@
    "video_id": "30dd8K_i-38"
   },
   {
-   "checked_at": 1794327034,
+   "checked_at": 1794384643,
    "fallback_query": null,
    "query": "시부키 모시모시",
    "state": "blocked",
@@ -1466,10 +1473,10 @@
    "video_id": "3Xf1Wt7Z-RY"
   },
   {
-   "checked_at": 1794327034,
-   "fallback_query": null,
+   "checked_at": 1794384528,
+   "fallback_query": "아카네 리제 바니걸 cover",
    "query": "아카네 리제 바니걸",
-   "state": "blocked",
+   "state": "cover_only",
    "video_id": "SIBtVNjRois"
   },
   {
@@ -1648,7 +1655,7 @@
    "video_id": "CbuiRlGeA-g"
   },
   {
-   "checked_at": 1794327034,
+   "checked_at": 1794384643,
    "fallback_query": null,
    "query": "유즈하 리코 밤을 달리다",
    "state": "blocked",
@@ -2187,7 +2194,7 @@
    "video_id": "UcFBb927-kU"
   },
   {
-   "checked_at": 1794326967,
+   "checked_at": 1794384385,
    "fallback_query": "히나 리코 소녀레이 cover",
    "query": "히나 리코 소녀레이",
    "state": "cover_only",
@@ -2320,7 +2327,7 @@
    "video_id": "rQaluJS-Tc0"
   },
   {
-   "checked_at": 1794326988,
+   "checked_at": 1794384406,
    "fallback_query": "히나 하루카 cover",
    "query": "히나 하루카",
    "state": "cover_only",
