@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/not_searched",
- "fetchedAt": "2026-11-11T12:16:51.046Z",
+ "fetchedAt": "2026-11-11T20:11:56.340Z",
  "data": {
   "all_songs": [
    {
@@ -20,8 +20,16 @@
     "video_id": "Zetk77I6_s8"
    },
    {
+    "query": "나나 희극",
+    "video_id": "gkmnG2pWzys"
+   },
+   {
     "query": "리제 괴수의꽃노래",
     "video_id": "yCVZq40vqLk"
+   },
+   {
+    "query": "리제 발묘",
+    "video_id": "R_B4tmy2DVA"
    },
    {
     "query": "리제 프로포즈",
@@ -48,16 +56,15 @@
     "video_id": "zQp6ZZAT6ew"
    },
    {
+    "query": "아카네 리제 바니걸",
+    "video_id": "SIBtVNjRois"
+   },
+   {
     "query": "유즈하 리코 밤을 달리다",
     "video_id": "lBtlpVXmbYY"
    }
   ],
   "cover_matches": [
-   {
-    "fallback_query": "나나 희극 cover",
-    "query": "나나 희극",
-    "video_id": "gkmnG2pWzys"
-   },
    {
     "fallback_query": "리코 래빗홀 cover",
     "query": "리코 래빗홀",
@@ -72,11 +79,6 @@
     "fallback_query": "마시로 린 메이드지상주의 cover",
     "query": "마시로 린 메이드지상주의",
     "video_id": "5uOxZswwBx4"
-   },
-   {
-    "fallback_query": "아카네 리제 바니걸 cover",
-    "query": "아카네 리제 바니걸",
-    "video_id": "SIBtVNjRois"
    },
    {
     "fallback_query": "토아 제육감 cover",
@@ -102,27 +104,27 @@
    },
    {
     "query": "나나 drivers license",
-    "searched_time": 1794355826,
+    "searched_time": 1794413446,
     "video_id": "SUJm8SX87DY"
    },
    {
     "query": "나나 논블레스오브리주",
-    "searched_time": 1794355826,
+    "searched_time": 1794413446,
     "video_id": "YXIz7U42pgk"
    },
    {
     "query": "나나 후야 오츠카레summer",
-    "searched_time": 1794355826,
+    "searched_time": 1794413446,
     "video_id": "Zetk77I6_s8"
    },
    {
     "query": "나나 희극",
-    "searched_time": 1794240666,
+    "searched_time": 1794413446,
     "video_id": "gkmnG2pWzys"
    },
    {
     "query": "리제 괴수의꽃노래",
-    "searched_time": 1794355826,
+    "searched_time": 1794413446,
     "video_id": "yCVZq40vqLk"
    },
    {
@@ -132,12 +134,12 @@
    },
    {
     "query": "리제 발묘",
-    "searched_time": 1794298230,
+    "searched_time": 1794413446,
     "video_id": "R_B4tmy2DVA"
    },
    {
     "query": "리제 프로포즈",
-    "searched_time": 1794355826,
+    "searched_time": 1794413446,
     "video_id": "icR-Tg7YZwY"
    },
    {
@@ -147,7 +149,7 @@
    },
    {
     "query": "마시로 구르는 바위 네게 아침이 내린다",
-    "searched_time": 1794355826,
+    "searched_time": 1794413446,
     "video_id": "SiBzI2htX2o"
    },
    {
@@ -167,7 +169,7 @@
    },
    {
     "query": "아카네 리제 바니걸",
-    "searched_time": 1794327034,
+    "searched_time": 1794413446,
     "video_id": "SIBtVNjRois"
    },
    {
@@ -176,6 +178,6 @@
     "video_id": "lBtlpVXmbYY"
    }
   ],
-  "searched_time": 1794384643
+  "searched_time": 1794413446
  }
 }
