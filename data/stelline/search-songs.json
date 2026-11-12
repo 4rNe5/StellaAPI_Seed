@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/songs",
- "fetchedAt": "2026-11-12T04:09:11.464Z",
+ "fetchedAt": "2026-11-12T12:16:42.167Z",
  "data": [
   {
    "checked_at": 1793779544,
@@ -31,7 +31,7 @@
    "video_id": "KmH0RhhenzE"
   },
   {
-   "checked_at": 1794413446,
+   "checked_at": 1794471047,
    "fallback_query": null,
    "query": "나나 drivers license",
    "state": "blocked",
@@ -94,7 +94,7 @@
    "video_id": "KJzmhOkm4-E"
   },
   {
-   "checked_at": 1794413446,
+   "checked_at": 1794471047,
    "fallback_query": null,
    "query": "나나 논블레스오브리주",
    "state": "blocked",
@@ -213,14 +213,14 @@
    "video_id": "td73oLSQug0"
   },
   {
-   "checked_at": 1794413446,
+   "checked_at": 1794471047,
    "fallback_query": null,
    "query": "나나 후야 오츠카레summer",
    "state": "blocked",
    "video_id": "Zetk77I6_s8"
   },
   {
-   "checked_at": 1794413446,
+   "checked_at": 1794471047,
    "fallback_query": null,
    "query": "나나 희극",
    "state": "blocked",
@@ -297,7 +297,7 @@
    "video_id": "naWmFCbwi3M"
   },
   {
-   "checked_at": 1794413446,
+   "checked_at": 1794471047,
    "fallback_query": null,
    "query": "리제 괴수의꽃노래",
    "state": "blocked",
@@ -388,14 +388,14 @@
    "video_id": "7zsY6Ex9dMI"
   },
   {
-   "checked_at": 1794441884,
+   "checked_at": 1794470684,
    "fallback_query": null,
    "query": "리제 바니걸",
    "state": "visible",
    "video_id": "SIBtVNjRois"
   },
   {
-   "checked_at": 1794413446,
+   "checked_at": 1794471047,
    "fallback_query": null,
    "query": "리제 발묘",
    "state": "blocked",
@@ -500,7 +500,7 @@
    "video_id": "pKPPV1RMk-c"
   },
   {
-   "checked_at": 1794413446,
+   "checked_at": 1794471047,
    "fallback_query": null,
    "query": "리제 프로포즈",
    "state": "blocked",
@@ -563,7 +563,7 @@
    "video_id": "yuxa6o1_scc"
   },
   {
-   "checked_at": 1794441985,
+   "checked_at": 1794470968,
    "fallback_query": "리코 래빗홀 cover",
    "query": "리코 래빗홀",
    "state": "cover_only",
@@ -577,7 +577,7 @@
    "video_id": "7CQuc6Jf4UE"
   },
   {
-   "checked_at": 1794441965,
+   "checked_at": 1794470948,
    "fallback_query": "리코 마시로 악마가아닌걸 cover",
    "query": "리코 마시로 악마가아닌걸",
    "state": "cover_only",
@@ -1081,7 +1081,7 @@
    "video_id": "m5XU_4r1yV0"
   },
   {
-   "checked_at": 1794413446,
+   "checked_at": 1794471047,
    "fallback_query": null,
    "query": "마시로 구르는 바위 네게 아침이 내린다",
    "state": "blocked",
@@ -1102,7 +1102,7 @@
    "video_id": "7gYDCoiV7cc"
   },
   {
-   "checked_at": 1794442005,
+   "checked_at": 1794470988,
    "fallback_query": "마시로 린 메이드지상주의 cover",
    "query": "마시로 린 메이드지상주의",
    "state": "cover_only",
@@ -1291,24 +1291,24 @@
    "video_id": "DMk4_4Xytz4"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794470420,
    "fallback_query": null,
    "query": "스텔라이브 투니버스 메들리",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "6mVByQMyxdY"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794470441,
    "fallback_query": null,
    "query": "스텔라이브 히로인이되고싶어",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "m-rIYEw5uAs"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794470461,
    "fallback_query": null,
    "query": "시부키 SOS",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "Ho-tW7OsO54"
   },
   {
@@ -1319,10 +1319,10 @@
    "video_id": "DLFDx_CZwf8"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794470481,
    "fallback_query": null,
    "query": "시부키 daybreak frontline",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "I8hFyN32Ysk"
   },
   {
@@ -1473,7 +1473,7 @@
    "video_id": "3Xf1Wt7Z-RY"
   },
   {
-   "checked_at": 1794413446,
+   "checked_at": 1794471047,
    "fallback_query": null,
    "query": "아카네 리제 바니걸",
    "state": "blocked",
