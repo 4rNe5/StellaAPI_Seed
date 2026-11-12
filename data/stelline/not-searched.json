@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/not_searched",
- "fetchedAt": "2026-11-12T12:16:42.508Z",
+ "fetchedAt": "2026-11-12T20:12:27.388Z",
  "data": {
   "all_songs": [
    {
@@ -42,10 +42,6 @@
    {
     "query": "마시로 구르는 바위 네게 아침이 내린다",
     "video_id": "SiBzI2htX2o"
-   },
-   {
-    "query": "메리 도쿄테디베어",
-    "video_id": "rKQptWhAvO0"
    },
    {
     "query": "스텔라이브 twinkle",
@@ -99,12 +95,12 @@
   "recent": [
    {
     "query": "나나 deja vu",
-    "searched_time": 1794442226,
+    "searched_time": 1794499849,
     "video_id": "KmH0RhhenzE"
    },
    {
     "query": "나나 drivers license",
-    "searched_time": 1794471047,
+    "searched_time": 1794499849,
     "video_id": "SUJm8SX87DY"
    },
    {
@@ -144,7 +140,7 @@
    },
    {
     "query": "리코 밤을 달리다",
-    "searched_time": 1794442226,
+    "searched_time": 1794499849,
     "video_id": "lBtlpVXmbYY"
    },
    {
@@ -159,12 +155,12 @@
    },
    {
     "query": "스텔라이브 twinkle",
-    "searched_time": 1794442226,
+    "searched_time": 1794499849,
     "video_id": "WnCMBCpENio"
    },
    {
     "query": "시부키 모시모시",
-    "searched_time": 1794442226,
+    "searched_time": 1794499849,
     "video_id": "zQp6ZZAT6ew"
    },
    {
@@ -174,10 +170,10 @@
    },
    {
     "query": "유즈하 리코 밤을 달리다",
-    "searched_time": 1794442226,
+    "searched_time": 1794499849,
     "video_id": "lBtlpVXmbYY"
    }
   ],
-  "searched_time": 1794471047
+  "searched_time": 1794499849
  }
 }
