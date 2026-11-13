@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/songs",
- "fetchedAt": "2026-11-12T23:53:43.517Z",
+ "fetchedAt": "2026-11-13T04:10:18.681Z",
  "data": [
   {
    "checked_at": 1793779544,
@@ -94,7 +94,7 @@
    "video_id": "KJzmhOkm4-E"
   },
   {
-   "checked_at": 1794471047,
+   "checked_at": 1794528665,
    "fallback_query": null,
    "query": "나나 논블레스오브리주",
    "state": "blocked",
@@ -213,17 +213,17 @@
    "video_id": "td73oLSQug0"
   },
   {
-   "checked_at": 1794471047,
+   "checked_at": 1794528665,
    "fallback_query": null,
    "query": "나나 후야 오츠카레summer",
    "state": "blocked",
    "video_id": "Zetk77I6_s8"
   },
   {
-   "checked_at": 1794471047,
-   "fallback_query": null,
+   "checked_at": 1794528405,
+   "fallback_query": "나나 희극 cover",
    "query": "나나 희극",
-   "state": "blocked",
+   "state": "cover_only",
    "video_id": "gkmnG2pWzys"
   },
   {
@@ -297,7 +297,7 @@
    "video_id": "naWmFCbwi3M"
   },
   {
-   "checked_at": 1794471047,
+   "checked_at": 1794528665,
    "fallback_query": null,
    "query": "리제 괴수의꽃노래",
    "state": "blocked",
@@ -388,14 +388,14 @@
    "video_id": "7zsY6Ex9dMI"
   },
   {
-   "checked_at": 1794499484,
+   "checked_at": 1794528665,
    "fallback_query": null,
    "query": "리제 바니걸",
-   "state": "visible",
+   "state": "blocked",
    "video_id": "SIBtVNjRois"
   },
   {
-   "checked_at": 1794471047,
+   "checked_at": 1794528665,
    "fallback_query": null,
    "query": "리제 발묘",
    "state": "blocked",
@@ -500,7 +500,7 @@
    "video_id": "pKPPV1RMk-c"
   },
   {
-   "checked_at": 1794471047,
+   "checked_at": 1794528665,
    "fallback_query": null,
    "query": "리제 프로포즈",
    "state": "blocked",
@@ -1081,7 +1081,7 @@
    "video_id": "m5XU_4r1yV0"
   },
   {
-   "checked_at": 1794471047,
+   "checked_at": 1794528665,
    "fallback_query": null,
    "query": "마시로 구르는 바위 네게 아침이 내린다",
    "state": "blocked",
@@ -1186,10 +1186,10 @@
    "video_id": "Y3McmrSFy1E"
   },
   {
-   "checked_at": 1794499403,
+   "checked_at": 1794528665,
    "fallback_query": null,
    "query": "메리 도쿄테디베어",
-   "state": "visible",
+   "state": "blocked",
    "video_id": "rKQptWhAvO0"
   },
   {
@@ -1389,10 +1389,10 @@
    "video_id": "PdiTCYldc6k"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794528020,
    "fallback_query": null,
    "query": "시부키 리코 있잖아있잖아있잖아",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "4OzmA6a8sqY"
   },
   {
@@ -1403,10 +1403,10 @@
    "video_id": "Nt9LQLycIZk"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794528041,
    "fallback_query": null,
    "query": "시부키 메리크리",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "30dd8K_i-38"
   },
   {
@@ -1424,10 +1424,10 @@
    "video_id": "nsZmnwC9ukE"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794528061,
    "fallback_query": null,
    "query": "시부키 생명에게미움받고있어",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "bJqdy8925Oc"
   },
   {
@@ -1445,10 +1445,10 @@
    "video_id": "sWZoIawG0tA"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794528081,
    "fallback_query": null,
    "query": "시부키 친애하는소년이여",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "AH8sMk7otKU"
   },
   {
@@ -1473,10 +1473,10 @@
    "video_id": "3Xf1Wt7Z-RY"
   },
   {
-   "checked_at": 1794471047,
-   "fallback_query": null,
+   "checked_at": 1794528506,
+   "fallback_query": "아카네 리제 바니걸 cover",
    "query": "아카네 리제 바니걸",
-   "state": "blocked",
+   "state": "cover_only",
    "video_id": "SIBtVNjRois"
   },
   {
@@ -2005,7 +2005,7 @@
    "video_id": "N_vYUNEktsA"
   },
   {
-   "checked_at": 1794499585,
+   "checked_at": 1794528567,
    "fallback_query": "토아 제육감 cover",
    "query": "토아 제육감",
    "state": "cover_only",
@@ -2194,7 +2194,7 @@
    "video_id": "UcFBb927-kU"
   },
   {
-   "checked_at": 1794499605,
+   "checked_at": 1794528587,
    "fallback_query": "히나 리코 소녀레이 cover",
    "query": "히나 리코 소녀레이",
    "state": "cover_only",
@@ -2327,7 +2327,7 @@
    "video_id": "rQaluJS-Tc0"
   },
   {
-   "checked_at": 1794499626,
+   "checked_at": 1794528608,
    "fallback_query": "히나 하루카 cover",
    "query": "히나 하루카",
    "state": "cover_only",
