@@ -5,10 +5,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 16,
+  "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:48.076Z",
+  "checkedAt": "2026-11-13T12:15:48.225Z",
   "history": [
    [
     "2026-11-02T14:37:59.519Z",
@@ -81,6 +81,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:15:48.225Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -90,10 +96,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 18,
+  "resultCount": 19,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:11:57.524Z",
+  "checkedAt": "2026-11-13T12:12:03.911Z",
   "history": [
    [
     "2026-11-02T14:37:37.756Z",
@@ -175,6 +181,12 @@
    ],
    [
     "2026-11-12T12:11:57.524Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:12:03.911Z",
     1,
     null,
     "KR"
@@ -384,7 +396,7 @@
   "resultCount": 19,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:50.051Z",
+  "checkedAt": "2026-11-13T12:15:50.031Z",
   "history": [
    [
     "2026-11-02T14:37:33.398Z",
@@ -454,6 +466,12 @@
    ],
    [
     "2026-11-12T12:15:50.051Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:15:50.031Z",
     1,
     null,
     "KR"
@@ -884,10 +902,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 17,
+  "resultCount": 16,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:59.874Z",
+  "checkedAt": "2026-11-13T12:15:59.906Z",
   "history": [
    [
     "2026-11-02T14:37:31.209Z",
@@ -957,6 +975,12 @@
    ],
    [
     "2026-11-12T12:15:59.874Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:15:59.906Z",
     1,
     null,
     "KR"
@@ -1078,10 +1102,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 17,
+  "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:44.938Z",
+  "checkedAt": "2026-11-13T12:15:45.609Z",
   "history": [
    [
     "2026-11-02T14:37:28.974Z",
@@ -1151,6 +1175,12 @@
    ],
    [
     "2026-11-12T12:15:44.938Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:15:45.609Z",
     1,
     null,
     "KR"
@@ -1790,7 +1820,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:35.428Z",
+  "checkedAt": "2026-11-13T12:15:36.555Z",
   "history": [
    [
     "2026-11-02T14:37:20.691Z",
@@ -1860,6 +1890,12 @@
    ],
    [
     "2026-11-12T12:15:35.428Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:15:36.555Z",
     1,
     null,
     "KR"
@@ -1972,7 +2008,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:38.410Z",
+  "checkedAt": "2026-11-13T12:15:39.127Z",
   "history": [
    [
     "2026-11-02T14:37:50.189Z",
@@ -2045,6 +2081,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:15:39.127Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -2054,10 +2096,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 16,
+  "resultCount": 12,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:11:52.964Z",
+  "checkedAt": "2026-11-13T12:12:00.222Z",
   "history": [
    [
     "2026-11-02T14:37:25.876Z",
@@ -2142,6 +2184,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:12:00.222Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -2154,7 +2202,7 @@
   "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:50.563Z",
+  "checkedAt": "2026-11-13T12:15:50.820Z",
   "history": [
    [
     "2026-11-02T14:37:22.407Z",
@@ -2227,6 +2275,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:15:50.820Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -2239,7 +2293,7 @@
   "resultCount": 12,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:41.961Z",
+  "checkedAt": "2026-11-13T12:15:42.429Z",
   "history": [
    [
     "2026-11-02T14:37:18.117Z",
@@ -2312,6 +2366,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:15:42.429Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -2321,10 +2381,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 13,
+  "resultCount": 14,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:16:18.059Z",
+  "checkedAt": "2026-11-13T12:16:18.404Z",
   "history": [
    [
     "2026-11-02T14:37:44.369Z",
@@ -2394,6 +2454,12 @@
    ],
    [
     "2026-11-12T12:16:18.059Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:16:18.404Z",
     1,
     null,
     "KR"
@@ -2515,10 +2581,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 17,
+  "resultCount": 16,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:05.610Z",
+  "checkedAt": "2026-11-13T12:15:07.438Z",
   "history": [
    [
     "2026-11-02T14:37:19.710Z",
@@ -2591,6 +2657,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:15:07.438Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -2600,10 +2672,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 17,
+  "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:27.825Z",
+  "checkedAt": "2026-11-13T12:15:28.961Z",
   "history": [
    [
     "2026-11-02T14:37:41.438Z",
@@ -2673,6 +2745,12 @@
    ],
    [
     "2026-11-12T12:15:27.825Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:15:28.961Z",
     1,
     null,
     "KR"
@@ -2785,7 +2863,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:16:05.439Z",
+  "checkedAt": "2026-11-13T12:16:05.991Z",
   "history": [
    [
     "2026-11-02T14:37:14.715Z",
@@ -2858,6 +2936,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:16:05.991Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -2867,10 +2951,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 18,
+  "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:44.051Z",
+  "checkedAt": "2026-11-13T12:15:45.292Z",
   "history": [
    [
     "2026-11-02T14:37:36.716Z",
@@ -2943,6 +3027,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:15:45.292Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -2955,7 +3045,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:53.469Z",
+  "checkedAt": "2026-11-13T12:15:53.313Z",
   "history": [
    [
     "2026-11-02T14:37:09.743Z",
@@ -3025,6 +3115,12 @@
    ],
    [
     "2026-11-12T12:15:53.469Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:15:53.313Z",
     1,
     null,
     "KR"
@@ -3134,10 +3230,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 14,
+  "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:16:17.057Z",
+  "checkedAt": "2026-11-13T12:16:16.942Z",
   "history": [
    [
     "2026-11-02T14:37:34.728Z",
@@ -3210,6 +3306,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:16:16.942Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -3219,10 +3321,10 @@
   "fallbackQuery": "칸나 Cookie cover",
   "fallbackRank": null,
   "status": "hidden",
-  "resultCount": 14,
+  "resultCount": 16,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-13T04:09:33.230Z",
+  "checkedAt": "2026-11-13T12:11:35.300Z",
   "history": [
    [
     "2026-11-01T15:08:07.853Z",
@@ -3415,6 +3517,12 @@
     null,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:11:35.300Z",
+    null,
+    null,
+    "KR"
    ]
   ]
  },
@@ -3424,10 +3532,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 16,
+  "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:01.128Z",
+  "checkedAt": "2026-11-13T12:15:03.308Z",
   "history": [
    [
     "2026-11-02T14:37:12.452Z",
@@ -3500,6 +3608,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:15:03.308Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -3509,10 +3623,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 18,
+  "resultCount": 7,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:20.633Z",
+  "checkedAt": "2026-11-13T12:15:21.471Z",
   "history": [
    [
     "2026-11-02T14:37:31.962Z",
@@ -3585,6 +3699,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:15:21.471Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -3597,7 +3717,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:55.462Z",
+  "checkedAt": "2026-11-13T12:14:57.962Z",
   "history": [
    [
     "2026-11-02T14:37:06.851Z",
@@ -3667,6 +3787,12 @@
    ],
    [
     "2026-11-12T12:14:55.462Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:14:57.962Z",
     1,
     null,
     "KR"
@@ -3779,7 +3905,7 @@
   "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:37.974Z",
+  "checkedAt": "2026-11-13T12:15:38.981Z",
   "history": [
    [
     "2026-11-02T14:37:24.591Z",
@@ -3849,6 +3975,12 @@
    ],
    [
     "2026-11-12T12:15:37.974Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:15:38.981Z",
     1,
     null,
     "KR"
@@ -3973,7 +4105,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:14.586Z",
+  "checkedAt": "2026-11-13T12:15:16.151Z",
   "history": [
    [
     "2026-11-02T14:37:00.889Z",
@@ -4046,6 +4178,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:15:16.151Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -4058,7 +4196,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-13T04:08:50.894Z",
+  "checkedAt": "2026-11-13T12:10:56.865Z",
   "history": [
    [
     "2026-11-02T14:37:28.455Z",
@@ -4245,6 +4383,12 @@
     2,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:10:56.865Z",
+    2,
+    null,
+    "KR"
    ]
   ]
  },
@@ -4257,7 +4401,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-13T04:09:14.759Z",
+  "checkedAt": "2026-11-13T12:11:15.776Z",
   "history": [
    [
     "2026-11-01T15:06:00.871Z",
@@ -4462,6 +4606,12 @@
     2,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:11:15.776Z",
+    2,
+    null,
+    "KR"
    ]
   ]
  },
@@ -4474,7 +4624,7 @@
   "resultCount": 19,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:12.135Z",
+  "checkedAt": "2026-11-13T12:15:15.037Z",
   "history": [
    [
     "2026-11-02T14:37:23.635Z",
@@ -4544,6 +4694,12 @@
    ],
    [
     "2026-11-12T12:15:12.135Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:15:15.037Z",
     1,
     null,
     "KR"
@@ -4656,7 +4812,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:46.711Z",
+  "checkedAt": "2026-11-13T12:15:47.682Z",
   "history": [
    [
     "2026-11-02T14:37:01.516Z",
@@ -4729,19 +4885,25 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:15:47.682Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
  "1838": {
   "query": "유니 내꺼 하는 법",
-  "rank": 7,
+  "rank": 14,
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-13T04:08:48.662Z",
+  "checkedAt": "2026-11-13T12:10:54.441Z",
   "history": [
    [
     "2026-11-01T15:06:15.585Z",
@@ -4952,6 +5114,12 @@
     7,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:10:54.441Z",
+    14,
+    null,
+    "KR"
    ]
   ]
  },
@@ -5158,7 +5326,7 @@
   "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:31.575Z",
+  "checkedAt": "2026-11-13T12:15:32.568Z",
   "history": [
    [
     "2026-11-02T14:37:06.824Z",
@@ -5231,6 +5399,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:15:32.568Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -5243,7 +5417,7 @@
   "resultCount": 19,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:30.645Z",
+  "checkedAt": "2026-11-13T12:15:30.954Z",
   "history": [
    [
     "2026-11-02T14:37:17.255Z",
@@ -5316,6 +5490,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:15:30.954Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -5325,10 +5505,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 12,
+  "resultCount": 11,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:22.310Z",
+  "checkedAt": "2026-11-13T12:15:23.774Z",
   "history": [
    [
     "2026-11-02T14:36:58.059Z",
@@ -5401,6 +5581,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:15:23.774Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -5413,7 +5599,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:02.895Z",
+  "checkedAt": "2026-11-13T12:15:04.090Z",
   "history": [
    [
     "2026-11-02T14:36:53.858Z",
@@ -5486,6 +5672,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:15:04.090Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -5498,7 +5690,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-13T04:09:51.779Z",
+  "checkedAt": "2026-11-13T12:11:54.707Z",
   "history": [
    [
     "2026-11-02T14:36:55.023Z",
@@ -5715,6 +5907,12 @@
     null,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:11:54.707Z",
+    null,
+    null,
+    "KR"
    ]
   ]
  },
@@ -5727,7 +5925,7 @@
   "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:34.664Z",
+  "checkedAt": "2026-11-13T12:15:35.778Z",
   "history": [
    [
     "2026-11-02T14:36:47.326Z",
@@ -5800,6 +5998,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:15:35.778Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -5809,10 +6013,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 18,
+  "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:25.179Z",
+  "checkedAt": "2026-11-13T12:15:25.823Z",
   "history": [
    [
     "2026-11-02T14:37:12.490Z",
@@ -5885,6 +6089,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:15:25.823Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -5894,10 +6104,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 18,
+  "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:04.547Z",
+  "checkedAt": "2026-11-13T12:15:06.583Z",
   "history": [
    [
     "2026-11-02T14:37:15.854Z",
@@ -5967,6 +6177,12 @@
    ],
    [
     "2026-11-12T12:15:04.547Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:15:06.583Z",
     1,
     null,
     "KR"
@@ -6076,10 +6292,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 14,
+  "resultCount": 15,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:58.046Z",
+  "checkedAt": "2026-11-13T12:15:00.402Z",
   "history": [
    [
     "2026-11-02T14:36:42.087Z",
@@ -6149,6 +6365,12 @@
    ],
    [
     "2026-11-12T12:14:58.046Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:15:00.402Z",
     1,
     null,
     "KR"
@@ -6261,7 +6483,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:07.641Z",
+  "checkedAt": "2026-11-13T12:15:09.320Z",
   "history": [
    [
     "2026-11-02T14:36:50.108Z",
@@ -6334,6 +6556,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:15:09.320Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -6343,10 +6571,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 15,
+  "resultCount": 14,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:27.467Z",
+  "checkedAt": "2026-11-13T12:15:27.535Z",
   "history": [
    [
     "2026-11-02T14:36:38.560Z",
@@ -6416,6 +6644,12 @@
    ],
    [
     "2026-11-12T12:15:27.467Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:15:27.535Z",
     1,
     null,
     "KR"
@@ -6528,7 +6762,7 @@
   "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:18.949Z",
+  "checkedAt": "2026-11-13T12:15:20.766Z",
   "history": [
    [
     "2026-11-02T14:37:09.096Z",
@@ -6601,6 +6835,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:15:20.766Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -6613,7 +6853,7 @@
   "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:24.042Z",
+  "checkedAt": "2026-11-13T12:15:24.410Z",
   "history": [
    [
     "2026-11-02T14:36:34.174Z",
@@ -6686,6 +6926,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:15:24.410Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -6695,10 +6941,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 17,
+  "resultCount": 15,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:33.165Z",
+  "checkedAt": "2026-11-13T12:15:33.472Z",
   "history": [
    [
     "2026-11-02T14:36:42.540Z",
@@ -6771,6 +7017,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:15:33.472Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -6780,10 +7032,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 14,
+  "resultCount": 13,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:17.201Z",
+  "checkedAt": "2026-11-13T12:15:19.248Z",
   "history": [
    [
     "2026-11-02T14:37:04.134Z",
@@ -6856,6 +7108,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:15:19.248Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -6868,7 +7126,7 @@
   "resultCount": 19,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:49.721Z",
+  "checkedAt": "2026-11-13T12:14:50.577Z",
   "history": [
    [
     "2026-11-02T14:36:33.424Z",
@@ -6941,6 +7199,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:50.577Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -6950,10 +7214,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 17,
+  "resultCount": 15,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:51.486Z",
+  "checkedAt": "2026-11-13T12:14:52.733Z",
   "history": [
    [
     "2026-11-02T14:37:03.846Z",
@@ -7026,6 +7290,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:52.733Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -7035,10 +7305,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 18,
+  "resultCount": 19,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:53.620Z",
+  "checkedAt": "2026-11-13T12:14:56.134Z",
   "history": [
    [
     "2026-11-02T14:36:39.800Z",
@@ -7111,6 +7381,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:56.134Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -7120,10 +7396,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 15,
+  "resultCount": 12,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:32.648Z",
+  "checkedAt": "2026-11-13T12:14:34.066Z",
   "history": [
    [
     "2026-11-02T14:36:36.701Z",
@@ -7196,6 +7472,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:34.066Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -7208,7 +7490,7 @@
   "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:11:56.346Z",
+  "checkedAt": "2026-11-13T12:12:02.869Z",
   "history": [
    [
     "2026-11-02T14:36:27.744Z",
@@ -7293,6 +7575,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:12:02.869Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -7302,10 +7590,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 16,
+  "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:46.333Z",
+  "checkedAt": "2026-11-13T12:14:47.158Z",
   "history": [
    [
     "2026-11-02T14:36:58.795Z",
@@ -7378,6 +7666,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:47.158Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -7390,7 +7684,7 @@
   "resultCount": 19,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:44.222Z",
+  "checkedAt": "2026-11-13T12:14:45.175Z",
   "history": [
    [
     "2026-11-02T14:36:31.228Z",
@@ -7463,6 +7757,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:45.175Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -7475,7 +7775,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-13T04:09:04.001Z",
+  "checkedAt": "2026-11-13T12:11:09.123Z",
   "history": [
    [
     "2026-11-02T14:36:22.542Z",
@@ -7662,6 +7962,12 @@
     2,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:11:09.123Z",
+    2,
+    null,
+    "KR"
    ]
   ]
  },
@@ -7768,10 +8074,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 5,
+  "resultCount": 16,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:09.817Z",
+  "checkedAt": "2026-11-13T12:15:11.541Z",
   "history": [
    [
     "2026-11-02T14:36:56.122Z",
@@ -7844,6 +8150,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:15:11.541Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -7853,10 +8165,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 16,
+  "resultCount": 15,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:20.659Z",
+  "checkedAt": "2026-11-13T12:14:22.502Z",
   "history": [
    [
     "2026-11-02T14:36:28.445Z",
@@ -7929,6 +8241,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:22.502Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -7938,10 +8256,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 14,
+  "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:40.917Z",
+  "checkedAt": "2026-11-13T12:15:41.932Z",
   "history": [
    [
     "2026-11-02T14:36:51.245Z",
@@ -8014,6 +8332,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:15:41.932Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -8023,10 +8347,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 17,
+  "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:35.127Z",
+  "checkedAt": "2026-11-13T12:14:37.049Z",
   "history": [
    [
     "2026-11-02T14:36:18.915Z",
@@ -8099,6 +8423,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:37.049Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -8111,7 +8441,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:41.066Z",
+  "checkedAt": "2026-11-13T12:14:42.855Z",
   "history": [
    [
     "2026-11-02T14:36:25.027Z",
@@ -8184,6 +8514,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:42.855Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -8196,7 +8532,7 @@
   "resultCount": 19,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:40.438Z",
+  "checkedAt": "2026-11-13T12:14:40.416Z",
   "history": [
    [
     "2026-11-02T14:36:48.504Z",
@@ -8269,6 +8605,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:40.416Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -8281,7 +8623,7 @@
   "resultCount": 14,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:59.581Z",
+  "checkedAt": "2026-11-13T12:15:00.775Z",
   "history": [
    [
     "2026-11-02T14:36:45.083Z",
@@ -8354,6 +8696,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:15:00.775Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -8366,7 +8714,7 @@
   "resultCount": 16,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:11.087Z",
+  "checkedAt": "2026-11-13T12:15:13.685Z",
   "history": [
    [
     "2026-11-02T14:36:22.325Z",
@@ -8436,6 +8784,12 @@
    ],
    [
     "2026-11-12T12:15:11.087Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:15:13.685Z",
     1,
     null,
     "KR"
@@ -8642,10 +8996,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 16,
+  "resultCount": 15,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:46.715Z",
+  "checkedAt": "2026-11-13T12:14:48.280Z",
   "history": [
    [
     "2026-11-02T14:36:13.272Z",
@@ -8718,6 +9072,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:48.280Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -8730,7 +9090,7 @@
   "resultCount": 14,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:37.837Z",
+  "checkedAt": "2026-11-13T12:14:39.265Z",
   "history": [
    [
     "2026-11-02T14:36:44.788Z",
@@ -8803,6 +9163,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:39.265Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -8812,10 +9178,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 17,
+  "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:24.110Z",
+  "checkedAt": "2026-11-13T12:14:25.525Z",
   "history": [
    [
     "2026-11-02T14:36:09.591Z",
@@ -8888,6 +9254,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:25.525Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -8897,10 +9269,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 15,
+  "resultCount": 16,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:08.792Z",
+  "checkedAt": "2026-11-13T12:15:10.293Z",
   "history": [
    [
     "2026-11-02T14:36:17.377Z",
@@ -8973,6 +9345,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:15:10.293Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -8985,7 +9363,7 @@
   "resultCount": 19,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:30.604Z",
+  "checkedAt": "2026-11-13T12:14:31.292Z",
   "history": [
    [
     "2026-11-02T14:36:36.255Z",
@@ -9058,6 +9436,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:31.292Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -9070,7 +9454,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:52.130Z",
+  "checkedAt": "2026-11-13T12:14:54.060Z",
   "history": [
    [
     "2026-11-02T14:36:03.807Z",
@@ -9143,6 +9527,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:54.060Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -9155,7 +9545,7 @@
   "resultCount": 19,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:07.417Z",
+  "checkedAt": "2026-11-13T12:14:06.499Z",
   "history": [
    [
     "2026-11-02T14:36:11.721Z",
@@ -9225,6 +9615,12 @@
    ],
    [
     "2026-11-12T12:14:07.417Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:14:06.499Z",
     1,
     null,
     "KR"
@@ -9334,10 +9730,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 19,
+  "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:49.012Z",
+  "checkedAt": "2026-11-13T12:14:50.256Z",
   "history": [
    [
     "2026-11-02T14:35:59.870Z",
@@ -9410,6 +9806,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:50.256Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -9422,7 +9824,7 @@
   "resultCount": 19,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:20.123Z",
+  "checkedAt": "2026-11-13T12:14:21.720Z",
   "history": [
    [
     "2026-11-02T14:36:05.381Z",
@@ -9495,6 +9897,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:21.720Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -9504,10 +9912,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 17,
+  "resultCount": 16,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:15.349Z",
+  "checkedAt": "2026-11-13T12:15:18.632Z",
   "history": [
    [
     "2026-11-02T14:36:25.646Z",
@@ -9580,6 +9988,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:15:18.632Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -9592,7 +10006,7 @@
   "resultCount": 16,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:50.325Z",
+  "checkedAt": "2026-11-13T12:13:50.136Z",
   "history": [
    [
     "2026-11-02T14:35:58.523Z",
@@ -9662,6 +10076,12 @@
    ],
    [
     "2026-11-12T12:13:50.325Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:13:50.136Z",
     1,
     null,
     "KR"
@@ -9774,7 +10194,7 @@
   "resultCount": 0,
   "noResults": true,
   "source": "KR",
-  "checkedAt": "2026-11-13T04:09:17.657Z",
+  "checkedAt": "2026-11-13T12:11:20.211Z",
   "history": [
    [
     "2026-11-01T15:02:53.696Z",
@@ -9979,6 +10399,12 @@
     null,
     1,
     "KR"
+   ],
+   [
+    "2026-11-13T12:11:20.211Z",
+    null,
+    1,
+    "KR"
    ]
   ]
  },
@@ -9991,7 +10417,7 @@
   "resultCount": 16,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:16.844Z",
+  "checkedAt": "2026-11-13T12:14:18.065Z",
   "history": [
    [
     "2026-11-02T14:36:02.301Z",
@@ -10061,6 +10487,12 @@
    ],
    [
     "2026-11-12T12:14:16.844Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:14:18.065Z",
     1,
     null,
     "KR"
@@ -10173,7 +10605,7 @@
   "resultCount": 16,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:43.728Z",
+  "checkedAt": "2026-11-13T12:14:43.819Z",
   "history": [
    [
     "2026-11-02T14:35:55.460Z",
@@ -10246,19 +10678,25 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:43.819Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
  "3630": {
   "query": "나나 신같네",
-  "rank": 1,
+  "rank": 2,
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 16,
+  "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-13T04:09:51.074Z",
+  "checkedAt": "2026-11-13T12:11:50.078Z",
   "history": [
    [
     "2026-11-02T14:35:38.033Z",
@@ -10343,6 +10781,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:11:50.078Z",
+    2,
+    null,
+    "KR"
    ]
   ]
  },
@@ -10352,10 +10796,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 15,
+  "resultCount": 13,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:15.359Z",
+  "checkedAt": "2026-11-13T12:14:15.360Z",
   "history": [
    [
     "2026-11-02T14:36:19.566Z",
@@ -10428,6 +10872,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:15.360Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -10440,7 +10890,7 @@
   "resultCount": 16,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:27.564Z",
+  "checkedAt": "2026-11-13T12:14:28.803Z",
   "history": [
    [
     "2026-11-02T14:35:32.269Z",
@@ -10513,6 +10963,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:28.803Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -10522,10 +10978,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 18,
+  "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:11.654Z",
+  "checkedAt": "2026-11-13T12:14:12.133Z",
   "history": [
    [
     "2026-11-02T14:36:15.248Z",
@@ -10598,6 +11054,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:12.133Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -10610,7 +11072,7 @@
   "resultCount": 19,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:11:52.485Z",
+  "checkedAt": "2026-11-13T12:11:57.689Z",
   "history": [
    [
     "2026-11-02T14:35:51.003Z",
@@ -10695,6 +11157,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:11:57.689Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -10707,7 +11175,7 @@
   "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:16:12.165Z",
+  "checkedAt": "2026-11-13T12:16:12.533Z",
   "history": [
    [
     "2026-11-02T14:38:10.159Z",
@@ -10777,6 +11245,12 @@
    ],
    [
     "2026-11-12T12:16:12.165Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:16:12.533Z",
     1,
     null,
     "KR"
@@ -10986,7 +11460,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:33.927Z",
+  "checkedAt": "2026-11-13T12:14:34.638Z",
   "history": [
    [
     "2026-11-02T14:36:16.428Z",
@@ -11059,6 +11533,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:34.638Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -11071,7 +11551,7 @@
   "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:02.408Z",
+  "checkedAt": "2026-11-13T12:14:03.203Z",
   "history": [
    [
     "2026-11-02T14:35:50.491Z",
@@ -11144,6 +11624,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:03.203Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -11153,10 +11639,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 13,
+  "resultCount": 15,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:51.005Z",
+  "checkedAt": "2026-11-13T12:13:51.609Z",
   "history": [
    [
     "2026-11-02T14:35:28.879Z",
@@ -11229,6 +11715,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:13:51.609Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -11241,7 +11733,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:16:11.751Z",
+  "checkedAt": "2026-11-13T12:16:11.731Z",
   "history": [
    [
     "2026-11-02T14:38:09.845Z",
@@ -11314,6 +11806,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:16:11.731Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -11326,7 +11824,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:16:05.659Z",
+  "checkedAt": "2026-11-13T12:16:06.798Z",
   "history": [
    [
     "2026-11-02T14:37:56.767Z",
@@ -11396,6 +11894,12 @@
    ],
    [
     "2026-11-12T12:16:05.659Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:16:06.798Z",
     1,
     null,
     "KR"
@@ -11508,7 +12012,7 @@
   "resultCount": 19,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:05.092Z",
+  "checkedAt": "2026-11-13T12:14:05.951Z",
   "history": [
    [
     "2026-11-02T14:35:35.487Z",
@@ -11581,6 +12085,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:05.951Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -11590,10 +12100,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 18,
+  "resultCount": 16,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:16:15.281Z",
+  "checkedAt": "2026-11-13T12:16:14.951Z",
   "history": [
    [
     "2026-11-02T14:38:07.967Z",
@@ -11663,6 +12173,12 @@
    ],
    [
     "2026-11-12T12:16:15.281Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:16:14.951Z",
     1,
     null,
     "KR"
@@ -11790,10 +12306,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 15,
+  "resultCount": 14,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:56.430Z",
+  "checkedAt": "2026-11-13T12:14:58.232Z",
   "history": [
    [
     "2026-11-02T14:36:09.114Z",
@@ -11866,6 +12382,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:58.232Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -11878,7 +12400,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:16:20.941Z",
+  "checkedAt": "2026-11-13T12:16:20.779Z",
   "history": [
    [
     "2026-11-02T14:37:53.032Z",
@@ -11948,6 +12470,12 @@
    ],
    [
     "2026-11-12T12:16:20.941Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:16:20.779Z",
     1,
     null,
     "KR"
@@ -12060,7 +12588,7 @@
   "resultCount": 8,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:16:23.442Z",
+  "checkedAt": "2026-11-13T12:16:22.816Z",
   "history": [
    [
     "2026-11-02T14:37:59.361Z",
@@ -12133,6 +12661,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:16:22.816Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -12142,10 +12676,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 15,
+  "resultCount": 16,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:02.154Z",
+  "checkedAt": "2026-11-13T12:14:01.042Z",
   "history": [
    [
     "2026-11-02T14:35:33.579Z",
@@ -12218,6 +12752,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:01.042Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -12227,10 +12767,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 17,
+  "resultCount": 15,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:26.574Z",
+  "checkedAt": "2026-11-13T12:14:28.545Z",
   "history": [
    [
     "2026-11-02T14:36:06.663Z",
@@ -12300,6 +12840,12 @@
    ],
    [
     "2026-11-12T12:14:26.574Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:14:28.545Z",
     1,
     null,
     "KR"
@@ -12409,10 +12955,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 18,
+  "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:59.761Z",
+  "checkedAt": "2026-11-13T12:14:00.791Z",
   "history": [
    [
     "2026-11-02T14:35:22.649Z",
@@ -12485,6 +13031,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:00.791Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -12494,10 +13046,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 19,
+  "resultCount": 16,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:58.898Z",
+  "checkedAt": "2026-11-13T12:13:58.371Z",
   "history": [
    [
     "2026-11-02T14:36:01.260Z",
@@ -12570,6 +13122,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:13:58.371Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -12582,7 +13140,7 @@
   "resultCount": 0,
   "noResults": true,
   "source": "KR",
-  "checkedAt": "2026-11-13T04:08:56.323Z",
+  "checkedAt": "2026-11-13T12:11:02.260Z",
   "history": [
    [
     "2026-11-01T15:09:00.912Z",
@@ -12790,6 +13348,12 @@
    ],
    [
     "2026-11-13T04:08:56.323Z",
+    null,
+    1,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:11:02.260Z",
     null,
     1,
     "KR"
@@ -13011,7 +13575,7 @@
   "resultCount": 19,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:13.922Z",
+  "checkedAt": "2026-11-13T12:14:15.067Z",
   "history": [
    [
     "2026-11-02T14:35:57.144Z",
@@ -13081,6 +13645,12 @@
    ],
    [
     "2026-11-12T12:14:13.922Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:14:15.067Z",
     1,
     null,
     "KR"
@@ -13384,10 +13954,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 13,
+  "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:09.899Z",
+  "checkedAt": "2026-11-13T12:14:09.039Z",
   "history": [
    [
     "2026-11-02T14:35:54.669Z",
@@ -13460,6 +14030,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:09.039Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -13472,7 +14048,7 @@
   "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:31.671Z",
+  "checkedAt": "2026-11-13T12:13:34.197Z",
   "history": [
    [
     "2026-11-02T14:35:19.588Z",
@@ -13542,6 +14118,12 @@
    ],
    [
     "2026-11-12T12:13:31.671Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:13:34.197Z",
     1,
     null,
     "KR"
@@ -13651,10 +14233,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 12,
+  "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:53.161Z",
+  "checkedAt": "2026-11-13T12:13:52.701Z",
   "history": [
    [
     "2026-11-02T14:35:52.983Z",
@@ -13727,6 +14309,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:13:52.701Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -13736,10 +14324,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 17,
+  "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:28.596Z",
+  "checkedAt": "2026-11-13T12:13:31.685Z",
   "history": [
    [
     "2026-11-02T14:35:11.428Z",
@@ -13812,6 +14400,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:13:31.685Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -13824,7 +14418,7 @@
   "resultCount": 19,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:37.370Z",
+  "checkedAt": "2026-11-13T12:14:37.190Z",
   "history": [
    [
     "2026-11-02T14:35:37.062Z",
@@ -13897,6 +14491,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:37.190Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -13906,10 +14506,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 12,
+  "resultCount": 13,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:11:44.253Z",
+  "checkedAt": "2026-11-13T12:11:54.204Z",
   "history": [
    [
     "2026-11-02T14:36:30.499Z",
@@ -13994,6 +14594,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:11:54.204Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -14003,10 +14609,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 18,
+  "resultCount": 16,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:17.986Z",
+  "checkedAt": "2026-11-13T12:13:25.545Z",
   "history": [
    [
     "2026-11-02T14:35:10.072Z",
@@ -14076,6 +14682,12 @@
    ],
    [
     "2026-11-12T12:13:17.986Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:13:25.545Z",
     1,
     null,
     "KR"
@@ -14191,10 +14803,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 19,
+  "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:40.538Z",
+  "checkedAt": "2026-11-13T12:13:40.824Z",
   "history": [
    [
     "2026-11-02T14:35:30.174Z",
@@ -14264,6 +14876,12 @@
    ],
    [
     "2026-11-12T12:13:40.538Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:13:40.824Z",
     1,
     null,
     "KR"
@@ -14376,7 +14994,7 @@
   "resultCount": 16,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:44.508Z",
+  "checkedAt": "2026-11-13T12:13:44.444Z",
   "history": [
    [
     "2026-11-02T14:35:14.061Z",
@@ -14449,6 +15067,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:13:44.444Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -14461,7 +15085,7 @@
   "resultCount": 19,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:33.372Z",
+  "checkedAt": "2026-11-13T12:13:34.614Z",
   "history": [
    [
     "2026-11-02T14:35:16.562Z",
@@ -14534,6 +15158,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:13:34.614Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -14543,10 +15173,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 9,
+  "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:16:14.490Z",
+  "checkedAt": "2026-11-13T12:16:14.703Z",
   "history": [
    [
     "2026-11-02T14:38:07.337Z",
@@ -14619,6 +15249,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:16:14.703Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -14631,7 +15267,7 @@
   "resultCount": 15,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:59.988Z",
+  "checkedAt": "2026-11-13T12:16:00.054Z",
   "history": [
    [
     "2026-11-02T14:37:52.863Z",
@@ -14701,6 +15337,12 @@
    ],
    [
     "2026-11-12T12:15:59.988Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:16:00.054Z",
     1,
     null,
     "KR"
@@ -15007,7 +15649,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:16:08.295Z",
+  "checkedAt": "2026-11-13T12:16:08.821Z",
   "history": [
    [
     "2026-11-02T14:38:05.536Z",
@@ -15077,6 +15719,12 @@
    ],
    [
     "2026-11-12T12:16:08.295Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:16:08.821Z",
     1,
     null,
     "KR"
@@ -15186,10 +15834,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 16,
+  "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:29.235Z",
+  "checkedAt": "2026-11-13T12:14:31.204Z",
   "history": [
    [
     "2026-11-02T14:35:26.583Z",
@@ -15262,6 +15910,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:31.204Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -15274,7 +15928,7 @@
   "resultCount": 19,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:34.974Z",
+  "checkedAt": "2026-11-13T12:13:37.283Z",
   "history": [
    [
     "2026-11-02T14:35:00.591Z",
@@ -15347,6 +16001,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:13:37.283Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -15356,10 +16016,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 12,
+  "resultCount": 13,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:11:58.878Z",
+  "checkedAt": "2026-11-13T12:12:05.043Z",
   "history": [
    [
     "2026-11-02T14:37:47.123Z",
@@ -15438,6 +16098,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:12:05.043Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -15447,10 +16113,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 19,
+  "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:57.160Z",
+  "checkedAt": "2026-11-13T12:13:57.293Z",
   "history": [
    [
     "2026-11-02T14:35:26.414Z",
@@ -15523,6 +16189,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:13:57.293Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -15532,10 +16204,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 17,
+  "resultCount": 19,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:12.781Z",
+  "checkedAt": "2026-11-13T12:13:18.655Z",
   "history": [
    [
     "2026-11-02T14:34:57.518Z",
@@ -15608,6 +16280,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:13:18.655Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -15617,10 +16295,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 17,
+  "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:37.632Z",
+  "checkedAt": "2026-11-13T12:13:40.408Z",
   "history": [
    [
     "2026-11-02T14:35:07.669Z",
@@ -15693,6 +16371,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:13:40.408Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -15705,7 +16389,7 @@
   "resultCount": 16,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:36.656Z",
+  "checkedAt": "2026-11-13T12:13:37.554Z",
   "history": [
    [
     "2026-11-02T14:35:03.442Z",
@@ -15778,6 +16462,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:13:37.554Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -15790,7 +16480,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:04.992Z",
+  "checkedAt": "2026-11-13T12:14:04.057Z",
   "history": [
    [
     "2026-11-02T14:34:54.847Z",
@@ -15863,6 +16553,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:04.057Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -15875,7 +16571,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:47.214Z",
+  "checkedAt": "2026-11-13T12:13:47.141Z",
   "history": [
    [
     "2026-11-02T14:35:20.340Z",
@@ -15948,6 +16644,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:13:47.141Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -15957,10 +16659,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 17,
+  "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-13T04:09:45.886Z",
+  "checkedAt": "2026-11-13T12:11:47.617Z",
   "history": [
    [
     "2026-11-02T14:35:23.316Z",
@@ -16045,6 +16747,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:11:47.617Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -16054,10 +16762,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 17,
+  "resultCount": 13,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:45.473Z",
+  "checkedAt": "2026-11-13T12:13:45.737Z",
   "history": [
    [
     "2026-11-02T14:34:59.878Z",
@@ -16130,6 +16838,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:13:45.737Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -16139,10 +16853,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 10,
+  "resultCount": 11,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:16.391Z",
+  "checkedAt": "2026-11-13T12:13:25.473Z",
   "history": [
    [
     "2026-11-02T14:34:53.736Z",
@@ -16215,6 +16929,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:13:25.473Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -16227,7 +16947,7 @@
   "resultCount": 19,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:55.391Z",
+  "checkedAt": "2026-11-13T12:13:55.746Z",
   "history": [
    [
     "2026-11-02T14:34:51.330Z",
@@ -16300,6 +17020,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:13:55.746Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -16309,10 +17035,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 15,
+  "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:14.589Z",
+  "checkedAt": "2026-11-13T12:13:20.024Z",
   "history": [
    [
     "2026-11-02T14:34:49.733Z",
@@ -16382,6 +17108,12 @@
    ],
    [
     "2026-11-12T12:13:14.589Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:13:20.024Z",
     1,
     null,
     "KR"
@@ -16494,7 +17226,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:23.502Z",
+  "checkedAt": "2026-11-13T12:14:25.227Z",
   "history": [
    [
     "2026-11-02T14:35:16.950Z",
@@ -16567,6 +17299,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:25.227Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -16579,7 +17317,7 @@
   "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:04.119Z",
+  "checkedAt": "2026-11-13T12:13:10.875Z",
   "history": [
    [
     "2026-11-02T14:34:52.497Z",
@@ -16652,6 +17390,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:13:10.875Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -16661,10 +17405,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 10,
+  "resultCount": 8,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:55.659Z",
+  "checkedAt": "2026-11-13T12:13:01.684Z",
   "history": [
    [
     "2026-11-02T14:34:44.572Z",
@@ -16737,6 +17481,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:13:01.684Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -16746,10 +17496,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 18,
+  "resultCount": 16,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:53.683Z",
+  "checkedAt": "2026-11-13T12:13:55.017Z",
   "history": [
    [
     "2026-11-02T14:34:47.012Z",
@@ -16822,6 +17572,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:13:55.017Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -16831,10 +17587,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 16,
+  "resultCount": 12,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:17.815Z",
+  "checkedAt": "2026-11-13T12:14:18.908Z",
   "history": [
    [
     "2026-11-02T14:35:13.418Z",
@@ -16907,6 +17663,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:18.908Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -16916,10 +17678,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 13,
+  "resultCount": 14,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:02.008Z",
+  "checkedAt": "2026-11-13T12:13:07.871Z",
   "history": [
    [
     "2026-11-02T14:34:39.400Z",
@@ -16992,6 +17754,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:13:07.871Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -17001,10 +17769,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 12,
+  "resultCount": 14,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:56.239Z",
+  "checkedAt": "2026-11-13T12:13:02.140Z",
   "history": [
    [
     "2026-11-02T14:34:36.588Z",
@@ -17077,6 +17845,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:13:02.140Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -17089,7 +17863,7 @@
   "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:54.058Z",
+  "checkedAt": "2026-11-13T12:12:59.456Z",
   "history": [
    [
     "2026-11-02T14:34:40.967Z",
@@ -17162,6 +17936,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:12:59.456Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -17174,7 +17954,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:12.377Z",
+  "checkedAt": "2026-11-13T12:14:12.230Z",
   "history": [
    [
     "2026-11-02T14:35:09.133Z",
@@ -17247,6 +18027,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:12.230Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -17256,10 +18042,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 13,
+  "resultCount": 15,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:06.392Z",
+  "checkedAt": "2026-11-13T12:13:13.727Z",
   "history": [
    [
     "2026-11-02T14:34:45.231Z",
@@ -17332,6 +18118,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:13:13.727Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -17344,7 +18136,7 @@
   "resultCount": 16,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:15:52.987Z",
+  "checkedAt": "2026-11-13T12:15:52.664Z",
   "history": [
    [
     "2026-11-02T14:37:43.852Z",
@@ -17417,6 +18209,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:15:52.664Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -17426,10 +18224,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 13,
+  "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:16:20.251Z",
+  "checkedAt": "2026-11-13T12:16:19.223Z",
   "history": [
    [
     "2026-11-02T14:37:49.933Z",
@@ -17502,6 +18300,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:16:19.223Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -17511,10 +18315,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 9,
+  "resultCount": 10,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:16:08.866Z",
+  "checkedAt": "2026-11-13T12:16:09.288Z",
   "history": [
    [
     "2026-11-02T14:38:02.904Z",
@@ -17587,6 +18391,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:16:09.288Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -17595,11 +18405,11 @@
   "rank": null,
   "fallbackQuery": "리제 프로포즈 cover",
   "fallbackRank": null,
-  "status": "suspected",
-  "resultCount": 17,
+  "status": "hidden",
+  "resultCount": 10,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-13T04:09:11.603Z",
+  "checkedAt": "2026-11-13T12:10:53.392Z",
   "history": [
    [
     "2026-11-01T15:08:23.076Z",
@@ -17804,6 +18614,12 @@
     null,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:10:53.392Z",
+    null,
+    null,
+    "KR"
    ]
   ]
  },
@@ -17813,10 +18629,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 15,
+  "resultCount": 14,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:16:01.945Z",
+  "checkedAt": "2026-11-13T12:16:02.541Z",
   "history": [
    [
     "2026-11-02T14:37:40.219Z",
@@ -17889,6 +18705,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:16:02.541Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -17898,10 +18720,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 16,
+  "resultCount": 14,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:30.649Z",
+  "checkedAt": "2026-11-13T12:13:32.146Z",
   "history": [
    [
     "2026-11-02T14:35:05.729Z",
@@ -17974,6 +18796,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:13:32.146Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -17986,7 +18814,7 @@
   "resultCount": 0,
   "noResults": true,
   "source": "KR",
-  "checkedAt": "2026-11-13T04:09:12.285Z",
+  "checkedAt": "2026-11-13T12:11:16.397Z",
   "history": [
    [
     "2026-11-02T14:38:04.027Z",
@@ -18173,6 +19001,12 @@
     null,
     1,
     "KR"
+   ],
+   [
+    "2026-11-13T12:11:16.397Z",
+    null,
+    1,
+    "KR"
    ]
   ]
  },
@@ -18182,10 +19016,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 12,
+  "resultCount": 14,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:42.761Z",
+  "checkedAt": "2026-11-13T12:13:43.308Z",
   "history": [
    [
     "2026-11-02T14:34:37.987Z",
@@ -18255,6 +19089,12 @@
    ],
    [
     "2026-11-12T12:13:42.761Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:13:43.308Z",
     1,
     null,
     "KR"
@@ -18415,7 +19255,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:16:03.234Z",
+  "checkedAt": "2026-11-13T12:16:03.504Z",
   "history": [
    [
     "2026-11-02T14:37:47.556Z",
@@ -18485,6 +19325,12 @@
    ],
    [
     "2026-11-12T12:16:03.234Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:16:03.504Z",
     1,
     null,
     "KR"
@@ -18594,10 +19440,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 16,
+  "resultCount": 15,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:14:08.314Z",
+  "checkedAt": "2026-11-13T12:14:08.650Z",
   "history": [
    [
     "2026-11-02T14:35:04.028Z",
@@ -18670,6 +19516,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:14:08.650Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -18679,10 +19531,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 18,
+  "resultCount": 19,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:53.468Z",
+  "checkedAt": "2026-11-13T12:12:58.640Z",
   "history": [
    [
     "2026-11-02T14:34:31.207Z",
@@ -18755,6 +19607,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:12:58.640Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -18764,10 +19622,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 17,
+  "resultCount": 19,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:48.888Z",
+  "checkedAt": "2026-11-13T12:12:54.990Z",
   "history": [
    [
     "2026-11-02T14:34:24.976Z",
@@ -18840,6 +19698,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:12:54.990Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -18852,7 +19716,7 @@
   "resultCount": 16,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:19.030Z",
+  "checkedAt": "2026-11-13T12:13:28.641Z",
   "history": [
    [
     "2026-11-02T14:34:56.532Z",
@@ -18922,6 +19786,12 @@
    ],
    [
     "2026-11-12T12:13:19.030Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:13:28.641Z",
     1,
     null,
     "KR"
@@ -19128,10 +19998,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 16,
+  "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:11.490Z",
+  "checkedAt": "2026-11-13T12:13:17.756Z",
   "history": [
    [
     "2026-11-02T14:34:22.202Z",
@@ -19201,6 +20071,12 @@
    ],
    [
     "2026-11-12T12:13:11.490Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:13:17.756Z",
     1,
     null,
     "KR"
@@ -19313,7 +20189,7 @@
   "resultCount": 16,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:50.597Z",
+  "checkedAt": "2026-11-13T12:12:55.265Z",
   "history": [
    [
     "2026-11-02T14:34:28.019Z",
@@ -19386,6 +20262,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:12:55.265Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -19395,10 +20277,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 17,
+  "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:10.122Z",
+  "checkedAt": "2026-11-13T12:13:16.438Z",
   "history": [
    [
     "2026-11-02T14:34:48.307Z",
@@ -19471,6 +20353,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:13:16.438Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -19483,7 +20371,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-13T04:09:38.428Z",
+  "checkedAt": "2026-11-13T12:11:40.177Z",
   "history": [
    [
     "2026-11-02T14:34:32.537Z",
@@ -19688,6 +20576,12 @@
     null,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:11:40.177Z",
+    null,
+    null,
+    "KR"
    ]
   ]
  },
@@ -19700,7 +20594,7 @@
   "resultCount": 16,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:38.976Z",
+  "checkedAt": "2026-11-13T12:12:46.218Z",
   "history": [
    [
     "2026-11-02T14:34:14.815Z",
@@ -19773,6 +20667,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:12:46.218Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -19785,7 +20685,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:48.289Z",
+  "checkedAt": "2026-11-13T12:13:48.715Z",
   "history": [
    [
     "2026-11-02T14:34:42.737Z",
@@ -19855,6 +20755,12 @@
    ],
    [
     "2026-11-12T12:13:48.289Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:13:48.715Z",
     1,
     null,
     "KR"
@@ -19976,10 +20882,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 17,
+  "resultCount": 16,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:07.843Z",
+  "checkedAt": "2026-11-13T12:13:14.542Z",
   "history": [
    [
     "2026-11-02T14:34:18.257Z",
@@ -20049,6 +20955,12 @@
    ],
    [
     "2026-11-12T12:13:07.843Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:13:14.542Z",
     1,
     null,
     "KR"
@@ -20161,7 +21073,7 @@
   "resultCount": 16,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:41.087Z",
+  "checkedAt": "2026-11-13T12:12:47.488Z",
   "history": [
    [
     "2026-11-02T14:34:18.636Z",
@@ -20231,6 +21143,12 @@
    ],
    [
     "2026-11-12T12:12:41.087Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:12:47.488Z",
     1,
     null,
     "KR"
@@ -20437,10 +21355,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 16,
+  "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:47.157Z",
+  "checkedAt": "2026-11-13T12:12:52.493Z",
   "history": [
    [
     "2026-11-02T14:34:34.779Z",
@@ -20510,6 +21428,12 @@
    ],
    [
     "2026-11-12T12:12:47.157Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:12:52.493Z",
     1,
     null,
     "KR"
@@ -20619,10 +21543,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 16,
+  "resultCount": 14,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-13T04:08:51.102Z",
+  "checkedAt": "2026-11-13T12:10:57.702Z",
   "history": [
    [
     "2026-11-02T14:34:04.978Z",
@@ -20809,6 +21733,12 @@
     2,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:10:57.702Z",
+    2,
+    null,
+    "KR"
    ]
   ]
  },
@@ -20821,7 +21751,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:35.747Z",
+  "checkedAt": "2026-11-13T12:12:43.217Z",
   "history": [
    [
     "2026-11-02T14:34:11.794Z",
@@ -20891,6 +21821,12 @@
    ],
    [
     "2026-11-12T12:12:35.747Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:12:43.217Z",
     1,
     null,
     "KR"
@@ -21003,7 +21939,7 @@
   "resultCount": 0,
   "noResults": true,
   "source": "KR",
-  "checkedAt": "2026-11-13T04:09:27.530Z",
+  "checkedAt": "2026-11-13T12:11:29.981Z",
   "history": [
    [
     "2026-11-05T12:13:35.898Z",
@@ -21154,6 +22090,12 @@
     null,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:11:29.981Z",
+    null,
+    null,
+    "KR"
    ]
   ]
  },
@@ -21163,10 +22105,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 12,
+  "resultCount": 10,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:58.368Z",
+  "checkedAt": "2026-11-13T12:13:04.865Z",
   "history": [
    [
     "2026-11-02T14:34:08.834Z",
@@ -21236,6 +22178,12 @@
    ],
    [
     "2026-11-12T12:12:58.368Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:13:04.865Z",
     1,
     null,
     "KR"
@@ -21348,7 +22296,7 @@
   "resultCount": 13,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:58.970Z",
+  "checkedAt": "2026-11-13T12:13:05.195Z",
   "history": [
    [
     "2026-11-02T14:33:56.797Z",
@@ -21421,6 +22369,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:13:05.195Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -21430,10 +22384,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 17,
+  "resultCount": 19,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:04.670Z",
+  "checkedAt": "2026-11-13T12:13:11.328Z",
   "history": [
    [
     "2026-11-02T14:34:03.583Z",
@@ -21503,6 +22457,12 @@
    ],
    [
     "2026-11-12T12:13:04.670Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:13:11.328Z",
     1,
     null,
     "KR"
@@ -21732,10 +22692,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 12,
+  "resultCount": 15,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:24.991Z",
+  "checkedAt": "2026-11-13T12:13:28.592Z",
   "history": [
    [
     "2026-11-02T14:34:27.736Z",
@@ -21808,6 +22768,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:13:28.592Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -21820,7 +22786,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:42.184Z",
+  "checkedAt": "2026-11-13T12:12:48.715Z",
   "history": [
    [
     "2026-11-02T14:34:24.785Z",
@@ -21893,6 +22859,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:12:48.715Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -21905,7 +22877,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:23.290Z",
+  "checkedAt": "2026-11-13T12:12:29.468Z",
   "history": [
    [
     "2026-11-02T14:34:00.238Z",
@@ -21975,6 +22947,12 @@
    ],
    [
     "2026-11-12T12:12:23.290Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:12:29.468Z",
     1,
     null,
     "KR"
@@ -22084,10 +23062,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 18,
+  "resultCount": 19,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:38.279Z",
+  "checkedAt": "2026-11-13T12:12:43.985Z",
   "history": [
    [
     "2026-11-02T14:34:21.203Z",
@@ -22160,6 +23138,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:12:43.985Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -22172,7 +23156,7 @@
   "resultCount": 0,
   "noResults": true,
   "source": "KR",
-  "checkedAt": "2026-11-13T04:09:23.569Z",
+  "checkedAt": "2026-11-13T12:11:25.214Z",
   "history": [
    [
     "2026-11-01T14:57:47.313Z",
@@ -22377,6 +23361,12 @@
     null,
     1,
     "KR"
+   ],
+   [
+    "2026-11-13T12:11:25.214Z",
+    null,
+    1,
+    "KR"
    ]
   ]
  },
@@ -22483,10 +23473,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 18,
+  "resultCount": 16,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:28.731Z",
+  "checkedAt": "2026-11-13T12:12:35.836Z",
   "history": [
    [
     "2026-11-02T14:33:56.127Z",
@@ -22559,6 +23549,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:12:35.836Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -22571,7 +23567,7 @@
   "resultCount": 19,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:45.303Z",
+  "checkedAt": "2026-11-13T12:12:51.882Z",
   "history": [
    [
     "2026-11-02T14:34:15.434Z",
@@ -22644,6 +23640,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:12:51.882Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -22653,10 +23655,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 17,
+  "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:11:54.807Z",
+  "checkedAt": "2026-11-13T12:12:00.305Z",
   "history": [
    [
     "2026-11-02T14:33:50.801Z",
@@ -22738,6 +23740,12 @@
    ],
    [
     "2026-11-12T12:11:54.807Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:12:00.305Z",
     1,
     null,
     "KR"
@@ -22847,10 +23855,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 17,
+  "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:13:00.843Z",
+  "checkedAt": "2026-11-13T12:13:07.362Z",
   "history": [
    [
     "2026-11-02T14:34:12.586Z",
@@ -22923,6 +23931,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:13:07.362Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -22932,10 +23946,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 15,
+  "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:31.653Z",
+  "checkedAt": "2026-11-13T12:12:38.907Z",
   "history": [
    [
     "2026-11-02T14:34:09.693Z",
@@ -23008,6 +24022,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:12:38.907Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -23017,10 +24037,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 14,
+  "resultCount": 15,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:20.157Z",
+  "checkedAt": "2026-11-13T12:12:25.833Z",
   "history": [
    [
     "2026-11-02T14:33:43.793Z",
@@ -23090,6 +24110,12 @@
    ],
    [
     "2026-11-12T12:12:20.157Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:12:25.833Z",
     1,
     null,
     "KR"
@@ -23202,7 +24228,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:31.202Z",
+  "checkedAt": "2026-11-13T12:12:38.207Z",
   "history": [
    [
     "2026-11-02T14:33:40.534Z",
@@ -23275,6 +24301,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:12:38.207Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -23284,10 +24316,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 6,
+  "resultCount": 11,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:33.538Z",
+  "checkedAt": "2026-11-13T12:12:40.493Z",
   "history": [
    [
     "2026-11-02T14:34:07.167Z",
@@ -23357,6 +24389,12 @@
    ],
    [
     "2026-11-12T12:12:33.538Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:12:40.493Z",
     1,
     null,
     "KR"
@@ -23469,7 +24507,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:34.925Z",
+  "checkedAt": "2026-11-13T12:12:41.132Z",
   "history": [
    [
     "2026-11-02T14:33:44.500Z",
@@ -23542,6 +24580,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:12:41.132Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -23551,10 +24595,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 10,
+  "resultCount": 11,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:28.916Z",
+  "checkedAt": "2026-11-13T12:12:36.195Z",
   "history": [
    [
     "2026-11-02T14:33:32.516Z",
@@ -23624,6 +24668,12 @@
    ],
    [
     "2026-11-12T12:12:28.916Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:12:36.195Z",
     1,
     null,
     "KR"
@@ -23733,10 +24783,10 @@
   "fallbackQuery": "나나 deja vu cover",
   "fallbackRank": null,
   "status": "hidden",
-  "resultCount": 16,
+  "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-13T04:09:42.168Z",
+  "checkedAt": "2026-11-13T12:11:45.409Z",
   "history": [
    [
     "2026-11-02T14:33:46.973Z",
@@ -23941,6 +24991,12 @@
     null,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:11:45.409Z",
+    null,
+    null,
+    "KR"
    ]
   ]
  },
@@ -23953,7 +25009,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:51.270Z",
+  "checkedAt": "2026-11-13T12:12:57.299Z",
   "history": [
    [
     "2026-11-02T14:33:48.876Z",
@@ -24026,6 +25082,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:12:57.299Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -24038,7 +25100,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:44.678Z",
+  "checkedAt": "2026-11-13T12:12:49.871Z",
   "history": [
    [
     "2026-11-02T14:33:53.814Z",
@@ -24108,6 +25170,12 @@
    ],
    [
     "2026-11-12T12:12:44.678Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:12:49.871Z",
     1,
     null,
     "KR"
@@ -24220,7 +25288,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:08.924Z",
+  "checkedAt": "2026-11-13T12:12:15.135Z",
   "history": [
    [
     "2026-11-02T14:33:37.754Z",
@@ -24293,6 +25361,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:12:15.135Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -24305,7 +25379,7 @@
   "resultCount": 16,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-13T04:09:28.680Z",
+  "checkedAt": "2026-11-13T12:11:30.805Z",
   "history": [
    [
     "2026-11-02T14:33:35.351Z",
@@ -24504,6 +25578,12 @@
     null,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:11:30.805Z",
+    null,
+    null,
+    "KR"
    ]
   ]
  },
@@ -24516,7 +25596,7 @@
   "resultCount": 16,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:23.333Z",
+  "checkedAt": "2026-11-13T12:12:30.024Z",
   "history": [
    [
     "2026-11-02T14:33:26.491Z",
@@ -24589,6 +25669,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:12:30.024Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -24598,10 +25684,10 @@
   "fallbackQuery": "나나 drivers license cover",
   "fallbackRank": null,
   "status": "hidden",
-  "resultCount": 16,
+  "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-13T04:09:42.885Z",
+  "checkedAt": "2026-11-13T12:11:46.006Z",
   "history": [
    [
     "2026-11-01T14:56:16.883Z",
@@ -24830,6 +25916,12 @@
     null,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:11:46.006Z",
+    null,
+    null,
+    "KR"
    ]
   ]
  },
@@ -24939,7 +26031,7 @@
   "resultCount": 0,
   "noResults": true,
   "source": "KR",
-  "checkedAt": "2026-11-13T04:08:55.982Z",
+  "checkedAt": "2026-11-13T12:11:01.558Z",
   "history": [
    [
     "2026-11-02T14:33:40.893Z",
@@ -25126,6 +26218,12 @@
     null,
     1,
     "KR"
+   ],
+   [
+    "2026-11-13T12:11:01.558Z",
+    null,
+    1,
+    "KR"
    ]
   ]
  },
@@ -25232,10 +26330,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 16,
+  "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:25.481Z",
+  "checkedAt": "2026-11-13T12:12:32.770Z",
   "history": [
    [
     "2026-11-02T14:33:54.297Z",
@@ -25308,6 +26406,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:12:32.770Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -25317,10 +26421,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 19,
+  "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:06.215Z",
+  "checkedAt": "2026-11-13T12:12:12.711Z",
   "history": [
    [
     "2026-11-02T14:33:28.904Z",
@@ -25393,6 +26497,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:12:12.711Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -25405,7 +26515,7 @@
   "resultCount": 16,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:14.548Z",
+  "checkedAt": "2026-11-13T12:12:19.079Z",
   "history": [
    [
     "2026-11-02T14:33:51.442Z",
@@ -25478,6 +26588,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:12:19.079Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -25487,10 +26603,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 13,
+  "resultCount": 14,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:18.042Z",
+  "checkedAt": "2026-11-13T12:12:23.024Z",
   "history": [
    [
     "2026-11-02T14:33:26.299Z",
@@ -25563,6 +26679,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:12:23.024Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -25572,10 +26694,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 13,
+  "resultCount": 14,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:06.040Z",
+  "checkedAt": "2026-11-13T12:12:11.624Z",
   "history": [
    [
     "2026-11-02T14:33:23.293Z",
@@ -25648,6 +26770,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:12:11.624Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -25660,7 +26788,7 @@
   "resultCount": 14,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:26.034Z",
+  "checkedAt": "2026-11-13T12:12:33.569Z",
   "history": [
    [
     "2026-11-02T14:33:23.242Z",
@@ -25730,6 +26858,12 @@
    ],
    [
     "2026-11-12T12:12:26.034Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:12:33.569Z",
     1,
     null,
     "KR"
@@ -25839,10 +26973,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 17,
+  "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:11.215Z",
+  "checkedAt": "2026-11-13T12:12:17.794Z",
   "history": [
    [
     "2026-11-02T14:33:20.606Z",
@@ -25912,6 +27046,12 @@
    ],
    [
     "2026-11-12T12:12:11.215Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:12:17.794Z",
     1,
     null,
     "KR"
@@ -26021,10 +27161,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 11,
+  "resultCount": 13,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:14.654Z",
+  "checkedAt": "2026-11-13T12:12:20.634Z",
   "history": [
    [
     "2026-11-02T14:33:46.345Z",
@@ -26094,6 +27234,12 @@
    ],
    [
     "2026-11-12T12:12:14.654Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:12:20.634Z",
     1,
     null,
     "KR"
@@ -26397,10 +27543,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 10,
+  "resultCount": 11,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:16.900Z",
+  "checkedAt": "2026-11-13T12:12:22.351Z",
   "history": [
    [
     "2026-11-02T14:33:17.549Z",
@@ -26473,6 +27619,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:12:22.351Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -26485,7 +27637,7 @@
   "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:03.178Z",
+  "checkedAt": "2026-11-13T12:12:09.125Z",
   "history": [
    [
     "2026-11-02T14:33:19.786Z",
@@ -26555,6 +27707,12 @@
    ],
    [
     "2026-11-12T12:12:03.178Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:12:09.125Z",
     1,
     null,
     "KR"
@@ -26664,10 +27822,10 @@
   "fallbackQuery": "나나 희극 cover",
   "fallbackRank": null,
   "status": "hidden",
-  "resultCount": 8,
+  "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-13T04:09:47.718Z",
+  "checkedAt": "2026-11-13T12:11:51.483Z",
   "history": [
    [
     "2026-11-01T14:54:54.658Z",
@@ -26878,6 +28036,12 @@
     null,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:11:51.483Z",
+    null,
+    null,
+    "KR"
    ]
   ]
  },
@@ -26887,10 +28051,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 15,
+  "resultCount": 13,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:11:50.485Z",
+  "checkedAt": "2026-11-13T12:11:57.326Z",
   "history": [
    [
     "2026-11-02T14:33:17.311Z",
@@ -26972,6 +28136,12 @@
    ],
    [
     "2026-11-12T12:11:50.485Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:11:57.326Z",
     1,
     null,
     "KR"
@@ -27084,7 +28254,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-13T04:09:22.281Z",
+  "checkedAt": "2026-11-13T12:11:25.131Z",
   "history": [
    [
     "2026-11-02T14:33:14.561Z",
@@ -27277,6 +28447,12 @@
     null,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:11:25.131Z",
+    null,
+    null,
+    "KR"
    ]
   ]
  },
@@ -27286,10 +28462,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 10,
+  "resultCount": 13,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:11.073Z",
+  "checkedAt": "2026-11-13T12:12:16.756Z",
   "history": [
    [
     "2026-11-02T14:33:14.404Z",
@@ -27362,6 +28538,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:12:16.756Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -27374,7 +28556,7 @@
   "resultCount": 11,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:08.644Z",
+  "checkedAt": "2026-11-13T12:12:14.416Z",
   "history": [
    [
     "2026-11-02T14:33:29.566Z",
@@ -27447,6 +28629,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:12:14.416Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -27459,7 +28647,7 @@
   "resultCount": 13,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:20.760Z",
+  "checkedAt": "2026-11-13T12:12:26.374Z",
   "history": [
    [
     "2026-11-02T14:33:11.767Z",
@@ -27532,6 +28720,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:12:26.374Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -27544,7 +28738,7 @@
   "resultCount": 16,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-13T04:09:32.928Z",
+  "checkedAt": "2026-11-13T12:11:35.059Z",
   "history": [
    [
     "2026-11-01T14:53:06.122Z",
@@ -27761,6 +28955,12 @@
     null,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:11:35.059Z",
+    null,
+    null,
+    "KR"
    ]
   ]
  },
@@ -27770,10 +28970,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 18,
+  "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:03.762Z",
+  "checkedAt": "2026-11-13T12:12:10.222Z",
   "history": [
    [
     "2026-11-02T14:33:08.076Z",
@@ -27843,6 +29043,12 @@
    ],
    [
     "2026-11-12T12:12:03.762Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:12:10.222Z",
     1,
     null,
     "KR"
@@ -27955,7 +29161,7 @@
   "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-13T04:09:01.332Z",
+  "checkedAt": "2026-11-13T12:11:07.676Z",
   "history": [
    [
     "2026-11-02T14:33:34.615Z",
@@ -28148,6 +29354,12 @@
     null,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:11:07.676Z",
+    null,
+    null,
+    "KR"
    ]
   ]
  },
@@ -28257,7 +29469,7 @@
   "resultCount": 0,
   "noResults": true,
   "source": "KR",
-  "checkedAt": "2026-11-13T04:09:06.509Z",
+  "checkedAt": "2026-11-13T12:11:11.776Z",
   "history": [
    [
     "2026-11-01T14:54:08.619Z",
@@ -28462,6 +29674,12 @@
     null,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:11:11.776Z",
+    null,
+    null,
+    "KR"
    ]
   ]
  },
@@ -28474,7 +29692,7 @@
   "resultCount": 19,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:00.548Z",
+  "checkedAt": "2026-11-13T12:12:06.471Z",
   "history": [
    [
     "2026-11-02T14:33:02.857Z",
@@ -28547,6 +29765,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:12:06.471Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -28556,10 +29780,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 12,
+  "resultCount": 13,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-12T12:12:01.217Z",
+  "checkedAt": "2026-11-13T12:12:07.705Z",
   "history": [
    [
     "2026-11-02T14:33:09.191Z",
@@ -28632,6 +29856,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:12:07.705Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -28644,7 +29874,7 @@
   "resultCount": 0,
   "noResults": true,
   "source": "KR",
-  "checkedAt": "2026-11-13T04:09:19.165Z",
+  "checkedAt": "2026-11-13T12:11:20.827Z",
   "history": [
    [
     "2026-11-01T14:53:54.358Z",
@@ -28846,6 +30076,12 @@
    ],
    [
     "2026-11-13T04:09:19.165Z",
+    null,
+    1,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:11:20.827Z",
     null,
     1,
     "KR"
@@ -29435,7 +30671,7 @@
   "resultCount": 0,
   "noResults": true,
   "source": "KR",
-  "checkedAt": "2026-11-13T04:09:00.756Z",
+  "checkedAt": "2026-11-13T12:11:05.829Z",
   "history": [
    [
     "2026-11-01T14:53:32.759Z",
@@ -29640,6 +30876,12 @@
     null,
     1,
     "KR"
+   ],
+   [
+    "2026-11-13T12:11:05.829Z",
+    null,
+    1,
+    "KR"
    ]
   ]
  },
@@ -29652,7 +30894,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-13T04:09:06.878Z",
+  "checkedAt": "2026-11-13T12:11:12.661Z",
   "history": [
    [
     "2026-11-01T14:53:25.936Z",
@@ -29857,6 +31099,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:11:12.661Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -29869,7 +31117,7 @@
   "resultCount": 8,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-13T04:08:48.580Z",
+  "checkedAt": "2026-11-13T12:10:51.382Z",
   "history": [
    [
     "2026-11-02T14:33:00.027Z",
@@ -30056,6 +31304,12 @@
     1,
     null,
     "KR"
+   ],
+   [
+    "2026-11-13T12:10:51.382Z",
+    1,
+    null,
+    "KR"
    ]
   ]
  },
@@ -30063,12 +31317,12 @@
   "query": "메리 도쿄테디베어",
   "rank": null,
   "fallbackQuery": "메리 도쿄테디베어 cover",
-  "fallbackRank": null,
-  "status": "hidden",
-  "resultCount": 14,
+  "fallbackRank": 8,
+  "status": "cover_only",
+  "resultCount": 15,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-13T04:09:37.863Z",
+  "checkedAt": "2026-11-13T12:11:40.183Z",
   "history": [
    [
     "2026-11-02T14:33:05.326Z",
@@ -30266,6 +31520,12 @@
     "2026-11-13T04:09:37.863Z",
     null,
     null,
+    "KR"
+   ],
+   [
+    "2026-11-13T12:11:40.183Z",
+    null,
+    8,
     "KR"
    ]
   ]
