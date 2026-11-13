@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/songs",
- "fetchedAt": "2026-11-13T12:16:57.096Z",
+ "fetchedAt": "2026-11-13T20:12:24.665Z",
  "data": [
   {
    "checked_at": 1793779544,
@@ -94,7 +94,7 @@
    "video_id": "KJzmhOkm4-E"
   },
   {
-   "checked_at": 1794528665,
+   "checked_at": 1794586234,
    "fallback_query": null,
    "query": "나나 논블레스오브리주",
    "state": "blocked",
@@ -213,7 +213,7 @@
    "video_id": "td73oLSQug0"
   },
   {
-   "checked_at": 1794528665,
+   "checked_at": 1794586234,
    "fallback_query": null,
    "query": "나나 후야 오츠카레summer",
    "state": "blocked",
@@ -297,7 +297,7 @@
    "video_id": "naWmFCbwi3M"
   },
   {
-   "checked_at": 1794528665,
+   "checked_at": 1794586234,
    "fallback_query": null,
    "query": "리제 괴수의꽃노래",
    "state": "blocked",
@@ -388,14 +388,14 @@
    "video_id": "7zsY6Ex9dMI"
   },
   {
-   "checked_at": 1794528665,
+   "checked_at": 1794586234,
    "fallback_query": null,
    "query": "리제 바니걸",
    "state": "blocked",
    "video_id": "SIBtVNjRois"
   },
   {
-   "checked_at": 1794528665,
+   "checked_at": 1794586234,
    "fallback_query": null,
    "query": "리제 발묘",
    "state": "blocked",
@@ -500,10 +500,10 @@
    "video_id": "pKPPV1RMk-c"
   },
   {
-   "checked_at": 1794528665,
+   "checked_at": 1794585823,
    "fallback_query": null,
    "query": "리제 프로포즈",
-   "state": "blocked",
+   "state": "visible",
    "video_id": "icR-Tg7YZwY"
   },
   {
@@ -563,7 +563,7 @@
    "video_id": "yuxa6o1_scc"
   },
   {
-   "checked_at": 1794557186,
+   "checked_at": 1794586147,
    "fallback_query": "리코 래빗홀 cover",
    "query": "리코 래빗홀",
    "state": "cover_only",
@@ -577,7 +577,7 @@
    "video_id": "7CQuc6Jf4UE"
   },
   {
-   "checked_at": 1794557166,
+   "checked_at": 1794586127,
    "fallback_query": "리코 마시로 악마가아닌걸 cover",
    "query": "리코 마시로 악마가아닌걸",
    "state": "cover_only",
@@ -1081,7 +1081,7 @@
    "video_id": "m5XU_4r1yV0"
   },
   {
-   "checked_at": 1794528665,
+   "checked_at": 1794586234,
    "fallback_query": null,
    "query": "마시로 구르는 바위 네게 아침이 내린다",
    "state": "blocked",
@@ -1102,7 +1102,7 @@
    "video_id": "7gYDCoiV7cc"
   },
   {
-   "checked_at": 1794557206,
+   "checked_at": 1794586168,
    "fallback_query": "마시로 린 메이드지상주의 cover",
    "query": "마시로 린 메이드지상주의",
    "state": "cover_only",
@@ -1186,7 +1186,7 @@
    "video_id": "Y3McmrSFy1E"
   },
   {
-   "checked_at": 1794528665,
+   "checked_at": 1794586234,
    "fallback_query": null,
    "query": "메리 도쿄테디베어",
    "state": "blocked",
@@ -1473,7 +1473,7 @@
    "video_id": "3Xf1Wt7Z-RY"
   },
   {
-   "checked_at": 1794557369,
+   "checked_at": 1794586188,
    "fallback_query": "아카네 리제 바니걸 cover",
    "query": "아카네 리제 바니걸",
    "state": "cover_only",
@@ -1529,10 +1529,10 @@
    "video_id": "UKzvG2SP5wg"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794585621,
    "fallback_query": null,
    "query": "유니 내꺼하는법",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "pkypi5nXSYM"
   },
   {
@@ -1543,10 +1543,10 @@
    "video_id": "a6imWKGILZA"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794585641,
    "fallback_query": null,
    "query": "유니 라일락",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "DeXGjW0baLo"
   },
   {
@@ -1557,10 +1557,10 @@
    "video_id": "9a_qB79ntPQ"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794585661,
    "fallback_query": null,
    "query": "유니 마시로 해피신디사이저",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "3EPEqL_ap-M"
   },
   {
@@ -1571,10 +1571,10 @@
    "video_id": "6eb-U8R0nHQ"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794585681,
    "fallback_query": null,
    "query": "유니 베텔기우스",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "YJJbVAPTZLg"
   },
   {
@@ -2327,7 +2327,7 @@
    "video_id": "rQaluJS-Tc0"
   },
   {
-   "checked_at": 1794528608,
+   "checked_at": 1794585965,
    "fallback_query": "히나 하루카 cover",
    "query": "히나 하루카",
    "state": "cover_only",
