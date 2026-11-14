@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/songs",
- "fetchedAt": "2026-11-14T12:14:12.895Z",
+ "fetchedAt": "2026-11-14T20:10:59.412Z",
  "data": [
   {
    "checked_at": 1793779544,
@@ -24,14 +24,14 @@
    "video_id": "H4T4ihraPic"
   },
   {
-   "checked_at": 1794615029,
+   "checked_at": 1794672487,
    "fallback_query": null,
    "query": "나나 deja vu",
    "state": "blocked",
    "video_id": "KmH0RhhenzE"
   },
   {
-   "checked_at": 1794615029,
+   "checked_at": 1794672514,
    "fallback_query": null,
    "query": "나나 drivers license",
    "state": "blocked",
@@ -94,7 +94,7 @@
    "video_id": "KJzmhOkm4-E"
   },
   {
-   "checked_at": 1794643710,
+   "checked_at": 1794672733,
    "fallback_query": null,
    "query": "나나 논블레스오브리주",
    "state": "blocked",
@@ -220,10 +220,10 @@
    "video_id": "Zetk77I6_s8"
   },
   {
-   "checked_at": 1794615029,
-   "fallback_query": null,
+   "checked_at": 1794672534,
+   "fallback_query": "나나 희극 cover",
    "query": "나나 희극",
-   "state": "blocked",
+   "state": "cover_only",
    "video_id": "gkmnG2pWzys"
   },
   {
@@ -388,10 +388,10 @@
    "video_id": "7zsY6Ex9dMI"
   },
   {
-   "checked_at": 1794643453,
-   "fallback_query": null,
+   "checked_at": 1794672663,
+   "fallback_query": "리제 바니걸 cover",
    "query": "리제 바니걸",
-   "state": "visible",
+   "state": "cover_only",
    "video_id": "SIBtVNjRois"
   },
   {
@@ -563,7 +563,7 @@
    "video_id": "yuxa6o1_scc"
   },
   {
-   "checked_at": 1794614988,
+   "checked_at": 1794672461,
    "fallback_query": "리코 래빗홀 cover",
    "query": "리코 래빗홀",
    "state": "cover_only",
@@ -577,7 +577,7 @@
    "video_id": "7CQuc6Jf4UE"
   },
   {
-   "checked_at": 1794614968,
+   "checked_at": 1794672440,
    "fallback_query": "리코 마시로 악마가아닌걸 cover",
    "query": "리코 마시로 악마가아닌걸",
    "state": "cover_only",
@@ -619,7 +619,7 @@
    "video_id": "Tejq1P1TF-M"
   },
   {
-   "checked_at": 1794615029,
+   "checked_at": 1794672559,
    "fallback_query": null,
    "query": "리코 밤을 달리다",
    "state": "blocked",
@@ -1102,7 +1102,7 @@
    "video_id": "7gYDCoiV7cc"
   },
   {
-   "checked_at": 1794643665,
+   "checked_at": 1794672683,
    "fallback_query": "마시로 린 메이드지상주의 cover",
    "query": "마시로 린 메이드지상주의",
    "state": "cover_only",
@@ -1249,7 +1249,7 @@
    "video_id": "5kTp7SQCR_Y"
   },
   {
-   "checked_at": 1794615029,
+   "checked_at": 1794672585,
    "fallback_query": null,
    "query": "스텔라이브 twinkle",
    "state": "blocked",
@@ -1410,7 +1410,7 @@
    "video_id": "30dd8K_i-38"
   },
   {
-   "checked_at": 1794615029,
+   "checked_at": 1794672610,
    "fallback_query": null,
    "query": "시부키 모시모시",
    "state": "blocked",
@@ -1473,7 +1473,7 @@
    "video_id": "3Xf1Wt7Z-RY"
   },
   {
-   "checked_at": 1794643685,
+   "checked_at": 1794672708,
    "fallback_query": "아카네 리제 바니걸 cover",
    "query": "아카네 리제 바니걸",
    "state": "cover_only",
@@ -1655,7 +1655,7 @@
    "video_id": "CbuiRlGeA-g"
   },
   {
-   "checked_at": 1794615029,
+   "checked_at": 1794672637,
    "fallback_query": null,
    "query": "유즈하 리코 밤을 달리다",
    "state": "blocked",
@@ -1767,10 +1767,10 @@
    "video_id": "eNlXPUp9WBw"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794672020,
    "fallback_query": null,
    "query": "칸나 역광",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "q-QjjmJjU_8"
   },
   {
@@ -1802,17 +1802,17 @@
    "video_id": "futqIdI0rOY"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794672041,
    "fallback_query": null,
    "query": "칸나 지구본",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "8VdlQZQ46D4"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794672061,
    "fallback_query": null,
    "query": "칸나 최종화",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "ajDAmJYPQ-U"
   },
   {
@@ -1823,10 +1823,10 @@
    "video_id": "iCCqSFvz9kM"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794672081,
    "fallback_query": null,
    "query": "칸나 킥백",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "Ei1WobzwsVI"
   },
   {
