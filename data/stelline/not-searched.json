@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/not_searched",
- "fetchedAt": "2026-11-14T04:09:35.015Z",
+ "fetchedAt": "2026-11-14T12:14:13.305Z",
  "data": {
   "all_songs": [
    {
@@ -28,12 +28,12 @@
     "video_id": "yCVZq40vqLk"
    },
    {
-    "query": "리제 바니걸",
-    "video_id": "SIBtVNjRois"
-   },
-   {
     "query": "리제 발묘",
     "video_id": "R_B4tmy2DVA"
+   },
+   {
+    "query": "리제 프로포즈",
+    "video_id": "icR-Tg7YZwY"
    },
    {
     "query": "리코 밤을 달리다",
@@ -110,12 +110,12 @@
    },
    {
     "query": "나나 논블레스오브리주",
-    "searched_time": 1794586234,
+    "searched_time": 1794643710,
     "video_id": "YXIz7U42pgk"
    },
    {
     "query": "나나 후야 오츠카레summer",
-    "searched_time": 1794586234,
+    "searched_time": 1794643735,
     "video_id": "Zetk77I6_s8"
    },
    {
@@ -125,7 +125,7 @@
    },
    {
     "query": "리제 괴수의꽃노래",
-    "searched_time": 1794586234,
+    "searched_time": 1794643762,
     "video_id": "yCVZq40vqLk"
    },
    {
@@ -135,12 +135,12 @@
    },
    {
     "query": "리제 발묘",
-    "searched_time": 1794586234,
+    "searched_time": 1794643788,
     "video_id": "R_B4tmy2DVA"
    },
    {
     "query": "리제 프로포즈",
-    "searched_time": 1794528665,
+    "searched_time": 1794643869,
     "video_id": "icR-Tg7YZwY"
    },
    {
@@ -150,12 +150,12 @@
    },
    {
     "query": "마시로 구르는 바위 네게 아침이 내린다",
-    "searched_time": 1794586234,
+    "searched_time": 1794643816,
     "video_id": "SiBzI2htX2o"
    },
    {
     "query": "메리 도쿄테디베어",
-    "searched_time": 1794586234,
+    "searched_time": 1794643842,
     "video_id": "rKQptWhAvO0"
    },
    {
@@ -179,6 +179,6 @@
     "video_id": "lBtlpVXmbYY"
    }
   ],
-  "searched_time": 1794615029
+  "searched_time": 1794643929
  }
 }
