@@ -1,43 +1,23 @@
 [
   {
-    "channelId": "UCcA21_PzN1EhNe7xS4MJGsQ",
-    "owner": "nana",
-    "title": "하나코 나나 HANAKO NANA",
-    "handle": "@hanako_nana",
-    "subscribers": 228000,
-    "views": 192357546,
-    "videoCount": 552,
-    "uploads": "UUcA21_PzN1EhNe7xS4MJGsQ"
+    "channelId": "UC6YnTqZidFg4WUiXpiCtSSQ",
+    "owner": "kanna",
+    "title": "아이리 칸나 Music Official",
+    "handle": "@airikanna",
+    "subscribers": 215000,
+    "views": 173458192,
+    "videoCount": 43,
+    "uploads": "UU6YnTqZidFg4WUiXpiCtSSQ"
   },
   {
-    "channelId": "UCHAr9pWGS30akL4MQCQT4uQ",
-    "owner": "hiyori",
-    "title": "하나요 히요리 HANAYO HIYORI",
-    "handle": "@hanayohiyori",
-    "subscribers": 106000,
-    "views": 1868289,
-    "videoCount": 3,
-    "uploads": "UUHAr9pWGS30akL4MQCQT4uQ"
-  },
-  {
-    "channelId": "UCYxLMfeX1CbMBll9MsGlzmw",
-    "owner": "shibuki",
-    "title": "텐코 시부키 TENKO SHIBUKI",
-    "handle": "@tenkoshibuki",
-    "subscribers": 248000,
-    "views": 227114210,
-    "videoCount": 678,
-    "uploads": "UUYxLMfeX1CbMBll9MsGlzmw"
-  },
-  {
-    "channelId": "UCV4WeySMDmS1CoTypSJoQmg",
-    "owner": "yuni",
-    "title": "Ayatsuno Yuni - Topic",
-    "handle": null,
-    "subscribers": 5930,
-    "views": 11825922,
-    "videoCount": 0,
-    "uploads": "UUV4WeySMDmS1CoTypSJoQmg"
+    "channelId": "UC0YQnenKBCu5sGb7H61n6HA",
+    "owner": "huya",
+    "title": "사키하네 후야 SAKIHANE HUYA",
+    "handle": "@sakihanechannel",
+    "subscribers": 155000,
+    "views": 60505019,
+    "videoCount": 371,
+    "uploads": "UU0YQnenKBCu5sGb7H61n6HA"
   },
   {
     "channelId": "UC7-m6jQLinZQWIbwm9W-1iw",
@@ -60,14 +40,24 @@
     "uploads": "UUbiWR9pa5YTRknGPzn0l8Ww"
   },
   {
-    "channelId": "UC0YQnenKBCu5sGb7H61n6HA",
-    "owner": "huya",
-    "title": "사키하네 후야 SAKIHANE HUYA",
-    "handle": "@sakihanechannel",
-    "subscribers": 155000,
-    "views": 60505019,
-    "videoCount": 371,
-    "uploads": "UU0YQnenKBCu5sGb7H61n6HA"
+    "channelId": "UCcA21_PzN1EhNe7xS4MJGsQ",
+    "owner": "nana",
+    "title": "하나코 나나 HANAKO NANA",
+    "handle": "@hanako_nana",
+    "subscribers": 228000,
+    "views": 192357546,
+    "videoCount": 552,
+    "uploads": "UUcA21_PzN1EhNe7xS4MJGsQ"
+  },
+  {
+    "channelId": "UCV4WeySMDmS1CoTypSJoQmg",
+    "owner": "yuni",
+    "title": "Ayatsuno Yuni - Topic",
+    "handle": null,
+    "subscribers": 5930,
+    "views": 11825922,
+    "videoCount": 0,
+    "uploads": "UUV4WeySMDmS1CoTypSJoQmg"
   },
   {
     "channelId": "UCQ6LlsI7Bbj2yhSqLMI1gGA",
@@ -78,6 +68,26 @@
     "views": 1961735,
     "videoCount": 3,
     "uploads": "UUQ6LlsI7Bbj2yhSqLMI1gGA"
+  },
+  {
+    "channelId": "UCYxLMfeX1CbMBll9MsGlzmw",
+    "owner": "shibuki",
+    "title": "텐코 시부키 TENKO SHIBUKI",
+    "handle": "@tenkoshibuki",
+    "subscribers": 248000,
+    "views": 227114210,
+    "videoCount": 678,
+    "uploads": "UUYxLMfeX1CbMBll9MsGlzmw"
+  },
+  {
+    "channelId": "UCQmcltnre6aG9SkDRYZqFIg",
+    "owner": "rin",
+    "title": "아오쿠모 린 AOKUMO RIN",
+    "handle": "@aokumorin",
+    "subscribers": 307000,
+    "views": 217935876,
+    "videoCount": 480,
+    "uploads": "UUQmcltnre6aG9SkDRYZqFIg"
   },
   {
     "channelId": "UC2b4WRE5BZ6SIUWBeJU8rwg",
@@ -110,16 +120,6 @@
     "uploads": "UUGSt1yNG5l-jpYRLpJ5oNtA"
   },
   {
-    "channelId": "UCQmcltnre6aG9SkDRYZqFIg",
-    "owner": "rin",
-    "title": "아오쿠모 린 AOKUMO RIN",
-    "handle": "@aokumorin",
-    "subscribers": 306000,
-    "views": 217935876,
-    "videoCount": 480,
-    "uploads": "UUQmcltnre6aG9SkDRYZqFIg"
-  },
-  {
     "channelId": "UClbYIn9LDbbFZ9w2shX3K0g",
     "owner": "yuni",
     "title": "아야츠노 유니 AYATSUNO YUNI",
@@ -130,14 +130,24 @@
     "uploads": "UUlbYIn9LDbbFZ9w2shX3K0g"
   },
   {
-    "channelId": "UC6YnTqZidFg4WUiXpiCtSSQ",
-    "owner": "kanna",
-    "title": "아이리 칸나 Music Official",
-    "handle": "@airikanna",
-    "subscribers": 215000,
-    "views": 173458192,
-    "videoCount": 43,
-    "uploads": "UU6YnTqZidFg4WUiXpiCtSSQ"
+    "channelId": "UC1afpiIuBDcjYlmruAa0HiA",
+    "owner": "hina",
+    "title": "시라유키 히나 SHIRAYUKI HINA",
+    "handle": "@shirayukihina",
+    "subscribers": 335000,
+    "views": 209559561,
+    "videoCount": 654,
+    "uploads": "UU1afpiIuBDcjYlmruAa0HiA"
+  },
+  {
+    "channelId": "UCHAr9pWGS30akL4MQCQT4uQ",
+    "owner": "hiyori",
+    "title": "하나요 히요리 HANAYO HIYORI",
+    "handle": "@hanayohiyori",
+    "subscribers": 106000,
+    "views": 1868289,
+    "videoCount": 3,
+    "uploads": "UUHAr9pWGS30akL4MQCQT4uQ"
   },
   {
     "channelId": "UCAHVQ44O81aehLWfy9O6Elw",
@@ -148,16 +158,6 @@
     "views": 211451781,
     "videoCount": 833,
     "uploads": "UUAHVQ44O81aehLWfy9O6Elw"
-  },
-  {
-    "channelId": "UC1afpiIuBDcjYlmruAa0HiA",
-    "owner": "hina",
-    "title": "시라유키 히나 SHIRAYUKI HINA",
-    "handle": "@shirayukihina",
-    "subscribers": 335000,
-    "views": 209559561,
-    "videoCount": 654,
-    "uploads": "UU1afpiIuBDcjYlmruAa0HiA"
   },
   {
     "channelId": "UCj0c1jUr91dTetIQP2pFeLA",
