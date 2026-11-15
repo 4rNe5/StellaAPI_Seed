@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/not_searched",
- "fetchedAt": "2026-11-15T12:14:28.163Z",
+ "fetchedAt": "2026-11-15T20:11:50.167Z",
  "data": {
   "all_songs": [
    {
@@ -102,12 +102,12 @@
   "recent": [
    {
     "query": "나나 deja vu",
-    "searched_time": 1794701485,
+    "searched_time": 1794759008,
     "video_id": "KmH0RhhenzE"
    },
    {
     "query": "나나 drivers license",
-    "searched_time": 1794701513,
+    "searched_time": 1794759035,
     "video_id": "SUJm8SX87DY"
    },
    {
@@ -147,22 +147,22 @@
    },
    {
     "query": "리코 밤을 달리다",
-    "searched_time": 1794730076,
+    "searched_time": 1794759082,
     "video_id": "lBtlpVXmbYY"
    },
    {
     "query": "마시로 구르는 바위 네게 아침이 내린다",
-    "searched_time": 1794701330,
+    "searched_time": 1794758856,
     "video_id": "SiBzI2htX2o"
    },
    {
     "query": "메리 도쿄테디베어",
-    "searched_time": 1794701357,
+    "searched_time": 1794758880,
     "video_id": "rKQptWhAvO0"
    },
    {
     "query": "스텔라이브 twinkle",
-    "searched_time": 1794730102,
+    "searched_time": 1794759109,
     "video_id": "WnCMBCpENio"
    },
    {
@@ -181,6 +181,6 @@
     "video_id": "lBtlpVXmbYY"
    }
   ],
-  "searched_time": 1794730334
+  "searched_time": 1794759109
  }
 }
