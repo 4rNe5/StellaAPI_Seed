@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/not_searched",
- "fetchedAt": "2026-11-16T04:09:16.666Z",
+ "fetchedAt": "2026-11-16T12:19:23.178Z",
  "data": {
   "all_songs": [
    {
@@ -101,12 +101,12 @@
   "recent": [
    {
     "query": "나나 deja vu",
-    "searched_time": 1794759008,
+    "searched_time": 1794816532,
     "video_id": "KmH0RhhenzE"
    },
    {
     "query": "나나 drivers license",
-    "searched_time": 1794759035,
+    "searched_time": 1794816560,
     "video_id": "SUJm8SX87DY"
    },
    {
@@ -146,7 +146,7 @@
    },
    {
     "query": "리코 밤을 달리다",
-    "searched_time": 1794759082,
+    "searched_time": 1794816609,
     "video_id": "lBtlpVXmbYY"
    },
    {
@@ -161,12 +161,12 @@
    },
    {
     "query": "스텔라이브 twinkle",
-    "searched_time": 1794759109,
+    "searched_time": 1794816637,
     "video_id": "WnCMBCpENio"
    },
    {
     "query": "시부키 모시모시",
-    "searched_time": 1794787652,
+    "searched_time": 1794816663,
     "video_id": "zQp6ZZAT6ew"
    },
    {
@@ -176,10 +176,10 @@
    },
    {
     "query": "유즈하 리코 밤을 달리다",
-    "searched_time": 1794787677,
+    "searched_time": 1794816687,
     "video_id": "lBtlpVXmbYY"
    }
   ],
-  "searched_time": 1794787928
+  "searched_time": 1794816708
  }
 }
