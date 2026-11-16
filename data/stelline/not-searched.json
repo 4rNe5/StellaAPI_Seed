@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/not_searched",
- "fetchedAt": "2026-11-15T23:11:49.273Z",
+ "fetchedAt": "2026-11-16T04:09:16.666Z",
  "data": {
   "all_songs": [
    {
@@ -26,6 +26,10 @@
    {
     "query": "리제 발묘",
     "video_id": "R_B4tmy2DVA"
+   },
+   {
+    "query": "리제 프로포즈",
+    "video_id": "icR-Tg7YZwY"
    },
    {
     "query": "리코 밤을 달리다",
@@ -57,11 +61,6 @@
     "fallback_query": "나나 희극 cover",
     "query": "나나 희극",
     "video_id": "gkmnG2pWzys"
-   },
-   {
-    "fallback_query": "리제 바니걸 cover",
-    "query": "리제 바니걸",
-    "video_id": "SIBtVNjRois"
    },
    {
     "fallback_query": "리코 래빗홀 cover",
@@ -112,12 +111,12 @@
    },
    {
     "query": "나나 논블레스오브리주",
-    "searched_time": 1794730253,
+    "searched_time": 1794787745,
     "video_id": "YXIz7U42pgk"
    },
    {
     "query": "나나 후야 오츠카레summer",
-    "searched_time": 1794730276,
+    "searched_time": 1794787772,
     "video_id": "Zetk77I6_s8"
    },
    {
@@ -127,7 +126,7 @@
    },
    {
     "query": "리제 괴수의꽃노래",
-    "searched_time": 1794730305,
+    "searched_time": 1794787799,
     "video_id": "yCVZq40vqLk"
    },
    {
@@ -137,12 +136,12 @@
    },
    {
     "query": "리제 발묘",
-    "searched_time": 1794730334,
+    "searched_time": 1794787826,
     "video_id": "R_B4tmy2DVA"
    },
    {
     "query": "리제 프로포즈",
-    "searched_time": 1794643869,
+    "searched_time": 1794787855,
     "video_id": "icR-Tg7YZwY"
    },
    {
@@ -152,12 +151,12 @@
    },
    {
     "query": "마시로 구르는 바위 네게 아침이 내린다",
-    "searched_time": 1794758856,
+    "searched_time": 1794787882,
     "video_id": "SiBzI2htX2o"
    },
    {
     "query": "메리 도쿄테디베어",
-    "searched_time": 1794758880,
+    "searched_time": 1794787908,
     "video_id": "rKQptWhAvO0"
    },
    {
@@ -167,7 +166,7 @@
    },
    {
     "query": "시부키 모시모시",
-    "searched_time": 1794730131,
+    "searched_time": 1794787652,
     "video_id": "zQp6ZZAT6ew"
    },
    {
@@ -177,10 +176,10 @@
    },
    {
     "query": "유즈하 리코 밤을 달리다",
-    "searched_time": 1794730158,
+    "searched_time": 1794787677,
     "video_id": "lBtlpVXmbYY"
    }
   ],
-  "searched_time": 1794759109
+  "searched_time": 1794787928
  }
 }
