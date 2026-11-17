@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/songs",
- "fetchedAt": "2026-11-16T20:11:21.879Z",
+ "fetchedAt": "2026-11-17T02:07:56.304Z",
  "data": [
   {
    "checked_at": 1793779544,
@@ -24,14 +24,14 @@
    "video_id": "H4T4ihraPic"
   },
   {
-   "checked_at": 1794816532,
+   "checked_at": 1794873991,
    "fallback_query": null,
    "query": "나나 deja vu",
    "state": "blocked",
    "video_id": "KmH0RhhenzE"
   },
   {
-   "checked_at": 1794816560,
+   "checked_at": 1794874011,
    "fallback_query": null,
    "query": "나나 drivers license",
    "state": "blocked",
@@ -94,7 +94,7 @@
    "video_id": "KJzmhOkm4-E"
   },
   {
-   "checked_at": 1794845286,
+   "checked_at": 1794874173,
    "fallback_query": null,
    "query": "나나 논블레스오브리주",
    "state": "blocked",
@@ -213,14 +213,14 @@
    "video_id": "td73oLSQug0"
   },
   {
-   "checked_at": 1794845312,
+   "checked_at": 1794874193,
    "fallback_query": null,
    "query": "나나 후야 오츠카레summer",
    "state": "blocked",
    "video_id": "Zetk77I6_s8"
   },
   {
-   "checked_at": 1794816581,
+   "checked_at": 1794874031,
    "fallback_query": "나나 희극 cover",
    "query": "나나 희극",
    "state": "cover_only",
@@ -297,7 +297,7 @@
    "video_id": "naWmFCbwi3M"
   },
   {
-   "checked_at": 1794845337,
+   "checked_at": 1794874213,
    "fallback_query": null,
    "query": "리제 괴수의꽃노래",
    "state": "blocked",
@@ -388,7 +388,7 @@
    "video_id": "7zsY6Ex9dMI"
   },
   {
-   "checked_at": 1794845129,
+   "checked_at": 1794873889,
    "fallback_query": null,
    "query": "리제 바니걸",
    "state": "visible",
@@ -500,7 +500,7 @@
    "video_id": "pKPPV1RMk-c"
   },
   {
-   "checked_at": 1794845034,
+   "checked_at": 1794873869,
    "fallback_query": null,
    "query": "리제 프로포즈",
    "state": "visible",
@@ -619,7 +619,7 @@
    "video_id": "Tejq1P1TF-M"
   },
   {
-   "checked_at": 1794816609,
+   "checked_at": 1794874051,
    "fallback_query": null,
    "query": "리코 밤을 달리다",
    "state": "blocked",
@@ -1102,7 +1102,7 @@
    "video_id": "7gYDCoiV7cc"
   },
   {
-   "checked_at": 1794816708,
+   "checked_at": 1794874133,
    "fallback_query": "마시로 린 메이드지상주의 cover",
    "query": "마시로 린 메이드지상주의",
    "state": "cover_only",
@@ -1249,7 +1249,7 @@
    "video_id": "5kTp7SQCR_Y"
   },
   {
-   "checked_at": 1794816637,
+   "checked_at": 1794874072,
    "fallback_query": null,
    "query": "스텔라이브 twinkle",
    "state": "blocked",
@@ -1410,7 +1410,7 @@
    "video_id": "30dd8K_i-38"
   },
   {
-   "checked_at": 1794816663,
+   "checked_at": 1794874092,
    "fallback_query": null,
    "query": "시부키 모시모시",
    "state": "blocked",
@@ -1473,7 +1473,7 @@
    "video_id": "3Xf1Wt7Z-RY"
   },
   {
-   "checked_at": 1794845258,
+   "checked_at": 1794874153,
    "fallback_query": "아카네 리제 바니걸 cover",
    "query": "아카네 리제 바니걸",
    "state": "cover_only",
@@ -1655,7 +1655,7 @@
    "video_id": "CbuiRlGeA-g"
   },
   {
-   "checked_at": 1794816687,
+   "checked_at": 1794874112,
    "fallback_query": null,
    "query": "유즈하 리코 밤을 달리다",
    "state": "blocked",
@@ -2229,24 +2229,24 @@
    "video_id": "uTj88854gZ0"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794873620,
    "fallback_query": null,
    "query": "히나 만찬가",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "L1haw5kPB7Q"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794873641,
    "fallback_query": null,
    "query": "히나 멜트",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "WykYeuqGxh8"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794873661,
    "fallback_query": null,
    "query": "히나 바다의유령",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "NAu_CVmP-bw"
   },
   {
@@ -2257,10 +2257,10 @@
    "video_id": "Tmjy9uLbMFc"
   },
   {
-   "checked_at": null,
+   "checked_at": 1794873681,
    "fallback_query": null,
    "query": "히나 불꽃",
-   "state": "unchecked",
+   "state": "visible",
    "video_id": "vW2U2ZheON4"
   },
   {
