@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/not_searched",
- "fetchedAt": "2026-11-17T20:11:58.916Z",
+ "fetchedAt": "2026-11-18T01:21:07.553Z",
  "data": {
   "all_songs": [
    {
@@ -20,16 +20,16 @@
     "video_id": "Zetk77I6_s8"
    },
    {
+    "query": "나나 희극",
+    "video_id": "gkmnG2pWzys"
+   },
+   {
     "query": "리제 발묘",
     "video_id": "R_B4tmy2DVA"
    },
    {
     "query": "리제 프로포즈",
     "video_id": "icR-Tg7YZwY"
-   },
-   {
-    "query": "리코 밤을 달리다",
-    "video_id": "lBtlpVXmbYY"
    },
    {
     "query": "마시로 구르는 바위 네게 아침이 내린다",
@@ -54,11 +54,6 @@
   ],
   "cover_matches": [
    {
-    "fallback_query": "나나 희극 cover",
-    "query": "나나 희극",
-    "video_id": "gkmnG2pWzys"
-   },
-   {
     "fallback_query": "리제 괴수의꽃노래 cover",
     "query": "리제 괴수의꽃노래",
     "video_id": "yCVZq40vqLk"
@@ -72,6 +67,11 @@
     "fallback_query": "리코 마시로 악마가아닌걸 cover",
     "query": "리코 마시로 악마가아닌걸",
     "video_id": "xKA5wKYMFhM"
+   },
+   {
+    "fallback_query": "리코 밤을 달리다 cover",
+    "query": "리코 밤을 달리다",
+    "video_id": "lBtlpVXmbYY"
    },
    {
     "fallback_query": "마시로 린 메이드지상주의 cover",
@@ -102,12 +102,12 @@
   "recent": [
    {
     "query": "나나 deja vu",
-    "searched_time": 1794903063,
+    "searched_time": 1794960588,
     "video_id": "KmH0RhhenzE"
    },
    {
     "query": "나나 drivers license",
-    "searched_time": 1794903092,
+    "searched_time": 1794960616,
     "video_id": "SUJm8SX87DY"
    },
    {
@@ -122,7 +122,7 @@
    },
    {
     "query": "나나 희극",
-    "searched_time": 1794615029,
+    "searched_time": 1794960644,
     "video_id": "gkmnG2pWzys"
    },
    {
@@ -142,7 +142,7 @@
    },
    {
     "query": "리제 프로포즈",
-    "searched_time": 1794903035,
+    "searched_time": 1794960561,
     "video_id": "icR-Tg7YZwY"
    },
    {
@@ -162,12 +162,12 @@
    },
    {
     "query": "스텔라이브 twinkle",
-    "searched_time": 1794931670,
+    "searched_time": 1794960691,
     "video_id": "WnCMBCpENio"
    },
    {
     "query": "시부키 모시모시",
-    "searched_time": 1794931696,
+    "searched_time": 1794960717,
     "video_id": "zQp6ZZAT6ew"
    },
    {
@@ -181,6 +181,6 @@
     "video_id": "lBtlpVXmbYY"
    }
   ],
-  "searched_time": 1794931920
+  "searched_time": 1794960717
  }
 }
