@@ -4242,7 +4242,7 @@
   "resultCount": 16,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-17T20:09:20.061Z",
+  "checkedAt": "2026-11-18T04:08:44.879Z",
   "history": [
    [
     "2026-11-01T15:08:07.853Z",
@@ -4516,6 +4516,12 @@
    ],
    [
     "2026-11-17T20:09:20.061Z",
+    null,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-18T04:08:44.879Z",
     null,
     null,
     "KR"
@@ -5257,7 +5263,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-17T20:09:33.485Z",
+  "checkedAt": "2026-11-18T04:08:58.322Z",
   "history": [
    [
     "2026-11-02T14:37:00.889Z",
@@ -5366,6 +5372,12 @@
     2,
     null,
     "KR"
+   ],
+   [
+    "2026-11-18T04:08:58.322Z",
+    2,
+    null,
+    "KR"
    ]
   ]
  },
@@ -5378,7 +5390,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-17T20:08:44.594Z",
+  "checkedAt": "2026-11-18T04:08:08.649Z",
   "history": [
    [
     "2026-11-02T14:37:28.455Z",
@@ -5649,6 +5661,12 @@
     2,
     null,
     "KR"
+   ],
+   [
+    "2026-11-18T04:08:08.649Z",
+    2,
+    null,
+    "KR"
    ]
   ]
  },
@@ -5658,10 +5676,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 19,
+  "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-17T20:08:56.923Z",
+  "checkedAt": "2026-11-18T04:08:21.612Z",
   "history": [
    [
     "2026-11-01T15:06:00.871Z",
@@ -5947,6 +5965,12 @@
    ],
    [
     "2026-11-17T20:08:56.923Z",
+    2,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-18T04:08:21.612Z",
     2,
     null,
     "KR"
@@ -6312,14 +6336,14 @@
  },
  "1838": {
   "query": "유니 내꺼 하는 법",
-  "rank": 10,
+  "rank": 7,
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-17T20:09:26.479Z",
+  "checkedAt": "2026-11-18T04:08:50.209Z",
   "history": [
    [
     "2026-11-01T15:06:15.585Z",
@@ -6618,6 +6642,12 @@
    [
     "2026-11-17T20:09:26.479Z",
     10,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-18T04:08:50.209Z",
+    7,
     null,
     "KR"
    ]
@@ -7346,7 +7376,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-17T20:09:28.917Z",
+  "checkedAt": "2026-11-18T04:08:55.177Z",
   "history": [
    [
     "2026-11-02T14:36:55.023Z",
@@ -7644,6 +7674,12 @@
    ],
    [
     "2026-11-17T20:09:28.917Z",
+    null,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-18T04:08:55.177Z",
     null,
     null,
     "KR"
@@ -8596,14 +8632,14 @@
  },
  "2440": {
   "query": "칸나 역광",
-  "rank": 2,
+  "rank": 1,
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-17T20:11:14.304Z",
+  "checkedAt": "2026-11-18T04:09:01.949Z",
   "history": [
    [
     "2026-11-01T15:04:41.039Z",
@@ -8716,6 +8752,12 @@
    [
     "2026-11-17T20:11:14.304Z",
     2,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-18T04:09:01.949Z",
+    1,
     null,
     "KR"
    ]
@@ -10007,7 +10049,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-17T20:08:56.009Z",
+  "checkedAt": "2026-11-18T04:08:21.446Z",
   "history": [
    [
     "2026-11-02T14:36:22.542Z",
@@ -10275,6 +10317,12 @@
    ],
    [
     "2026-11-17T20:08:56.009Z",
+    2,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-18T04:08:21.446Z",
     2,
     null,
     "KR"
@@ -13110,7 +13158,7 @@
   "resultCount": 0,
   "noResults": true,
   "source": "KR",
-  "checkedAt": "2026-11-17T20:09:06.302Z",
+  "checkedAt": "2026-11-18T04:08:30.502Z",
   "history": [
    [
     "2026-11-01T15:02:53.696Z",
@@ -13396,6 +13444,12 @@
    ],
    [
     "2026-11-17T20:09:06.302Z",
+    null,
+    1,
+    "KR"
+   ],
+   [
+    "2026-11-18T04:08:30.502Z",
     null,
     1,
     "KR"
@@ -15680,7 +15734,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-17T04:08:35.573Z",
+  "checkedAt": "2026-11-18T04:09:06.096Z",
   "history": [
    [
     "2026-11-01T15:01:52.387Z",
@@ -15804,6 +15858,12 @@
    ],
    [
     "2026-11-17T04:08:35.573Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-18T04:09:06.096Z",
     1,
     null,
     "KR"
@@ -16878,7 +16938,7 @@
   "resultCount": 0,
   "noResults": true,
   "source": "KR",
-  "checkedAt": "2026-11-17T20:08:53.029Z",
+  "checkedAt": "2026-11-18T04:08:18.412Z",
   "history": [
    [
     "2026-11-01T15:09:00.912Z",
@@ -17170,6 +17230,12 @@
    ],
    [
     "2026-11-17T20:08:53.029Z",
+    null,
+    1,
+    "KR"
+   ],
+   [
+    "2026-11-18T04:08:18.412Z",
     null,
     1,
     "KR"
@@ -23599,7 +23665,7 @@
   "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-17T20:08:49.905Z",
+  "checkedAt": "2026-11-18T04:08:14.244Z",
   "history": [
    [
     "2026-11-01T15:08:23.076Z",
@@ -23888,6 +23954,12 @@
     null,
     null,
     "KR"
+   ],
+   [
+    "2026-11-18T04:08:14.244Z",
+    null,
+    null,
+    "KR"
    ]
   ]
  },
@@ -24130,7 +24202,7 @@
   "resultCount": 0,
   "noResults": true,
   "source": "KR",
-  "checkedAt": "2026-11-17T20:09:05.486Z",
+  "checkedAt": "2026-11-18T04:08:29.997Z",
   "history": [
    [
     "2026-11-02T14:38:04.027Z",
@@ -24401,6 +24473,12 @@
     null,
     1,
     "KR"
+   ],
+   [
+    "2026-11-18T04:08:29.997Z",
+    null,
+    1,
+    "KR"
    ]
   ]
  },
@@ -24525,10 +24603,10 @@
   "fallbackQuery": "시부키 나나 울려퍼져라 cover",
   "fallbackRank": 1,
   "status": "cover_only",
-  "resultCount": 15,
+  "resultCount": 14,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-17T20:09:38.056Z",
+  "checkedAt": "2026-11-18T04:09:03.047Z",
   "history": [
    [
     "2026-11-02T14:34:33.749Z",
@@ -24700,6 +24778,12 @@
    ],
    [
     "2026-11-17T20:09:38.056Z",
+    null,
+    1,
+    "KR"
+   ],
+   [
+    "2026-11-18T04:09:03.047Z",
     null,
     1,
     "KR"
@@ -26140,10 +26224,10 @@
   "fallbackQuery": "리제 발묘 cover",
   "fallbackRank": null,
   "status": "hidden",
-  "resultCount": 17,
+  "resultCount": 15,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-17T20:09:23.777Z",
+  "checkedAt": "2026-11-18T04:08:47.922Z",
   "history": [
    [
     "2026-11-02T14:34:32.537Z",
@@ -26429,6 +26513,12 @@
    ],
    [
     "2026-11-17T20:09:23.777Z",
+    null,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-18T04:08:47.922Z",
     null,
     null,
     "KR"
@@ -27666,7 +27756,7 @@
   "resultCount": 14,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-17T20:08:45.068Z",
+  "checkedAt": "2026-11-18T04:08:08.902Z",
   "history": [
    [
     "2026-11-02T14:34:04.978Z",
@@ -27937,6 +28027,12 @@
     2,
     null,
     "KR"
+   ],
+   [
+    "2026-11-18T04:08:08.902Z",
+    2,
+    null,
+    "KR"
    ]
   ]
  },
@@ -28191,7 +28287,7 @@
   "resultCount": 0,
   "noResults": true,
   "source": "KR",
-  "checkedAt": "2026-11-17T20:09:14.946Z",
+  "checkedAt": "2026-11-18T04:08:40.338Z",
   "history": [
    [
     "2026-11-05T12:13:35.898Z",
@@ -28423,6 +28519,12 @@
    ],
    [
     "2026-11-17T20:09:14.946Z",
+    null,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-18T04:08:40.338Z",
     null,
     null,
     "KR"
@@ -28907,10 +29009,10 @@
   "fallbackQuery": null,
   "fallbackRank": null,
   "status": "visible",
-  "resultCount": 12,
+  "resultCount": 14,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-17T04:08:32.970Z",
+  "checkedAt": "2026-11-18T04:09:03.952Z",
   "history": [
    [
     "2026-11-02T14:34:01.392Z",
@@ -29136,6 +29238,12 @@
    ],
    [
     "2026-11-17T04:08:32.970Z",
+    1,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-18T04:09:03.952Z",
     1,
     null,
     "KR"
@@ -29738,7 +29846,7 @@
   "resultCount": 0,
   "noResults": true,
   "source": "KR",
-  "checkedAt": "2026-11-17T20:09:14.448Z",
+  "checkedAt": "2026-11-18T04:08:38.414Z",
   "history": [
    [
     "2026-11-01T14:57:47.313Z",
@@ -30024,6 +30132,12 @@
    ],
    [
     "2026-11-17T20:09:14.448Z",
+    null,
+    1,
+    "KR"
+   ],
+   [
+    "2026-11-18T04:08:38.414Z",
     null,
     1,
     "KR"
@@ -31833,10 +31947,10 @@
   "fallbackQuery": "나나 deja vu cover",
   "fallbackRank": null,
   "status": "hidden",
-  "resultCount": 17,
+  "resultCount": 16,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-17T20:08:42.694Z",
+  "checkedAt": "2026-11-18T04:08:05.459Z",
   "history": [
    [
     "2026-11-02T14:33:46.973Z",
@@ -32122,6 +32236,12 @@
    ],
    [
     "2026-11-17T20:08:42.694Z",
+    null,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-18T04:08:05.459Z",
     null,
     null,
     "KR"
@@ -32609,7 +32729,7 @@
   "resultCount": 16,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-17T20:08:42.299Z",
+  "checkedAt": "2026-11-18T04:08:05.245Z",
   "history": [
    [
     "2026-11-02T14:33:35.351Z",
@@ -32892,6 +33012,12 @@
     null,
     null,
     "KR"
+   ],
+   [
+    "2026-11-18T04:08:05.245Z",
+    null,
+    null,
+    "KR"
    ]
   ]
  },
@@ -33019,7 +33145,7 @@
   "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-17T20:09:24.709Z",
+  "checkedAt": "2026-11-18T04:08:49.532Z",
   "history": [
    [
     "2026-11-01T14:56:16.883Z",
@@ -33332,6 +33458,12 @@
     null,
     null,
     "KR"
+   ],
+   [
+    "2026-11-18T04:08:49.532Z",
+    null,
+    null,
+    "KR"
    ]
   ]
  },
@@ -33471,7 +33603,7 @@
   "resultCount": 0,
   "noResults": true,
   "source": "KR",
-  "checkedAt": "2026-11-17T20:08:49.153Z",
+  "checkedAt": "2026-11-18T04:08:13.051Z",
   "history": [
    [
     "2026-11-02T14:33:40.893Z",
@@ -33739,6 +33871,12 @@
    ],
    [
     "2026-11-17T20:08:49.153Z",
+    null,
+    1,
+    "KR"
+   ],
+   [
+    "2026-11-18T04:08:13.051Z",
     null,
     1,
     "KR"
@@ -35793,7 +35931,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-17T20:09:33.050Z",
+  "checkedAt": "2026-11-18T04:08:59.789Z",
   "history": [
    [
     "2026-11-01T14:54:54.658Z",
@@ -36094,6 +36232,12 @@
     null,
     null,
     "KR"
+   ],
+   [
+    "2026-11-18T04:08:59.789Z",
+    null,
+    null,
+    "KR"
    ]
   ]
  },
@@ -36360,7 +36504,7 @@
   "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-17T20:09:11.006Z",
+  "checkedAt": "2026-11-18T04:08:35.847Z",
   "history": [
    [
     "2026-11-02T14:33:14.561Z",
@@ -36634,6 +36778,12 @@
    ],
    [
     "2026-11-17T20:09:11.006Z",
+    null,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-18T04:08:35.847Z",
     null,
     null,
     "KR"
@@ -36991,10 +37141,10 @@
   "fallbackQuery": "마시로 구르는 바위 네게 아침이 내린다 cover",
   "fallbackRank": null,
   "status": "hidden",
-  "resultCount": 18,
+  "resultCount": 17,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-17T20:09:19.474Z",
+  "checkedAt": "2026-11-18T04:08:43.629Z",
   "history": [
    [
     "2026-11-01T14:53:06.122Z",
@@ -37295,6 +37445,12 @@
     null,
     null,
     "KR"
+   ],
+   [
+    "2026-11-18T04:08:43.629Z",
+    null,
+    null,
+    "KR"
    ]
   ]
  },
@@ -37546,10 +37702,10 @@
   "fallbackQuery": "시부키 모시모시 cover",
   "fallbackRank": null,
   "status": "hidden",
-  "resultCount": 17,
+  "resultCount": 18,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-17T20:09:01.074Z",
+  "checkedAt": "2026-11-18T04:08:26.126Z",
   "history": [
    [
     "2026-11-02T14:33:34.615Z",
@@ -37826,6 +37982,12 @@
     null,
     null,
     "KR"
+   ],
+   [
+    "2026-11-18T04:08:26.126Z",
+    null,
+    null,
+    "KR"
    ]
   ]
  },
@@ -37965,7 +38127,7 @@
   "resultCount": 0,
   "noResults": true,
   "source": "KR",
-  "checkedAt": "2026-11-17T20:09:01.429Z",
+  "checkedAt": "2026-11-18T04:08:26.002Z",
   "history": [
    [
     "2026-11-01T14:54:08.619Z",
@@ -38254,6 +38416,12 @@
     null,
     null,
     "KR"
+   ],
+   [
+    "2026-11-18T04:08:26.002Z",
+    null,
+    null,
+    "KR"
    ]
   ]
  },
@@ -38496,7 +38664,7 @@
   "resultCount": 0,
   "noResults": true,
   "source": "KR",
-  "checkedAt": "2026-11-17T20:09:09.732Z",
+  "checkedAt": "2026-11-18T04:08:33.998Z",
   "history": [
    [
     "2026-11-01T14:53:54.358Z",
@@ -38782,6 +38950,12 @@
    ],
    [
     "2026-11-17T20:09:09.732Z",
+    null,
+    1,
+    "KR"
+   ],
+   [
+    "2026-11-18T04:08:33.998Z",
     null,
     1,
     "KR"
@@ -39491,7 +39665,7 @@
   "resultCount": 0,
   "noResults": true,
   "source": "KR",
-  "checkedAt": "2026-11-17T20:08:53.728Z",
+  "checkedAt": "2026-11-18T04:08:18.593Z",
   "history": [
    [
     "2026-11-01T14:53:32.759Z",
@@ -39777,6 +39951,12 @@
    ],
    [
     "2026-11-17T20:08:53.728Z",
+    null,
+    1,
+    "KR"
+   ],
+   [
+    "2026-11-18T04:08:18.593Z",
     null,
     1,
     "KR"
@@ -40292,7 +40472,7 @@
   "resultCount": 13,
   "noResults": false,
   "source": "KR",
-  "checkedAt": "2026-11-17T20:09:30.785Z",
+  "checkedAt": "2026-11-18T04:08:55.911Z",
   "history": [
    [
     "2026-11-02T14:33:05.326Z",
@@ -40578,6 +40758,12 @@
    ],
    [
     "2026-11-17T20:09:30.785Z",
+    null,
+    null,
+    "KR"
+   ],
+   [
+    "2026-11-18T04:08:55.911Z",
     null,
     null,
     "KR"
