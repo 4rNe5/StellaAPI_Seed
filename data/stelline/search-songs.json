@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/songs",
- "fetchedAt": "2026-11-18T04:09:27.294Z",
+ "fetchedAt": "2026-11-18T12:15:20.873Z",
  "data": [
   {
    "checked_at": 1793779544,
@@ -94,7 +94,7 @@
    "video_id": "KJzmhOkm4-E"
   },
   {
-   "checked_at": 1794931790,
+   "checked_at": 1794989324,
    "fallback_query": null,
    "query": "나나 논블레스오브리주",
    "state": "blocked",
@@ -213,7 +213,7 @@
    "video_id": "td73oLSQug0"
   },
   {
-   "checked_at": 1794931819,
+   "checked_at": 1794989351,
    "fallback_query": null,
    "query": "나나 후야 오츠카레summer",
    "state": "blocked",
@@ -297,10 +297,10 @@
    "video_id": "naWmFCbwi3M"
   },
   {
-   "checked_at": 1794931839,
-   "fallback_query": "리제 괴수의꽃노래 cover",
+   "checked_at": 1794989377,
+   "fallback_query": null,
    "query": "리제 괴수의꽃노래",
-   "state": "cover_only",
+   "state": "blocked",
    "video_id": "yCVZq40vqLk"
   },
   {
@@ -388,14 +388,14 @@
    "video_id": "7zsY6Ex9dMI"
   },
   {
-   "checked_at": 1794960350,
-   "fallback_query": null,
+   "checked_at": 1794989486,
+   "fallback_query": "리제 바니걸 cover",
    "query": "리제 바니걸",
-   "state": "visible",
+   "state": "cover_only",
    "video_id": "SIBtVNjRois"
   },
   {
-   "checked_at": 1794931866,
+   "checked_at": 1794989403,
    "fallback_query": null,
    "query": "리제 발묘",
    "state": "blocked",
@@ -1004,7 +1004,7 @@
    "video_id": "8m8xom23aDY"
   },
   {
-   "checked_at": 1792598805,
+   "checked_at": 1794988820,
    "fallback_query": null,
    "query": "린 아이네클라이네",
    "state": "visible",
@@ -1032,7 +1032,7 @@
    "video_id": "zcaAsuA54pI"
   },
   {
-   "checked_at": 1792656405,
+   "checked_at": 1794988881,
    "fallback_query": null,
    "query": "린 유령도쿄",
    "state": "visible",
@@ -1081,7 +1081,7 @@
    "video_id": "m5XU_4r1yV0"
   },
   {
-   "checked_at": 1794931893,
+   "checked_at": 1794989431,
    "fallback_query": null,
    "query": "마시로 구르는 바위 네게 아침이 내린다",
    "state": "blocked",
@@ -1102,7 +1102,7 @@
    "video_id": "7gYDCoiV7cc"
   },
   {
-   "checked_at": 1794931742,
+   "checked_at": 1794989276,
    "fallback_query": "마시로 린 메이드지상주의 cover",
    "query": "마시로 린 메이드지상주의",
    "state": "cover_only",
@@ -1186,7 +1186,7 @@
    "video_id": "Y3McmrSFy1E"
   },
   {
-   "checked_at": 1794931920,
+   "checked_at": 1794989459,
    "fallback_query": null,
    "query": "메리 도쿄테디베어",
    "state": "blocked",
@@ -1473,7 +1473,7 @@
    "video_id": "3Xf1Wt7Z-RY"
   },
   {
-   "checked_at": 1794931762,
+   "checked_at": 1794989296,
    "fallback_query": "아카네 리제 바니걸 cover",
    "query": "아카네 리제 바니걸",
    "state": "cover_only",
@@ -1655,7 +1655,7 @@
    "video_id": "CbuiRlGeA-g"
   },
   {
-   "checked_at": 1794931722,
+   "checked_at": 1794989256,
    "fallback_query": null,
    "query": "유즈하 리코 밤을 달리다",
    "state": "blocked",
@@ -1928,7 +1928,7 @@
    "video_id": "CmaLZo-DTlU"
   },
   {
-   "checked_at": 1792656384,
+   "checked_at": 1794988861,
    "fallback_query": null,
    "query": "타비 물떼새",
    "state": "visible",
@@ -1942,7 +1942,7 @@
    "video_id": "39_zaFVluAw"
   },
   {
-   "checked_at": 1792627584,
+   "checked_at": 1794988841,
    "fallback_query": null,
    "query": "타비 사랑감기에실려",
    "state": "visible",
@@ -2005,7 +2005,7 @@
    "video_id": "N_vYUNEktsA"
   },
   {
-   "checked_at": 1794960451,
+   "checked_at": 1794989507,
    "fallback_query": "토아 제육감 cover",
    "query": "토아 제육감",
    "state": "cover_only",
@@ -2194,7 +2194,7 @@
    "video_id": "UcFBb927-kU"
   },
   {
-   "checked_at": 1794960471,
+   "checked_at": 1794989527,
    "fallback_query": "히나 리코 소녀레이 cover",
    "query": "히나 리코 소녀레이",
    "state": "cover_only",
@@ -2327,7 +2327,7 @@
    "video_id": "rQaluJS-Tc0"
   },
   {
-   "checked_at": 1794960492,
+   "checked_at": 1794989547,
    "fallback_query": "히나 하루카 cover",
    "query": "히나 하루카",
    "state": "cover_only",
