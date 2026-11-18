@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/not_searched",
- "fetchedAt": "2026-11-18T12:15:21.309Z",
+ "fetchedAt": "2026-11-18T20:11:05.697Z",
  "data": {
   "all_songs": [
    {
@@ -20,10 +20,6 @@
     "video_id": "Zetk77I6_s8"
    },
    {
-    "query": "나나 희극",
-    "video_id": "gkmnG2pWzys"
-   },
-   {
     "query": "리제 괴수의꽃노래",
     "video_id": "yCVZq40vqLk"
    },
@@ -34,6 +30,10 @@
    {
     "query": "리제 프로포즈",
     "video_id": "icR-Tg7YZwY"
+   },
+   {
+    "query": "리코 밤을 달리다",
+    "video_id": "lBtlpVXmbYY"
    },
    {
     "query": "마시로 구르는 바위 네게 아침이 내린다",
@@ -58,6 +58,11 @@
   ],
   "cover_matches": [
    {
+    "fallback_query": "나나 희극 cover",
+    "query": "나나 희극",
+    "video_id": "gkmnG2pWzys"
+   },
+   {
     "fallback_query": "리제 바니걸 cover",
     "query": "리제 바니걸",
     "video_id": "SIBtVNjRois"
@@ -71,11 +76,6 @@
     "fallback_query": "리코 마시로 악마가아닌걸 cover",
     "query": "리코 마시로 악마가아닌걸",
     "video_id": "xKA5wKYMFhM"
-   },
-   {
-    "fallback_query": "리코 밤을 달리다 cover",
-    "query": "리코 밤을 달리다",
-    "video_id": "lBtlpVXmbYY"
    },
    {
     "fallback_query": "마시로 린 메이드지상주의 cover",
@@ -106,17 +106,17 @@
   "recent": [
    {
     "query": "나나 deja vu",
-    "searched_time": 1794960588,
+    "searched_time": 1795018125,
     "video_id": "KmH0RhhenzE"
    },
    {
     "query": "나나 drivers license",
-    "searched_time": 1794960616,
+    "searched_time": 1795018154,
     "video_id": "SUJm8SX87DY"
    },
    {
     "query": "나나 논블레스오브리주",
-    "searched_time": 1794989324,
+    "searched_time": 1795018348,
     "video_id": "YXIz7U42pgk"
    },
    {
@@ -146,12 +146,12 @@
    },
    {
     "query": "리제 프로포즈",
-    "searched_time": 1794960561,
+    "searched_time": 1795018097,
     "video_id": "icR-Tg7YZwY"
    },
    {
     "query": "리코 밤을 달리다",
-    "searched_time": 1794931645,
+    "searched_time": 1795018199,
     "video_id": "lBtlpVXmbYY"
    },
    {
@@ -166,12 +166,12 @@
    },
    {
     "query": "스텔라이브 twinkle",
-    "searched_time": 1794960691,
+    "searched_time": 1795018227,
     "video_id": "WnCMBCpENio"
    },
    {
     "query": "시부키 모시모시",
-    "searched_time": 1794960717,
+    "searched_time": 1795018255,
     "video_id": "zQp6ZZAT6ew"
    },
    {
@@ -181,10 +181,10 @@
    },
    {
     "query": "유즈하 리코 밤을 달리다",
-    "searched_time": 1794989256,
+    "searched_time": 1795018283,
     "video_id": "lBtlpVXmbYY"
    }
   ],
-  "searched_time": 1794989547
+  "searched_time": 1795018348
  }
 }
