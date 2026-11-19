@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/not_searched",
- "fetchedAt": "2026-11-19T12:15:18.302Z",
+ "fetchedAt": "2026-11-19T20:12:02.940Z",
  "data": {
   "all_songs": [
    {
@@ -32,10 +32,6 @@
     "video_id": "R_B4tmy2DVA"
    },
    {
-    "query": "리제 프로포즈",
-    "video_id": "icR-Tg7YZwY"
-   },
-   {
     "query": "리코 밤을 달리다",
     "video_id": "lBtlpVXmbYY"
    },
@@ -61,6 +57,11 @@
    }
   ],
   "cover_matches": [
+   {
+    "fallback_query": "리제 프로포즈 cover",
+    "query": "리제 프로포즈",
+    "video_id": "icR-Tg7YZwY"
+   },
    {
     "fallback_query": "리코 래빗홀 cover",
     "query": "리코 래빗홀",
@@ -100,12 +101,12 @@
   "recent": [
    {
     "query": "나나 deja vu",
-    "searched_time": 1795047105,
+    "searched_time": 1795104614,
     "video_id": "KmH0RhhenzE"
    },
    {
     "query": "나나 drivers license",
-    "searched_time": 1795075639,
+    "searched_time": 1795104642,
     "video_id": "SUJm8SX87DY"
    },
    {
@@ -120,7 +121,7 @@
    },
    {
     "query": "나나 희극",
-    "searched_time": 1795075666,
+    "searched_time": 1795104668,
     "video_id": "gkmnG2pWzys"
    },
    {
@@ -145,17 +146,17 @@
    },
    {
     "query": "리코 밤을 달리다",
-    "searched_time": 1795075691,
+    "searched_time": 1795104696,
     "video_id": "lBtlpVXmbYY"
    },
    {
     "query": "마시로 구르는 바위 네게 아침이 내린다",
-    "searched_time": 1795046926,
+    "searched_time": 1795104441,
     "video_id": "SiBzI2htX2o"
    },
    {
     "query": "메리 도쿄테디베어",
-    "searched_time": 1795046951,
+    "searched_time": 1795104468,
     "video_id": "rKQptWhAvO0"
    },
    {
@@ -174,6 +175,6 @@
     "video_id": "lBtlpVXmbYY"
    }
   ],
-  "searched_time": 1795075915
+  "searched_time": 1795104696
  }
 }
