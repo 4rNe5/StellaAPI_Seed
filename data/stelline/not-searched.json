@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/not_searched",
- "fetchedAt": "2026-11-20T04:09:14.738Z",
+ "fetchedAt": "2026-11-20T12:17:06.315Z",
  "data": {
   "all_songs": [
    {
@@ -32,6 +32,10 @@
     "video_id": "R_B4tmy2DVA"
    },
    {
+    "query": "리제 프로포즈",
+    "video_id": "icR-Tg7YZwY"
+   },
+   {
     "query": "리코 밤을 달리다",
     "video_id": "lBtlpVXmbYY"
    },
@@ -61,11 +65,6 @@
    }
   ],
   "cover_matches": [
-   {
-    "fallback_query": "리제 프로포즈 cover",
-    "query": "리제 프로포즈",
-    "video_id": "icR-Tg7YZwY"
-   },
    {
     "fallback_query": "리코 래빗홀 cover",
     "query": "리코 래빗홀",
@@ -105,12 +104,12 @@
   "recent": [
    {
     "query": "나나 deja vu",
-    "searched_time": 1795104614,
+    "searched_time": 1795162157,
     "video_id": "KmH0RhhenzE"
    },
    {
     "query": "나나 drivers license",
-    "searched_time": 1795104642,
+    "searched_time": 1795162184,
     "video_id": "SUJm8SX87DY"
    },
    {
@@ -125,7 +124,7 @@
    },
    {
     "query": "나나 희극",
-    "searched_time": 1795104668,
+    "searched_time": 1795162210,
     "video_id": "gkmnG2pWzys"
    },
    {
@@ -145,12 +144,12 @@
    },
    {
     "query": "리제 프로포즈",
-    "searched_time": 1795047080,
+    "searched_time": 1795162133,
     "video_id": "icR-Tg7YZwY"
    },
    {
     "query": "리코 밤을 달리다",
-    "searched_time": 1795104696,
+    "searched_time": 1795162239,
     "video_id": "lBtlpVXmbYY"
    },
    {
@@ -165,17 +164,17 @@
    },
    {
     "query": "스텔라이브 twinkle",
-    "searched_time": 1795133287,
+    "searched_time": 1795162293,
     "video_id": "WnCMBCpENio"
    },
    {
     "query": "시부키 모시모시",
-    "searched_time": 1795133313,
+    "searched_time": 1795162317,
     "video_id": "zQp6ZZAT6ew"
    },
    {
     "query": "유니 오네가이달링",
-    "searched_time": 1795133259,
+    "searched_time": 1795162268,
     "video_id": "bRa_zAaaCCE"
    },
    {
@@ -184,6 +183,6 @@
     "video_id": "lBtlpVXmbYY"
    }
   ],
-  "searched_time": 1795133557
+  "searched_time": 1795162317
  }
 }
