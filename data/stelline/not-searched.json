@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/not_searched",
- "fetchedAt": "2026-11-21T12:13:50.318Z",
+ "fetchedAt": "2026-11-21T20:11:30.092Z",
  "data": {
   "all_songs": [
    {
@@ -105,17 +105,17 @@
   "recent": [
    {
     "query": "나나 deja vu",
-    "searched_time": 1795219701,
+    "searched_time": 1795277238,
     "video_id": "KmH0RhhenzE"
    },
    {
     "query": "나나 drivers license",
-    "searched_time": 1795219725,
+    "searched_time": 1795277262,
     "video_id": "SUJm8SX87DY"
    },
    {
     "query": "나나 논블레스오브리주",
-    "searched_time": 1795248477,
+    "searched_time": 1795277511,
     "video_id": "YXIz7U42pgk"
    },
    {
@@ -125,12 +125,12 @@
    },
    {
     "query": "나나 희극",
-    "searched_time": 1795219753,
+    "searched_time": 1795277288,
     "video_id": "gkmnG2pWzys"
    },
    {
     "query": "리제 괴수의꽃노래",
-    "searched_time": 1795219881,
+    "searched_time": 1795277421,
     "video_id": "yCVZq40vqLk"
    },
    {
@@ -160,25 +160,25 @@
    },
    {
     "query": "스텔라이브 twinkle",
-    "searched_time": 1795219829,
+    "searched_time": 1795277367,
     "video_id": "WnCMBCpENio"
    },
    {
     "query": "시부키 모시모시",
-    "searched_time": 1795219855,
+    "searched_time": 1795277392,
     "video_id": "zQp6ZZAT6ew"
    },
    {
     "query": "유니 오네가이달링",
-    "searched_time": 1795219805,
+    "searched_time": 1795277338,
     "video_id": "bRa_zAaaCCE"
    },
    {
     "query": "유즈하 리코 밤을 달리다",
-    "searched_time": 1795219907,
+    "searched_time": 1795277445,
     "video_id": "lBtlpVXmbYY"
    }
   ],
-  "searched_time": 1795248707
+  "searched_time": 1795277511
  }
 }
