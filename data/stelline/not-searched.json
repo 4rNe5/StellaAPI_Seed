@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/not_searched",
- "fetchedAt": "2026-11-21T04:09:30.746Z",
+ "fetchedAt": "2026-11-21T12:13:50.318Z",
  "data": {
   "all_songs": [
    {
@@ -115,12 +115,12 @@
    },
    {
     "query": "나나 논블레스오브리주",
-    "searched_time": 1795190932,
+    "searched_time": 1795248477,
     "video_id": "YXIz7U42pgk"
    },
    {
     "query": "나나 후야 오츠카레summer",
-    "searched_time": 1795190959,
+    "searched_time": 1795248502,
     "video_id": "Zetk77I6_s8"
    },
    {
@@ -135,12 +135,12 @@
    },
    {
     "query": "리제 발묘",
-    "searched_time": 1795190985,
+    "searched_time": 1795248529,
     "video_id": "R_B4tmy2DVA"
    },
    {
     "query": "리제 프로포즈",
-    "searched_time": 1795219675,
+    "searched_time": 1795248707,
     "video_id": "icR-Tg7YZwY"
    },
    {
@@ -150,12 +150,12 @@
    },
    {
     "query": "마시로 구르는 바위 네게 아침이 내린다",
-    "searched_time": 1795191012,
+    "searched_time": 1795248556,
     "video_id": "SiBzI2htX2o"
    },
    {
     "query": "메리 도쿄테디베어",
-    "searched_time": 1795191037,
+    "searched_time": 1795248581,
     "video_id": "rKQptWhAvO0"
    },
    {
@@ -179,6 +179,6 @@
     "video_id": "lBtlpVXmbYY"
    }
   ],
-  "searched_time": 1795219927
+  "searched_time": 1795248707
  }
 }
