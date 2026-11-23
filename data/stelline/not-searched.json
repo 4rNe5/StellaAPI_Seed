@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/not_searched",
- "fetchedAt": "2026-11-22T23:52:54.599Z",
+ "fetchedAt": "2026-11-23T04:09:05.312Z",
  "data": {
   "all_songs": [
    {
@@ -115,12 +115,12 @@
    },
    {
     "query": "나나 논블레스오브리주",
-    "searched_time": 1795335078,
+    "searched_time": 1795392620,
     "video_id": "YXIz7U42pgk"
    },
    {
     "query": "나나 후야 오츠카레summer",
-    "searched_time": 1795335105,
+    "searched_time": 1795392644,
     "video_id": "Zetk77I6_s8"
    },
    {
@@ -130,12 +130,12 @@
    },
    {
     "query": "리제 괴수의꽃노래",
-    "searched_time": 1795334981,
+    "searched_time": 1795392522,
     "video_id": "yCVZq40vqLk"
    },
    {
     "query": "리제 발묘",
-    "searched_time": 1795335133,
+    "searched_time": 1795392669,
     "video_id": "R_B4tmy2DVA"
    },
    {
@@ -150,35 +150,35 @@
    },
    {
     "query": "마시로 구르는 바위 네게 아침이 내린다",
-    "searched_time": 1795363642,
+    "searched_time": 1795392696,
     "video_id": "SiBzI2htX2o"
    },
    {
     "query": "메리 도쿄테디베어",
-    "searched_time": 1795363668,
+    "searched_time": 1795392724,
     "video_id": "rKQptWhAvO0"
    },
    {
     "query": "스텔라이브 twinkle",
-    "searched_time": 1795334927,
+    "searched_time": 1795392468,
     "video_id": "WnCMBCpENio"
    },
    {
     "query": "시부키 모시모시",
-    "searched_time": 1795334954,
+    "searched_time": 1795392497,
     "video_id": "zQp6ZZAT6ew"
    },
    {
     "query": "유니 오네가이달링",
-    "searched_time": 1795334901,
+    "searched_time": 1795392444,
     "video_id": "bRa_zAaaCCE"
    },
    {
     "query": "유즈하 리코 밤을 달리다",
-    "searched_time": 1795335009,
+    "searched_time": 1795392548,
     "video_id": "lBtlpVXmbYY"
    }
   ],
-  "searched_time": 1795363899
+  "searched_time": 1795392724
  }
 }
