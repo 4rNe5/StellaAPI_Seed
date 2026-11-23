@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/songs",
- "fetchedAt": "2026-11-23T04:09:04.824Z",
+ "fetchedAt": "2026-11-23T12:16:05.021Z",
  "data": [
   {
    "checked_at": 1793779544,
@@ -24,14 +24,14 @@
    "video_id": "H4T4ihraPic"
   },
   {
-   "checked_at": 1795363821,
+   "checked_at": 1795421386,
    "fallback_query": null,
    "query": "나나 deja vu",
    "state": "blocked",
    "video_id": "KmH0RhhenzE"
   },
   {
-   "checked_at": 1795363849,
+   "checked_at": 1795421413,
    "fallback_query": null,
    "query": "나나 drivers license",
    "state": "blocked",
@@ -220,7 +220,7 @@
    "video_id": "Zetk77I6_s8"
   },
   {
-   "checked_at": 1795363874,
+   "checked_at": 1795421442,
    "fallback_query": null,
    "query": "나나 희극",
    "state": "blocked",
@@ -304,7 +304,7 @@
    "video_id": "yCVZq40vqLk"
   },
   {
-   "checked_at": 1793261144,
+   "checked_at": 1795420881,
    "fallback_query": null,
    "query": "리제 끝나지않은노래",
    "state": "visible",
@@ -388,7 +388,7 @@
    "video_id": "7zsY6Ex9dMI"
   },
   {
-   "checked_at": 1795392367,
+   "checked_at": 1795421172,
    "fallback_query": null,
    "query": "리제 바니걸",
    "state": "visible",
@@ -500,7 +500,7 @@
    "video_id": "pKPPV1RMk-c"
   },
   {
-   "checked_at": 1795363796,
+   "checked_at": 1795421358,
    "fallback_query": null,
    "query": "리제 프로포즈",
    "state": "blocked",
@@ -563,7 +563,7 @@
    "video_id": "yuxa6o1_scc"
   },
   {
-   "checked_at": 1795363770,
+   "checked_at": 1795421330,
    "fallback_query": "리코 래빗홀 cover",
    "query": "리코 래빗홀",
    "state": "cover_only",
@@ -577,7 +577,7 @@
    "video_id": "7CQuc6Jf4UE"
   },
   {
-   "checked_at": 1795363749,
+   "checked_at": 1795421310,
    "fallback_query": "리코 마시로 악마가아닌걸 cover",
    "query": "리코 마시로 악마가아닌걸",
    "state": "cover_only",
@@ -619,7 +619,7 @@
    "video_id": "Tejq1P1TF-M"
   },
   {
-   "checked_at": 1795363899,
+   "checked_at": 1795421468,
    "fallback_query": "리코 밤을 달리다 cover",
    "query": "리코 밤을 달리다",
    "state": "cover_only",
@@ -1130,7 +1130,7 @@
    "video_id": "_8uoathMY0A"
   },
   {
-   "checked_at": 1793232404,
+   "checked_at": 1795420861,
    "fallback_query": null,
    "query": "마시로 슈가로스",
    "state": "visible",
@@ -1249,7 +1249,7 @@
    "video_id": "5kTp7SQCR_Y"
   },
   {
-   "checked_at": 1795392468,
+   "checked_at": 1795421520,
    "fallback_query": null,
    "query": "스텔라이브 twinkle",
    "state": "blocked",
@@ -1396,7 +1396,7 @@
    "video_id": "4OzmA6a8sqY"
   },
   {
-   "checked_at": 1793232384,
+   "checked_at": 1795420841,
    "fallback_query": null,
    "query": "시부키 린 킹",
    "state": "visible",
@@ -1606,7 +1606,7 @@
    "video_id": "_iNHQuaKuig"
   },
   {
-   "checked_at": 1795392444,
+   "checked_at": 1795421494,
    "fallback_query": null,
    "query": "유니 오네가이달링",
    "state": "blocked",
@@ -1781,7 +1781,7 @@
    "video_id": "Pag28N1mzxg"
   },
   {
-   "checked_at": 1793232364,
+   "checked_at": 1795420820,
    "fallback_query": null,
    "query": "칸나 요미 공주열차",
    "state": "visible",
@@ -2012,7 +2012,7 @@
    "video_id": "QuPmTX-GcAU"
   },
   {
-   "checked_at": 1795363688,
+   "checked_at": 1795421249,
    "fallback_query": "토아 제육감 cover",
    "query": "토아 제육감",
    "state": "cover_only",
@@ -2201,7 +2201,7 @@
    "video_id": "UcFBb927-kU"
   },
   {
-   "checked_at": 1795363709,
+   "checked_at": 1795421269,
    "fallback_query": "히나 리코 소녀레이 cover",
    "query": "히나 리코 소녀레이",
    "state": "cover_only",
@@ -2334,7 +2334,7 @@
    "video_id": "rQaluJS-Tc0"
   },
   {
-   "checked_at": 1795363729,
+   "checked_at": 1795421289,
    "fallback_query": "히나 하루카 cover",
    "query": "히나 하루카",
    "state": "cover_only",

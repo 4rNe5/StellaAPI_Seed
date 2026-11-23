@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/not_searched",
- "fetchedAt": "2026-11-23T04:09:05.312Z",
+ "fetchedAt": "2026-11-23T12:16:05.411Z",
  "data": {
   "all_songs": [
    {
@@ -105,12 +105,12 @@
   "recent": [
    {
     "query": "나나 deja vu",
-    "searched_time": 1795363821,
+    "searched_time": 1795421386,
     "video_id": "KmH0RhhenzE"
    },
    {
     "query": "나나 drivers license",
-    "searched_time": 1795363849,
+    "searched_time": 1795421413,
     "video_id": "SUJm8SX87DY"
    },
    {
@@ -125,7 +125,7 @@
    },
    {
     "query": "나나 희극",
-    "searched_time": 1795363874,
+    "searched_time": 1795421442,
     "video_id": "gkmnG2pWzys"
    },
    {
@@ -140,7 +140,7 @@
    },
    {
     "query": "리제 프로포즈",
-    "searched_time": 1795363796,
+    "searched_time": 1795421358,
     "video_id": "icR-Tg7YZwY"
    },
    {
@@ -160,7 +160,7 @@
    },
    {
     "query": "스텔라이브 twinkle",
-    "searched_time": 1795392468,
+    "searched_time": 1795421520,
     "video_id": "WnCMBCpENio"
    },
    {
@@ -170,7 +170,7 @@
    },
    {
     "query": "유니 오네가이달링",
-    "searched_time": 1795392444,
+    "searched_time": 1795421494,
     "video_id": "bRa_zAaaCCE"
    },
    {
@@ -179,6 +179,6 @@
     "video_id": "lBtlpVXmbYY"
    }
   ],
-  "searched_time": 1795392724
+  "searched_time": 1795421520
  }
 }
