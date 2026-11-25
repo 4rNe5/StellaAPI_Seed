@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/not_searched",
- "fetchedAt": "2026-11-25T12:14:46.673Z",
+ "fetchedAt": "2026-11-25T20:11:31.571Z",
  "data": {
   "all_songs": [
    {
@@ -105,12 +105,12 @@
   "recent": [
    {
     "query": "나나 deja vu",
-    "searched_time": 1795594056,
+    "searched_time": 1795623087,
     "video_id": "KmH0RhhenzE"
    },
    {
     "query": "나나 drivers license",
-    "searched_time": 1795594084,
+    "searched_time": 1795623111,
     "video_id": "SUJm8SX87DY"
    },
    {
@@ -120,7 +120,7 @@
    },
    {
     "query": "나나 후야 오츠카레summer",
-    "searched_time": 1795565286,
+    "searched_time": 1795622849,
     "video_id": "Zetk77I6_s8"
    },
    {
@@ -135,12 +135,12 @@
    },
    {
     "query": "리제 발묘",
-    "searched_time": 1795565314,
+    "searched_time": 1795622877,
     "video_id": "R_B4tmy2DVA"
    },
    {
     "query": "리제 프로포즈",
-    "searched_time": 1795565493,
+    "searched_time": 1795623059,
     "video_id": "icR-Tg7YZwY"
    },
    {
@@ -150,12 +150,12 @@
    },
    {
     "query": "마시로 구르는 바위 네게 아침이 내린다",
-    "searched_time": 1795565339,
+    "searched_time": 1795622902,
     "video_id": "SiBzI2htX2o"
    },
    {
     "query": "메리 도쿄테디베어",
-    "searched_time": 1795565365,
+    "searched_time": 1795622931,
     "video_id": "rKQptWhAvO0"
    },
    {
@@ -179,6 +179,6 @@
     "video_id": "lBtlpVXmbYY"
    }
   ],
-  "searched_time": 1795594330
+  "searched_time": 1795623111
  }
 }
