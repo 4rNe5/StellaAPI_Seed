@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/not_searched",
- "fetchedAt": "2026-11-27T12:15:17.272Z",
+ "fetchedAt": "2026-11-27T20:12:37.450Z",
  "data": {
   "all_songs": [
    {
@@ -58,6 +58,10 @@
    {
     "query": "유즈하 리코 밤을 달리다",
     "video_id": "lBtlpVXmbYY"
+   },
+   {
+    "query": "히나 별빛걸음",
+    "video_id": "P59bE-v1Txo"
    }
   ],
   "cover_matches": [
@@ -105,12 +109,12 @@
   "recent": [
    {
     "query": "나나 deja vu",
-    "searched_time": 1795738186,
+    "searched_time": 1795795761,
     "video_id": "KmH0RhhenzE"
    },
    {
     "query": "나나 drivers license",
-    "searched_time": 1795738214,
+    "searched_time": 1795795787,
     "video_id": "SUJm8SX87DY"
    },
    {
@@ -130,7 +134,7 @@
    },
    {
     "query": "리제 괴수의꽃노래",
-    "searched_time": 1795766874,
+    "searched_time": 1795795949,
     "video_id": "yCVZq40vqLk"
    },
    {
@@ -140,12 +144,12 @@
    },
    {
     "query": "리제 프로포즈",
-    "searched_time": 1795738159,
+    "searched_time": 1795795734,
     "video_id": "icR-Tg7YZwY"
    },
    {
     "query": "리코 밤을 달리다",
-    "searched_time": 1795738267,
+    "searched_time": 1795795844,
     "video_id": "lBtlpVXmbYY"
    },
    {
@@ -160,25 +164,30 @@
    },
    {
     "query": "스텔라이브 twinkle",
-    "searched_time": 1795738319,
+    "searched_time": 1795795897,
     "video_id": "WnCMBCpENio"
    },
    {
     "query": "시부키 모시모시",
-    "searched_time": 1795766850,
+    "searched_time": 1795795922,
     "video_id": "zQp6ZZAT6ew"
    },
    {
     "query": "유니 오네가이달링",
-    "searched_time": 1795738294,
+    "searched_time": 1795795870,
     "video_id": "bRa_zAaaCCE"
    },
    {
     "query": "유즈하 리코 밤을 달리다",
     "searched_time": 1795766899,
     "video_id": "lBtlpVXmbYY"
+   },
+   {
+    "query": "히나 별빛걸음",
+    "searched_time": 1795795646,
+    "video_id": "P59bE-v1Txo"
    }
   ],
-  "searched_time": 1795767110
+  "searched_time": 1795795949
  }
 }
