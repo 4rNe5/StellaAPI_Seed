@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/not_searched",
- "fetchedAt": "2026-11-27T04:10:01.280Z",
+ "fetchedAt": "2026-11-27T12:15:17.272Z",
  "data": {
   "all_songs": [
    {
@@ -115,12 +115,12 @@
    },
    {
     "query": "나나 논블레스오브리주",
-    "searched_time": 1795709436,
+    "searched_time": 1795766966,
     "video_id": "YXIz7U42pgk"
    },
    {
     "query": "나나 후야 오츠카레summer",
-    "searched_time": 1795709464,
+    "searched_time": 1795766994,
     "video_id": "Zetk77I6_s8"
    },
    {
@@ -130,12 +130,12 @@
    },
    {
     "query": "리제 괴수의꽃노래",
-    "searched_time": 1795709339,
+    "searched_time": 1795766874,
     "video_id": "yCVZq40vqLk"
    },
    {
     "query": "리제 발묘",
-    "searched_time": 1795709488,
+    "searched_time": 1795767019,
     "video_id": "R_B4tmy2DVA"
    },
    {
@@ -150,12 +150,12 @@
    },
    {
     "query": "마시로 구르는 바위 네게 아침이 내린다",
-    "searched_time": 1795709517,
+    "searched_time": 1795767045,
     "video_id": "SiBzI2htX2o"
    },
    {
     "query": "메리 도쿄테디베어",
-    "searched_time": 1795709546,
+    "searched_time": 1795767069,
     "video_id": "rKQptWhAvO0"
    },
    {
@@ -165,7 +165,7 @@
    },
    {
     "query": "시부키 모시모시",
-    "searched_time": 1795709313,
+    "searched_time": 1795766850,
     "video_id": "zQp6ZZAT6ew"
    },
    {
@@ -175,10 +175,10 @@
    },
    {
     "query": "유즈하 리코 밤을 달리다",
-    "searched_time": 1795709367,
+    "searched_time": 1795766899,
     "video_id": "lBtlpVXmbYY"
    }
   ],
-  "searched_time": 1795738319
+  "searched_time": 1795767110
  }
 }
