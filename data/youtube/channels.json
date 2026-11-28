@@ -1,43 +1,13 @@
 [
   {
-    "channelId": "UC6YnTqZidFg4WUiXpiCtSSQ",
-    "owner": "kanna",
-    "title": "아이리 칸나 Music Official",
-    "handle": "@airikanna",
-    "subscribers": 215000,
-    "views": 173458192,
-    "videoCount": 43,
-    "uploads": "UU6YnTqZidFg4WUiXpiCtSSQ"
-  },
-  {
-    "channelId": "UC0YQnenKBCu5sGb7H61n6HA",
-    "owner": "huya",
-    "title": "사키하네 후야 SAKIHANE HUYA",
-    "handle": "@sakihanechannel",
-    "subscribers": 156000,
-    "views": 61899372,
-    "videoCount": 377,
-    "uploads": "UU0YQnenKBCu5sGb7H61n6HA"
-  },
-  {
     "channelId": "UC7-m6jQLinZQWIbwm9W-1iw",
     "owner": "lize",
     "title": "아카네 리제 AKANE LIZE",
     "handle": "@akanelize",
-    "subscribers": 385000,
+    "subscribers": 386000,
     "views": 359229899,
     "videoCount": 662,
     "uploads": "UU7-m6jQLinZQWIbwm9W-1iw"
-  },
-  {
-    "channelId": "UCbiWR9pa5YTRknGPzn0l8Ww",
-    "owner": "stellive",
-    "title": "StelLive - Topic",
-    "handle": null,
-    "subscribers": 10100,
-    "views": 15563219,
-    "videoCount": 0,
-    "uploads": "UUbiWR9pa5YTRknGPzn0l8Ww"
   },
   {
     "channelId": "UCcA21_PzN1EhNe7xS4MJGsQ",
@@ -60,16 +30,6 @@
     "uploads": "UUV4WeySMDmS1CoTypSJoQmg"
   },
   {
-    "channelId": "UCQ6LlsI7Bbj2yhSqLMI1gGA",
-    "owner": "rang",
-    "title": "코가네 랑 COGANE RANG",
-    "handle": "@coganerang",
-    "subscribers": 107000,
-    "views": 2120510,
-    "videoCount": 3,
-    "uploads": "UUQ6LlsI7Bbj2yhSqLMI1gGA"
-  },
-  {
     "channelId": "UCYxLMfeX1CbMBll9MsGlzmw",
     "owner": "shibuki",
     "title": "텐코 시부키 TENKO SHIBUKI",
@@ -90,14 +50,24 @@
     "uploads": "UUQmcltnre6aG9SkDRYZqFIg"
   },
   {
-    "channelId": "UC2b4WRE5BZ6SIUWBeJU8rwg",
-    "owner": "stellive",
-    "title": "스텔라이브 STELLIVE OFFICIAL",
-    "handle": "@stellive_official",
-    "subscribers": 286000,
-    "views": 125116866,
-    "videoCount": 420,
-    "uploads": "UU2b4WRE5BZ6SIUWBeJU8rwg"
+    "channelId": "UCHAr9pWGS30akL4MQCQT4uQ",
+    "owner": "hiyori",
+    "title": "하나요 히요리 HANAYO HIYORI",
+    "handle": "@hanayohiyori",
+    "subscribers": 110000,
+    "views": 2044043,
+    "videoCount": 3,
+    "uploads": "UUHAr9pWGS30akL4MQCQT4uQ"
+  },
+  {
+    "channelId": "UCGSt1yNG5l-jpYRLpJ5oNtA",
+    "owner": "mary",
+    "title": "토키노 메리 TOKINO MARY",
+    "handle": "@tokinomarychannel",
+    "subscribers": 207000,
+    "views": 6331515,
+    "videoCount": 5,
+    "uploads": "UUGSt1yNG5l-jpYRLpJ5oNtA"
   },
   {
     "channelId": "UC_eeSpMBz8PG4ssdBPnP07g",
@@ -110,14 +80,14 @@
     "uploads": "UU_eeSpMBz8PG4ssdBPnP07g"
   },
   {
-    "channelId": "UCGSt1yNG5l-jpYRLpJ5oNtA",
-    "owner": "mary",
-    "title": "토키노 메리 TOKINO MARY",
-    "handle": "@tokinomarychannel",
-    "subscribers": 207000,
-    "views": 6331515,
+    "channelId": "UClcSEuDF_g_6g4snw_nAavw",
+    "owner": "toa",
+    "title": "시즈키 토아 SHIZUKI TOA",
+    "handle": "@shizukitoa",
+    "subscribers": 108000,
+    "views": 3522971,
     "videoCount": 5,
-    "uploads": "UUGSt1yNG5l-jpYRLpJ5oNtA"
+    "uploads": "UUlcSEuDF_g_6g4snw_nAavw"
   },
   {
     "channelId": "UClbYIn9LDbbFZ9w2shX3K0g",
@@ -140,14 +110,34 @@
     "uploads": "UU1afpiIuBDcjYlmruAa0HiA"
   },
   {
-    "channelId": "UCHAr9pWGS30akL4MQCQT4uQ",
-    "owner": "hiyori",
-    "title": "하나요 히요리 HANAYO HIYORI",
-    "handle": "@hanayohiyori",
-    "subscribers": 110000,
-    "views": 2044043,
+    "channelId": "UCQ6LlsI7Bbj2yhSqLMI1gGA",
+    "owner": "rang",
+    "title": "코가네 랑 COGANE RANG",
+    "handle": "@coganerang",
+    "subscribers": 107000,
+    "views": 2120510,
     "videoCount": 3,
-    "uploads": "UUHAr9pWGS30akL4MQCQT4uQ"
+    "uploads": "UUQ6LlsI7Bbj2yhSqLMI1gGA"
+  },
+  {
+    "channelId": "UC0YQnenKBCu5sGb7H61n6HA",
+    "owner": "huya",
+    "title": "사키하네 후야 SAKIHANE HUYA",
+    "handle": "@sakihanechannel",
+    "subscribers": 156000,
+    "views": 61899372,
+    "videoCount": 377,
+    "uploads": "UU0YQnenKBCu5sGb7H61n6HA"
+  },
+  {
+    "channelId": "UCj0c1jUr91dTetIQP2pFeLA",
+    "owner": "riko",
+    "title": "유즈하 리코 YUZUHA RIKO",
+    "handle": "@yuzuhariko",
+    "subscribers": 246000,
+    "views": 223329813,
+    "videoCount": 628,
+    "uploads": "UUj0c1jUr91dTetIQP2pFeLA"
   },
   {
     "channelId": "UCAHVQ44O81aehLWfy9O6Elw",
@@ -160,23 +150,33 @@
     "uploads": "UUAHVQ44O81aehLWfy9O6Elw"
   },
   {
-    "channelId": "UCj0c1jUr91dTetIQP2pFeLA",
-    "owner": "riko",
-    "title": "유즈하 리코 YUZUHA RIKO",
-    "handle": "@yuzuhariko",
-    "subscribers": 245000,
-    "views": 223329813,
-    "videoCount": 628,
-    "uploads": "UUj0c1jUr91dTetIQP2pFeLA"
+    "channelId": "UC2b4WRE5BZ6SIUWBeJU8rwg",
+    "owner": "stellive",
+    "title": "스텔라이브 STELLIVE OFFICIAL",
+    "handle": "@stellive_official",
+    "subscribers": 286000,
+    "views": 125460077,
+    "videoCount": 420,
+    "uploads": "UU2b4WRE5BZ6SIUWBeJU8rwg"
   },
   {
-    "channelId": "UClcSEuDF_g_6g4snw_nAavw",
-    "owner": "toa",
-    "title": "시즈키 토아 SHIZUKI TOA",
-    "handle": "@shizukitoa",
-    "subscribers": 108000,
-    "views": 3522971,
-    "videoCount": 5,
-    "uploads": "UUlcSEuDF_g_6g4snw_nAavw"
+    "channelId": "UC6YnTqZidFg4WUiXpiCtSSQ",
+    "owner": "kanna",
+    "title": "아이리 칸나 Music Official",
+    "handle": "@airikanna",
+    "subscribers": 215000,
+    "views": 175257086,
+    "videoCount": 43,
+    "uploads": "UU6YnTqZidFg4WUiXpiCtSSQ"
+  },
+  {
+    "channelId": "UCbiWR9pa5YTRknGPzn0l8Ww",
+    "owner": "stellive",
+    "title": "StelLive - Topic",
+    "handle": null,
+    "subscribers": 10100,
+    "views": 15563219,
+    "videoCount": 0,
+    "uploads": "UUbiWR9pa5YTRknGPzn0l8Ww"
   }
 ]

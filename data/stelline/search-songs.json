@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/songs",
- "fetchedAt": "2026-11-27T20:12:37.001Z",
+ "fetchedAt": "2026-11-28T01:41:25.774Z",
  "data": [
   {
    "checked_at": 1793779544,
@@ -17,7 +17,7 @@
    "video_id": "_pTBkDP1TE0"
   },
   {
-   "checked_at": 1793635565,
+   "checked_at": 1795824061,
    "fallback_query": null,
    "query": "나나 born to run",
    "state": "visible",
@@ -59,7 +59,7 @@
    "video_id": "IoBUWPQ3dwc"
   },
   {
-   "checked_at": 1793635544,
+   "checked_at": 1795824041,
    "fallback_query": null,
    "query": "나나 rain",
    "state": "visible",
@@ -94,7 +94,7 @@
    "video_id": "KJzmhOkm4-E"
   },
   {
-   "checked_at": 1795766966,
+   "checked_at": 1795824516,
    "fallback_query": null,
    "query": "나나 논블레스오브리주",
    "state": "blocked",
@@ -213,7 +213,7 @@
    "video_id": "td73oLSQug0"
   },
   {
-   "checked_at": 1795766994,
+   "checked_at": 1795824540,
    "fallback_query": null,
    "query": "나나 후야 오츠카레summer",
    "state": "blocked",
@@ -388,14 +388,14 @@
    "video_id": "7zsY6Ex9dMI"
   },
   {
-   "checked_at": 1795795565,
+   "checked_at": 1795824370,
    "fallback_query": null,
    "query": "리제 바니걸",
    "state": "visible",
    "video_id": "SIBtVNjRois"
   },
   {
-   "checked_at": 1795767019,
+   "checked_at": 1795824568,
    "fallback_query": null,
    "query": "리제 발묘",
    "state": "blocked",
@@ -458,7 +458,7 @@
    "video_id": "090EFw_FDjU"
   },
   {
-   "checked_at": 1793606785,
+   "checked_at": 1795824021,
    "fallback_query": null,
    "query": "리제 제인도",
    "state": "visible",
@@ -780,7 +780,7 @@
    "video_id": "zVNbcnSQrCU"
   },
   {
-   "checked_at": 1793635585,
+   "checked_at": 1795824081,
    "fallback_query": null,
    "query": "린 all i want for christmas is you",
    "state": "visible",
@@ -1081,7 +1081,7 @@
    "video_id": "m5XU_4r1yV0"
   },
   {
-   "checked_at": 1795767045,
+   "checked_at": 1795824598,
    "fallback_query": null,
    "query": "마시로 구르는 바위 네게 아침이 내린다",
    "state": "blocked",
@@ -1102,7 +1102,7 @@
    "video_id": "7gYDCoiV7cc"
   },
   {
-   "checked_at": 1795766919,
+   "checked_at": 1795824470,
    "fallback_query": "마시로 린 메이드지상주의 cover",
    "query": "마시로 린 메이드지상주의",
    "state": "cover_only",
@@ -1186,7 +1186,7 @@
    "video_id": "Y3McmrSFy1E"
   },
   {
-   "checked_at": 1795767069,
+   "checked_at": 1795824626,
    "fallback_query": null,
    "query": "메리 도쿄테디베어",
    "state": "blocked",
@@ -1473,7 +1473,7 @@
    "video_id": "3Xf1Wt7Z-RY"
   },
   {
-   "checked_at": 1795766940,
+   "checked_at": 1795824491,
    "fallback_query": "아카네 리제 바니걸 cover",
    "query": "아카네 리제 바니걸",
    "state": "cover_only",
@@ -1662,7 +1662,7 @@
    "video_id": "CbuiRlGeA-g"
   },
   {
-   "checked_at": 1795766899,
+   "checked_at": 1795824450,
    "fallback_query": null,
    "query": "유즈하 리코 밤을 달리다",
    "state": "blocked",
@@ -2019,7 +2019,7 @@
    "video_id": "QuPmTX-GcAU"
   },
   {
-   "checked_at": 1795767090,
+   "checked_at": 1795824647,
    "fallback_query": "토아 제육감 cover",
    "query": "토아 제육감",
    "state": "cover_only",
@@ -2208,7 +2208,7 @@
    "video_id": "UcFBb927-kU"
   },
   {
-   "checked_at": 1795767110,
+   "checked_at": 1795824667,
    "fallback_query": "히나 리코 소녀레이 cover",
    "query": "히나 리코 소녀레이",
    "state": "cover_only",
@@ -2264,7 +2264,7 @@
    "video_id": "NAu_CVmP-bw"
   },
   {
-   "checked_at": 1795795646,
+   "checked_at": 1795824694,
    "fallback_query": null,
    "query": "히나 별빛걸음",
    "state": "blocked",
@@ -2348,7 +2348,7 @@
    "video_id": "rQaluJS-Tc0"
   },
   {
-   "checked_at": 1795795666,
+   "checked_at": 1795824714,
    "fallback_query": "히나 하루카 cover",
    "query": "히나 하루카",
    "state": "cover_only",
