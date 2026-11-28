@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/not_searched",
- "fetchedAt": "2026-11-28T12:16:53.066Z",
+ "fetchedAt": "2026-11-28T20:11:18.919Z",
  "data": {
   "all_songs": [
    {
@@ -34,6 +34,10 @@
    {
     "query": "리코 밤을 달리다",
     "video_id": "lBtlpVXmbYY"
+   },
+   {
+    "query": "린 toxic till the end",
+    "video_id": "rFOYNcD51S0"
    },
    {
     "query": "마시로 구르는 바위 네게 아침이 내린다",
@@ -119,12 +123,12 @@
    },
    {
     "query": "나나 논블레스오브리주",
-    "searched_time": 1795824516,
+    "searched_time": 1795882129,
     "video_id": "YXIz7U42pgk"
    },
    {
     "query": "나나 후야 오츠카레summer",
-    "searched_time": 1795824540,
+    "searched_time": 1795882156,
     "video_id": "Zetk77I6_s8"
    },
    {
@@ -139,7 +143,7 @@
    },
    {
     "query": "리제 발묘",
-    "searched_time": 1795824568,
+    "searched_time": 1795882181,
     "video_id": "R_B4tmy2DVA"
    },
    {
@@ -153,13 +157,18 @@
     "video_id": "lBtlpVXmbYY"
    },
    {
+    "query": "린 toxic till the end",
+    "searched_time": 1795882060,
+    "video_id": "rFOYNcD51S0"
+   },
+   {
     "query": "마시로 구르는 바위 네게 아침이 내린다",
-    "searched_time": 1795824598,
+    "searched_time": 1795882209,
     "video_id": "SiBzI2htX2o"
    },
    {
     "query": "메리 도쿄테디베어",
-    "searched_time": 1795824626,
+    "searched_time": 1795882236,
     "video_id": "rKQptWhAvO0"
    },
    {
@@ -184,10 +193,10 @@
    },
    {
     "query": "히나 별빛걸음",
-    "searched_time": 1795824694,
+    "searched_time": 1795882301,
     "video_id": "P59bE-v1Txo"
    }
   ],
-  "searched_time": 1795853529
+  "searched_time": 1795882341
  }
 }

@@ -1,6 +1,6 @@
 {
  "source": "https://stel-line.vercel.app/api/search/songs",
- "fetchedAt": "2026-11-28T12:16:52.777Z",
+ "fetchedAt": "2026-11-28T20:11:18.659Z",
  "data": [
   {
    "checked_at": 1793779544,
@@ -94,7 +94,7 @@
    "video_id": "KJzmhOkm4-E"
   },
   {
-   "checked_at": 1795824516,
+   "checked_at": 1795882129,
    "fallback_query": null,
    "query": "나나 논블레스오브리주",
    "state": "blocked",
@@ -213,7 +213,7 @@
    "video_id": "td73oLSQug0"
   },
   {
-   "checked_at": 1795824540,
+   "checked_at": 1795882156,
    "fallback_query": null,
    "query": "나나 후야 오츠카레summer",
    "state": "blocked",
@@ -269,7 +269,7 @@
    "video_id": "CU8hsIhmkwc"
   },
   {
-   "checked_at": 1793664364,
+   "checked_at": 1795881690,
    "fallback_query": null,
    "query": "리제 ready to fire",
    "state": "visible",
@@ -388,14 +388,14 @@
    "video_id": "7zsY6Ex9dMI"
   },
   {
-   "checked_at": 1795853197,
+   "checked_at": 1795882006,
    "fallback_query": null,
    "query": "리제 바니걸",
    "state": "visible",
    "video_id": "SIBtVNjRois"
   },
   {
-   "checked_at": 1795824568,
+   "checked_at": 1795882181,
    "fallback_query": null,
    "query": "리제 발묘",
    "state": "blocked",
@@ -577,7 +577,7 @@
    "video_id": "7CQuc6Jf4UE"
   },
   {
-   "checked_at": 1795853244,
+   "checked_at": 1795882341,
    "fallback_query": "리코 마시로 악마가아닌걸 cover",
    "query": "리코 마시로 악마가아닌걸",
    "state": "cover_only",
@@ -773,7 +773,7 @@
    "video_id": "QXUxnxoOIOI"
   },
   {
-   "checked_at": 1793664344,
+   "checked_at": 1795881669,
    "fallback_query": null,
    "query": "린 Unbreakable Sphere",
    "state": "visible",
@@ -850,10 +850,10 @@
    "video_id": "ItUC9TPcb08"
   },
   {
-   "checked_at": null,
+   "checked_at": 1795882060,
    "fallback_query": null,
    "query": "린 toxic till the end",
-   "state": "unchecked",
+   "state": "blocked",
    "video_id": "rFOYNcD51S0"
   },
   {
@@ -969,7 +969,7 @@
    "video_id": "Qi_JLmXBFFo"
   },
   {
-   "checked_at": 1793664323,
+   "checked_at": 1795881649,
    "fallback_query": null,
    "query": "린 사랑감기에실려",
    "state": "visible",
@@ -1088,7 +1088,7 @@
    "video_id": "m5XU_4r1yV0"
   },
   {
-   "checked_at": 1795824598,
+   "checked_at": 1795882209,
    "fallback_query": null,
    "query": "마시로 구르는 바위 네게 아침이 내린다",
    "state": "blocked",
@@ -1109,7 +1109,7 @@
    "video_id": "7gYDCoiV7cc"
   },
   {
-   "checked_at": 1795824470,
+   "checked_at": 1795882080,
    "fallback_query": "마시로 린 메이드지상주의 cover",
    "query": "마시로 린 메이드지상주의",
    "state": "cover_only",
@@ -1193,7 +1193,7 @@
    "video_id": "Y3McmrSFy1E"
   },
   {
-   "checked_at": 1795824626,
+   "checked_at": 1795882236,
    "fallback_query": null,
    "query": "메리 도쿄테디베어",
    "state": "blocked",
@@ -1480,7 +1480,7 @@
    "video_id": "3Xf1Wt7Z-RY"
   },
   {
-   "checked_at": 1795824491,
+   "checked_at": 1795882100,
    "fallback_query": "아카네 리제 바니걸 cover",
    "query": "아카네 리제 바니걸",
    "state": "cover_only",
@@ -2026,7 +2026,7 @@
    "video_id": "QuPmTX-GcAU"
   },
   {
-   "checked_at": 1795824647,
+   "checked_at": 1795882256,
    "fallback_query": "토아 제육감 cover",
    "query": "토아 제육감",
    "state": "cover_only",
@@ -2215,7 +2215,7 @@
    "video_id": "UcFBb927-kU"
   },
   {
-   "checked_at": 1795824667,
+   "checked_at": 1795882276,
    "fallback_query": "히나 리코 소녀레이 cover",
    "query": "히나 리코 소녀레이",
    "state": "cover_only",
@@ -2271,7 +2271,7 @@
    "video_id": "NAu_CVmP-bw"
   },
   {
-   "checked_at": 1795824694,
+   "checked_at": 1795882301,
    "fallback_query": null,
    "query": "히나 별빛걸음",
    "state": "blocked",
@@ -2355,7 +2355,7 @@
    "video_id": "rQaluJS-Tc0"
   },
   {
-   "checked_at": 1795824714,
+   "checked_at": 1795882321,
    "fallback_query": "히나 하루카 cover",
    "query": "히나 하루카",
    "state": "cover_only",
